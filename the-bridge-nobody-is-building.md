@@ -1,6 +1,8 @@
 # The Bridge Nobody Is Building
 
+[- - 
 
+](https://substackcdn.com/image/fetch/$s_!Lvkt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05368b96-4d49-4833-b1ab-e89d5c9d218d_465x372.jpeg)
 ### The $160,000 Jobs That Exist, the People Who Could Fill Them, the People Who Shouldn’t — and the Education System That Serves Neither
 
 There are seven new categories of jobs created by the collision of artificial intelligence with healthcare, therapy, education, and conflict resolution. They pay between $120,000 and $500,000. They require clinical licenses, domain expertise, and empathy — things that millions of professionals already have. And there is not a single accredited educational program on earth designed to prepare those professionals for these roles.

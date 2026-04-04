@@ -224,24 +224,35 @@ download slug = do
   putStrLn "     saved"
 
 -------------------------------------------------------------------
+-- Fetch all slugs with pagination
+-------------------------------------------------------------------
+fetchAllSlugs : Nat -> List String -> IO (List String)
+fetchAllSlugs offset acc = do
+  let url = "https://davidhoze.substack.com/api/v1/archive?sort=new&limit=25&offset=" ++ show offset
+  0 <- run ("curl -s '" ++ url ++ "' -o '" ++ tmp ++ "/page.json'")
+    | _ => do putStrLn "  failed to fetch page"; pure acc
+  Right pageJson <- readFile (tmp ++ "/page.json")
+    | Left _ => pure acc
+  let slugs = extractSlugs pageJson
+  case slugs of
+    [] => pure acc
+    _  => fetchAllSlugs (offset + length slugs) (acc ++ slugs)
+
+filterMissing : List String -> IO (List String)
+filterMissing [] = pure []
+filterMissing (s :: xs) = do
+  miss <- isMissing s
+  rest <- filterMissing xs
+  pure (if miss then s :: rest else rest)
+
+-------------------------------------------------------------------
 main : IO ()
 main = do
   _ <- createDir tmp
   putStrLn "Fetching index..."
-  0 <- run ("curl -s 'https://davidhoze.substack.com/api/v1/archive?sort=new&limit=50' -o '" ++ tmp ++ "/archive.json'")
-    | _ => do putStrLn "Failed to fetch archive"; pure ()
-  Right archiveJson <- readFile (tmp ++ "/archive.json")
-    | Left _ => do putStrLn "Failed to read archive"; pure ()
-  let slugs = extractSlugs archiveJson
+  slugs <- fetchAllSlugs 0 []
   putStrLn (show (length slugs) ++ " articles found")
   missing <- filterMissing slugs
   putStrLn (show (length missing) ++ " missing")
   traverse_ download missing
   putStrLn "Done."
-  where
-    filterMissing : List String -> IO (List String)
-    filterMissing [] = pure []
-    filterMissing (s :: xs) = do
-      miss <- isMissing s
-      rest <- filterMissing xs
-      pure (if miss then s :: rest else rest)

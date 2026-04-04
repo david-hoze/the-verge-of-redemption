@@ -1,6 +1,8 @@
 # Women Govern AI Better. Here's Why.
 
+[- - 
 
+](https://substackcdn.com/image/fetch/$s_!gmAA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6cac862-75b0-420e-9b82-e1dbc7f234f5_2000x1076.jpeg)
 ## Introduction: Two traditions, one diagnosis
 
 Two entirely independent bodies of evidence — one ancient, one modern — have arrived at the same conclusion about the most consequential technology humanity has ever built.
@@ -11,7 +13,9 @@ Thanks for reading! Subscribe for free to receive new posts and support my work.
 
 The second tradition is textual. Jewish sacred literature — spanning the Talmud (compiled circa 500 CE), the Zohar (13th century), the writings of Rabbi Isaac Luria (the Arizal, 16th century), and Chassidic masters through the present — contains a remarkably coherent assertion: women possess a form of understanding that men lack, are rooted in a higher spiritual source, demonstrated superior moral judgment at every critical juncture in biblical history, and are destined to “encompass” the masculine principle in the messianic era. The Talmud calls it *binah yeteira* — “extra understanding.” The Arizal maps it onto a cosmic architecture where the feminine partzuf (divine archetype) is built from a complete, higher-order spiritual light while the masculine is built from only half of a lower one. Rabbi Eliezer Berland claims this means women are “a million times smarter” than men and can learn everything in seconds.
 
-This article argues that these two traditions are not merely compatible but structurally identical in their diagnosis. The cognitive faculty the Talmud calls Binah — contextual discernment, the ability to derive one thing from another, to read between the lines — is precisely what AI catastrophically lacks. The moral capacities women demonstrated in three biblical crises — resisting groupthink, maintaining faith under pressure, sustaining hope when men despaired — are precisely the capacities absent from AI governance. And the Kabbalistic prophecy that the feminine will “encompass” the masculine describes, with uncanny precision, the paradigm shift from reductive computation to relational wisdom that AI’s own critics are calling for.
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!PtoR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bd8ec92-fbe9-4f4d-8b7d-c15e9c169ed1_1280x720.jpeg)This article argues that these two traditions are not merely compatible but structurally identical in their diagnosis. The cognitive faculty the Talmud calls Binah — contextual discernment, the ability to derive one thing from another, to read between the lines — is precisely what AI catastrophically lacks. The moral capacities women demonstrated in three biblical crises — resisting groupthink, maintaining faith under pressure, sustaining hope when men despaired — are precisely the capacities absent from AI governance. And the Kabbalistic prophecy that the feminine will “encompass” the masculine describes, with uncanny precision, the paradigm shift from reductive computation to relational wisdom that AI’s own critics are calling for.
 
 The machines are missing a sound. The Torah has been describing it for three thousand years.
 

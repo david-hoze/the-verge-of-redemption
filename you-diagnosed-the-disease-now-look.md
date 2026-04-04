@@ -1,6 +1,8 @@
 # You Diagnosed the Disease. Now Look at Why There’s No Cure.
 
-Professor Kaiser,
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!6h7M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4b88a52-009f-4c4d-b48e-80d9c3816c38_584x308.jpeg)Professor Kaiser,
 
 I read your piece. Twice. And I want to start by saying something you probably don’t hear often enough in those meetings: you’re right.
 
@@ -10,7 +12,9 @@ You’re right that nobody in the room can define “ethical.” You’re right 
 
 I don’t just agree with your diagnosis. I’ve made the same one — from a completely different direction. And that’s why I’m writing to you. Because I think you’ve identified the emptiness with devastating precision. But I think the tool you’re reaching for to fill it has the same hole at its center.
 
-<hr>Let me explain.
+<hr>[- - 
+
+](https://substackcdn.com/image/fetch/$s_!Wkfe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bf63bb1-f3dd-4423-ab9e-867cdea02184_1200x796.png)Let me explain.
 
 Your piece demolishes the notion that institutional “AI ethics” means anything. And it doesn’t. You know why? Not because your colleagues are lazy, or cowardly, or haven’t read the literature — though maybe some of them haven’t. The reason nobody in that room could define “ethical” is that the civilization they belong to cannot define it either. They aren’t failing at a task. They are attempting something that their entire intellectual framework has made impossible.
 

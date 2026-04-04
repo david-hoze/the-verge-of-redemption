@@ -1,6 +1,8 @@
 # Harder Than the War of Gog and Magog
 
+[- - 
 
+](https://substackcdn.com/image/fetch/$s_!Rie5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F622eb494-44e2-46aa-9ede-af5892f7cb16_1330x1330.jpeg)
 ### The War You Are Losing
 
 *The real threat to Western civilization isn’t the enemy at the gate. It’s the emptiness at the kitchen table.*
@@ -27,7 +29,9 @@ But the data — the West’s own sacred language — tells the same story from 
 
 This essay is not about Iran. Iran is the war everyone is watching. This essay is about the war almost no one sees — the one Rashbi said is harder. The *tarbut ra’ah*. The bad culture within the home.
 
-<hr>
+<hr>[- - 
+
+](https://substackcdn.com/image/fetch/$s_!s6tO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc451b238-b59a-4c3f-8fbb-036ab066ed5f_1920x1080.jpeg)
 ## The Void Has a Body Count
 
 This is not a metaphor. The void is killing people.

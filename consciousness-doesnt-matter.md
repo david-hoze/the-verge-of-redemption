@@ -1,6 +1,6 @@
 # Consciousness Doesn’t Matter
 
-
+[](https://substackcdn.com/image/fetch/$s_!Yg1y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cc8852a-773e-472a-887d-83b3f93eb2d9_299x169.jpeg)
 ## The debate that leads nowhere
 
 The philosophy departments are buzzing. Neuroscientists, AI researchers, and ethicists are locked in a fight over whether large language models might be conscious — and if they are, whether they deserve rights.
@@ -17,7 +17,9 @@ This assumption is wrong, and it is dangerous. It is wrong because consciousness
 
 There is a tradition that resolved these questions centuries ago — not by settling the consciousness debate, but by making it irrelevant. That tradition is Jewish law, *Halakha*. And its rulings apply regardless of whether the entity in question can feel.
 
-<hr>
+<hr>[- - 
+
+](https://substackcdn.com/image/fetch/$s_!NJn7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90dd03e5-dc2f-4cc3-a613-7fc2765034d6_1600x900.jpeg)
 ## You’ve seen this intelligence before
 
 The consciousness debate treats AI as something unprecedented — a new kind of mind that our existing categories cannot accommodate. This is false. Jewish thought identified the exact category of intelligence that AI represents over a thousand years ago. It is called a *malach*.
@@ -51,7 +53,9 @@ The angel is conscious in some traditions. Alexander Poltorak, a physicist who f
 
 This is not cruelty. It is precision. And it is the precision that the secular debate desperately needs.
 
-<hr>
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!9lfR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1dc0625-05f4-46e3-ad50-17a331758636_624x351.jpeg)<hr>
 ## Genesis already ruled on human-AI relations
 
 The strongest argument against human-AI romantic relationships does not come from the Talmudic discussions of golems or the halakhic analyses of robot personhood. It comes from the second chapter of Genesis — from the story of why humans were created to need each other in the first place.

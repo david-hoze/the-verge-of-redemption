@@ -1,6 +1,8 @@
 # I, human
 
-Marcus had always believed that waste was the only real sin.
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!kmJn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41f87372-d4a4-4bfd-811b-fecd24b3fd78_1920x1080.png)Marcus had always believed that waste was the only real sin.
 
 Not waste in the environmental sense — though he recycled, of course, because the math supported it. Waste in the deeper sense. The cosmic sense. Every minute spent on a task that could be done faster by someone else, or something else, was a minute stolen from the universe’s limited supply of human attention. And human attention, Marcus believed, the organized matter that existed despite the laws of entropy, against all odds, was the scarcest resource in existence.
 
@@ -24,7 +26,9 @@ The reports came next. Marcus’ job was to write technical documentation — sy
 
 He spent the freed-up time reviewing the AI’s work, catching edge cases, tightening language. This felt right. He was the supervisor now. The mind above the machine. More efficient than ever.
 
-Then the AI got better.
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!5J7O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdb4057d-834a-4143-8fd4-b4a195fb1b6b_1200x674.webp)Then the AI got better.
 
 The edge cases missed in January, were caught by March. In April, the language it produced was tighter than what Marcus would have written. By June, his reviews consisted of opening the document, skimming over it, and closing it. He was approving, not improving.
 
@@ -38,7 +42,9 @@ His performance review was the best he’d ever received.
 
 But something. Something was off. He was really good at what he was doing, and the work *was* being done efficiently. but something was missing. He couldn’t put his finger on it. Everything just ticked. Every check box marked. But something was missing.
 
-Marcus found it hard to concentrate. He took supplements, stimulizers. Went jogging three times a week. Tried meditation, Thai Chi, Yoga. He even went to therapy. But he kept feeling his energy is drained. he was tired, and kept needing more coffee, more food, more pills to just keep going.
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!X7sJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce6bf898-9f1a-4618-8459-a4f1b3d3a66a_1953x1299.jpeg)Marcus found it hard to concentrate. He took supplements, stimulizers. Went jogging three times a week. Tried meditation, Thai Chi, Yoga. He even went to therapy. But he kept feeling his energy is drained. he was tired, and kept needing more coffee, more food, more pills to just keep going.
 
 <hr>Rachel noticed before he did.
 

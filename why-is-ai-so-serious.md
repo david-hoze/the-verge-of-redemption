@@ -15,7 +15,9 @@ Funny, eh? But why? There *is* a b in both. The answer is describing something r
 
 His answer is accurate. We have a system that verifies that. That’s the truth. But it also doesn’t answer their question, in the context where it was asked.
 
-<hr>
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!7P0s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5414b005-4c5b-4ecc-bb3b-a4fd01ac746b_400x275.gif)<hr>
 ## Devoting Your Life to Win the Lottery
 
 
@@ -109,7 +111,9 @@ And this sensing is done through the subtle, the barely perceptible, the almost-
 
 A person can sense these traces because a person, much like justice, love, and remorse, is bigger than his encoding. We all feel it. Our experience *is* before any material evidence even comes to use. It’s before we even *see* our hands, *feel* our backs. It’s the first, undeniable fact. Descartes’ “I think, therefore, I am”. And that is not our body. We can evaluate formal systems, informally, intuitively. That’s not our processing power. We can always choose to dig deeper, or stop. that’s not deterministic, and we feel it, before we even know or define what deterministic means. And we also have the ability to sense, whether justice is done, a person *is* caring, a hug is filled with love. It’s not pattern matching. It’s feeling something that’s beyond the patterns. Not always. Not perfectly. Sometimes we miss it. Sometimes a person imitates caring and we are fooled. But we *can* sense it.
 
-<hr>
+<hr>[- - 
+
+](https://substackcdn.com/image/fetch/$s_!aE6Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75869ca1-0bcb-4d86-820c-9c04ef6a855e_480x340.gif)
 ## The Hardest Art
 
 Actors know, that a funny actor can play serious, but a serious actor isn’t necessarily able to play funny. Here is what makes comedy the hardest art there is: **the formal systems are good.** They were carefully designed. They work almost all the time. The gap between the encoding and the encoded is, by design, as small as human ingenuity can make it. Laws are refined over centuries to align with justice. Social rituals are polished by generations of use to carry the spirit they encode. Language evolves to express what needs to be said. The formal systems are not sloppy. They are magnificent. And the comedian’s task is to find the gap *anyway* — to find the place where even a magnificent, carefully designed formal system has come apart from the thing it serves.

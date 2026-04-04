@@ -9,7 +9,7 @@ David Hoze's articles, downloaded from https://davidhoze.substack.com/
 ```bash
 # Run the downloader
 cd /home/natanh/docs/the-verge-of-redemption
-PATH="/home/natanh/chez/bin:/ucrt64/bin:/usr/bin:$PATH" /home/natanh/Idris2/build/exec/idris2 --no-banner --exec main download.idr
+PATH="/home/natanh/chez/bin:/ucrt64/bin:/usr/bin:$PATH" /home/natanh/.idris2/bin/idris2 --no-banner --exec main download.idr
 ```
 
 - Pure Idris2 — JSON parsing and HTML-to-markdown conversion done in Idris2

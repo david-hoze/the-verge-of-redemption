@@ -1,6 +1,8 @@
 # Western liberalism’s blind spots are becoming AI’s design flaws
 
-**The frameworks that built modern democracy — individual rights, informed consent, value neutrality, market meritocracy — are failing systematically when applied to artificial intelligence.** This is not an abstract concern. Real ethics boards have collapsed in days, real algorithms have issued 794,000 unlawful debt notices, real AI targeting systems have generated 37,000 kill-list entries approved in 20 seconds per name, and real hiring tools have rejected every Black applicant in controlled tests. The common thread: Western liberal democracies built AI governance on philosophical foundations that contain no shared theory of human flourishing, no workable consent mechanism at computational scale, and no way to adjudicate between their own competing ethical traditions when lives hang in the balance.
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!UPPs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5afb1b9e-85f8-4d95-8397-3b0aaaa9f5b6_1000x1481.jpeg)**The frameworks that built modern democracy — individual rights, informed consent, value neutrality, market meritocracy — are failing systematically when applied to artificial intelligence.** This is not an abstract concern. Real ethics boards have collapsed in days, real algorithms have issued 794,000 unlawful debt notices, real AI targeting systems have generated 37,000 kill-list entries approved in 20 seconds per name, and real hiring tools have rejected every Black applicant in controlled tests. The common thread: Western liberal democracies built AI governance on philosophical foundations that contain no shared theory of human flourishing, no workable consent mechanism at computational scale, and no way to adjudicate between their own competing ethical traditions when lives hang in the balance.
 
 <hr>
 ## “Align AI with human values” — but whose?
@@ -17,7 +19,9 @@ The technical process of alignment itself — RLHF (reinforcement learning from 
 
 The rift between effective altruism (EA) and social justice camps in AI safety exemplifies the irreconcilability. Timnit Gebru has called EA “a dangerous cult rooted in eugenics” and, with philosopher Émile Torres, coined the term TESCREAL to describe its ideological roots. Torres observed: “Talking about human extinction is just so much more sensational and captivating than Kenyan workers getting paid $1.32 an hour.” Meanwhile, EA-aligned researchers view present-day bias concerns as distractions from existential risk. Both camps invoke Western values. Neither can compel the other. Iason Gabriel of DeepMind wrote in *Minds and Machines*: “The central challenge for theorists is not to identify ‘true’ moral principles for AI; rather, it is to identify fair principles for alignment that receive reflective endorsement despite widespread variation in people’s moral beliefs.” A 2025 arXiv paper put it bluntly: “Political Neutrality in AI is Impossible.”
 
-<hr>
+<hr>[- - 
+
+](https://substackcdn.com/image/fetch/$s_!X_RK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8597f17b-2764-4f2b-94db-d37d33ed0ffa_1050x696.jpeg)
 ## When productivity defines personhood, displacement becomes existential
 
 Western liberal democracies have tied human dignity to economic contribution so deeply that the phrase “dignity of work” appears across the entire political spectrum — from Trump executive orders to Biden speeches to Marco Rubio op-eds. **AI is now dismantling that link, and no Western framework has an answer for what comes after.**

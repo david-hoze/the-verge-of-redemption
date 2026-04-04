@@ -1,6 +1,8 @@
 # When users become the crop: AI data extraction through the lens of ona’ah
 
-The parallel is not merely metaphorical. OpenAI’s valuation surged from nothing to **$300–$500 billion** between 2022 and 2025 while its users received a chat window that disappears. Anthropic reversed its privacy commitments in August 2025 to begin harvesting consumer conversations. Kenyan workers who made ChatGPT safe earned **$1.32 per hour** while the product they refined generated **$13–20 billion in 2025 revenue**. Meanwhile, the Talmudic tradition — from Bava Metzia 49b through the Shulchan Aruch — has for centuries insisted that a transaction where one party extracts more than one-sixth above fair value is fraudulent, that consent obtained through incomplete information is invalid, and that the laborer in the field has a divine right to eat from what they harvest.
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!jUFq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F769aa146-62b1-43fa-987b-083ea2faf7ae_1280x720.jpeg)The parallel is not merely metaphorical. OpenAI’s valuation surged from nothing to **$300–$500 billion** between 2022 and 2025 while its users received a chat window that disappears. Anthropic reversed its privacy commitments in August 2025 to begin harvesting consumer conversations. Kenyan workers who made ChatGPT safe earned **$1.32 per hour** while the product they refined generated **$13–20 billion in 2025 revenue**. Meanwhile, the Talmudic tradition — from Bava Metzia 49b through the Shulchan Aruch — has for centuries insisted that a transaction where one party extracts more than one-sixth above fair value is fraudulent, that consent obtained through incomplete information is invalid, and that the laborer in the field has a divine right to eat from what they harvest.
 
 <hr>
 ## The terms of service reveal a two-tier extraction system
@@ -17,7 +19,9 @@ Thanks for reading! Subscribe for free to receive new posts and support my work.
 
 The pattern is uniform: the less you pay, the more you are the product. Enterprise customers get data sovereignty. Consumer users get default-on extraction with opt-out mechanisms that require navigating settings menus most people never find.
 
-<hr>
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!bJRD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80529861-3bb1-4d8f-a4c9-4ab225439c2c_1600x900.jpeg)<hr>
 ## Training data is worth 10 to 1,000 times the cost of compute
 
 The economic asymmetry becomes staggering when quantified. A landmark 2025 study by **Kandpal and Raffel**, published at ICML 2025, analyzed 64 LLMs released between 2016 and 2024 and found that even using conservative minimum-wage estimates of **$15/hour**, the implicit cost of training datasets is **10 to 1,000 times larger than computational training costs**. GPT-4’s compute cost was approximately **$79 million**; Google Gemini 1.0 Ultra’s was roughly **$192 million**. The data these models consumed — much of it user-generated — dwarfs these figures by orders of magnitude, with recent models’ implicit data costs exceeding **$10 billion**.

@@ -1,6 +1,8 @@
 # The “Keen Minds” framework finds deep roots in science, philosophy, and spiritual tradition
 
-The idea that neurodivergent conditions represent forms of keenness — minds built to perceive more and respond more intensely — is not a new invention but the convergence of multiple research streams that have been building for decades. **Significant scientific evidence supports the core claim that ADHD, HSP, dyslexia, giftedness, and bipolar traits involve genuine cognitive advantages inseparable from their challenges**, while the reframing of OCD and anxiety as forms of heightened attunement draws on strong evolutionary theory and robust existential philosophy, respectively. No existing framework uses the word “keen” itself as an organizing principle, making this a genuinely novel contribution — one whose etymological resonance (sharp perception + intense desire + the Irish mourning wail) captures what the neurodiversity movement has been groping toward without a single unifying metaphor.
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!o9mA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab189290-8add-4324-b682-5ad48c20c29b_482x268.jpeg)The idea that neurodivergent conditions represent forms of keenness — minds built to perceive more and respond more intensely — is not a new invention but the convergence of multiple research streams that have been building for decades. **Significant scientific evidence supports the core claim that ADHD, HSP, dyslexia, giftedness, and bipolar traits involve genuine cognitive advantages inseparable from their challenges**, while the reframing of OCD and anxiety as forms of heightened attunement draws on strong evolutionary theory and robust existential philosophy, respectively. No existing framework uses the word “keen” itself as an organizing principle, making this a genuinely novel contribution — one whose etymological resonance (sharp perception + intense desire + the Irish mourning wail) captures what the neurodiversity movement has been groping toward without a single unifying metaphor.
 
 The evidence ranges from peer-reviewed meta-analyses and population-level studies to clinical frameworks, philosophical traditions, and cross-cultural spiritual wisdom. What follows maps each element of the Keen Minds framework against the strongest available evidence, names the key researchers and thinkers, and identifies where the science is robust versus where the framework runs ahead of the data.
 
@@ -23,7 +25,9 @@ The main critic of strengths-based ADHD is **Russell Barkley**, whose 1997 behav
 
 **Evidence assessment:** The ADHD-entrepreneurship and ADHD-creativity links rest on strong peer-reviewed evidence. The interest-based nervous system and hyperfocus frameworks are clinically robust but empirically thin. RSD is emerging. The VAST renaming is philosophical, not yet validated diagnostically.
 
-<hr>
+<hr>[- - 
+
+](https://substackcdn.com/image/fetch/$s_!KjsF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4abe6e3f-b712-4a50-8530-32b6ae712649_1280x720.jpeg)
 ## HSP: Elaine Aron’s sensory processing sensitivity is neuroscience, not pop psychology
 
 The reframing of HSP as “keenness for quiet contemplating” maps almost perfectly onto **Elaine Aron’s Sensory Processing Sensitivity (SPS)** framework, established in her landmark 1997 paper with Arthur Aron in the *Journal of Personality and Social Psychology*. The DOES model — **Depth of processing, Overstimulation, Emotional reactivity/Empathy, and Sensing the subtle** — describes precisely the kind of perceptual keenness the framework envisions. SPS affects an estimated **15–20% of the population**, and critically, it has been observed across more than **100 nonhuman species**, establishing it as an evolutionarily conserved trait.
