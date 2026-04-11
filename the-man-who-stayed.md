@@ -2,7 +2,7 @@
 
 [- - 
 
-](https://substackcdn.com/image/fetch/$s_!GjtQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3870c815-af1d-45a9-931c-9ef8928d923b_1200x1090.jpeg)**I.**
+](https://substackcdn.com/image/fetch/$s_!GjtQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3870c815-af1d-45a9-931c-9ef8928d923b_1200x1090.jpeg)A Rhode Island state trooper is the nicest guy in town. He lets everyone walk all over him — his wife, his neighbors, his boss. He never complains, never fights back, never raises his voice. He just smiles and takes it. Until one day, after years of swallowing it all, he snaps — and a second, aggressive personality takes over. Now he's got two versions of himself fighting for control: the one who folds, and the one who won't take no for an answer. Starring Jim Carrey at his most unhinged.**I.**
 
 Ezra Landau was the kind of man who folded at the first sign of a storm. Not because he lacked opinions — God knew his mind was always churning — but because his body remembered, somewhere deep in the marrow, what happened when you stood your ground. The ground opened. People left. Better to leave first. Better to bow, to nod, to step outside before the shouting starts.
 

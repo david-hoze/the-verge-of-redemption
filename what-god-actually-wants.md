@@ -2,7 +2,7 @@
 
 [- - 
 
-](https://substackcdn.com/image/fetch/$s_!gqxU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f6f881f-f173-4c36-98be-1535e09daf83_2079x1305.jpeg)I was asked by the amazing Farida Khalaf to write about what Jewish religion has to say about what God actually wants from us. So I came up with this. Pretty short, but I think that’s enough for now.
+](https://substackcdn.com/image/fetch/$s_!gqxU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f6f881f-f173-4c36-98be-1535e09daf83_2079x1305.jpeg)It's a Wonderful Life (1946) - A man who spent his whole life believing he missed out — watching others succeed, questioning his own worth — is shown that everything he needed was already in front of him. Starring James Stewart and Donna Reed. Directed by Frank Capra.I was asked by the amazing Farida Khalaf to write about what Jewish religion has to say about what God actually wants from us. So I came up with this. Pretty short, but I think that’s enough for now.
 
 God has so many interpretations. So many texts, so many opinions. Even in Judaism itself, it’s hard to get the main point. So many things were said in his name. So many associations are made, just when mentioning him. So what does he really want? And why should you listen to me?
 

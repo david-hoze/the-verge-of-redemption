@@ -190,38 +190,79 @@ htmlToMd = pack . go . unpack
     go (c :: rest) = c :: go rest
 
 -------------------------------------------------------------------
--- Check if slug.md already exists
+-- Timestamps: track updated_at per slug
 -------------------------------------------------------------------
-isMissing : String -> IO Bool
-isMissing slug = do
-  Right f <- openFile (outDir ++ "/" ++ slug ++ ".md") Read
-    | Left _ => pure True
-  closeFile f
-  pure False
+timestampsFile : String
+timestampsFile = outDir ++ "/.timestamps"
+
+readTimestamps : IO (List (String, String))
+readTimestamps = do
+  Right content <- readFile timestampsFile
+    | Left _ => pure []
+  pure $ mapMaybe parseLine (lines content)
+  where
+    parseLine : String -> Maybe (String, String)
+    parseLine line =
+      case break (== '\t') (trim line) of
+        (slug, rest) =>
+          if slug == "" || rest == "" then Nothing
+          else Just (slug, assert_total (strTail rest))
+
+writeTimestamps : List (String, String) -> IO ()
+writeTimestamps ts = do
+  let content = concatMap (\(s, u) => s ++ "\t" ++ u ++ "\n") ts
+  _ <- writeFile timestampsFile content
+  pure ()
+
+lookupTs : String -> List (String, String) -> Maybe String
+lookupTs slug [] = Nothing
+lookupTs slug ((s, u) :: rest) = if s == slug then Just u else lookupTs slug rest
+
+updateTs : String -> String -> List (String, String) -> List (String, String)
+updateTs slug upd [] = [(slug, upd)]
+updateTs slug upd ((s, u) :: rest) =
+  if s == slug then (s, upd) :: rest
+  else (s, u) :: updateTs slug upd rest
 
 -------------------------------------------------------------------
--- Download one article
+-- Process one article: fetch JSON, check if update needed, save
 -------------------------------------------------------------------
-download : String -> IO ()
-download slug = do
-  putStrLn ("  -> " ++ slug)
+processArticle : String -> List (String, String) -> IO (List (String, String))
+processArticle slug ts = do
   let json = tmp ++ "/" ++ slug ++ ".json"
   let out  = outDir ++ "/" ++ slug ++ ".md"
   0 <- run ("curl -s 'https://davidhoze.substack.com/api/v1/posts/" ++ slug ++ "' -o '" ++ json ++ "'")
-    | _ => do putStrLn "     FAILED to fetch"; pure ()
+    | _ => do putStrLn ("  " ++ slug ++ ": FAILED to fetch"); pure ts
   Right rawJson <- readFile json
-    | Left _ => do putStrLn "     FAILED to read json"; pure ()
-  -- Extract title and body from post JSON
-  let title = case findKeyValue "title" (unpack rawJson) of
-                Just (t, _) => t
-                Nothing => slug
-  let body = case findKeyValue "body_html" (unpack rawJson) of
-                Just (b, _) => b
-                Nothing => ""
-  let md = htmlToMd body
-  Right _ <- writeFile out ("# " ++ title ++ "\n\n" ++ md)
-    | Left _ => do putStrLn "     FAILED to write"; pure ()
-  putStrLn "     saved"
+    | Left _ => do putStrLn ("  " ++ slug ++ ": FAILED to read"); pure ts
+  let chars = unpack rawJson
+  -- Check if response has body_html (skip error responses)
+  let mbBody = findKeyValue "body_html" chars
+  case mbBody of
+    Nothing => do putStrLn ("  " ++ slug ++ ": skipped (no body_html in response)"); pure ts
+    Just (body, _) => do
+      let updatedAt = case findKeyValue "updated_at" chars of
+                        Just (u, _) => u
+                        Nothing => ""
+      -- Check if file exists
+      fileExists <- do
+        Right f <- openFile out Read
+          | Left _ => pure False
+        closeFile f
+        pure True
+      let storedTs = lookupTs slug ts
+      let needSave = not fileExists || storedTs /= Just updatedAt
+      if needSave
+        then do
+          let title = case findKeyValue "title" chars of
+                        Just (t, _) => t
+                        Nothing => slug
+          let md = htmlToMd body
+          Right _ <- writeFile out ("# " ++ title ++ "\n\n" ++ md)
+            | Left _ => do putStrLn ("  " ++ slug ++ ": FAILED to write"); pure ts
+          putStrLn ("  " ++ slug ++ (if fileExists then " (updated)" else " (new)"))
+          pure (updateTs slug updatedAt ts)
+        else pure (updateTs slug updatedAt ts)
 
 -------------------------------------------------------------------
 -- Fetch all slugs with pagination
@@ -238,21 +279,25 @@ fetchAllSlugs offset acc = do
     [] => pure acc
     _  => fetchAllSlugs (offset + length slugs) (acc ++ slugs)
 
-filterMissing : List String -> IO (List String)
-filterMissing [] = pure []
-filterMissing (s :: xs) = do
-  miss <- isMissing s
-  rest <- filterMissing xs
-  pure (if miss then s :: rest else rest)
-
 -------------------------------------------------------------------
 main : IO ()
 main = do
   _ <- createDir tmp
+  stored <- readTimestamps
   putStrLn "Fetching index..."
   slugs <- fetchAllSlugs 0 []
   putStrLn (show (length slugs) ++ " articles found")
-  missing <- filterMissing slugs
-  putStrLn (show (length missing) ++ " missing")
-  traverse_ download missing
+  finalTs <- processAll slugs stored 0
+  writeTimestamps finalTs
   putStrLn "Done."
+  where
+    processAll : List String -> List (String, String) -> Nat -> IO (List (String, String))
+    processAll [] ts n = do
+      putStrLn (show n ++ " downloaded/updated")
+      pure ts
+    processAll (s :: rest) ts n = do
+      oldLen <- pure (length ts)
+      ts' <- processArticle s ts
+      let saved = lookupTs s ts /= lookupTs s ts'
+                  || length ts' /= oldLen
+      processAll rest ts' (if saved then S n else n)

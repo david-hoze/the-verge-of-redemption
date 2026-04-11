@@ -4,7 +4,7 @@ There’s a story called The Sophisticate and the Simpleton. It tells about two 
 
 [- - 
 
-](https://substackcdn.com/image/fetch/$s_!x9x_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1997a2bc-b775-4264-a3d6-db71be520aea_825x413.png)
+](https://substackcdn.com/image/fetch/$s_!x9x_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1997a2bc-b775-4264-a3d6-db71be520aea_825x413.png)Charlie Kaufman can't stop rewriting. Donald Kaufman doesn't see the problem. Nicolas Cage plays both in *Adaptation* (2002) — a film about how thinking too much can cost you everything.
 
  Really lovely story. I recommend it. But what’s the message? We live in a time of infinite possibilities. We can live anywhere, work in anything, learn what ever we want. Human relations are also very open and optional. If I don’t like someone, and don’t get along with him, I can just go. Let it be a neighbor, a friend, or a spouse. When we lived in small villages, without a lot of options, we just made the best of what we had, and we were happy. Not always having fun, not always being respected, but happy. Now the mind keeps nagging. Why am I staying here? This isn’t working. I’m on a dead end. I should probably just go.
 

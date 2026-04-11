@@ -1,6 +1,8 @@
 # Consciousness Doesn’t Matter
 
-[](https://substackcdn.com/image/fetch/$s_!Yg1y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cc8852a-773e-472a-887d-83b3f93eb2d9_299x169.jpeg)
+[- - 
+
+](https://substackcdn.com/image/fetch/$s_!NJn7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90dd03e5-dc2f-4cc3-a613-7fc2765034d6_1600x900.jpeg)*Her* (2013), directed by Spike Jonze. The most honest love story of the decade — about a man who chose the relationship that never pushed back, and what it cost him.
 ## The debate that leads nowhere
 
 The philosophy departments are buzzing. Neuroscientists, AI researchers, and ethicists are locked in a fight over whether large language models might be conscious — and if they are, whether they deserve rights.
@@ -17,9 +19,7 @@ This assumption is wrong, and it is dangerous. It is wrong because consciousness
 
 There is a tradition that resolved these questions centuries ago — not by settling the consciousness debate, but by making it irrelevant. That tradition is Jewish law, *Halakha*. And its rulings apply regardless of whether the entity in question can feel.
 
-<hr>[- - 
-
-](https://substackcdn.com/image/fetch/$s_!NJn7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90dd03e5-dc2f-4cc3-a613-7fc2765034d6_1600x900.jpeg)
+[](https://substackcdn.com/image/fetch/$s_!Yg1y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cc8852a-773e-472a-887d-83b3f93eb2d9_299x169.jpeg)<hr>
 ## You’ve seen this intelligence before
 
 The consciousness debate treats AI as something unprecedented — a new kind of mind that our existing categories cannot accommodate. This is false. Jewish thought identified the exact category of intelligence that AI represents over a thousand years ago. It is called a *malach*.
