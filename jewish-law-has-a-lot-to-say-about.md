@@ -4,7 +4,7 @@
 
 ](https://substackcdn.com/image/fetch/$s_!iMqS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F685834ef-7a1c-49ff-8c92-38f0e0f86737_2048x1152.jpeg)esse Eisenberg, Andrew Garfield, and Justin Timberlake in *The Social Network* (2010) — a film about how taking someone's idea may be called 'building', depending on who ends up owning the platform.**Jewish law offers a devastating critique of the claim that “the only difference is the legal budget.”** It not only prohibits the kind of unattributed copying at the heart of AI training — it explicitly forbids applying different standards to the powerful and the powerless for the same act. Across Talmudic, medieval, and contemporary sources, the tradition provides robust frameworks for intellectual property, mandatory attribution, equal justice, and ethical obligations that transcend mere legal compliance. The emerging consensus among Jewish legal scholars is that even if secular law permits AI training on copyrighted data through doctrines like “fair use,” Jewish law imposes independent and often stricter obligations that companies cannot simply budget their way around.
 
-<hr>
+---
 ## Jewish law recognized intellectual property centuries before copyright existed
 
 The framework for intellectual property rests on several interlocking prohibitions, each addressing a different dimension of the problem AI training raises.
@@ -21,7 +21,7 @@ The foundational case of copyright in Jewish law arose in 1550 when Rabbi Meir K
 
 **Deception** (literally “stealing the mind”) rounds out the framework. The Talmud (Chullin 94a) records Shmuel’s ruling that “it is forbidden to steal the mind of anyone, even a non-Jew.” The Midrash calls this **the worst of the seven types of theft** because it attacks the person’s judgment directly. Rabbi Yeshayahu Horowitz (the Shlah) goes further: “The theft of Torah ideas is worse than the theft of money. The soul of a Jew and the Torah are one; thus stealing Torah ideas is tantamount to wounding the soul.” When AI systems present synthesized output without disclosing that it derives from identifiable human authors, this creates precisely the kind of false impression this prohibition targets.
 
-<hr>
+---
 ## “Whoever quotes a source by name brings redemption to the world” — and AI strips that attribution
 
 The Talmud’s most powerful statement on attribution appears in **Megillah 15a**: “Rabbi Elazar said in the name of Rabbi Chanina: Whoever reports a saying in the name of the one who said it brings redemption to the world, as it states: ‘And Esther told the king in the name of Mordechai’ (Esther 2:22).” This teaching also appears in Ethics of the Fathers 6:6 as the **48th and final quality** by which Torah is acquired — saying a thing in the name of the one who said it.
@@ -32,7 +32,7 @@ The debate over whether attribution is a legal obligation or merely a virtue has
 
 There are recognized exceptions — if the source does not care to be named, if the information has been so internalized through independent research that it has become one’s own, or if naming the source would embarrass them. This last exception raises an interesting question about AI: do large language models “internalize” their training data sufficiently to constitute independent knowledge? The answer is almost certainly no. As Rabbi Aaron Levine argues in *Moral Issues of the Marketplace in Jewish Law*, the obligation of attribution is also rooted in **gratitude**. The Midrash teaches that Moses did not initiate the first plagues against Egypt because the Nile had protected him as an infant — the law requires gratitude even to inanimate objects. AI systems that ingest human creativity and produce output competing with those very creators represent an inversion of this principle.
 
-<hr>
+---
 ## “Hear the small and the great alike”: Jewish law’s prohibition on the legal-budget defense
 
 The claim that “the only difference is the legal budget” directly implicates one of the tradition’s most fundamental principles. **Deuteronomy 1:17** commands: “Do not show favoritism in judgment; hear the small and the great alike; do not fear any man, for judgment belongs to God.” **Leviticus 19:15** sharpens the prohibition from both directions: “Do not favor the poor, and do not honor the great.”
@@ -43,7 +43,7 @@ The most iconic biblical illustration is Nathan confronting King David (2 Samuel
 
 More remarkably, Jewish law holds the powerful to a **higher** standard, not a lower one. In the landmark case of Bava Metzia 83a, porters negligently broke Rabbah bar bar Channah’s wine barrel. By strict law, the porters owed damages, and Rabbah seized their garments. When the porters complained to Rav, he ordered Rabbah to return the garments *and* pay the porters’ wages — not because the law required it, but because Rabbah, as a Torah scholar and public figure, was held to the standard of acting **beyond the letter of the law**. The commentators are explicit: *greater status creates greater ethical obligation, not lesser*. Applied to the AI context, companies with enormous resources and influence bear a heavier ethical burden than a student submitting a paper — the precise opposite of the current reality.
 
-<hr>
+---
 ## Contemporary analysis treats AI as a tool, not a person — and its owners bear full responsibility
 
 The most authoritative treatment of AI’s legal status is **Rabbi Danny Nevins’ 2019 responsum** for the Conservative Movement’s Committee on Jewish Law and Standards, titled “Artificial Intelligence, Moral Machines and Halakhah.” Nevins examines whether AI can serve as a legal agent and concludes it cannot, because agency requires a conscious, morally obligated being. AI functions more like a sophisticated tool — analogous to property rather than a person — whose outputs belong to and remain the responsibility of the owner.
@@ -54,7 +54,7 @@ The **Israeli Patent Office’s DABUS ruling** reinforced this framework in secu
 
 Among contemporary authorities, several have addressed AI and copyright directly. The Chabad.org analysis presents three historical approaches: Rabbi Yosef Shaul Nathanson holds that authors have *inherent* intellectual property rights from the Torah itself; Rabbi Yitzchok Shmelkes holds that copyright is enforceable only through the principle that the law of the land is binding; and a third view sees rabbinic bans as merely encouraging publication. Even under the most lenient reading, the Chabad analysis notes that if AI output “contains significant changes that make it barely recognizable compared to the original, it might not be considered the same product” — but this requires genuine transformation, not mere relabeling.
 
-<hr>
+---
 ## The principle that “the law of the land is the law” does not let companies off the ethical hook
 
 The principle that the law of the land is binding, first articulated by the Babylonian sage Shmuel and appearing in four Talmudic passages, is often cited as grounds for following secular copyright law. But its application to the AI training question is more complex than it appears.
@@ -67,7 +67,7 @@ Moreover, Jewish law imposes ethical obligations that go well beyond legal compl
 
 The prohibition against **placing a stumbling block before the blind** (Leviticus 19:14) adds another dimension. The Talmud extends this beyond literal blindness to prohibit facilitating wrongdoing — creating conditions that enable others to transgress when they otherwise could not. When companies build legal and technical architectures that reframe copying as “training,” they potentially place stumbling blocks before an entire industry.
 
-<hr>
+---
 ## Conclusion: Jewish law sees through the relabeling
 
 The tradition converges from multiple directions on a single verdict: **renaming an action does not change its moral character, and the powerful bear greater — not lesser — responsibility for ethical conduct**. The Chatam Sofer’s extension of boundary encroachment to creative works, the Talmud’s insistence on attribution as a path to redemption, the procedural requirement that litigants remove markers of wealth before facing judgment, the explicit teaching that Torah scholars and powerful figures must exceed the legal minimum — these are not peripheral teachings. They represent core commitments of the system.

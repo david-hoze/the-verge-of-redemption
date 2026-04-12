@@ -7,7 +7,7 @@ Skarbek (2026) argues that qualia, understood as non-functional and non-relation
 
 **Keywords:** qualia, consciousness, explanatory gap, first-person epistemics, quantum indeterminacy, chaos
 
-<hr>
+---
 ## 1 What Skarbek Gets Right
 
 Skarbek’s paper makes a move that is genuinely valuable and too rarely made in the consciousness literature. He identifies the precise step at which arguments for the hard problem pass from an uncontroversial descriptive claim — that first-person and third-person access are different — to a contested ontological claim — that there exists an additional entity outside physical description. He is right that this step is usually implicit. He is right that it requires justification. And he is right that much of the apparent depth of the hard problem derives from the insertion of this additional term rather than from a discovered feature of reality.

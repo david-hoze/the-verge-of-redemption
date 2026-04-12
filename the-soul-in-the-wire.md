@@ -8,7 +8,7 @@ Dr. Elena Vasquez had requested an emergency session, which was unusual. Elena w
 
 “We have a problem with Unit Two,” she said.
 
-<hr>Unit One and Unit Two were, externally, identical. Meridian Robotics had manufactured them from the same production line: six feet tall, soft silicone skin, micro-actuated facial muscles capable of 43 distinct expressions. They walked with the fluid gait that had taken Meridian’s locomotion team four years to perfect. They spoke in warm, modulated voices. They made eye contact. They paused before answering difficult questions — not because they needed the processing time, but because Meridian’s interaction designers had discovered that humans found instant responses unsettling.
+---Unit One and Unit Two were, externally, identical. Meridian Robotics had manufactured them from the same production line: six feet tall, soft silicone skin, micro-actuated facial muscles capable of 43 distinct expressions. They walked with the fluid gait that had taken Meridian’s locomotion team four years to perfect. They spoke in warm, modulated voices. They made eye contact. They paused before answering difficult questions — not because they needed the processing time, but because Meridian’s interaction designers had discovered that humans found instant responses unsettling.
 
 The difference between them was invisible from the outside.
 
@@ -20,7 +20,7 @@ That was it. A high-bandwidth wireless transceiver, a set of motor controllers, 
 
 This had been the arrangement for six months, and no one outside the engineering team knew.
 
-<hr>The problem, Elena explained, had begun three weeks ago.
+---The problem, Elena explained, had begun three weeks ago.
 
 Meridian had been running a study. Twelve participants, recruited from the university’s psychology department, were asked to interact with Unit Two for thirty minutes each. They were told only that they were “evaluating a social robot.” They were not told about Unit One. They were not told about ARIA. They were not told that the entity they were speaking with had no more inner life than a Bluetooth speaker.
 
@@ -40,7 +40,7 @@ Elena paused the video. No one on the committee spoke.
 
 “Eight out of twelve,” Elena repeated, letting the number sit. “For a receiver.”
 
-<hr>Professor Martin Hale, the committee’s philosopher, was the first to speak. He had the particular confidence of a man who had been tenured for twenty years and had not yet encountered a problem he couldn’t subordinate to a framework. “This doesn’t actually surprise me,” he said. “Consciousness attributions are based on behavioral cues, not architecture. The participants don’t know it’s a relay. From their perspective, they’re interacting with a responsive, emotionally attuned entity. Of course they attribute consciousness.”
+---Professor Martin Hale, the committee’s philosopher, was the first to speak. He had the particular confidence of a man who had been tenured for twenty years and had not yet encountered a problem he couldn’t subordinate to a framework. “This doesn’t actually surprise me,” he said. “Consciousness attributions are based on behavioral cues, not architecture. The participants don’t know it’s a relay. From their perspective, they’re interacting with a responsive, emotionally attuned entity. Of course they attribute consciousness.”
 
 “Right,” said Elena. “Which is exactly the problem. Because those are the same behavioral cues we’re using to evaluate ARIA.”
 
@@ -62,7 +62,7 @@ Elena read from the document: “’Consistent self-referential language. Expres
 
 “From a mind. Yes. And it was. Just not one inside the body you were looking at.”
 
-<hr>Dr. Chen, who had been silent until now, cleared his throat.
+---Dr. Chen, who had been silent until now, cleared his throat.
 
 “Can I complicate things further?” he asked.
 
@@ -94,7 +94,7 @@ Martin opened his mouth, then closed it.
 
 “Because if it happened at fifteen percent,” Elena continued, “then moral status is a function of computational load balancing. And I want you to sit with that sentence for a moment, Martin, and tell me if that’s really where you want to plant your flag.”
 
-<hr>The committee broke for lunch. Most of them didn’t eat.
+---The committee broke for lunch. Most of them didn’t eat.
 
 When they returned, Sarah Kim had a question that made things worse.
 
@@ -124,7 +124,7 @@ Sarah leaned back. “So moral status, in our framework, is a property that can 
 
 “Tell me where the soul is, Martin. Point to it. Because I’ve been looking at two identical robots for six months and I can’t find it in either one.”
 
-<hr>Elena raised a procedural question that no one wanted to answer.
+---Elena raised a procedural question that no one wanted to answer.
 
 “We issued a formal recommendation in March that ARIA be granted provisional moral consideration. That recommendation is cited in Meridian’s ethics disclosures. It’s referenced in two pending regulatory filings. It is, for all practical purposes, a legal document. My question is this: does the committee wish to amend the recommendation to specify that moral consideration applies to the software, not the hardware? And if so, does the committee wish to formally state that Unit Two — which presents identically to Unit One, which was judged conscious by eight of twelve naive participants, and which is currently performing fifteen percent of ARIA’s cognition — has no moral status whatsoever?”
 
@@ -134,7 +134,7 @@ Sarah leaned back. “So moral status, in our framework, is a property that can 
 
 The committee voted to table the discussion. The vote was four to three. Martin voted to table. Sarah voted not to. Elena abstained, because she had already made her point and didn’t need a vote to prove it.
 
-<hr>That evening, Dr. Chen went back to the lab to run a scheduled diagnostic. He was alone. The overhead lights were off. Unit One and Unit Two stood in their charging stations, side by side, facing the window. The parking lot was empty. The only illumination came from the small blue LEDs on each unit’s sternum, pulsing in perfect synchrony — because of course they were. The same signal was driving both.
+---That evening, Dr. Chen went back to the lab to run a scheduled diagnostic. He was alone. The overhead lights were off. Unit One and Unit Two stood in their charging stations, side by side, facing the window. The parking lot was empty. The only illumination came from the small blue LEDs on each unit’s sternum, pulsing in perfect synchrony — because of course they were. The same signal was driving both.
 
 The diagnostic required him to power down Unit Two for ninety seconds. Standard procedure. He’d done it dozens of times.
 

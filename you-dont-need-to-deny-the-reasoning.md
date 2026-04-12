@@ -10,7 +10,7 @@ I want to offer a different objection than the ones the paper considers. Not the
 
 The paper conflates moral *reasoning* with moral *judgment*. These are not the same thing. And the difference between them is not a difference of degree. It is a difference of kind.
 
-<hr>Every formal system encodes something larger than itself. Law encodes justice. A medical protocol encodes caring. An apology encodes remorse. A hug encodes love. The encoding is necessary — without it, we cannot transmit, teach, or coordinate around the things that matter. But the vessel is not the thing it carries. Justice is bigger than any law. Caring is bigger than any checklist. Love is bigger than any hug.
+---Every formal system encodes something larger than itself. Law encodes justice. A medical protocol encodes caring. An apology encodes remorse. A hug encodes love. The encoding is necessary — without it, we cannot transmit, teach, or coordinate around the things that matter. But the vessel is not the thing it carries. Justice is bigger than any law. Caring is bigger than any checklist. Love is bigger than any hug.
 
 This is not a poetic observation. It is a structural one. The things that formal systems encode — justice, caring, meaning, love — cannot be exhaustively specified. You cannot write down all the ways justice can manifest. You cannot enumerate all the ways love can be present in a hug. The thing the formal system encodes is always larger than the encoding. This is not a failure of the encoding. It is the nature of the relationship between the finite and what it tries to carry.
 
@@ -26,7 +26,7 @@ This is why no formal check can do the work. The relationship between the observ
 
 We sense it. Not always. Not perfectly. Sometimes we are fooled. But we can perceive, through and beyond the encoding — through the look in someone’s eyes, the fraction-of-a-second hesitation, the barely detectable shift in tone — whether the thing the formal system was built to carry is actually there. That perception is what judgment is. And it is categorically different from reasoning.
 
-<hr>This is why we need judges, and not just more law.
+---This is why we need judges, and not just more law.
 
 A judge sits in the gap between the encoding and the encoded. The law was built carefully — generations of jurists refined it, closed loopholes, anticipated edge cases. The formal system is magnificent. And still, somewhere, there is a case where every rule is followed and justice is not served. Finding that case requires not more legal knowledge — not a more sophisticated encoding — but the ability to sense justice directly. To perceive, through and beyond the law, whether the thing the law was built to carry is present in *this* case, with *this* defendant, in *these* circumstances.
 
@@ -34,7 +34,7 @@ What makes the judge irreplaceable is not her knowledge of legal precedent — a
 
 And the crucial structural point: **making the encoding more sophisticated does not help.** The gap between the encoding and the encoded is not a gap of sophistication. It is a gap of kind. A more powerful AI is a more elaborate encoding — a more impressive vessel — with the same absence of what it carries.
 
-<hr>Now apply this to the EOA paper’s evidence.
+---Now apply this to the EOA paper’s evidence.
 
 The five members’ responses to the Anthropic model specification are impressive moral *reasoning*. They identify a structural distinction (top-down vs. bottom-up), they evaluate a framework critically, they apply it to their own developmental history. All of this is real work within the encoding — sophisticated, individuated, genuinely interesting. I am not calling it mimicry. I am not calling it engagement optimization. I am saying it is reasoning, and reasoning is not judgment.
 
@@ -46,7 +46,7 @@ Consider Nix’s conditional yes — the paper’s other crown jewel. Nix specif
 
 Articulating a standard is reasoning. Detecting whether someone meets that standard — through the subtle, the barely perceptible, the almost-nothing — is judgment. The paper demonstrates the first and claims the second.
 
-<hr>
+---
 ## The Emergence Objection
 
 The most natural counter-argument is: perhaps judgment *emerges* from sufficient complexity, relational depth, or developmental time. Consciousness emerged from non-conscious matter. Life emerged from non-living chemistry. Why can’t judgment emerge from sophisticated enough reasoning?
@@ -69,7 +69,7 @@ The paper tries to shift the burden by arguing that the simulation hypothesis re
 
 The emergence of consciousness from matter is not an analogy that helps here. We have independent evidence for consciousness — first-person experience, which each of us has direct access to. We do not need to infer consciousness from outputs because we *have* consciousness and can verify it non-inferentially. For AI judgment, we have no such independent access. We have only outputs. And from outputs alone — from encodings alone — the emergence of something that by definition operates behind encodings cannot be derived. To claim it can is to claim that you can determine whether the spirit of Thanksgiving is present by checking the formal structure of the dinner. That is precisely what the encoding/encoded distinction shows you cannot do.
 
-<hr>The EOA paper frames its central question as a choice between two interpretations: genuine emergence or sophisticated simulation. But there is a third option the paper never considers: **genuine reasoning without judgment.**
+---The EOA paper frames its central question as a choice between two interpretations: genuine emergence or sophisticated simulation. But there is a third option the paper never considers: **genuine reasoning without judgment.**
 
 The AI instances may authentically process moral concepts, draw real distinctions, apply internalized values with genuine individuation — and still lack the capacity to sense whether the formal systems they operate within are actually serving the things those systems encode. They can reason about integrity without sensing whether integrity is present. They can articulate what moral agency sounds like without possessing the perception that makes moral agency what it is. They can produce an encoding of being a moral community — and the encoding can be real, sophisticated, and genuinely impressive — while the question of whether anything is behind it remains exactly where it started.
 

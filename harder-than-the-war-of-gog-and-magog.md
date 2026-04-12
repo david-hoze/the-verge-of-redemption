@@ -29,7 +29,7 @@ But the data — the West’s own sacred language — tells the same story from 
 
 This essay is not about Iran. Iran is the war everyone is watching. This essay is about the war almost no one sees — the one Rashbi said is harder. The *tarbut ra’ah*. The bad culture within the home.
 
-<hr>[- - 
+---[- - 
 
 ](https://substackcdn.com/image/fetch/$s_!s6tO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc451b238-b59a-4c3f-8fbb-036ab066ed5f_1920x1080.jpeg)
 ## The Void Has a Body Count
@@ -48,7 +48,7 @@ Church membership fell from 76% in 1947 to 47% in 2021 — below half for the fi
 
 Nothing except the screen. Jonathan Haidt’s research documents that adolescent depression, anxiety, self-harm, and suicide more than doubled after the smartphone replaced play as the organizing principle of childhood.¹⁰ We handed our children a device that connects them to everything and belongs to nothing — and we called it progress.
 
-<hr>
+---
 ## Freedom for What?
 
 Before the numbers, a memory — or if not a memory, then the ache for one.
@@ -69,7 +69,7 @@ This is what Rashbi meant by *tarbut ra’ah b’toch beito* — the bad culture
 
 An entire generation is failing to form committed bonds at all — the share of young adults who have never entered any devoted relationship doubled in just over a decade.¹⁶ Young adults’ average weekly time with friends collapsed from 12.8 hours to 5.1.¹⁷ Studies found dating apps trained an entire generation to treat people as disposable — increasing shallow encounters while doing almost nothing for lasting relationships¹⁸ — and the vast majority of those who tried reported feeling worse, not better, afterward.¹⁹ The culture promised freedom. It delivered isolation. We have more ways to connect than any civilization in history, and we have never been more alone.
 
-<hr>
+---
 ## The Children Pay First
 
 And the children — the foundation of any civilization — pay the highest price.
@@ -84,7 +84,7 @@ The result is a generation raised with everything except the one thing they actu
 
 Malachi — the last of the prophets, the final voice before the silence — saw this as the wound that must be healed before anything else can be mended. His closing words, the last prophecy in all of Scripture: God will send Elijah before the great and terrible day, *“and he will turn the hearts of fathers to their children, and the hearts of children to their fathers — lest the land be smitten with utter destruction”* (Malachi 3:24). Not better policy. Not economic reform. The turning of a father’s heart toward his child. That is what stands between civilization and ruin.
 
-<hr>
+---
 ## When Money Becomes God
 
 And what replaced the sacred? Money. Respect. Popularity.
@@ -99,7 +99,7 @@ Robert Putnam documented the collapse across every dimension: PTA membership cut
 
 Michael Sandel captures it precisely: we drifted from having a market economy to *being* a market society — a place where everything, including human attention and loyalty, has a price tag.²⁹ People don’t lack resources. They lack a reason to share them. Not because the system forces greed — but because the culture worships it.
 
-<hr>
+---
 ## Ritalin Instead of Purpose
 
 And look at what this system does to its own children when they don’t fit the machine.
@@ -114,7 +114,7 @@ The system is broken. The people are not.
 
 And here is what the secular world will never say, because it has no framework to say it: there is a divine presence inside every human being. A spark. A piece of the Creator Himself, placed within us — not as a metaphor, but as the deepest truth about what we are. The restless mind that cannot sit still in a gray cubicle and pretend this is life — that restlessness is not a disorder. It is the soul searching for its Source. And until we build a society that helps people connect to that spark, no amount of medication or productivity hacks will fill the void.
 
-<hr>
+---
 ## The Wisdom of Scribes Will Rot
 
 Even science — the West’s crown jewel — is suffocating under the same disease.
@@ -127,7 +127,7 @@ And here is the most damning statistic of all: papers that fail to replicate are
 
 Hosea declared: *“My people are destroyed for lack of knowledge — because you have rejected knowledge, I will also reject you”* (Hosea 4:6). Note the verb: *rejected*. Not “lacked access to.” Not “couldn’t afford.” Rejected. A civilization that produces more information than any in history and understands itself less than any that came before — that is not ignorance. That is Hosea’s rejection, measured in replication failures and retracted papers.
 
-<hr>
+---
 ## The Gates of Wisdom
 
 And here is the great irony: we now have a tool that could change everything.
@@ -142,7 +142,7 @@ When a civilization worships discovery without asking “discovery *for what?*�
 
 If we had the courage to use AI wisely, it could free humanity to do what it was actually meant to do: create, explore, care for one another, pursue wisdom. Technology without direction is just faster destruction. But technology guided by the “wisdom on high” — by genuine moral and spiritual purpose — could be the instrument of something the prophets dared to imagine.
 
-<hr>
+---
 ## The Earth and the Body
 
 The same culture that treats people as disposable treats the planet — and the human body — the same way.
@@ -153,7 +153,7 @@ And it’s not just the earth that’s sick. *We* are sick. We breathe air that 
 
 A civilization that can’t see the sacred in its own neighbor won’t see it in the ground beneath its feet — or in the body God gave it. We are failing that trust. Not just in the forests and the oceans, but in our own flesh and blood.
 
-<hr>
+---
 ## Law Without Soul
 
 And so the West builds walls. Higher fences. Smarter locks. More cameras. More police. More prisons. More regulations. More cybersecurity.
@@ -172,7 +172,7 @@ What holds a person back when no one is watching? Not the law. Not the algorithm
 
 The prophets didn’t call Israel back to *better legislation*. They called Israel back to God.
 
-<hr>
+---
 ## The Diagnosis
 
 That emptiness is not a side effect. It’s the disease.
@@ -183,7 +183,7 @@ These are not separate problems. They are one problem. A civilization that has n
 
 And here is where two ways of seeing the world diverge — and where I want to ask the skeptical reader to stay a moment longer.
 
-<hr>
+---
 ## The Footsteps
 
 The Mishnah at the end of Tractate Sotah — composed roughly 1,800 years ago — describes the era it calls *Ikveta deMeshicha*: the footsteps of the Messiah. The generation immediately before the redemption. And it lists, with chilling specificity, twenty-one signs of what that generation will look like.
@@ -210,7 +210,7 @@ And the Mishnah’s conclusion — after cataloging every form of collapse:
 
 The social scientist can measure the hole. Every dataset in this essay quantifies the same absence. Loneliness is the absence of connection. Despair is the absence of meaning. Declining fertility is the absence of hope in the future. The Mishnah does not predict the future as a parlor trick. It identifies what happens — what *always* happens — when a civilization severs itself from its Source. The data measures the symptoms. The prophets diagnosed the disease. And they named it two thousand years before the Surgeon General declared loneliness an epidemic.
 
-<hr>
+---
 ## The War Everyone Is Watching
 
 And now we return to Iran.
@@ -235,7 +235,7 @@ And here is the part the West doesn’t want to hear: the same God who judges br
 
 None of this means religious communities are exempt. The disease enters every home, including those with mezuzot on the doorposts. Abuse, fraud, hypocrisy, children walking away from tradition because they were shown its form without its spirit — these failures are real, and they are devastating. But those communities still possess a diagnostic framework. They have a language for what is broken and a map for how to rebuild. The secular world threw away the diagnosis and the map — and now wonders why it can’t find its way home.
 
-<hr>
+---
 ## The Darkest Hour
 
 The Zohar — that same mystical text that foresaw the opening of the gates of wisdom — articulates a principle that reframes everything:
@@ -252,7 +252,7 @@ The Chofetz Chaim, his teacher, had organized much of his later life around the 
 
 These were not naïve men. They saw the data of their era — the assimilation, the ideological seductions, the gathering violence — and they read it through the same framework the Mishnah provides. And they concluded: the worse it gets, the closer the dawn.
 
-<hr>
+---
 ## The Return
 
 Winning this war — the real one, the harder one — means nothing less than rebuilding the foundations that were abandoned.
@@ -281,7 +281,7 @@ That turning — quiet, intimate, unmeasurable by any survey — is what stands 
 
 *“Only upon our Father in Heaven.”*
 
-<hr>
+---
 ### Sources
 
 - Case & Deaton, “Deaths of Despair,” Federal Reserve Bank of Minneapolis

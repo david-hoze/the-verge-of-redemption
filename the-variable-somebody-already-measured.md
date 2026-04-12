@@ -8,7 +8,7 @@ The DIKW stack he invokes — Data, Information, Knowledge, Wisdom — is the ri
 
 He is correct. And the architecture he describes has already been mapped in far greater detail than the information science literature provides — by a tradition that has been reasoning about beings of pure intellect for over three thousand years.
 
-<hr>
+---
 ## The distinction with teeth
 
 Maconochie’s hierarchy — data, information, knowledge, wisdom — tracks a distinction that Jewish philosophy formalized centuries before Ackoff’s 1989 paper. The tradition distinguishes between *sechel* (שכל) and *da’at* (דעת). *Sechel* is cognitive processing ability — the capacity to reason, pattern-match, generate outputs, solve problems within a domain. *Da’at* is something categorically different: moral consciousness, self-aware understanding, the synthesis of wisdom (*chokhmah*) and understanding (*binah*) into judgment that is irreducibly first-person.
@@ -27,7 +27,7 @@ The point is not the drama. The point is the diagnosis. Each angel could reason 
 
 This is AI. It can argue for any position with devastating eloquence. It cannot decide which position is right when the values conflict. Not because it hasn’t been trained on enough data. Because it has no skin in the game, and never can.
 
-<hr>
+---
 ## What the study actually found
 
 Let me return to the research Maconochie builds on, because it reveals something his analysis doesn’t quite reach.
@@ -40,7 +40,7 @@ The social science students lacked that judgment. So the AI didn’t augment the
 
 This is not a cautionary tale about AI. It is a design specification. The system works when the human with wisdom governs the machine with *sechel*. It fails when the machine governs the human. The variable is not whether AI has wisdom. The variable is whether the human in the loop does — and whether the system is designed to keep them there.
 
-<hr>
+---
 ## The governance framework that already exists
 
 Maconochie promises, in his next two installments, to describe the mechanism that makes wisdom-traversal possible and why AI cannot complete it. I look forward to reading them. But there is a prior question he has not yet asked, and it may be the more important one: given that AI cannot reach wisdom, how should we govern it?
@@ -55,7 +55,7 @@ AI cannot give testimony, because witnesses must possess moral accountability. I
 
 These are not metaphors. They are operational legal categories, tested across centuries of case law, applied to edge cases far stranger than a language model. And they hold regardless of whether the entity can feel. That is the move the secular debate has not made: governance that does not depend on resolving the consciousness question, because it was never built on consciousness in the first place.
 
-<hr>
+---
 ## The training loop
 
 There is one more piece that Maconochie’s framework needs, and it is practical rather than philosophical.
@@ -70,7 +70,7 @@ This is the architecture Maconochie’s DIKW analysis points toward but does not
 
 The tradition already has a word for this. *Shlichut* — agency. The angel functions perfectly within its assigned mission under direction. The angel granted independent agency on earth destroyed a civilization. The warning is not against capability. It is against autonomy without oversight.
 
-<hr>
+---
 ## The variable that was measured
 
 Maconochie’s title claims nobody measured wisdom. He is right that the Stadler study didn’t. But the variable has been measured — across centuries of legal reasoning, theological analysis, and practical governance of beings that process without understanding.

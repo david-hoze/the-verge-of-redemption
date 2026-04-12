@@ -17,7 +17,7 @@ His answer is accurate. We have a system that verifies that. That’s the truth.
 
 [- - 
 
-](https://substackcdn.com/image/fetch/$s_!7P0s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5414b005-4c5b-4ecc-bb3b-a4fd01ac746b_400x275.gif)<hr>
+](https://substackcdn.com/image/fetch/$s_!7P0s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5414b005-4c5b-4ecc-bb3b-a4fd01ac746b_400x275.gif)---
 ## Devoting Your Life to Win the Lottery
 
 
@@ -45,7 +45,7 @@ Claude tried to take a life lesson that we all know — don’t forget the littl
 
 That was one of my first attempts. And that’s what was being created. Maybe it was not a good enough prompt? I challenge you to improve this. Even put this article as part of the prompt and try to get Claude to be funny. It doesn’t work. Claude just doesn’t get what funny is, *every* time. Because it means to have two perfect systems that collide with each other. And that’s rare. And cannot be encoded or formalized. In this case I had to find the other system. But the general mission for AI, is to find two truth systems, that collide.
 
-<hr>
+---
 ## Authority Doesn’t Work Here
 
 **Spaniards:** “…This is A-853. Please turn 15 degrees south to avoid a collision. You are heading straight for us, distance 25 nautical miles.”
@@ -62,7 +62,7 @@ That was one of my first attempts. And that’s what was being created. Maybe it
 
 **Spaniards:** “This is Juan Manuel Salas Alcantara speaking. There are two of us. We are accompanied by our dog, our dinner, two beers, and a canary that is currently asleep. We have the support of Radio Cadena Dial de La Coruña and Channel 106, Maritime Emergencies. We are not going to turn anywhere, given that we are on land and are the A-853 lighthouse of the Finisterre coast of Galicia, Spain. We have no idea what rank we are among Spanish lighthouses. You may take whatever measures you consider appropriate, and do whatever you consider necessary, to ensure the safety of your ship, which is going to smash against these rocks. We therefore once again strongly suggest that the wisest and most sensible thing for you to do is to change course 15 degrees south.”
 
-<hr>What’s going on here? This is a clash of two, perfectly encoded, truth systems. The captain is right. He has the authority and the power to divert other vessels. And the lighthouse is right. It’s his job to prevent ships from wrecking. Finding this clash though, is super rare. This cannot be codified, it’s another special case.
+---What’s going on here? This is a clash of two, perfectly encoded, truth systems. The captain is right. He has the authority and the power to divert other vessels. And the lighthouse is right. It’s his job to prevent ships from wrecking. Finding this clash though, is super rare. This cannot be codified, it’s another special case.
 
 This is exactly how a carefully designed law can produce unjust consequences. The law is good. The lawmakers were thoughtful. The system was built to prevent injustice. And still, in one particular case, with one particular set of circumstances, the law — followed correctly — produces an outcome that betrays its own purpose. Finding that case is the work of the greatest jurists. Finding the equivalent in human behavior is the work of the greatest comedians. And both require the same thing: the ability to sense the thing itself (justice, common sense, the spirit of devotion) directly, and then to perceive — with a perception that no formal check can provide — that the formal system that is supposed to encode it, law in this case, has drifted from what it’s trying to encode.
 
@@ -70,12 +70,12 @@ This is exactly how a carefully designed law can produce unjust consequences. Th
 
 The fact that comedians do it, and that us regular folk are also doing it, is exactly because life offers us many cases where that happens. Life is full of opposites clashing one in the other. That’s why comedy pairs are always made of *opposites*. You can always see a dominant guy and a passive guy. A warm guy, and a cold one. The clash makes the comedy.
 
-<hr>
+---
 ## So Why Is This Funny? The Theory of Clashing Formal Systems
 
 I claim in this article, that humor happens when two formal systems clash each other, because neither is perfect enough to describe our reality. To understand why, we need to understand what formal systems are, what they encode, and what they cannot be.
 
-<hr>
+---
 ## What Formal Systems Encode, and What They Cannot Be
 
 Every formal system encodes something bigger than itself.
@@ -92,7 +92,7 @@ These things — justice, gratitude, meaning, caring, remorse, love — cannot b
 
 This is how the oral Jewish Torah is passed. It was forbidden to write down the oral tradition (Gittin 60b) not because writing is bad but because writing creates the illusion that the encoding *is* the truth. The written text becomes an idol — the formal system mistaken for the thing it encodes. The Talmud, an ancient Jewish work discussing the Halakhic rulings, preserves dissenting opinions *not* because it cannot decide but because the thing itself (justice, holiness, the divine will) exceeds every ruling. And preserving the disagreement is the way of reminding yourself that the ruling is an encoding and not the thing. Rabbi Jonathan Sacks: “Judaism is perhaps uniquely a civilization all of whose canonical texts are anthologies of arguments.” The tradition holds its formalizations open because it knows what formalizations are: vessels, not contents. Encodings, not the encoded.
 
-<hr>
+---
 ## The Spirit Cannot Be Detected by Checking the Encoding
 
 Here is the problem, and it is the heart of everything:
@@ -111,7 +111,7 @@ And this sensing is done through the subtle, the barely perceptible, the almost-
 
 A person can sense these traces because a person, much like justice, love, and remorse, is bigger than his encoding. We all feel it. Our experience *is* before any material evidence even comes to use. It’s before we even *see* our hands, *feel* our backs. It’s the first, undeniable fact. Descartes’ “I think, therefore, I am”. And that is not our body. We can evaluate formal systems, informally, intuitively. That’s not our processing power. We can always choose to dig deeper, or stop. that’s not deterministic, and we feel it, before we even know or define what deterministic means. And we also have the ability to sense, whether justice is done, a person *is* caring, a hug is filled with love. It’s not pattern matching. It’s feeling something that’s beyond the patterns. Not always. Not perfectly. Sometimes we miss it. Sometimes a person imitates caring and we are fooled. But we *can* sense it.
 
-<hr>[- - 
+---[- - 
 
 ](https://substackcdn.com/image/fetch/$s_!aE6Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75869ca1-0bcb-4d86-820c-9c04ef6a855e_480x340.gif)
 ## The Hardest Art
@@ -124,7 +124,7 @@ The comedian does the same thing, but with every formal system humans have built
 
 And finding such a gap requires, by definition, *sensing* such a gap. A formal system cannot do this. It is exactly designed to follow formal rules, and the rules are fine.
 
-<hr>
+---
 ## AI Is Just the Encoding
 
 A large language model is, precisely and literally, a formal system. It processes inputs according to learned statistical regularities and produces outputs that maximize the probability of being correct according to its training distribution.
@@ -151,7 +151,7 @@ In the detection test, they systematically stripped jokes of surface features �
 
 When Google DeepMind asked twenty professional comedians to use AI to write material and they called the output “bland, generic, and boring”. Seinfeld, told about AI-generated comedy, said: “I’m not afraid of AI. They’ll make it smarter and smarter, but to do this, you have to make it dumber.” He was saying: what makes AI funny is his stupid mistakes. But that’s the only way it can get funnier.
 
-<hr>
+---
 ## The Illusion of Encoding the Gap
 
 There is a confusing fact about all of this, that must be addressed, because it is the most natural objection: after the gap has been found, we *can* encode it.
@@ -168,7 +168,7 @@ This is why we need a judge. Not more law. We need a judge. A human being who si
 
 So… why is AI so serious? Well, we designed it to make sense. And funny means, well, nonsense...
 
-<hr>
+---
 ## A poem to my lost AI friend
 
 We’ll conclude with a funny poem I wrote. I hope that after reading this article, you don’t have to trust me I wrote it myself.

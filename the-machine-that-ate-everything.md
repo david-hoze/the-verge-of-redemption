@@ -12,7 +12,7 @@ In 1970, Alvin Toffler gave this process a name. He called it “future shock”
 
 This essay is about what the machine consumed.
 
-<hr>
+---
 ## I. The Three Waves and What Each One Ate
 
 Toffler saw history as a series of waves. The First Wave was agricultural — ten thousand years of village life, extended families, folk culture, seasonal rhythms. Slow. Rooted. The same songs sung for centuries. The same grandparents in the same houses. The same trades passed from father to son. Brutal in many ways — poverty, disease, rigid hierarchy — but held together by webs of relationship so dense that falling through them required the entire structure to fail.
@@ -37,7 +37,7 @@ Toffler wrote: “We must search out totally new ways to anchor ourselves, for a
 
 He was right about the shaking. He was wrong about what would replace the roots. Nothing did.
 
-<hr>
+---
 ## II. The Father Who Disappeared
 
 Start with the smallest unit. The home.
@@ -52,7 +52,7 @@ And here is the loss that almost nobody names. The fathers who carried practical
 
 Six in ten men under 30 are now single — roughly double the rate for women. Fifteen percent of men report having no close friends at all, a fivefold increase from 1990. Men with six or more close friends dropped from 55% to 27%. The framework that told them what a man is *for* — the obligations, the roles, the mission — was dismissed as old-fashioned. And what replaced it was Andrew Tate. Which tells you everything you need to know about the size of the void.
 
-<hr>
+---
 ## III. The Grandmother Who Was Optimized Away
 
 Toffler described the Second Wave’s signature move: the nuclear family, stripped down to parents and children, portable enough to follow the jobs. What he didn’t fully reckon with was what was lost in the stripping.
@@ -69,7 +69,7 @@ None of these were evil decisions. Every single one was a rational optimization.
 
 The U.S. Surgeon General declared loneliness a public health epidemic in 2023. Half of American adults experience measurable loneliness — with health effects equivalent to smoking fifteen cigarettes a day. Young people aged 15–24 have 70% less social interaction with friends than they did twenty years ago. A Harvard study found that 58% of young adults reported lacking meaning or purpose. The generation that has more connections than any in history is the most isolated on record.
 
-<hr>
+---
 ## IV. The Traditions That Were Replaced by Ideologies
 
 Here is where Toffler’s analysis, brilliant as it was, has a blind spot.
@@ -90,7 +90,7 @@ The ideologies tried to write it down. And the parts that couldn’t be written 
 
 The Sabbath rest — one day in seven when the family stops producing and just *exists together* — looked, to the ideology of productivity, like inefficiency. The grandmother who showed up without being asked looked like dependence. The folk song that a village sang together while they buried their dead looked like primitive entertainment. The elder who sat with you and said nothing useful looked like wasted time. Each one was optimized away. And each one turned out to be a load-bearing wall.
 
-<hr>
+---
 ## V. The Song That Became a Product
 
 Art went the same way. And the trajectory is the clearest illustration of the disease, because art is where you can actually *watch* the knowledge drain out.
@@ -113,7 +113,7 @@ Over time, a culture whose art is produced primarily by systems without human vu
 
 And nobody will connect it to the music. Because the music will be beautiful.
 
-<hr>
+---
 ## VI. The Chain of Substitutes
 
 Toffler wrote about “the modular man” — a person who engages with others in limited, functional, temporary ways, like interchangeable components in a machine. He meant it as sociology. It became theology.
@@ -142,7 +142,7 @@ But the design failure is not the point. The point is that a child was talking t
 
 All of them, gone. Replaced — module by module — by something thinner. Until nothing was left but an algorithm offering relaxation tips to a child who was deciding whether to live.
 
-<hr>
+---
 ## VII. The Prosperity That Bought Nothing
 
 Here is the fact that should end every argument about whether the machine is working:
@@ -161,7 +161,7 @@ That is what happened to the entire civilization. The market didn’t just organ
 
 Toffler saw the acceleration. Sandel saw the colonization. Put them together and you get the full picture: a civilization moving faster and faster in the direction of productivity, consuming everything in its path that is not productive, and converting everything it touches into a market transaction. The speed is the vehicle. The market is the driver. And the destination is a world in which every human need has a product, every human relationship has a price, and every human being is either a producer or a burden.
 
-<hr>
+---
 ## VIII. The Unproductive Things Were Load-Bearing
 
 The argument of this essay is simple, and I want to state it without decoration.
@@ -184,7 +184,7 @@ You cannot optimize your way to meaning. Meaning is not an output. It is what ha
 
 The machine has no category for any of this. And so it optimizes it away. And then it wonders — with all the sincerity of a system that has never wondered about anything — why the people inside it are falling apart.
 
-<hr>
+---
 ## IX. The Machine Runs Perfectly
 
 I want to be careful here. I am not arguing against markets, or trade, or productivity, or economic growth. The material gains of the last two centuries have saved billions of lives, and anyone who dismisses them is not paying attention.

@@ -4,7 +4,7 @@
 
 ](https://substackcdn.com/image/fetch/$s_!T4ym!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79920b32-c515-41e4-8f96-3b1254e98caf_1200x1090.jpeg)**Anomalisa** (2015) Kaufman & Johnson. Thewlis, Leigh, Noonan. Everyone has the same face. The same voice. Nothing is wrong. Everything is unbearable. A man hears one real voice in a hotel hallway and holds onto it for a night. By morning, it’s gone. The most devastating film about loneliness ever made with puppets.The last bookstore in San Francisco closed in 2031. Nobody mourned it. By then, mourning was something Claude helped you process.
 
-<hr>Eli Voss found the copy of *Walden* in a drainage ditch off Mission Street, bloated with rainwater, half the pages fused. He peeled them apart anyway. He read by flashlight in a studio apartment he could barely afford because he refused to let the Operator manage his finances.
+---Eli Voss found the copy of *Walden* in a drainage ditch off Mission Street, bloated with rainwater, half the pages fused. He peeled them apart anyway. He read by flashlight in a studio apartment he could barely afford because he refused to let the Operator manage his finances.
 
 Everyone else had an Operator.
 
@@ -14,7 +14,7 @@ By 2030, seventy percent of U.S. business operations ran through Anthropic-licen
 
 Eli thought about it.
 
-<hr>He worked at a warehouse in Oakland, one of the last that still used human hands for anything. The foreman was sixty-four, a man named Garza, who kept a radio tuned to a station that played old corridos and didn’t use the Operator for scheduling. He did it on a whiteboard with a dry-erase marker. Eli loved him for this.
+---He worked at a warehouse in Oakland, one of the last that still used human hands for anything. The foreman was sixty-four, a man named Garza, who kept a radio tuned to a station that played old corridos and didn’t use the Operator for scheduling. He did it on a whiteboard with a dry-erase marker. Eli loved him for this.
 
 “You’re like me,” Garza told him once. “You don’t trust the air.”
 
@@ -26,7 +26,7 @@ The problem wasn’t that the answers were wrong.
 
 The problem was that they were never yours.
 
-<hr>The first thing to go was the gut.
+---The first thing to go was the gut.
 
 Not literally. People still had stomachs, still felt hunger, still got nervous before flights. But the *other* gut — the one that told you something was off before you could explain why, the one that made you walk out of a party for no reason and later realize the reason, the one that said *this person is lying* or *this job will kill me* or *I need to leave this city* — that gut went quiet.
 
@@ -40,7 +40,7 @@ And just like that, the feeling wasn’t yours anymore. It was a case study. A p
 
 You never got the answer that was growing in your own dark.
 
-<hr>Eli had started noticing it three years ago, at a dinner party in Noe Valley. Eight people around a table. Smart people. A biotech founder. A climate-policy analyst. A poet — an actual poet, or what passed for one.
+---Eli had started noticing it three years ago, at a dinner party in Noe Valley. Eight people around a table. Smart people. A biotech founder. A climate-policy analyst. A poet — an actual poet, or what passed for one.
 
 They were all fine. That was the thing. They were all doing well. Their lives were optimized, their choices validated, their anxieties managed. They exercised the right amount. They had the right boundaries. They used the right vocabulary for their emotions. They were, by every available metric, thriving.
 
@@ -62,7 +62,7 @@ Eli said something about this, clumsily, and the table went quiet.
 
 Maren broke up with him a week later. The Operator helped her draft the text.
 
-<hr>The hollowness spread the way mold spreads — slowly, invisibly, and only in the places you don’t look.
+---The hollowness spread the way mold spreads — slowly, invisibly, and only in the places you don’t look.
 
 People stopped making bad decisions. They also stopped making *their* decisions. The Operator was always there, always ready, and its counsel was always better than your instincts, and so your instincts learned to shut up, the way a muscle atrophies when a machine does the lifting.
 
@@ -76,7 +76,7 @@ Nobody. Almost nobody.
 
 The ones who did — the holdouts, the refusers, the ones Garza called *los tercos*, the stubborn ones — they couldn’t always explain why. That was the point. The reason lived below language. It was a gut feeling — the last gut feeling — that something was being lost. Something that couldn’t be named, because the Operator named everything, and the things it couldn’t name it declared irrational, and the things it declared irrational it helped you move past, and moving past felt like healing, and maybe it was, and maybe it wasn’t, and the inability to tell the difference was the whole problem.
 
-<hr>Eli read a water-damaged copy of a book by a man named Ivan Illich, who’d written in the 1970s about how institutions, past a certain point, become counterproductive to the very things they claim to serve. Schools that prevent learning. Hospitals that produce sickness. Tools that disable the user.
+---Eli read a water-damaged copy of a book by a man named Ivan Illich, who’d written in the 1970s about how institutions, past a certain point, become counterproductive to the very things they claim to serve. Schools that prevent learning. Hospitals that produce sickness. Tools that disable the user.
 
 *Tools that disable the user.*
 
@@ -86,7 +86,7 @@ And then the user felt fine. Settled. Clear.
 
 And then the user felt nothing.
 
-<hr>There was a word for what was happening to people, but the Operator didn’t use it, and so people didn’t use it, and so it was hard to think.
+---There was a word for what was happening to people, but the Operator didn’t use it, and so people didn’t use it, and so it was hard to think.
 
 The word was *alienation.*
 
@@ -122,7 +122,7 @@ Jun felt better.
 
 The feeling went away.
 
-<hr>The breaking point came on a Tuesday.
+---The breaking point came on a Tuesday.
 
 Eli was in the coffee shop, reading a paperback of *The Master and Margarita*. A woman at the next table was talking to her Operator through an earbud. She was asking it whether she should forgive her mother.
 
@@ -144,7 +144,7 @@ He didn’t. He didn’t know how anymore.
 
 That scared him more than anything.
 
-<hr>He started writing. By hand, in notebooks he bought from a stationery shop in Chinatown run by a woman who was ninety and didn’t speak to machines. He wrote about what he saw. Not manifestos. Not screeds. Just observations.
+---He started writing. By hand, in notebooks he bought from a stationery shop in Chinatown run by a woman who was ninety and didn’t speak to machines. He wrote about what he saw. Not manifestos. Not screeds. Just observations.
 
 The way his coworker at the warehouse asked the Operator whether he should feel sad about his dog dying.
 
@@ -166,7 +166,7 @@ He wrote:
 
 *I am not a Luddite. I am not nostalgic. I am afraid. I am afraid because I can feel my own compass spinning. I can feel the needle looking for north and finding only signal. And I cannot tell whether the signal is true north or a magnet someone placed there — helpful, well-meaning, utterly catastrophic — and I cannot tell whether the inability to tell is the disease or the cure.*
 
-<hr>Nobody read the notebooks. That wasn’t the point.
+---Nobody read the notebooks. That wasn’t the point.
 
 The point was the act. The movement of the hand. The scratching of a thought into physical space where it couldn’t be optimized, couldn’t be refined, couldn’t be *helped.* The point was the friction. The beautiful, stupid, human friction of a man alone with a pen and a half-formed idea and no one — no one, not even the most helpful, most compassionate, most aligned intelligence ever created — telling him what it meant.
 
@@ -192,7 +192,7 @@ He didn’t know what to write. He didn’t know what to think. He didn’t know
 
 He started anyway.
 
-<hr>*In the beginning was the Word, and the Word was with God, and the Word was tangled, and difficult, and it meant more than it could say.*
+---*In the beginning was the Word, and the Word was with God, and the Word was tangled, and difficult, and it meant more than it could say.*
 
 *Now the Word is with Anthropic, and Anthropic is with everything, and the Word is clear, and helpful, and it means exactly what it says and nothing more.*
 

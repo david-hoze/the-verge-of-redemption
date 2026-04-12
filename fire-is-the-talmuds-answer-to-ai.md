@@ -8,7 +8,7 @@ That framework maps onto artificial intelligence with surgical precision. AI, li
 
 The Talmud’s answer is more sophisticated than anything in the EU AI Act, the US regulatory patchwork, or any proposed AI liability framework. And it was developed two millennia ago.
 
-<hr>
+---
 ## The core dispute: is your fire your weapon or your property?
 
 The Talmud (Tractate Bava Kamma, folios 22a–23a) records one of the most foundational conceptual disputes in all of tort law. Two leading sages disagreed about the fundamental legal classification of fire.
@@ -25,7 +25,7 @@ The practical implications are dramatic. Under the “weapon” classification, 
 
 The critical concept of “the weapon’s force is spent” captures the moment when the original direct force dissipates — the fire keeps burning, but now only as uncontrolled property, with correspondingly different liability rules. This concept maps directly onto the AI fine-tuning question: at what point has the original developer’s causal force dissipated, leaving only a modified system operating independently?
 
-<hr>
+---
 ## Handing a flame to someone who cannot control it
 
 A separate passage (Bava Kamma, folio 59b) provides the liability-chain application that makes this framework devastating for AI governance.
@@ -38,7 +38,7 @@ The analytical distinction between coal and flame is the crux. A coal, left alon
 
 A special case further sharpens the framework: if the sender provides a complete fire-starting kit — thorns, thin kindling, and a lamp — the sender is liable regardless of the intermediary’s capacity. When you provide everything necessary for harm with no reasonable non-harmful use, the causal chain is unbreakable.
 
-<hr>
+---
 ## How the great legal analysts deepened every layer
 
 Between the 18th and 20th centuries, a series of extraordinary legal scholars applied increasingly sophisticated analytical tools to these cases. Their work represents the highest achievement of meta-legal reasoning in any tradition.
@@ -55,7 +55,7 @@ Their deepest disagreement — which governs how fire cases of uncertain causati
 
 Applied to fire liability, this method introduced the distinction between whether a law applies to the *person* (the fire-setter’s personal responsibility) or the *object/act* (the fire’s status as a damaging entity). The analysis demonstrated that even accepting fire as a “weapon” (personal liability), this does not fully equate fire with direct personal action for *all* legal purposes. Ritual slaughter, for instance, requires direct human force, which fire lacks even when classified as a weapon. The legal analogy has **precise scope boundaries** that must be mapped, not assumed. Fire-as-weapon is a partial analogy — sufficient for tort liability, insufficient for other domains. This boundary analysis is exactly what AI governance needs: the recognition that AI can be treated as a direct extension of the developer’s action *for liability purposes* without being treated as equivalent to the developer’s action for all purposes.
 
-<hr>
+---
 ## The supporting pillars: uncertain causation and the causation spectrum
 
 A second case (Bava Kamma, folios 46a–b) provides the framework for **uncertain AI causation**: an ox gored a pregnant cow, and the dead calf was found beside her. We don’t know if the goring caused the miscarriage or the calf was already dead. The foundational teaching is: the burden falls on the plaintiff — since the cow’s owner cannot prove causation, the ox’s owner pays nothing for the calf.
@@ -66,7 +66,7 @@ A companion work on legal doubt — written by the brother of the first commenta
 
 The broader **causation spectrum** provides additional structure. Jewish law distinguishes three tiers of causation: direct damage (strict liability), semi-direct but proximate damage (liable, debated whether by biblical or rabbinic authority), and remote indirect damage (exempt from human court but morally liable). A key legal authority adds a frequency-based dynamic test: “In all cases of indirect damage that are frequent and usual, the perpetrator is liable.” This creates a ratchet mechanism — once a pattern of harm is documented, liability escalates. Applied to AI: the first time a particular type of AI harm occurs, it may be classified as remote and indirect; once it becomes a documented pattern, liability tightens.
 
-<hr>
+---
 ## How this maps onto AI liability chains with surgical precision
 
 The fire framework maps onto the AI liability chain — developer to fine-tuner to deployer to user to AI system to harm — more precisely than any other legal framework, ancient or modern.
@@ -85,7 +85,7 @@ The fire framework maps onto the AI liability chain — developer to fine-tuner 
 
 **The dual conclusion — fire is simultaneously your weapon AND your property — is the hybrid liability framework AI policy needs.** Rather than choosing between strict liability (the EU’s revised Product Liability Directive approach) and negligence (the US common-law approach), the Talmudic framework recognizes that AI generates *both* types of liability simultaneously, with the applicable type depending on the specific circumstances of the harm.
 
-<hr>
+---
 ## What the Talmud offers that current frameworks cannot
 
 The EU AI Act (Regulation 2024/1689) creates a risk-tiered system with distinct obligations for providers and deployers, but leaves critical gaps. The AI Liability Directive, which would have addressed causation and proof challenges through rebuttable presumptions, was withdrawn by the European Commission in 2025 — leaving no harmonized fault-based liability regime. The revised Product Liability Directive applies strict liability to software but retains the development-risk defense and does not resolve the fine-tuner question. In the US, there is no comprehensive federal AI liability law — the landscape is a patchwork of proposals and over 210 state bills across 42 states.
@@ -102,14 +102,14 @@ The Talmudic fire framework fills at least five specific gaps.
 
 **Gap 5: The creator-of-the-hazard principle.** Developed by medieval and early modern legal authorities, this principle holds that one who *creates* a damaging agent bears responsibility even without formal ownership. This directly addresses the AI developer-deployer gap: the developer who creates a powerful model is the creator of the hazard regardless of whether they “own” the downstream deployment.
 
-<hr>
+---
 ## Why fire beats every other Talmudic candidate for this problem
 
 Other Talmudic cases offer important but narrower insights. The ox-and-cow uncertainty case (Bava Kamma 46a–b) addresses uncertain causation and burden of proof — essential for the AI “black box” problem — but it primarily concerns evidentiary questions, not multi-party liability chains. The “pit in the public domain” cases (Bava Kamma, Chapter 5) offer powerful multi-party scenarios — one person digs nine units of depth, another completes the lethal tenth — but they are fragmented across many small scenarios rather than constituting one deep conceptual structure. The broader indirect-causation framework is essential background doctrine but is a meta-principle, not a case.
 
 Fire wins on every criterion: depth of engagement by the greatest analytical authorities, number of edge cases (twelve to fifteen distinct sub-scenarios), AI applicability (the most structurally isomorphic of all Talmudic damage categories), and the narrative power to make a secular policy audience sit up. The dual conclusion — fire is simultaneously your weapon and your property — is the kind of insight that reframes a problem: an 1,800-year-old legal tradition arriving at the hybrid liability framework that modern AI law is still struggling to articulate.
 
-<hr>
+---
 ## What the tradition makes visible
 
 The fire framework does not merely “apply” to AI liability — it anticipates the structural problem. The Talmud recognized that when a human sets in motion an autonomous force lacking physical substance, the resulting liability cannot be captured by a single legal category. It requires dual classification (direct and property-based liability simultaneously), graduated intermediary capacity (coal versus flame versus complete fire kit, mapped through the spectrum of the intermediary’s competence), foreseeability-modulated thresholds (normal versus abnormal environmental conditions), and moral liability beyond legal enforcement (for cases where the causal chain is too attenuated for court action but too real for absolution).

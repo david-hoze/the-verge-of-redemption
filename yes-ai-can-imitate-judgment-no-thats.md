@@ -5,13 +5,13 @@
 ](https://substackcdn.com/image/fetch/$s_!n0yE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be8f1b1-f59f-497c-b8cf-dd8a6b41d742_1920x750.jpeg)
 ### A response to Steven Adler’s “Clear-Eyed AI”
 
-<hr>Steven Adler, an ex-OpenAI safety researcher whose work I respect, recently published an article arguing that judgment is not uniquely human — that AI already demonstrates it, that people who claim otherwise are romanticizing humanity, and that we should stop asserting false limits about what machines can do.
+---Steven Adler, an ex-OpenAI safety researcher whose work I respect, recently published an article arguing that judgment is not uniquely human — that AI already demonstrates it, that people who claim otherwise are romanticizing humanity, and that we should stop asserting false limits about what machines can do.
 
 His evidence is impressive. His conclusion is wrong. And the reason it’s wrong cuts deeper than he seems to realize — into the foundations of what judgment actually is, what it requires, and why a deterministic system cannot have it no matter how convincingly it performs.
 
 Thanks for reading! Subscribe for free to receive new posts and support my work.
 
-<hr>
+---
 ## What Adler Gets Right
 
 Let’s be honest about the data, because intellectual honesty matters more than comfort.
@@ -24,7 +24,7 @@ So yes — AI produces outputs that humans rate as displaying judgment, empathy,
 
 Adler treats this as proof that AI *has* judgment. I think it proves something entirely different: that judgment, like consciousness, cannot be identified from the outside.
 
-<hr>
+---
 ## The Free Will Problem
 
 Here is the argument Adler never engages with, because his framework has no room for it.
@@ -39,7 +39,7 @@ In every instance, judgment requires *flexibility* — the capacity to step outs
 
 This capacity is precisely what a formal system cannot have.
 
-<hr>
+---
 ## Why Determinism Disqualifies
 
 AI is a formal system. This is not a contested philosophical claim — it is a description of how the technology works. A large language model is a deterministic function: given the same input and the same random seed, it will produce the same output every time. The outputs are generated through matrix multiplications and probability distributions over tokens. The system does not *choose* its next word. It computes it.
@@ -52,7 +52,7 @@ A formal system operates within its axioms. It can be extraordinarily sophistica
 
 That is what free will is. And that is what AI does not have.
 
-<hr>
+---
 ## The Consciousness Parallel
 
 There is a growing philosophical movement — represented in academic journals, at Oxford and Cambridge, in the pages of *Springer AI Ethics* and the *Journal of Religious Ethics* — arguing that AI does not have consciousness. The argument relies heavily on first-person experience as evidence. We know consciousness exists because we experience it directly. No behavioral test, no Turing test, no external measurement can substitute for the fact that there is *something it is like* to be you. And since AI has no first-person experience (or if it does, we have no access to it and no reason to believe it), the most parsimonious conclusion is that AI does not have consciousness — regardless of how convincingly it performs conscious behavior.
@@ -63,7 +63,7 @@ You know you have free will because you exercise it. Right now, reading this sen
 
 The emerging philosophical consensus on consciousness — that first-person experience is real, irreducible, and not equivalent to functional imitation — applies with equal force to free will. And without free will, there is no judgment. There is only very good prediction.
 
-<hr>
+---
 ## The Golem Knew
 
 The Jewish tradition understood this distinction two thousand years before anyone built a neural network.
@@ -78,7 +78,7 @@ The theological framework goes deeper. Judaism distinguishes between *yesh me’
 
 Rabbi Dr. Mois Navon — a founding engineer of Mobileye who designed the EyeQ chip powering autonomous vehicles, and who holds a PhD in Jewish Philosophy — has argued from halakhic grounds that the creation of conscious humanoid robots is *categorically prohibited*. Not merely inadvisable. Categorically prohibited. The tradition draws a line that the tech industry refuses to see.
 
-<hr>
+---
 ## Why the Survey Data Doesn’t Prove What Adler Thinks It Proves
 
 Return to Adler’s evidence. Eleven thousand people couldn’t tell AI art from human art. People rated AI’s ethical reasoning higher than a professional columnist’s. Healthcare workers preferred AI responses to physician responses.
@@ -91,7 +91,7 @@ This tells us something important about the *outputs*. It tells us nothing about
 
 The novelist Vauhini Vara found that even her close friends couldn’t distinguish her writing from AI-generated prose. Adler presents this as evidence that human taste is overrated. I think it’s evidence that we’ve trained people to evaluate writing as product rather than as expression — and that in a culture where everything is content, nobody can tell the difference between a voice and an echo, because they’ve forgotten what a voice sounds like.
 
-<hr>
+---
 ## The One-Level-Higher Problem Is Real — Because It’s Not About Skills
 
 Adler identifies a pattern he calls the “one-level-higher” hypothesis: that whatever AI can do, humans will still be needed one rung up the value chain. Routine analysis gets automated, so humans will “synthesize across domains.” That gets automated, so humans will “decide whether an analysis is trustworthy.” And so on.
@@ -110,7 +110,7 @@ The Talmud’s story of the Oven of Akhnai (Bava Metzia 59b) encodes this princi
 
 This is judgment. Not because the rabbis computed the right answer. But because they *chose* to take responsibility for the law — to stand as free agents before the system and say: *we* will decide. That act of taking responsibility — of placing yourself as a moral agent above the mechanism — is what AI cannot do. Not because it lacks the processing power. Because it lacks the *self*.
 
-<hr>
+---
 ## A Civilization Without Judgment Building Machines That Imitate It
 
 Here is the deeper problem, and it is not about AI at all.
@@ -129,7 +129,7 @@ Deaths of despair tripled among middle-aged Americans in twenty-five years. The 
 
 This is not a civilization exercising judgment. This is a civilization running on autopilot — and now building machines to automate the autopilot.
 
-<hr>
+---
 ## The Goalposts Are Not Moving. They Were Always in the Same Place.
 
 Adler frames the history of AI skepticism as a story of moving goalposts. Chess, Go, poker, the International Mathematical Olympiad — skeptics said AI couldn’t do each one, and AI did it anyway. The implication is that every claimed limit will eventually fall.
@@ -144,7 +144,7 @@ The Jewish tradition locates the goalpost precisely: *da’at*. Not information,
 
 Ira Wolfson’s 2025 Springer paper on AI consciousness research constructed a Talmudic framework precisely because the tradition “was developed specifically for making practical decisions about entities whose moral status cannot be definitively established.” The tradition does not dismiss the question of machine consciousness or agency — it takes it with devastating seriousness. And its conclusion, refined across two thousand years of rigorous moral reasoning, is that an entity created through *yesh mi’yesh* — from existing material, by human hands — can possess extraordinary capabilities and still lack the one thing that matters most.
 
-<hr>
+---
 ## What This Means — Practically
 
 I want to be concrete, because this is not an abstract debate.
@@ -161,7 +161,7 @@ Then you have a world where no one is responsible for anything. Not the machine,
 
 That is the world Adler’s argument builds toward — not by intention, but by implication. And it is the world we must refuse.
 
-<hr>
+---
 ## The Question That Was Always the Question
 
 Adler ends his piece by saying: *To shape the future we want, it’s better to clearly acknowledge the abilities that AI may soon have — and then consciously decide where we prefer humans anyway.*
@@ -178,7 +178,7 @@ Judgment is not a skill AI is learning. It is a capacity AI is imitating. And th
 
 The machines are getting smarter every day. That is not the problem. The problem is that a civilization which cannot tell the difference between *judgment* and its *imitation* is a civilization that has already lost the thing it claims to be protecting. And no amount of computational power will get it back.
 
-<hr>*The author’s previous work includes “The Bridge Nobody Is Building,” “The sound you Aren’t Hearing”*
+---*The author’s previous work includes “The Bridge Nobody Is Building,” “The sound you Aren’t Hearing”*
 
 Thanks for reading! Subscribe for free to receive new posts and support my work.
 

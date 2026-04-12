@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+
+# Misc personal files
+misc/
+
+# Test files
+test_write.idr
+
+# Obsidian session state
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/appearance.json

@@ -8,11 +8,11 @@ It’s clean. It’s actionable. It’s the kind of argument that wins applause 
 
 And it gets the arrow backwards.
 
-<hr>The strongest version of this argument leans on history. Every revolution, every resistance movement, every great political achievement started with people organizing around an existential threat. The French Resistance. The civil rights movement. The American Revolution. Survival got them in the room. The meaning came later — emerging through the coordination itself, not before it.
+---The strongest version of this argument leans on history. Every revolution, every resistance movement, every great political achievement started with people organizing around an existential threat. The French Resistance. The civil rights movement. The American Revolution. Survival got them in the room. The meaning came later — emerging through the coordination itself, not before it.
 
 This sounds right. But look at the examples more carefully.
 
-<hr>The French Resistance didn’t organize around survival in the abstract. They organized around *France*. The culture. The language. The history. The identity that made the place worth dying for. If France had been an empty governance structure with efficient bureaucracy and no soul, nobody would have risked their life to save it.
+---The French Resistance didn’t organize around survival in the abstract. They organized around *France*. The culture. The language. The history. The identity that made the place worth dying for. If France had been an empty governance structure with efficient bureaucracy and no soul, nobody would have risked their life to save it.
 
 People don’t throw themselves in front of tanks for coordination systems. They do it for something that already means something to them.
 
@@ -28,11 +28,11 @@ But read the Declaration. “We hold these truths to be self-evident, that all m
 
 That’s not meaning emerging from coordination. That’s meaning declared as the *foundation* of coordination. Whatever Jefferson’s private beliefs — and he was complicated — the document he wrote makes a theological claim about the nature of human beings. The colonists didn’t build a system and then discover it stood for something. They declared what people are worth, and then built a system to protect that declaration. The conviction didn’t come from the war. It came from traditions the colonists carried with them — traditions that already knew what people were worth before anyone fired a shot.
 
-<hr>In every case, the survival threat activated meaning that was already present. The danger didn’t generate the meaning. It revealed what was load-bearing.
+---In every case, the survival threat activated meaning that was already present. The danger didn’t generate the meaning. It revealed what was load-bearing.
 
 Which raises the question the coordination-first theory cannot answer: what happens when the fire comes and there’s no architecture underneath?
 
-<hr>Over two hundred US military commanders have been reported telling their troops that the war in Iran is part of God’s divine plan to bring about Armageddon. Defense Secretary Hegseth has Crusader iconography tattooed on his body and prays at the Pentagon for “overwhelming violence of action against those who deserve no mercy.” On the other side, a theocracy built on Shia millenarianism acts against its own survival because its eschatology demands it.
+---Over two hundred US military commanders have been reported telling their troops that the war in Iran is part of God’s divine plan to bring about Armageddon. Defense Secretary Hegseth has Crusader iconography tattooed on his body and prays at the Pentagon for “overwhelming violence of action against those who deserve no mercy.” On the other side, a theocracy built on Shia millenarianism acts against its own survival because its eschatology demands it.
 
 This is not a coordination failure. Both sides are coordinating brilliantly. They are coordinating toward the apocalypse.
 
@@ -42,7 +42,7 @@ If you’re not opinionated about life’s purpose, someone else will be. That�
 
 Dispensationalist premillennialism — a 19th-century American invention — treats war with Persia not as a tragedy to prevent but as a prophetic requirement to fulfill. It didn’t emerge because governance was too slow. It emerged because a civilization stopped answering the question of what life is for, and left the floor open for anyone with an answer — however monstrous.
 
-<hr>The coordination-first theorist has a comeback: you can’t engineer meaning top-down. You can’t pass a law that gives people a reason to live. Coordination is the only thing you can actually build. Build it, and meaning will follow.
+---The coordination-first theorist has a comeback: you can’t engineer meaning top-down. You can’t pass a law that gives people a reason to live. Coordination is the only thing you can actually build. Build it, and meaning will follow.
 
 But we’ve already run this experiment. The results are in.
 
@@ -54,7 +54,7 @@ Half of American adults report measurable loneliness, with health effects equiva
 
 The system works. Nobody can tell you what it’s working *toward*.
 
-<hr>One last move remains for the coordination-first camp. When institutions degrade, trust collapses, and meaning collapses with it. Fix the institutions, restore the trust, and the meaning returns. The meaning crisis is downstream of institutional failure.
+---One last move remains for the coordination-first camp. When institutions degrade, trust collapses, and meaning collapses with it. Fix the institutions, restore the trust, and the meaning returns. The meaning crisis is downstream of institutional failure.
 
 But the arrow runs the other way. And the data shows it.
 
@@ -66,7 +66,7 @@ Robert Putnam documented the broader pattern in *Bowling Alone*. Social capital 
 
 The meaning drained first. The institutions hollowed out after. And into the empty buildings walked whoever showed up with an answer — any answer — to the question the culture had declared unanswerable.
 
-<hr>The French Resistance had France. The civil rights movement had the image of God in every human being. The American founders had “endowed by their Creator.” Each of these was a meaning structure that preceded the coordination, survived the crisis, and gave the coordination its direction.
+---The French Resistance had France. The civil rights movement had the image of God in every human being. The American founders had “endowed by their Creator.” Each of these was a meaning structure that preceded the coordination, survived the crisis, and gave the coordination its direction.
 
 What do we have?
 

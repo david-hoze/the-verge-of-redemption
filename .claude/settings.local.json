@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node /home/natanh/Adam/eden-idris/shamash-hook.js",
+            "timeout": 10000
+          }
+        ]
+      }
+    ]
+  }
+}

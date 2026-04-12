@@ -10,7 +10,7 @@ And yet you know — with a certainty that dwarfs your confidence in most empiri
 
 This gap — between the unshakeable confidence of basic moral knowledge and the persistent inability of formal disciplines to ground it — is the starting point of this essay. The thesis is simple, and old, and increasingly urgent: philosophy and science are not the right tools for answering moral questions, not because they are bad tools, but because they are structurally limited in ways that make the task impossible. The real repositories of moral knowledge are the ancient moral traditions that have carried human civilization for millennia. And the modern impulse to discard those traditions because they cannot survive philosophical cross-examination is not enlightenment. It is epistemological suicide.
 
-<hr>
+---
 ## I. The Philosophical Deadlock
 
 Moral philosophy has been running for roughly 2,500 years in the Western tradition, and considerably longer if we count its antecedents in Mesopotamian, Egyptian, and Indic thought. In all that time, it has not produced consensus on a single foundational question.
@@ -27,7 +27,7 @@ This is not a failure of intelligence or effort. The people who have worked on t
 
 The standard response from within philosophy is that the deadlock is productive — that the conversation itself refines our understanding, even if it never terminates. There is some truth in this. But there is also an unexamined assumption: that moral knowledge must take the form of philosophical propositions to count as knowledge at all. What if the deadlock is not a sign that the answers are elusive, but a sign that the questions are being asked in the wrong language?
 
-<hr>
+---
 ## II. The Scientific Boundary
 
 If philosophy cannot settle moral questions, perhaps science can. This hope has animated various intellectual movements — from Auguste Comte’s positivism in the nineteenth century to Sam Harris’s *The Moral Landscape* in the twenty-first. The intuition is natural: science is humanity’s most successful knowledge-generating enterprise. It has decoded the genome, split the atom, and mapped the cosmic microwave background. Surely it can tell us how to live.
@@ -46,7 +46,7 @@ Some have tried to get around this through evolutionary psychology — arguing t
 
 The scientific boundary is not a limitation to be overcome. It is a feature of what science is. Asking science to ground morality is like asking a telescope to taste wine. The instrument is magnificent. It is simply pointed at the wrong domain.
 
-<hr>
+---
 ## III. The Philosophical Boundary — Less Obvious, More Important
 
 The limitation of science is well-known, even if frequently ignored. The limitation of philosophy is subtler, more controversial, and ultimately more consequential.
@@ -69,7 +69,7 @@ The intuitions are real. But they are not the kind of thing that philosophy can 
 
 This is the limitation that matters. Science cannot enter the moral domain at all. Philosophy can enter it but cannot reach the bottom. The foundations of moral knowledge are pre-philosophical — not in the sense of being primitive, but in the sense of being prior. They are the ground on which philosophy stands, not the building it constructs.
 
-<hr>
+---
 ## IV. What Traditions Actually Do
 
 If the foundations of moral knowledge are pre-philosophical — if they are intuitions that resist full articulation and cannot be derived from either empirical data or logical argument — then the question becomes: where are these intuitions preserved, transmitted, and refined?
@@ -92,7 +92,7 @@ Consider what a mature moral tradition contains:
 
 What traditions are doing, at a structural level, is carrying forward a body of moral knowledge that is too complex, too context-sensitive, and too dependent on cultivated perception to be reduced to a set of explicit propositions. They are the institutional memory of moral civilization. And the fact that they cannot be philosophically “justified” from the ground up is not a deficiency — it is a reflection of the kind of knowledge they carry.
 
-<hr>
+---
 ## V. The Convergence Argument
 
 A common objection to relying on moral traditions is that they disagree with each other. If traditions are the repository of moral knowledge, which tradition is right? Doesn’t the existence of conflicting traditions prove that they are culturally relative rather than genuinely tracking moral truth?
@@ -107,7 +107,7 @@ The analogy to perception is useful here. Different people, looking at the same 
 
 The deepest convergence is not at the level of specific rules but at the level of what might be called moral seriousness — the shared conviction that how we treat each other matters, that some actions are genuinely wrong regardless of what we feel about them, that human beings have obligations they did not choose and cannot discard. This conviction is so widespread, so persistent, and so independent of local cultural conditions that dismissing it as a contingent evolutionary artifact requires ignoring the testimony of virtually every civilization that has existed.
 
-<hr>
+---
 ## VI. The Modern Danger
 
 We are living through an experiment: what happens when a civilization decides that moral traditions are obsolete and that morality can be rebuilt from scratch using the tools of philosophy and science?
@@ -124,7 +124,7 @@ The consequences are visible in every domain. In bioethics, we cannot agree on t
 
 The pattern is consistent: when you remove the moral traditions and try to rebuild from “reason alone,” you do not get a more rational morality. You get moral paralysis on questions that matter and moral confidence only on questions that don’t.
 
-<hr>
+---
 ## VII. The Objections
 
 Several objections to this argument are serious enough to deserve direct responses.
@@ -141,7 +141,7 @@ The right response to oppressive elements within traditions is not to discard tr
 
 **“This is just an appeal to authority.”** It is an appeal to a specific kind of authority — the authority of accumulated experience. This is not the same as blind deference to whoever happens to be in charge. It is the recognition that some kinds of knowledge are inherently cumulative and communal — that no individual, however brilliant, can replicate in a lifetime what a tradition produces over millennia. We accept this in every other domain. No one thinks they can reinvent mathematics from scratch. No one thinks their personal experience of disease is a substitute for the accumulated knowledge of medicine. The insistence that every individual must independently derive their moral framework from first principles is an anomaly — a demand we make in no other area of knowledge.
 
-<hr>
+---
 ## VIII. The Humility We Need
 
 The deepest point of this essay is epistemological, not moral. It is about what kinds of knowledge exist and how they are transmitted.

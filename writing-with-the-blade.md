@@ -10,7 +10,7 @@ So this piece is about directing AI the way you’d direct a very talented, very
 
 You can stop them.
 
-<hr>
+---
 ## The General Principle
 
 AI writes in a mode of *explanation by default*. It was trained on text that explains. Its instinct is to make sure you understood. Your job, as the one directing it, is to reverse that instinct — to teach it, conversation by conversation, what to leave out.
@@ -23,14 +23,14 @@ The AI will not be offended. It will not argue. It will internalize your directi
 
 The hard part is knowing what you want.
 
-<hr>
+---
 ## For Mythical Writing: Eleven Rules
 
 What follows is a set of principles I developed over the course of writing a single mythical story with AI — a story that drew on Rabbi Nachman’s tales, on the language of Fox and Feather, on prophetic sources, and on the specific grief of a woman watching a man she loves become a shadow of himself. The AI drafted. I directed. Every rule below came from a specific moment where the AI did something that broke the world of the story, and I had to name why.
 
 These rules are not universal. They are for a specific kind of writing — myth, allegory, sacred fiction, the kind of prose that builds a world and asks the reader to live inside it. If you are writing a blog post or a business memo, most of this will not apply. If you are writing something that has candles in it, read on.
 
-<hr>**1. Never explain what you can show.** If the reader can feel it, don’t name it. A face they almost recognized is stronger than a face identified.
+---**1. Never explain what you can show.** If the reader can feel it, don’t name it. A face they almost recognized is stronger than a face identified.
 
 **2. The world has its own vocabulary.** If a word couldn’t be spoken inside the story, it doesn’t belong. Every word that breaks the world costs more than the clarity it buys.
 
@@ -52,7 +52,7 @@ These rules are not universal. They are for a specific kind of writing — myth,
 
 **11. Trust the reader.** They will see what you’ve hidden if you build the shape right. The moment you label it, you’ve traded a living thing for a tag.
 
-<hr>
+---
 ## How to Apply These in Practice
 
 You can hand the AI these rules at the start. Paste them into the conversation before the first draft and the AI will internalize them — it will produce cleaner output from the beginning, with fewer of the habits you’d otherwise spend an hour cutting.
@@ -77,7 +77,7 @@ Some practical patterns:
 
 **The trust test.** For every passage, ask: am I explaining because the reader needs it, or because I’m afraid they won’t get it? If the second — cut. Build the shape right and they will see what you’ve hidden. That is the contract between a mythical writer and a reader. Honor it.
 
-<hr>
+---
 ## What the AI Is Good At
 
 This is not a piece about AI’s limitations. The AI is extraordinary at mythical writing — once directed. It can hold a voice for thousands of words. It can weave source material into allegory without losing the thread. It can produce the kind of dense, rhythmic, image-driven prose that mythical writing requires — prose where every sentence carries weight and every paragraph shifts the world.
@@ -88,5 +88,5 @@ That is your job.
 
 The AI is the forge. You are the one who decides what shape the blade takes. And the blade — if you are patient, if you are precise, if you know what world you are building and refuse to let it break — the blade will cut.
 
-<hr>*— David Hoze, who learned these rules the hard way, by breaking every one of them first.*
+---*— David Hoze, who learned these rules the hard way, by breaking every one of them first.*
 

@@ -8,7 +8,7 @@ It’s a brave piece. She implicates herself. She names real damage. And she’s
 
 But she’s looking at the branch and calling it the root.
 
-<hr>
+---
 ## The Void Was Already There
 
 The spirituality and wellness industry didn’t create this crisis. It *is* the crisis — or rather, it’s one of its most visible symptoms. A six-trillion-dollar marketplace built on selling people back the meaning their civilization stripped away from them.
@@ -23,7 +23,7 @@ Nothing except the marketplace. The guru. The weekend certification. The influen
 
 Chasse asks how the wellness industry produced this culture. She has it backwards. This culture produced the wellness industry. Millions of people were starving for meaning in a civilization that had stopped providing any, and a six-trillion-dollar industry arose to sell them substitutes. The question isn’t why the substitutes didn’t work. The question is why so many people were desperate enough to buy them.
 
-<hr>
+---
 ## The Distrust She Condemns Is Earned
 
 Chasse identifies a narrative inside the wellness world: *Don’t trust institutions. Don’t trust science. Don’t trust medicine. Don’t trust the government.* She frames this as irrational conditioning — people being “primed to reject traditional authority” by gurus and influencers, which made them vulnerable to political manipulation.
@@ -36,7 +36,7 @@ People didn’t distrust institutions because Deepak Chopra told them to. They d
 
 If you think the problem is that people were irrationally conditioned to distrust authority, your solution is better marketing — more credible spokespeople, more polished messaging, more trust-building campaigns. If you understand that the institutions actually failed — that the science actually doesn’t replicate, that the pharmaceutical companies actually committed fraud, that the government actually did lose the plot — then the solution is something much harder. You have to rebuild the institutions themselves. Not their image. Their substance.
 
-<hr>
+---
 ## The Guru Problem Is Real — and It’s Everywhere
 
 Where Chasse is right — genuinely, importantly right — is about the personality-driven authority structure. She describes how complex spiritual ideas got flattened into charismatic performance: smooth talkers presented as experts, confidence replacing competence, audiences told they’re part of an enlightened minority who finally understand the truth.
@@ -53,7 +53,7 @@ The weekend certification that produces “masters” after forty hours of train
 
 Chasse is identifying a disease and calling it a wellness industry problem. It’s a *civilization* problem. The optimization of the measurable — charisma, revenue, followers, engagement — at the expense of the unmeasurable — wisdom, accountability, truth, genuine transformation. Same disease. Every organ.
 
-<hr>
+---
 ## What Was Supposed to Be There Instead?
 
 And this is where the essay stops and the real question begins.
@@ -70,7 +70,7 @@ A person who is spending all day doing something that has nothing to do with the
 
 The wellness industry is not the cause of this. It is the symptom. And diagnosing a symptom, however accurately, does not cure the disease.
 
-<hr>
+---
 ## The Mirror Nobody Wants to Look Into
 
 Chasse writes: “If we have spent decades telling people they create their reality, and this is the reality we have collectively created, then it’s hard to avoid a very uncomfortable conclusion.”
@@ -87,7 +87,7 @@ A six-trillion-dollar industry selling meaning to people who have none is not th
 
 It’s the fever. And the fever is telling you the body is fighting for its life.
 
-<hr>
+---
 ### Sources
 
 - Case & Deaton, “Deaths of Despair,” Federal Reserve Bank of Minneapolis

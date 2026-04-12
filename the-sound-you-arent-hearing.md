@@ -20,7 +20,7 @@ You should know: you were not alone. Nearly one in eight American children now c
 
 You weren’t defective. None of us were. You were a child in a system that didn’t know what to do with the way you were made.
 
-<hr>[- - 
+---[- - 
 
 ](https://substackcdn.com/image/fetch/$s_!-A6B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89bf8c0c-2fda-4a15-ae18-72d4fef7072a_1800x1200.jpeg)And then there were your parents.
 
@@ -36,7 +36,7 @@ So you learned something that felt like survival but was actually a kind of slow
 
 You carried that into adulthood. Of course you did. Where else would it go?
 
-<hr>And now you’re here.
+---And now you’re here.
 
 You’re at a desk, or behind a counter, or in a truck, or in a cubicle that smells like recycled air, and you are doing something that you are adequate at, maybe even good at, that has almost nothing to do with the thing that makes you come alive.
 
@@ -76,7 +76,7 @@ This is not a willpower problem. It is a direction problem. And it will not be s
 
 You should know: you’re not imagining this. You might think, “I’m the only one who doesn’t make it”. A Harvard study found that 58% of young adults say their lives lack meaning or purpose. Half. More than half. Those are just the ones admitting it. Incomes tripled over seven decades. But happiness stayed behind, even moving backwards. The U.S. Surgeon General declared loneliness a national epidemic — half of all American adults experience it. Not because people don’t have company. Because they don’t have *resonance*. They’re surrounded by people and systems that have nothing to do with who they actually are.
 
-<hr>Here is the thing nobody tells you, and it changes everything:
+---Here is the thing nobody tells you, and it changes everything:
 
 You are not depressed because something is wrong with you. You are depressed because something is *right* with you, and it has no place to go.
 
@@ -88,7 +88,7 @@ That pull you feel — toward the thing you keep dismissing as impractical, as i
 
 The Hebrew word for “soul” — *neshamah* — shares a root with the word *neshimah*, “breath.” Your purpose is as close to you as your breathing. You don’t have to go find it on a mountaintop. You don’t have to earn it. You just have to stop holding your breath.
 
-<hr>The hints have been coming your whole life. You’ve been dismissing them because the culture taught you to.
+---The hints have been coming your whole life. You’ve been dismissing them because the culture taught you to.
 
 The time you stayed up until two in the morning building something — not for money, not for a deadline, not because anyone asked you to — and you forgot to eat, and you weren’t tired, and the hours disappeared, and you felt more like yourself than you had in months. That wasn’t a hobby. That was the mission, leaking through.
 
@@ -108,7 +108,7 @@ The suffering is *Kidon*. It feels like a spear, killing you slowly. But it is a
 
 These are the signs in your life. When things get crazy and you try to push through — push yourself, push your career, push reality into cooperating — you get hurt. That’s because you are carrying the ark the wrong way. Your true role, the one you were made for, is the one where you don’t need to force things. The Ark carries you, not the other way around.
 
-<hr>Let’s go back to the marriage. Because this is where it all converges.
+---Let’s go back to the marriage. Because this is where it all converges.
 
 You came into the relationship already unable to say what you need. Not because you’re selfish — because you were trained, from childhood, to believe that your needs don’t matter. That expressing them is weakness or neediness or too much. So when your partner asks *what’s wrong?* you say *nothing*, because that’s what you’ve always said, because the one time you tried to open up it came out wrong, or it started a fight, or they looked at you in a way that reminded you of the look your mother or father gave you when you were too much.
 
@@ -122,7 +122,7 @@ The Talmud records a teaching from Rabbi Shimon bar Yochai: *“The bad culture 
 
 Not because you’re failing. But because you’re fighting the hardest battle there is — trying to be human in a system that has no interest in your humanity — and nobody told you that’s what you were doing.
 
-<hr>Here is what the world won’t say, because it has no framework to say it:
+---Here is what the world won’t say, because it has no framework to say it:
 
 You have a role. A specific, irreplaceable role that the world needs and that only you can fill.
 
@@ -136,7 +136,7 @@ The kid who keeps dropping out of every framework — school, college, the entry
 
 And this is why the hints matter. They are not generic. They are *specific to you*. The thing that lights you up is not random. The cause that breaks your heart is not accidental. The skill that comes so naturally you don’t even think of it as a skill — the thing people say *how do you do that?* and you shrug because it’s like asking how you breathe — *that* is the thread. Pull it. Follow it. Not because it will make you rich or famous or even comfortable, but because it is *yours*, and every day you spend ignoring it is a day the world goes without something it was supposed to receive from you.
 
-<hr>And now maybe you see why the tiredness won’t go away.
+---And now maybe you see why the tiredness won’t go away.
 
 It’s not that you’re overworked. You might be, but that’s not the root. It’s that the work you’re doing doesn’t belong to you. It’s that you’re spending your energy — your *life* energy, the finite, unrepeatable hours of your existence — on something that is not your mission. And the body knows. The soul knows. Even when the mind has been trained to say *this is fine*, the deeper part of you is keeping score. And the score is: another day spent building someone else’s world. Another day your world went unbuilt.
 
@@ -154,7 +154,7 @@ And the Mishnah’s conclusion — after describing everything that would go wro
 
 Get still. Get honest. Listen for the voice underneath the noise. Everything you need to know is already being said — you just haven’t been quiet enough to hear it.
 
-<hr>You’ve been getting hints your whole life. Let me say that again, because it matters:
+---You’ve been getting hints your whole life. Let me say that again, because it matters:
 
 *Your whole life.*
 
@@ -178,7 +178,7 @@ The prophet Elijah — the toughest, fiercest prophet who ever lived, the one wh
 
 You’ve been running a long time. The noise has been loud a long time. But the voice is still there. And it is still saying your name. And it is still — with infinite patience, with a tenderness that would break you if you let it in — trying to tell you what you came here to do.
 
-<hr>Let’s come back to the practical, because this isn’t only about the soul. The soul lives in a body, in a house, in an economy. And the economy is hard.
+---Let’s come back to the practical, because this isn’t only about the soul. The soul lives in a body, in a house, in an economy. And the economy is hard.
 
 Maybe you haven’t even allowed yourself to dream, but if you have, then you know the math. You’ve done it a hundred times. If I leave this job and try the thing — the real thing, the thing I was meant for — the numbers don’t work. The rent. The insurance. The kids’ school. The debt. The math doesn’t work.
 
@@ -188,7 +188,7 @@ So I’m not going to tell you to quit your job tomorrow. That might be reckless
 
 Because here is what happens when you take even one step toward the mission: the tiredness changes. Not because you’re less busy. Sometimes you’re more busy. But the energy shifts. It comes from a different source. The Zohar calls it a light that enters when a person aligns with their purpose — not metaphorically, but as a felt experience. You’ve had it. You know exactly what I’m talking about. The night you stayed up until two working on the thing you love and woke up less tired than after eight hours of sleep following a day at the job you hate. That wasn’t adrenaline. That was alignment.
 
-<hr>But you’re scared. Of course you are.
+---But you’re scared. Of course you are.
 
 The money isn’t there. The plan isn’t there. The people around you don’t understand. Your parents think you’re being irresponsible. Your friends think you’re having a midlife crisis. Your own mind — trained by decades of *be practical, be realistic, don’t be foolish* — is screaming that this is a terrible idea. And the voice of the mission, the one that whispers *this is what you’re supposed to do*, is so much quieter than the voice of fear.
 
@@ -224,7 +224,7 @@ The Hebrew tradition calls this *hitbodedut* — literally, “self-seclusion.�
 
 Because you’re not. You never were.
 
-<hr>The prophet Malachi — the last prophet, the one who spoke the final words before the long silence — saw this. His closing prophecy, the last line of all prophecy in the Hebrew Bible, was not about nations or armies. It was about fathers and children:
+---The prophet Malachi — the last prophet, the one who spoke the final words before the long silence — saw this. His closing prophecy, the last line of all prophecy in the Hebrew Bible, was not about nations or armies. It was about fathers and children:
 
 *“And he will turn the hearts of fathers to their children, and the hearts of children to their fathers.”* (Malachi 3:24)
 
@@ -250,7 +250,7 @@ Remember the eight-year-old at the beginning of this essay? The one looking out 
 
 Everything would have been different. And it still can be — for the child sitting across from *you*.
 
-<hr>There is a teaching — it comes from the Zohar, the great mystical text — that the darkest moment of the night occurs immediately before dawn (Zohar II:46a). Not as a metaphor for optimism. As a description of how reality works. The depth of the darkness is itself the signal.
+---There is a teaching — it comes from the Zohar, the great mystical text — that the darkest moment of the night occurs immediately before dawn (Zohar II:46a). Not as a metaphor for optimism. As a description of how reality works. The depth of the darkness is itself the signal.
 
 If that’s true, then the exhaustion you feel, the confusion, the sense that everything is wrong — that is not the end of the story. It is the last chapter before a new one begins.
 
@@ -262,7 +262,7 @@ Maybe it’s been trying to tell you to start the organization. Maybe it’s bee
 
 Maybe it’s been trying to tell you that you’re not lost. You’re on the way home. And the fact that you feel lost — that the world feels wrong, that the answers you were given don’t match the questions you carry — is not evidence that you’re broken. It is evidence that you’re awake. In a world that is sleepwalking, the person who says *something is missing* is the one who is closest to finding it.
 
-<hr>There’s a passage in the Mishnah — the same one that describes all the signs of this era — and at the very end, after listing everything that will go wrong, it says:
+---There’s a passage in the Mishnah — the same one that describes all the signs of this era — and at the very end, after listing everything that will go wrong, it says:
 
 *“V’al mi yesh lanu l’hisha’en? Al Avinu sheba’Shamayim.”*
 

@@ -15,7 +15,7 @@ The paper is largely right about the concept. It was asked to do too much — to
 
 But the paper makes a further move that I don’t follow it on. It treats the death of the concept as the death of the problem.
 
-<hr>
+---
 ## The definitional question
 
 Before getting to the substantive disagreement, it’s worth noticing something about the argumentative structure. The paper defines qualia as “non-functional, non-relational, intrinsically subjective properties posited as explanatory additions to physical or functional descriptions of experience.” It acknowledges this is not the only way the term is used. But this definition is load-bearing. The entire argument works by showing that *this kind of thing* — non-functional, non-relational — cannot satisfy criteria that require functional or relational engagement with explanatory structures.
@@ -30,7 +30,7 @@ If this is what she means, then the three diagnostic criteria don’t apply. The
 
 One could reply that if the feature is not a posit, it is not part of the explanation, and therefore not a philosopher’s concern. That is a coherent position. But it does not dissolve the hard problem. It declines to address it. The hard problem, for those who feel its force, was never primarily about an explanatory posit. It was about the gap between any third-person description, however complete, and the first-person reality of being the described system — the gap that Levine identified as “explanatory” and that Chalmers argued was irreducible.[3](#footnote-3)
 
-<hr>
+---
 ## What counts as evidence?
 
 This brings us to the real locus of disagreement. It is not about qualia. It is about a prior question: *what is the scope of legitimate evidence in a theory of consciousness?*
@@ -45,7 +45,7 @@ If only third-person evidence counts, the argument wins. The criteria are approp
 
 If first-person evidence also counts — if the fact that there is something it is like to be me is a datum that any adequate theory must accommodate, not merely acknowledge and set aside — then the hard problem survives the dissolution of the concept. The concept may be poorly formulated. The term “qualia” may be more trouble than it is worth. But the phenomenon remains: the gap between what can be described from outside and what is experienced from inside.
 
-<hr>
+---
 ## What direct acquaintance can and cannot do
 
 Saying “first-person evidence counts” isn’t enough. You have to specify what kind of evidence it provides and where its authority stops.
@@ -60,7 +60,7 @@ That is a serious reply, and acquaintance alone does not defeat it. Acquaintance
 
 What acquaintance *does* defeat is the conclusion that the hard problem is dissolved. Even after granting everything the paper argues about the concept of qualia, the first-person subject is still left with the fact that no third-person description, however complete, conveys what it is like to be her. This fact does not depend on the concept of qualia. It precedes it. The concept may be a poor attempt to capture it — and the paper may be right about that — but discrediting the concept does not make the fact disappear.
 
-<hr>
+---
 ## The gap in the laws of nature
 
 Now here is the part that I haven’t seen anyone else put together in quite this way.
@@ -87,7 +87,7 @@ Note what this argument does *not* require. It does not require quantum coherenc
 
 The result is a scenario — physically coherent, consistent with everything we know about quantum mechanics and neuroscience — in which consciousness is causally efficacious and no third-person observation can ever detect its contribution. A consciousness that is *distinguishable from the inside and indistinguishable from the outside*. The subject experiences choosing. The outside observer sees stochastic processes producing behavior. Both descriptions are correct from their respective vantage points, and no possible measurement can adjudicate between them.
 
-<hr>
+---
 ## What this doesn’t prove
 
 The limitations of this argument must be stated plainly. There are four, and they are significant.
@@ -110,7 +110,7 @@ Fourth: even as a proof of possibility, the argument is silent on mechanism. It 
 
 The possibility proof therefore does not defeat the paper’s argument on its own terms. What it does is defeat the *strongest possible* version of that argument — the version that says there is *no physically coherent way* for consciousness to be causally real and yet not be part of the third-person functional story. There is such a way. Whether it is *actual* is a further question. Whether it is *explanatorily superior* depends on whether one admits first-person evidence. But it is *possible*, and that matters, because it means the causal dilemma does not close the door.
 
-<hr>
+---
 ## Why this matters now
 
 I started thinking about this because of AI. The consciousness question used to be a philosophical curiosity — interesting at dinner parties, irrelevant to policy. That era is over.

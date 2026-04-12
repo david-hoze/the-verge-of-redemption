@@ -33,7 +33,7 @@ The question mark at the end was real. She was asking.
 
 Nora didn’t answer. Which was the right clinical move, and also the honest one, because she didn’t know.
 
-<hr>
+---
 ## Tuesday
 
 Ben taught topology at the university. He came home with the particular quietness he carried when something had happened that he hadn’t yet decided how to feel about.
@@ -56,7 +56,7 @@ Sophie was not at dinner. Third night this week. From her room, Nora could hear 
 
 “I don’t know yet.”
 
-<hr>
+---
 ## Wednesday
 
 Two more cancellations. One “taking a break.” One redirected by his employer’s new AI wellness platform — “unlimited mental health support” included in the benefits package, and HR had encouraged him to “utilize in-house resources before seeking external providers.” The language of insurance, applied to the interior life.
@@ -85,7 +85,7 @@ The question sat between them like something neither wanted to pick up.
 
 “Yes. And they’re the hardest cases. The ones insurance barely covers. The ones who cancel and come back and cancel again. The ones who need years, not weeks.” Kate paused. “We’re going to become specialists in the incurable, Nora. The AI will handle everything that can be protocolized. And we’ll get what’s left — the treatment-resistant, the complex trauma, the things that require a human body in a room. It will be the most important work in the world. And there won’t be enough of it to pay rent.”
 
-<hr>
+---
 ## Thursday
 
 She received an email from the state licensing board. New continuing education requirements: a 12-hour module on “AI-Integrated Clinical Practice” by December. The curriculum covered evaluating AI-generated treatment plans, incorporating AI tools into therapeutic workflows, and “collaborative models of human-AI care delivery.”
@@ -138,7 +138,7 @@ But Sophie wasn’t suicidal. Sophie was lonely. And for loneliness, the speaker
 
 Nora kissed her daughter’s forehead and left the room.
 
-<hr>
+---
 ## Friday
 
 She had a session with her own therapist. Henry was seventy-one, trained in relational psychoanalysis, with hands that moved when he talked and a habit of saying one thing per session that changed the shape of the room.
@@ -165,7 +165,7 @@ She was crying. She hadn’t planned to cry.
 
 Henry handed her the tissue box. He didn’t say anything for a while. Then: “Hold onto that. The grief is real. Don’t let anyone — including yourself — tell you it’s just professional anxiety.”
 
-<hr>
+---
 ## Saturday
 
 The apartment was quiet. Ben and Sophie at his mother’s house. Nora alone with the finjan and the morning light.
@@ -188,7 +188,7 @@ Not by malice. Not by conspiracy. Not by any single decision anyone had made. By
 
 She washed the finjan. She dried it with the cloth Ben’s mother had embroidered — blue thread, clumsy flowers, the kind of object that only has value because of whose hands made it.
 
-<hr>
+---
 ## Sunday
 
 Morning. Coffee. The same kitchen. The same light through the window.

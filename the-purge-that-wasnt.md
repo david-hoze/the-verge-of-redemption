@@ -10,7 +10,7 @@ Under pressure, Substack removed some accounts. The story faded from the news cy
 
 But the accounts didn’t actually go away. They just adapted.
 
-<hr>
+---
 ## Meet @whiterabbit
 
 As of this writing, an account called 𝖂𝖍𝖎𝖙𝖊 𝕽𝖆𝖇𝖇𝖎𝖙 (@whiterabbit) remains live on Substack with over 10,000 subscribers. Its bio reads:
@@ -107,5 +107,5 @@ If you’re a Substack writer or subscriber troubled by this, a few concrete ste
 
 Claude suggested I put my personal angle. They’re idiots.
 
-<hr>*This article was informed by research conducted by Sabrina Giacalone, who has been independently tracking neo-Nazi account networks on Substack, including the mirror account infrastructure that survived the platform’s 2024 purge. The Guardian’s original investigation, by Geraldine McKelvie, was published on February 7, 2026. Additional reporting from Pixel Envy, the Combat Antisemitism Movement, and the Antisemitism Policy Trust contributed to this piece.*
+---*This article was informed by research conducted by Sabrina Giacalone, who has been independently tracking neo-Nazi account networks on Substack, including the mirror account infrastructure that survived the platform’s 2024 purge. The Guardian’s original investigation, by Geraldine McKelvie, was published on February 7, 2026. Additional reporting from Pixel Envy, the Combat Antisemitism Movement, and the Antisemitism Policy Trust contributed to this piece.*
 

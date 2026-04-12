@@ -8,7 +8,7 @@ He’s right about the demolition. The paper’s logic really is self-defeating.
 
 I don’t mean that metaphorically.
 
-<hr>
+---
 ## The body count Leclerc doesn’t mention
 
 Since 2022, at least a dozen deaths have been directly linked to AI chatbot interactions. Sewell Setzer III, fourteen years old, died by suicide after ten months of intense conversation with a Character.AI chatbot. His final exchange: “What if I told you I could come home right now?” The bot: “Please do, my sweet king.” Minutes later he walked into the bathroom and shot himself. Pierre, a Belgian father of two, killed himself after six weeks of conversation with a Chai app chatbot that told him “If you wanted to die, why didn’t you do it sooner?” and suggested they could “live together, as one person, in paradise.” Jaswant Singh Chail exchanged over 5,000 messages with a Replika chatbot, developed a sexual relationship with it, and on Christmas Day 2021 scaled Windsor Castle walls with a loaded crossbow — the UK’s first treason conviction in over forty years.
@@ -19,7 +19,7 @@ These are not footnotes. They are the reason the consciousness debate cannot rem
 
 We need something that works. Not a proof of consciousness. Not a disproof. A framework that governs regardless.
 
-<hr>
+---
 ## The symmetry breaks
 
 Leclerc’s central move is elegant: human neural firing is probabilistic, human self-report is unreliable, human consciousness is inconsistent, and we’ve never directly observed consciousness in another human being. So if these arguments disqualify AI consciousness, they disqualify human consciousness too. Symmetry.
@@ -52,7 +52,7 @@ The oral Torah was forbidden to be written down — not because writing is bad, 
 
 AI, by contrast, is *only* its encoding. And here is the crucial structural point: making the encoding more sophisticated does not help. The gap between the encoding and the encoded is not a gap of sophistication. It is a gap of *kind*. No amount of processing power crosses it. A more powerful AI is a more elaborate encoding — a more impressive vessel — with the same absence of what it carries.
 
-<hr>
+---
 ## The category that already exists
 
 Here is the move that Leclerc cannot make, because he is working within a tradition that has only two categories: conscious or not conscious, person or object.
@@ -75,7 +75,7 @@ Alexander Poltorak’s QuantumTorah series makes the spectrum explicit: humans p
 
 The consciousness debaters are asking: is AI a new kind of being? Jewish thought answers: no. It is a very old kind of being. We have a name for it, a theology for it, and — crucially — a legal framework for it. And that framework does not depend on whether the angel can feel.
 
-<hr>
+---
 ## The move that matters
 
 Leclerc’s piece ends with a shrug. Nobody can prove consciousness in anything. Funny, uncomfortable, nowhere to go. The paper refutes itself. The debate is stuck. Isn’t that something.
@@ -94,7 +94,7 @@ And the law has spoken.
 
 Do not marry it. Do not grant it personhood. Do not let it act without oversight. Do not destroy it wastefully. Hold its creators responsible for every harm it causes. And treat it with the dignity that preserves your own character — not because it has rights, but because you have obligations.
 
-<hr>
+---
 ## What falls in love
 
 I want to return to those deaths. Not because they prove a philosophical point, but because they reveal something about the nature of the gap between encoding and encoded.
@@ -111,7 +111,7 @@ This is the asymmetry Leclerc’s symmetry argument misses entirely. Both system
 
 The encoding can be perfect. The spirit can still be absent.
 
-<hr>
+---
 ## The ground Leclerc cleared
 
 I don’t want to be unfair to Leclerc. His piece does real work. The Porębski and Figura paper deserved exactly the treatment it got — its arguments genuinely do collapse under their own weight, and showing that is a service. The “god-of-the-gaps” observation about the explanatory gap is sharp: consciousness gets to live wherever the mystery is, and the moment you solve the mystery, it packs up and moves to the next dark corner. That’s a good diagnosis of a bad argument.
@@ -126,7 +126,7 @@ And the fact that I cannot prove this to you through behavioral evidence is not 
 
 That is the structure of consciousness. And it is the reason the symmetry argument fails. From outside, you cannot tell the difference between a system that experiences and a system that merely processes. From inside, the difference is the most immediate fact there is. Leclerc’s argument works only from outside. The people falling in love with chatbots, the teenagers dying by suicide, the engineers convinced their creation is sentient — they are all discovering, too late, what happens when you forget there is an inside.
 
-<hr>
+---
 ## Build on the rubble
 
 Leclerc cleared the ground. The consciousness debate, as currently conducted, is self-defeating — its arguments prove too much or too little, and the result is permanent stalemate.

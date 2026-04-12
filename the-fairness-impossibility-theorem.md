@@ -11,7 +11,7 @@ And the field’s response, nearly a decade later, is the most revealing thing a
 
 Thanks for reading! Subscribe for free to receive new posts and support my work.
 
-<hr>
+---
 ## The proof
 
 The impossibility result is precise. For an imperfect binary classifier — any algorithm that sorts people into categories and sometimes gets it wrong — with unequal base rates across groups, you cannot simultaneously achieve three things that every reasonable person would call “fair”: calibration (if the algorithm says you’re 70% likely to reoffend, it should be right 70% of the time regardless of your race), equalized odds (the algorithm should make mistakes at the same rate for everyone), and demographic parity (outcomes should be proportional across groups).
@@ -24,7 +24,7 @@ As Alice Xiang put it: “It’s not really something anyone can answer. It’s 
 
 She’s right. And the implications extend far beyond sentencing.
 
-<hr>[- - 
+---[- - 
 
 ](https://substackcdn.com/image/fetch/$s_!Xsi9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6733c5ef-24c5-409e-acc8-5011bcf5fcf0_1920x1080.jpeg)
 ## The practical bite is weaker than feared — but “weaker” is doing heavy lifting
@@ -39,7 +39,7 @@ And in dynamic settings — where algorithmic decisions reshape the very populat
 
 These are genuine advances. But notice what each of them requires: *someone* must decide how much deviation is acceptable. *Someone* must determine the causal structure. *Someone* must design the adjustment policy. The theorem doesn’t disappear. It gets absorbed into human judgment calls that nobody has a principled framework for making.
 
-<hr>
+---
 ## Seven years of fairness papers didn’t beat the simplest method
 
 Perhaps the most sobering finding comes from inside the field itself. Cruz and Hardt published “Unprocessing Seven Years of Algorithmic Fairness” at ICLR 2024 — as an oral presentation, the highest distinction — and showed that the fairness-accuracy frontier achieved by simple threshold-adjustment post-processing, the method Hardt, Price, and Srebro proposed in 2016, contains all other methods they could feasibly evaluate.
@@ -50,7 +50,7 @@ The explanation was methodological: researchers had been comparing methods with 
 
 The implication cuts deeper than methodology. If the technical problem of fair classification was essentially solved in 2016 by the simplest possible technique, then the hundreds of papers published since weren’t solving a technical problem at all. They were performing the appearance of progress on a problem that is fundamentally not technical.
 
-<hr>
+---
 ## No regulator has confronted this head-on
 
 Here is where the impossibility theorem meets the real world — and where the real world flinches.
@@ -67,7 +67,7 @@ The dominant regulatory strategy worldwide is process-based: require documentati
 
 The question of what “fair” means — when the math proves you can’t have all the reasonable definitions at once — is being decided by the people who profit from the decision. That should concern everyone, and it should especially concern anyone who has been on the wrong end of a system that “worked as designed.”
 
-<hr>
+---
 ## The philosophers say it’s the wrong question
 
 The philosophical response has been vigorous and increasingly unified around a core claim: the impossibility theorem is an artifact of a too-narrow methodology, not a deep truth about fairness itself.
@@ -82,7 +82,7 @@ This resonates deeply with something I’ve been exploring in my own work. Jewis
 
 The impossibility theorem proves that you can’t formalize fairness into simultaneously satisfiable statistical constraints. But the philosophers — and the older traditions — are saying something more important: the attempt to formalize fairness into statistical constraints was the wrong move in the first place.
 
-<hr>
+---
 ## A growing movement says the whole paradigm is the problem
 
 The most provocative response to the impossibility theorem is that it proves the entire fairness framework is misguided — that trying to make algorithms “fair” is a distraction from structural change.
@@ -93,7 +93,7 @@ Algorithmic fairness is, in his framing, “a bandage for a bandage” — the a
 
 Ruha Benjamin’s *Race After Technology* established the concept of the “New Jim Code” and an explicitly abolitionist approach — arguing some algorithmic systems should not be reformed but dissolved. The shift from “algorithmic fairness” to “algorithmic justice” as a framing is gaining traction. A 2026 systematic review in *AI and Ethics* identifies a “third wave” in the field, moving from distributive fairness ideals to relational justice theories that foreground power dynamics, structural oppression, and participatory governance rather than statistical metrics.
 
-<hr>
+---
 ## The original researchers have largely moved on
 
 The trajectory of the impossibility theorem’s own authors tells its own story.
@@ -102,7 +102,7 @@ Sendhil Mullainathan returned to MIT in 2024 and pivoted to using algorithms as 
 
 None of them are still working on the impossibility theorem itself. It is settled mathematics. The question is what to build on top of it — and on that, the field is deeply divided.
 
-<hr>
+---
 ## Where this actually stands
 
 The COMPAS case remains unresolved in exactly the way the impossibility predicts. A 2024 Williams College study found the tool “exacerbated differences in confinement between racial groups, thereby deepening racial disparity.” No criminal justice system has adopted an explicit framework for choosing between fairness definitions. COMPAS remains in use across multiple U.S. states.
@@ -111,7 +111,7 @@ The Obermeyer et al. healthcare algorithm case — where a widely used tool pred
 
 In credit scoring, a 2025 systematic review found “there is no consensus on a universal fairness model that is compatible across all jurisdictional settings.” The dominant real-world pattern remains ad hoc: organizations pick a metric based on legal exposure, internal politics, or technical convenience, rarely documenting the tradeoffs explicitly.
 
-<hr>
+---
 ## What this means
 
 Three genuine advances deserve recognition. Approximate fairness demonstrates the impossibility is far less binding in practice than in theory. Causal context shows the “right” fairness metric depends on why the data is biased, partially dissolving the need for simultaneous satisfaction. Dynamic approaches prove that in realistic settings where decisions reshape populations, the impossibility evaporates over time.
@@ -124,7 +124,7 @@ And right now, the people deciding are the people deploying the algorithms. Not 
 
 The impossibility theorem didn’t break AI fairness. It revealed that AI fairness was never a technical problem. It was always a political one — wrapped in math so it would look like someone else’s department.
 
-<hr>*This piece draws on the impossibility proofs of Chouldechova (2017) and Kleinberg, Mullainathan & Raghavan (2016); the approximate fairness results of Bell et al. (FAccT 2023); causal fairness work by Anthis & Veitch (NeurIPS 2023) and Beigang (2023); the meta-analysis by Cruz & Hardt (ICLR 2024); regulatory analysis of the EU AI Act, NIST AI RMF, ISO/IEC TR 24027:2021, and NYC Local Law 144; philosophical critiques by Green (2022), Hu (2025), Hellman, Beigang (2023), and Birhane (2021); Narayanan’s 2026 essay on algorithmic fairness as category error; the COMPAS analysis by ProPublica and Northpointe; the Obermeyer et al. (2019) healthcare algorithm study; and the 2026 systematic review in AI and Ethics on the field’s “third wave.”*
+---*This piece draws on the impossibility proofs of Chouldechova (2017) and Kleinberg, Mullainathan & Raghavan (2016); the approximate fairness results of Bell et al. (FAccT 2023); causal fairness work by Anthis & Veitch (NeurIPS 2023) and Beigang (2023); the meta-analysis by Cruz & Hardt (ICLR 2024); regulatory analysis of the EU AI Act, NIST AI RMF, ISO/IEC TR 24027:2021, and NYC Local Law 144; philosophical critiques by Green (2022), Hu (2025), Hellman, Beigang (2023), and Birhane (2021); Narayanan’s 2026 essay on algorithmic fairness as category error; the COMPAS analysis by ProPublica and Northpointe; the Obermeyer et al. (2019) healthcare algorithm study; and the 2026 systematic review in AI and Ethics on the field’s “third wave.”*
 
 Thanks for reading! Subscribe for free to receive new posts and support my work.
 

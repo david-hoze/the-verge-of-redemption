@@ -14,7 +14,7 @@ He said: *When everyone sounds right, what is left?*
 
 She replayed it. She didn’t know why.
 
-<hr>His name was Rashid and he drove a cab in Manchester and he had opinions about everything.
+---His name was Rashid and he drove a cab in Manchester and he had opinions about everything.
 
 He said: “My wife wants me to see a therapist. You know what a therapist costs? A hundred and twenty quid an hour. You know what I make in an hour? Eleven quid on a good day. So I need to drive for eleven hours to pay for one hour of someone asking me how I feel. I know how I feel. I feel like I’m driving a cab.”
 
@@ -40,7 +40,7 @@ They drove in silence for a while. Then Rashid said, very quietly: “I don’t 
 
 “To Him. Maybe stop talking and listen.”
 
-<hr>The boy’s name was Nathan and he was fifteen and he knew everything.
+---The boy’s name was Nathan and he was fifteen and he knew everything.
 
 He knew that religion was a control mechanism. He knew that capitalism was a scam. He knew that AI was going to replace every job his teachers were preparing him for, which made school a particularly elaborate form of torture. He knew that his mother watched videos of bearded men on her phone at night because he could hear it through the wall, and he knew this was embarrassing.
 
@@ -50,7 +50,7 @@ He’d asked ChatGPT about it once. “I feel empty at night. What is this?” T
 
 It was the most useless thing he had ever read.
 
-<hr>Rashid tried what that passenger offered him. He stopped talking. He stopped praying for a week. He just — sat. In the morning, before anyone else was up, he sat in the kitchen and didn’t say anything. He was so used to the five prayers a day, but he decided that if it’s not working, he has to try something else. At last it’s cheaper than a therapist, he thought to himself.
+---Rashid tried what that passenger offered him. He stopped talking. He stopped praying for a week. He just — sat. In the morning, before anyone else was up, he sat in the kitchen and didn’t say anything. He was so used to the five prayers a day, but he decided that if it’s not working, he has to try something else. At last it’s cheaper than a therapist, he thought to himself.
 
 Nothing happened for two weeks. But he stayed.
 
@@ -64,7 +64,7 @@ His wife Amina watched him for a week without saying anything. Then she said: �
 
 He hadn’t noticed. But she was right. He was still driving a cab. He was still broke. But at night he was painting, and the painting was so obviously, stupidly, clearly what he was supposed to have been doing all along that he couldn’t believe he had missed it for thirty years. It had been sitting inside him like a door someone had painted over and he had never scraped back.
 
-<hr>Nathan found the video too. The same one. In some mysterious way, the algorithm decided to offer him the same video.
+---Nathan found the video too. The same one. In some mysterious way, the algorithm decided to offer him the same video.
 
 He watched it out of boredom. Then he watched it again out of something else.
 
@@ -102,7 +102,7 @@ Nathan paused for a while. He thought about that bearded man. He thought about t
 
 His mum smiled, surprised at his answer.
 
-<hr>She got into his cab on a Wednesday afternoon. Piccadilly to Didsbury. It was raining the way it always rains in Manchester — not dramatically, just persistently, like the sky had made a commitment.
+---She got into his cab on a Wednesday afternoon. Piccadilly to Didsbury. It was raining the way it always rains in Manchester — not dramatically, just persistently, like the sky had made a commitment.
 
 Her name was Claire. His name was Rashid. She had a boy at home who was starting to talk to her again. He had a garage full of painted shutters that nobody had bought yet. Neither of them knew any of this about the other. She saw a Pakistani man behind the wheel. He saw a tired white woman with shopping bags. The city moved past the windows, grey and wet and ordinary.
 

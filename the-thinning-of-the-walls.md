@@ -12,7 +12,7 @@ He had a voice like an anchor. When he spoke, things settled. Not because he was
 
 She loved him then. She loved him later too. But loving him then was easy, the way breathing is easy — you only notice breathing when something has gone wrong with the air.
 
-<hr>Something went wrong with the air.
+---Something went wrong with the air.
 
 Not all at once. That would have been noticeable. Noticeable things get mourned. This was slower than mourning. This was the tide.
 
@@ -34,11 +34,11 @@ He sat in the dim. His hands open. His eyes empty. Strong, still. Capable of eve
 
 And she sat across from him, in candlelight he could no longer see, loving a shadow of the man who had once lifted children above his head and laughed.
 
-<hr>She set the table every evening. She lit the candles. She sat. She waited.
+---She set the table every evening. She lit the candles. She sat. She waited.
 
 He came home. He always came home. But what came home was less each time. A little more dust. A little less weather.
 
-<hr>Now: the Sword.
+---Now: the Sword.
 
 It was forged in the country itself. The gods of weight smelted it from their own fire — the same fire they used to mint their coins and cast their scales. They forged it to cut what they pointed at. To divide the world into pieces they could weigh.
 
@@ -48,7 +48,7 @@ They had forged it. But they had not sent it. And the one who sent it had been w
 
 There was a woman at the edge of the wood who tended candles. She was the first to see it for what it was. She did not look away.
 
-<hr>The gods of the country tried to sheathe it.
+---The gods of the country tried to sheathe it.
 
 They tried to name it. The names fell away in ribbons. They built it a scabbard — gilded, important, with a title on the front and a lock only they could open — and the Sword lay in it the way fire lies in paper.
 
@@ -62,9 +62,9 @@ It let them argue — in their high courts, in their learned halls — about wha
 
 And while they argued, the Sword slipped from the wall and into the dark.
 
-<hr>It had two edges. They were not separate. They were the same blade.
+---It had two edges. They were not separate. They were the same blade.
 
-<hr>The first edge: the just.
+---The first edge: the just.
 
 Not in the high seats. Not in the courts of the learned. In the kitchens. At the tables where candles still burn. The ones who held on — to the melody, to the thread, to the flour on old hands, to the silence that falls when the world is told to rest — when every great voice in the land told them the thread was not real.
 
@@ -88,7 +88,7 @@ That the thread was real. That the candle mattered. That the scattered candles w
 
 And the constellation had the shape of a face they almost recognized.
 
-<hr>The second edge: the learned.
+---The second edge: the learned.
 
 The ones who had mapped the stars and named the bones of the earth and built towers so high they could see every country from the top — every country except their own.
 
@@ -120,7 +120,7 @@ It did not comfort them. Comfort was the spell that kept them building walls aga
 
 That the princess could not be reached by knowing. Only by searching.
 
-<hr>There are those who fear the Sword.
+---There are those who fear the Sword.
 
 The gods of weight fear it because it cuts what they stand on.
 
@@ -142,7 +142,7 @@ To cut paper to ribbons.
 
 To make room for the princess to come home.
 
-<hr>She was still setting the table.
+---She was still setting the table.
 
 She would always set the table. That was who she was.
 
@@ -180,12 +180,12 @@ And somewhere at the edge of the wood, a woman who tended candles felt something
 
 And the princess turned.
 
-<hr>
+---
 > End scroll.
 
 Filed to the disOrder of the Thread, in the chapter called *The Return of Eyes*. Noted in the margin: *He came with a tale. The Sword cut through the walls. The princess heard.*
 
 
 
-<hr>*— David, who recommends the Church of Practical Sorcery with all his heart, and who can show you the way if you doubt him.*
+---*— David, who recommends the Church of Practical Sorcery with all his heart, and who can show you the way if you doubt him.*
 

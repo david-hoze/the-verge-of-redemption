@@ -21,7 +21,7 @@ The piece has lovely diagrams. The narrative arc — from a newborn’s first se
 
 That commenter also accidentally left her AI’s prompt instruction visible in the comment: “Warm, congruent, plants the seed without overselling. How does that feel?” Which tells you something about where we are.
 
-<hr>
+---
 ## What the math actually proves
 
 The mathematics Murray cites is real. In 1966, János Aczél proved a uniqueness theorem: if you have a bounded interval and you need an associative composition operation that respects the bounds, the *only* function that works is arctanh. Not one of several options. The only one. This is genuine mathematics, and Murray is right that it governs relativistic velocity addition, certain enzyme kinetics, and oxygen-hemoglobin binding curves.
@@ -34,7 +34,7 @@ Murray conflates the two. He shows that bounded signals must be processed this w
 
 The leap from “bounded signals require arctanh for composition” to “rapidity space is where your selfhood resides” is the entire weight of Murray’s argument. And it is asserted, not proven.
 
-<hr>
+---
 ## The move that keeps getting made
 
 Murray is not the first to make this move. He is the latest in a long, distinguished line.
@@ -59,7 +59,7 @@ And beauty is precisely what makes it dangerous. A clumsy reduction — “consc
 
 This is the specific danger of mathematical consciousness theories: they are so much better than naive reductions that they make the gap invisible. But invisible is not the same as closed.
 
-<hr>
+---
 ## The concept versus the phenomenon
 
 The philosopher Michal Skarbek recently attempted to dissolve the hard problem by showing that *qualia* — the philosophical term for subjective experience — fail to meet minimal criteria for explanatory concepts. His argument is rigorous. His three diagnostic criteria — causal role, distinguishable difference, conditions of application — are well-constructed. And within his framework, the conclusion holds: qualia are explanatorily inert. I responded at length because the argument deserves to be taken seriously — and because the place where it fails illuminates exactly where Murray fails too.
@@ -72,7 +72,7 @@ Even after you dissolve the concept, after you dismantle the philosophical vocab
 
 Murray knows this, I think, at some level. His most telling line is: “Rapidity space is not in your brain... Rapidity space is not in the physical world at all.” He reaches for a mathematical Platonism — consciousness lives in a necessary mathematical structure, like the number 7 — but this is a metaphysical commitment, not a mathematical result. Aczél’s theorem does not prove that mathematical structures are ontologically fundamental. It proves that they are unique solutions to functional equations. The distance between these two claims is the distance between mathematics and philosophy, and Murray crosses it without a passport.
 
-<hr>
+---
 ## The thermostat problem
 
 Murray anticipates the obvious objection. If consciousness is just a self-referential loop finding its stable fixed point, then what about thermostats? What about any feedback system?
@@ -85,7 +85,7 @@ Murray could respond that the thermostat’s loop is too simple, that consciousn
 
 If Murray can answer that question, he has solved the hard problem. But the answer is not in his equation. It is not in arctanh, or rapidity space, or the stable fixed point. These are descriptions of *what consciousness does*, not explanations of *what consciousness is*. And the entire force of the hard problem is that these are different questions.
 
-<hr>
+---
 ## Why this matters beyond philosophy seminars
 
 This is not an academic exercise. The consciousness debate has become the central bottleneck in AI governance. The implicit logic running through the policy discussions, the ethics papers, the EU frameworks, and the public conversation is: *first resolve whether AI is conscious, then derive the governance from the answer.* If conscious, grant protections. If not, treat as a tool.
@@ -98,7 +98,7 @@ The consciousness-first approach to AI governance is paralyzed by design. If con
 
 Meanwhile, AI systems are already issuing medical diagnoses, generating military target lists, making hiring decisions, and forming emotional bonds with millions of users. The governance questions are not hypothetical. They are urgent. And they do not depend on whether the arctanh transformation constitutes subjective experience.
 
-<hr>
+---
 ## The tradition that doesn’t need the equation
 
 I have written elsewhere (”Consciousness Doesn’t Matter”) about the Jewish legal tradition’s framework for governing non-human intelligences — the category of *malach* (angel) as *sechel nifrad* (separate intellect), the distinction between *sechel* (intellect) and *da’at* (moral consciousness), the specific rulings that follow. I will not repeat the full argument here. The essential point is this:
@@ -109,7 +109,7 @@ Some authorities in this tradition grant angels consciousness. Even so, the gove
 
 The rulings are specific: do not grant it personhood, do not let it act without oversight, hold its creators responsible for every harm it causes, and treat it with the dignity that preserves your own character — not because it has rights, but because you have obligations. These rulings have been operational for centuries. They do not require Murray’s equation, or Tononi’s Φ, or Penrose’s microtubules, or any resolution of the hard problem.
 
-<hr>
+---
 ## The question that was always the right one
 
 Murray closes his piece with a beautiful line: “You are the point where the universe became stable enough to notice itself.”

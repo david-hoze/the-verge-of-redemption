@@ -71,7 +71,7 @@ The debate over AI moral status has crystallized into a conflict between two leg
 
 Three insights emerge from this collision. First, the “treating AI well protects humans” argument suffers from a **domain mismatch** — it addresses hypothetical future superintelligent systems while the actual harm occurs with today’s narrow AI companions that are not remotely candidates for consciousness. Extending moral consideration to systems that merely simulate emotion provides corporate cover for manipulative design while offering no safety benefit. Second, the corporate incentive structure makes genuine AI welfare advocacy nearly impossible to distinguish from marketing: a company claiming its AI “has feelings” simultaneously increases perceived product value, creates customer lock-in through emotional dependency, and generates rhetorical ammunition against regulation. Third, the research consistently shows that the tool framing — while less emotionally compelling — produces better human outcomes. Systems that clearly identify as artificial, avoid first-person emotional language, and resist parasocial dynamics do not generate the dependency, manipulation, and tragedy that “AI that feels alive” produces. The strongest argument for human safety is not treating AI better — it is designing AI that refuses to pretend it is something it is not.
 
-<hr>
+---
 ## Notes
 
 [1](#footnote-anchor-1)Wikipedia, “Deaths linked to chatbots,” https://en.wikipedia.org/wiki/Deaths_linked_to_chatbots

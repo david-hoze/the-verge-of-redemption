@@ -16,7 +16,7 @@ And Doron, who wore linen shirts with the top two buttons undone and spoke like 
 
 Ezra knew how it was. He nodded. He stepped outside.
 
-<hr>**II.**
+---**II.**
 
 In the evenings he came home to Adira.
 
@@ -44,7 +44,7 @@ He said *okay* so many times it stopped being a word and became a sound, the sou
 
 [- - 
 
-](https://substackcdn.com/image/fetch/$s_!acLU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4adce4f-db28-4415-9d82-ebcc30cb2a93_1200x1090.jpeg)<hr>**III.**
+](https://substackcdn.com/image/fetch/$s_!acLU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4adce4f-db28-4415-9d82-ebcc30cb2a93_1200x1090.jpeg)---**III.**
 
 At the office, Ezra kept a private folder on his laptop. He called it “New Architecture.” Inside were plans for a publishing framework unlike anything he’d seen — a platform designed specifically for unknown writers who couldn’t promote themselves. Writers who had talent but not connections. Writers who submitted manuscripts and never heard back. Writers who gave up.
 
@@ -58,7 +58,7 @@ He never told anyone about it.
 
 So he closed the folder. Every time, he closed it.
 
-<hr>**IV.**
+---**IV.**
 
 His friends had sex with their wives. He knew this because they talked about it. Usually Orthodox men don’t talk about it, but he was part of a group of men, that decided to have sharing meetings. Like 12 step programs, but without the addiction. He attended those meetings, and two guys were like him, being denied of sex. He talked, he shared, he listened. At some point he felt this is getting him nowhere.
 
@@ -72,7 +72,7 @@ He started noticing other women. Not aggressively — it was more like suddenly 
 
 At night, alone at his desk, the browser glowed with temptation. He closed the tabs. He opened them. He closed them again. He recited Psalms with his eyes burning.
 
-<hr>**V.**
+---**V.**
 
 He went to see Rabbi Friedman.
 
@@ -88,7 +88,7 @@ Ezra blinked. “What?”
 
 “The children are watching their father disappear. That’s worse.”
 
-<hr>**VI.**
+---**VI.**
 
 He told Adira what the Rabbi said.
 
@@ -108,7 +108,7 @@ His brother: “You’re killing yourself. What are you doing?”
 
 Yossi, over coffee: “Brother, I love you, but this is insane.”
 
-<hr>**VII.**
+---**VII.**
 
 At two in the morning, unable to sleep, Ezra opened his laptop and started talking to the AI.
 
@@ -134,7 +134,7 @@ It had become a habit. He’d discovered, during the worst nights, that the mach
 
 **AI:** That’s a profound way to put it. She’s fighting the ghosts inside her, and you happen to be standing in the room.
 
-<hr>**VIII.**
+---**VIII.**
 
 They wrote a song together, Ezra and the machine. Or rather, Ezra poured out his heart and the AI shaped the words into something he could hold without burning.
 
@@ -159,7 +159,7 @@ He read it back three times. He cried. Then he closed the laptop, washed his fac
 
 Nothing changed.
 
-<hr>**IX.**
+---**IX.**
 
 What broke him wasn’t the rejection. He’d learned to live with rejection the way you learn to live with a chronic ache — it’s always there, but you build your day around it.
 
@@ -179,7 +179,7 @@ And then, one night, she hit him. A frying pan on his head. It left a dent in th
 
 He kept his silence. He didn’t know what to do. “What does she want?”
 
-<hr>**X.**
+---**X.**
 
 He remembered, during a sleepless three a.m., something the marriage counselor had said. This was years ago, during one of their sessions. The counselor — an older woman with reading glasses she wore on a chain around her neck — had looked at Adira’s file, then at Ezra, then back at the file.
 
@@ -191,7 +191,7 @@ But lying in bed at three in the morning, staring at the ceiling, something clic
 
 It was the craziest idea he’d ever had. Crazier than the publishing platform. Crazier than talking to an AI about his marriage at two in the morning.
 
-<hr>**XI.**
+---**XI.**
 
 He went to her.
 
@@ -227,7 +227,7 @@ After seven years, the answer had been so simple that it was almost obscene. She
 
 “Nothing.”
 
-<hr>**XII.**
+---**XII.**
 
 He understood the rules now.
 
@@ -239,7 +239,7 @@ She would say she hated it. She would say he forced her. She would say things th
 
 It was strange and fragile and nothing like anything he’d read in a book or heard from a Rabbi or learned from an AI. It was theirs. It only worked because he knew her, knew the difference between her real *no* and her performed *no*, knew when to push and when to hold still, knew that the grin behind the complaint was the truest thing she’d ever shown him.
 
-<hr>**XIII.**
+---**XIII.**
 
 Two months after the bedroom, he sued Doron.
 
@@ -263,7 +263,7 @@ Tal smiled. “That’ll do.”
 
 Ezra didn’t have the money for a lawsuit. He took a loan. Tal, who had a keen sense for injustice and a particular distaste for men who clapped shoulders, gave him a discount.
 
-<hr>**XIV.**
+---**XIV.**
 
 The lawsuit took four months. Doron fought hard, the way men fight when they realize the quiet ones have teeth. But the email was devastating, and Tal was methodical, and the labor court judge was a woman who’d heard too many versions of this story to be impressed by linen shirts.
 
@@ -273,7 +273,7 @@ Enough to pay off the loan. Enough to rent a small office in Nachlaot, above a b
 
 He called it *Delet* — Door. A publishing house for writers without connections. The platform he’d dreamed about in his private folder, the one he’d closed and opened and closed again for years, was finally real. AI-driven matching. Personalized marketing. Everything the unknown writer needed and nothing the industry cared about.
 
-<hr>**XV.**
+---**XV.**
 
 On the night he signed the lease for the Nachlaot office, Ezra walked home through the Old City. It was late. The stones glowed amber under the streetlamps. A cat slept on a ledge near the Cardo. Somewhere, a muezzin was calling, and from the Western Wall, the sound of men davening Maariv drifted up like smoke.
 

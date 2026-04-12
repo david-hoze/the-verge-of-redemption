@@ -13,7 +13,7 @@ Thanks for reading! Subscribe for free to receive new posts and support my work.
 
 The bridge from the domain side out does not exist. And every month it remains unbuilt, hundreds of thousands of professionals burn out at $59,000 in roles that are actively being restructured — while $160,000 positions sit empty because no one told them the door was open or showed them how to walk through it.
 
-<hr>
+---
 ## The Jobs Are Real
 
 Let’s be precise about what has emerged.
@@ -40,7 +40,7 @@ These projections are grounded in real compensation data from adjacent roles. Th
 
 The global AI-in-healthcare market stands at $21.66 billion in 2025 and is projected to reach $110.61 billion by 2030, according to MarketsandMarkets. That is the river of money these roles are positioned in.
 
-<hr>
+---
 ## The People Are Ready — They Just Don’t Know It
 
 Here is the asymmetry that makes this gap so painful.
@@ -57,7 +57,7 @@ And the demand is not theoretical. The IAPP found that only 10 out of 671 organi
 
 The people exist. The jobs exist. What does not exist is the path between them.
 
-<hr>
+---
 ## The Uncomfortable Truth About Who’s in These Professions
 
 But here is something nobody in this conversation is willing to say, and it reshapes the entire argument: not everyone currently working in therapy, medicine, education, or mediation is supposed to be there.
@@ -80,7 +80,7 @@ But here is what matters for the AI transition: these two groups — the called 
 
 This is not a crisis. It is a gift — but only if we treat it as one.
 
-<hr>
+---
 ## The Second Bridge: Finding What You Were Actually Meant to Do
 
 The first bridge — from domain expert to AI supervisor — is for the people who belong in their field and need to evolve within it. The second bridge is for everyone else. And it is, if anything, more important.
@@ -107,7 +107,7 @@ The model exists in fragments. Gap-year programs for young people. Sabbatical pr
 
 That is the second bridge. And it is the one nobody is even talking about building.
 
-<hr>
+---
 ## The Sorting That Serves Everyone
 
 Here is why this matters for the AI transition specifically, and not just for the general question of human flourishing.
@@ -126,7 +126,7 @@ Not to optimize productivity. Not to maximize GDP. But to put human beings where
 
 That would be a civilization worth building.
 
-<hr>
+---
 ## The Education System Is Solving the Wrong Problem
 
 When you survey what the education system has built in response to the AI revolution, you find an enormous amount of activity — almost all of it pointed in the wrong direction.
@@ -145,7 +145,7 @@ A 2025 paper in *Advances in Medical Education and Practice* found that while na
 
 The gap is documented. The gap is acknowledged. The gap remains unfilled.
 
-<hr>
+---
 ## The Confidence Crisis
 
 The problem is not that healthcare professionals refuse to engage with AI. It is that the system has given them no reason to feel capable.
@@ -160,7 +160,7 @@ The top barriers to AI adoption cited across roles in the DiMe survey were workf
 
 And Wolters Kluwer’s 2026 healthcare trends report warns of an emerging risk of clinical deskilling from generative AI use — the possibility that clinicians will lose competency as AI handles more decisions. If 2025 was about acquiring tools, 2026 is about building trust, clarity, and the human expertise to ensure patients remain safe. That expertise requires training. The training does not exist at scale.
 
-<hr>
+---
 ## The RLHF Divide: A Case Study in Stratification
 
 The market for AI Empathy Trainers — Role 2 in our framework — illustrates the education gap in microcosm.
@@ -179,7 +179,7 @@ What separates a $30/hour generalist from a $300/hour specialist is not technica
 
 There is no educational program that takes a clinician from zero AI literacy to this $300/hour tier. Not one. The clinicians who have made this jump did so through informal channels, word of mouth, personal initiative, or by being recruited directly by AI companies that recognized the value of their expertise. The path is invisible, unstructured, and inaccessible to the vast majority of the people who could walk it.
 
-<hr>
+---
 ## What the Government Is Doing — and Why It’s Not Enough
 
 To be fair, there are early signals of institutional response.
@@ -192,7 +192,7 @@ The EU AI Act’s literacy mandate is perhaps the most consequential policy deve
 
 At the institutional level, 39% of universities now have AI-related acceptable use policies, up from 23% in 2024, according to EDUCAUSE’s 2025 AI Landscape Study. But a separate study found that only about 20% of higher education institutions have issued comprehensive AI policy guidance. And only 9% considered their cybersecurity and privacy policies adequate to address AI-related risks. The institutions are as unprepared as their students.
 
-<hr>
+---
 ## The Training That Does Work — and Why It’s Not Scaling
 
 Buried in the landscape of inadequate responses are a few examples of what actually works. They share common features: they are targeted, practical, embedded in real workflows, and designed by people who understand the domain.
@@ -209,7 +209,7 @@ This is a curriculum that could be built. It could be accredited. It could be de
 
 No one has built it.
 
-<hr>
+---
 ## What the Bridge Would Look Like
 
 Here is what would need to be true for the education gap to close:
@@ -234,7 +234,7 @@ Partnerships with digital health companies (Woebot, Wysa, Spring Health, Headspa
 
 This is not a fantasy curriculum. Every element already exists somewhere — in the Centerstone/Lyssn partnership, in the TherapyTrainer research, in the RLHF annotation pipelines at major AI labs. What does not exist is the integration of these elements into a credentialed, accessible, scalable program.
 
-<hr>
+---
 ## The Economic Case for Urgency
 
 Let me make this concrete with numbers.
@@ -249,7 +249,7 @@ These are not large percentages. They represent the early adopters — the peopl
 
 On the employer side, the math is equally compelling. AI companies are spending millions recruiting domain experts through ad hoc channels — LinkedIn outreach, conference presentations, word-of-mouth referrals. The inefficiency is staggering. A structured bridge program that produces a reliable pipeline of clinicians with AI supervisory skills would be worth billions to the digital health industry, which is currently growing at 38.6% per year with a workforce bottleneck as its primary constraint.
 
-<hr>
+---
 ## Who Should Build It
 
 The answer is not “universities” — at least not alone. Universities move in academic cycles. They add courses through committee processes that take years. They credential through accreditation bodies that take longer. The window for this opportunity will narrow faster than traditional higher education can respond.
@@ -264,7 +264,7 @@ The answer is a partnership — and it needs to involve all three parties who ha
 
 The model already exists in other domains. Cybersecurity has CISSP. Project management has PMP. Data science has a dozen credentialing paths. These credentials work because they are recognized by employers, accessible to working professionals, and specific enough to signal competence. The AI-domain bridge needs its equivalent — and it needs it now, not in five years when the universities catch up.
 
-<hr>
+---
 ## The Cost of Waiting
 
 Every month this bridge remains unbuilt, three things happen simultaneously.
@@ -275,7 +275,7 @@ Second, AI systems deploy without adequate human oversight. The IAPP found that 
 
 Third, the jobs that do get filled go to people from adjacent fields who lack the core domain expertise. When a Clinical AI Supervisor role goes to a tech product manager who has never conducted a therapy session, the system loses the very judgment it was designed to leverage. The therapist’s ability to hear the difference between a patient who is improving and a patient who is performing improvement — that is the irreplaceable human skill. If you fill the role with someone who doesn’t have it, you’ve built the supervisory architecture on sand.
 
-<hr>
+---
 ## The Window
 
 The PwC Global AI Jobs Barometer found that AI skill premiums doubled in a single year — from 25% to 56%. That rate of premium growth won’t continue indefinitely. As the market matures, as training programs eventually emerge, as more people make the transition, the early-mover advantage will compress. The therapist who makes the jump in 2026 enters a market with almost no competition. The therapist who makes the jump in 2030 enters a market where the bridge has been built and the traffic is heavy.
@@ -292,7 +292,7 @@ The gap is not a mystery. The solution is not complicated. The economics are ove
 
 Build both bridges.
 
-<hr>*This piece draws on salary data from Glassdoor, Levels.fyi, the IAPP 2025–26 Salary Survey, PwC’s 2025 Global AI Jobs Barometer, the Burtch Works 2025 AI & Data Science Report, and the Equilar Top 50 AI Executives Survey; clinical research from NEJM AI (Heinz et al., 2025), JAMA Internal Medicine (Ayers et al., 2023), and Scheetz et al. in Scientific Reports; education research from the Journal of Medical Internet Research, the DiMe/Google Health 2025 Survey, and EDUCAUSE’s 2025 AI Landscape Study; workforce data from Pew Research Center, ManpowerGroup, Gallup, and the Association of Social Work Boards; burnout research from the BMJ, AMA/Mayo Clinic, Tebra, CDC, the National Council for Mental Wellbeing, and Mind Share Partners; regulatory analysis of the EU AI Act, NYC Local Law 144, and the Colorado AI Act; and workforce projections from the World Economic Forum’s Future of Jobs Report 2025, which projects 170 million new jobs across all macrotrends (net 78 million after 92 million displaced), the U.S. Bureau of Labor Statistics, and MarketsandMarkets. Salary projections for the seven emerging AI-domain roles are estimates based on adjacent compensation data, not established benchmarks.*
+---*This piece draws on salary data from Glassdoor, Levels.fyi, the IAPP 2025–26 Salary Survey, PwC’s 2025 Global AI Jobs Barometer, the Burtch Works 2025 AI & Data Science Report, and the Equilar Top 50 AI Executives Survey; clinical research from NEJM AI (Heinz et al., 2025), JAMA Internal Medicine (Ayers et al., 2023), and Scheetz et al. in Scientific Reports; education research from the Journal of Medical Internet Research, the DiMe/Google Health 2025 Survey, and EDUCAUSE’s 2025 AI Landscape Study; workforce data from Pew Research Center, ManpowerGroup, Gallup, and the Association of Social Work Boards; burnout research from the BMJ, AMA/Mayo Clinic, Tebra, CDC, the National Council for Mental Wellbeing, and Mind Share Partners; regulatory analysis of the EU AI Act, NYC Local Law 144, and the Colorado AI Act; and workforce projections from the World Economic Forum’s Future of Jobs Report 2025, which projects 170 million new jobs across all macrotrends (net 78 million after 92 million displaced), the U.S. Bureau of Labor Statistics, and MarketsandMarkets. Salary projections for the seven emerging AI-domain roles are estimates based on adjacent compensation data, not established benchmarks.*
 
 Thanks for reading! Subscribe for free to receive new posts and support my work.
 

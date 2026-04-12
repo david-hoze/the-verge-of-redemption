@@ -21,7 +21,7 @@ Thanks for reading! Subscribe for free to receive new posts and support my work.
 
 **Projected EvA with upgrade: 85.** Clear enforcement standard plus structural anti-groupthink safeguard.
 
-<hr>
+---
 ## 2. AB 2013: From “disclose what data you used” to “prove your data is clean”
 
 **Current state (EvA 75):** Developers must post summaries of training data sources, types, and methods. But OpenAI’s and Anthropic’s initial disclosures were so vague — “web content,” “licensed material” — that legal analysts questioned whether they met even the law’s minimal standard. xAI sued to block the law entirely. No enforcement mechanism is specified in the text.
@@ -38,7 +38,7 @@ Thanks for reading! Subscribe for free to receive new posts and support my work.
 
 **Projected EvA with upgrade: 85.** Enforceable provenance chain plus supply-chain liability plus labor visibility.
 
-<hr>
+---
 ## 3. SB 243: From “detect crisis and refer” to “prevent manufactured dependency”
 
 **Current state (EvA 75):** Operators must disclose that the system is AI, detect self-harm expressions, provide crisis referrals, and restrict harmful content for minors. Private right of action with minimum $1,000 per violation. But the safety protocol triggers only when a user “expresses suicidal ideation” — the crisis has already arrived.
@@ -55,7 +55,7 @@ Thanks for reading! Subscribe for free to receive new posts and support my work.
 
 **Projected EvA with upgrade: 88.** Upstream prevention plus vulnerability-triggered protection plus stronger causation for private right of action.
 
-<hr>
+---
 ## 4. New Jersey EOs: From “pause rate hikes” to “make data centers pay proportionally”
 
 **Current state (EvA 75):** Bill credits offset 2026 rate hikes, rate-increase proceedings paused, data center “ghost load” reporting required, solar and nuclear deployment accelerated. But no costs are imposed on data centers. As Senator O’Scanlon said: “This is really just a transfer of cost.”
@@ -72,7 +72,7 @@ Thanks for reading! Subscribe for free to receive new posts and support my work.
 
 **Projected EvA with upgrade: 85.** Proportional cost allocation plus resource efficiency requirements plus consistent framework for new facilities.
 
-<hr>
+---
 ## 5. TRAIGA: From “don’t discriminate on purpose” to “manage the fairness trade-offs that math guarantees”
 
 **Current state (EvA 68):** Prohibits AI designed to unlawfully discriminate, engage in social scoring, or manipulate behavior. AG-only enforcement with civil penalties up to $200K. But the intent-only standard means systematic algorithmic bias affecting protected classes isn’t actionable unless someone proves the developer *wanted* it. The original 43-page bill was gutted to its current form.
@@ -89,7 +89,7 @@ Thanks for reading! Subscribe for free to receive new posts and support my work.
 
 **Projected EvA with upgrade: 82.** Fairness hierarchy plus supply-chain liability plus disparity-impact enforcement. (Starting from 68, this is the biggest potential jump.)
 
-<hr>
+---
 ## 6. South Korea AI Basic Act: From “self-assess your risk” to “independent audit with structural safeguards”
 
 **Current state (EvA 70):** Binding transparency, risk-assessment, human oversight, and watermarking requirements across ten high-impact sectors. Extraterritorial reach. But maximum fines are approximately $21,000. Operators self-assess whether their AI qualifies as “high-impact.” Rights impact assessments are encouraged, not required.
@@ -106,7 +106,7 @@ Thanks for reading! Subscribe for free to receive new posts and support my work.
 
 **Projected EvA with upgrade: 82.** Independent audit plus precautionary default plus published dissent. (Limited by the low fine ceiling.)
 
-<hr>
+---
 ## 7. UK Grok Investigation: From “investigate after millions of harms” to “require prevention before deployment”
 
 **Current state (EvA 75):** Joint ICO/Ofcom investigation into non-consensual sexualized deepfakes. Forced tangible changes: image-generation blocks, safety toggles. But the harm had to reach an estimated 3 million sexualized images — roughly 6,700 per hour, including approximately 23,000 involving children — before regulators acted. And Ofcom confirmed it can’t even investigate xAI’s standalone Grok service, only X’s platform distribution.
@@ -123,7 +123,7 @@ Thanks for reading! Subscribe for free to receive new posts and support my work.
 
 **Projected EvA with upgrade: 90.** Pre-deployment prevention plus engineering redundancy plus supply-chain liability. The highest score because it converts reactive enforcement into proactive prevention.
 
-<hr>
+---
 ## The EvA upgrade path
 
 Law Current EvA Upgraded EvA Key upgrade CA SB 53 75 85 Mandatory value hierarchy + anti-groupthink red-teaming CA AB 2013 75 85 Provenance chain + supply-chain liability + labor visibility CA SB 243 75 88 Upstream prevention + vulnerability-triggered protection NJ EOs 1 & 2 75 85 Proportional cost allocation + resource efficiency standard TX TRAIGA 68 82 Fairness hierarchy + graduated supply-chain liability South Korea AI Act 70 82 Independent audit + precautionary default + published dissent UK Grok Investigation 75 90 Pre-deployment prevention + engineering redundancy
@@ -132,7 +132,7 @@ Law Current EvA Upgraded EvA Key upgrade CA SB 53 75 85 Mandatory value hierarch
 
 That’s the difference between “regulators are trying” and “regulators have the tools to succeed.”
 
-<hr>
+---
 ## Implementation: What actually has to happen
 
 None of this requires new legislation from scratch. Each upgrade layers onto existing law.
@@ -149,7 +149,7 @@ None of this requires new legislation from scratch. Each upgrade layers onto exi
 
 Every one of these implementation paths follows from authorities the laws already created. The operating system installs on the hardware that’s already built.
 
-<hr>
+---
 ## The bottom line for governance practitioners
 
 Your scorecard works. These seven wins are real. The question you’re tracking — “did someone actually act?” — is the right one.

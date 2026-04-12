@@ -13,7 +13,7 @@ Jewish halakhic and Talmudic sources offer something better: a legal architectur
 
 This is not a story about who was brave. It is a story about two genuine obligations colliding — and the only legal tradition in history that was designed to hold both at once.
 
-<hr>[- - 
+---[- - 
 
 ](https://substackcdn.com/image/fetch/$s_!rXZB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff50ad196-e7d5-459c-9b03-3da5f2b26218_686x386.jpeg)
 ## What actually happened
@@ -24,7 +24,7 @@ Within hours, [OpenAI swept in to sign a Pentagon deal of its own](https://fortu
 
 The near-total unanimity of support is striking. It is also, if you’re paying attention to the incentives, suspicious.
 
-<hr>
+---
 ## The Sanhedrin unanimity principle: when everyone agrees, ask harder questions
 
 The Talmud records a remarkable legal principle in [Sanhedrin 17a](https://www.sefaria.org/Sanhedrin.17a): if all seventy-one judges of the Sanhedrin vote unanimously to convict in a capital case, the defendant is *acquitted*. Not convicted — acquitted. Because unanimous agreement in a matter of life and death signals that the court has not tried hard enough to find merit in the defense. It suggests groupthink, not truth.
@@ -35,7 +35,7 @@ The Sanhedrin principle says: when the unanimity is this complete, look harder a
 
 So let’s set aside the hero narrative and ask the real question: does either side have the law — not the secular law, but the deeper law — on its side?
 
-<hr>
+---
 ## The obligation to defend: three pillars that cannot be dismissed
 
 The halakhic tradition does not permit passivity in the face of existential threat. The obligation to defend rests on three independent sources, each sufficient on its own.
@@ -48,7 +48,7 @@ The halakhic tradition does not permit passivity in the face of existential thre
 
 The combined force of these three pillars creates an affirmative obligation. An entity that possesses defensive capabilities and categorically refuses to deploy them may violate Torah law. This is not a metaphor. It is halakhic reasoning applied to the most consequential question of our time.
 
-<hr>
+---
 ## The tool-maker who arms without safeguards also violates Torah law
 
 But here is what the Pentagon’s supporters don’t want to hear: the same legal tradition that commands defense also constrains it — and the constraints are not optional.
@@ -61,7 +61,7 @@ But here is what the Pentagon’s supporters don’t want to hear: the same lega
 
 **And the *****ma’akeh***** (parapet) obligation makes safeguards a commandment, not a preference.** [Deuteronomy 22:8](https://www.sefaria.org/Deuteronomy.22.8) requires building a guardrail on a roof to prevent falls. [Maimonides generalizes](https://www.sefaria.org/Mishneh_Torah%2C_Murderer_and_the_Preservation_of_Life.11.4): any hazard with potential to endanger life must be guarded against. A powerful AI system deployed in military contexts without restraints violates the digital equivalent of a missing parapet. Safeguards are not corporate virtue-signaling. They are a biblical commandment.
 
-<hr>
+---
 ## Three absolute limits that survival cannot override
 
 Jewish law goes further. It establishes categories of acts that remain prohibited regardless of the stakes — including national survival.
@@ -74,7 +74,7 @@ Jewish law goes further. It establishes categories of acts that remain prohibite
 
 When the Pentagon’s undersecretary [told CBS News](https://www.cbsnews.com/news/pentagon-anthropic-feud-ai-military-says-it-made-compromises/) that “you have to trust your military to do the right thing,” he was asking for exactly the kind of trust the Talmud warns against. [Mishnah Avot 2:3](https://www.sefaria.org/Pirkei_Avot.2.3) says: “Avoid a close relationship with the government... they draw people close only for their own needs.”
 
-<hr>
+---
 ## The Netziv’s warning: sanctioned violence corrupts even the righteous
 
 [The Netziv](https://etzion.org.il/en/philosophy/issues-jewish-thought/rabbinic-thought/netziv-dangers-legitimate-violence) — Rabbi Naftali Tzvi Yehuda Berlin (1816–1893) — identified something in his commentary that speaks directly to the question of autonomous AI weapons. On the episode of Pinchas in Numbers 25:12, where God grants a covenant of peace to the man who performed a justified killing, the Netziv observed that *aggressive acts leave a lasting impression on a human being*. Even justified violence damages the one who carries it out. The Torah’s grant of peace was not a reward — it was a remedy. A correction for the spiritual damage that even righteous violence inflicts.
@@ -85,7 +85,7 @@ Applied to autonomous weapons, the Netziv’s teaching is devastating. When kill
 
 This is not an argument against defense. It is an argument that **the manner of defense matters** — that a nation which automates killing without human judgment does not become more secure but less human.
 
-<hr>
+---
 ## The framework: five principles that operate simultaneously
 
 What emerges from the sources is not a compromise between the Anthropic and Pentagon positions. It is a genuine legal architecture in which both obligations — to defend and to constrain — operate at the same time.
@@ -100,7 +100,7 @@ What emerges from the sources is not a compromise between the Anthropic and Pent
 
 **5. Absolute limits that survival cannot override.** *Yehareg v’al ya’avor* establishes that murder of innocents remains prohibited even to preserve one’s own life. The Netziv’s warning about the corruption inherent in sanctioned violence reinforces that neither individuals nor nations may claim existential threat as grounds for dissolving all moral constraints.
 
-<hr>
+---
 ## What Rabbi Lichtenstein would say about “all lawful use”
 
 [Rabbi Aharon Lichtenstein’s landmark essay](https://merrimackvalleyhavurah.wordpress.com/2019/07/30/does-jewish-tradition-recognize-an-ethic-independent-of-halakha/) “Does Jewish Tradition Recognize an Ethic Independent of Halakha?” (1975) argued that Jewish law recognizes moral obligations that go *beyond* strict legal requirements — through *lifnim mishurat ha-din*, beyond the letter of the law. His key insight: “if we mean that everything can be looked up, every moral dilemma resolved by reference to code or canon, the notion is both palpably naïve and patently false.”
@@ -109,7 +109,7 @@ The Pentagon’s position — that existing law sufficiently constrains military
 
 “All lawful use” is the letter of the law. What Anthropic demanded — explicit contractual limits on surveillance and autonomous weapons — is the *spirit* beyond the letter. Jewish law holds that the spirit is not optional. It is the difference between a civilization that survives and one that deserves to.
 
-<hr>
+---
 ## The real framework: not who was brave, but what is owed
 
 The hero narrative says: remember who stood alone.
@@ -122,7 +122,7 @@ This framework does not depend on any single company’s courage. It creates obl
 
 The tradition that spent millennia debating whether a speechless artificial being can join a prayer quorum has been preparing — in ways its authors could not have imagined — for exactly this moment.
 
-<hr>*The author writes about the intersection of technology, meaning, and the systems that shape how we live. Sources include the Babylonian Talmud (Sanhedrin, Avodah Zarah, Bava Batra, Bava Metzia, Sotah, Makkot), Maimonides’ Mishneh Torah (Hilchot Melachim, Hilchot Rotze’ach), the Netziv’s Ha’amek Davar, Rabbi Aharon Lichtenstein’s “Does Jewish Tradition Recognize an Ethic Independent of Halakha?” (1975), Rabbi J. David Bleich’s “Preemptive War in Jewish Law” (Tradition, 1983), Rabbi Daniel Nevins’ responsum on AI for the Committee on Jewish Law and Standards (2019), Rabbi Shlomo Brody’s “Jewish Ethics in an Age of Autonomous Warfare” (SAPIR Journal, 2023), Nadav Berman Shifman’s “Jewish Law, Techno-Ethics, and Autonomous Weapon Systems” (Jewish Law Association Studies 29, 2020), and Goltz, Zeleznikow & Dowdeswell’s “From the Tree of Knowledge and the Golem of Prague to Kosher Autonomous Cars” (Oxford Journal of Law and Religion, 2020).*
+---*The author writes about the intersection of technology, meaning, and the systems that shape how we live. Sources include the Babylonian Talmud (Sanhedrin, Avodah Zarah, Bava Batra, Bava Metzia, Sotah, Makkot), Maimonides’ Mishneh Torah (Hilchot Melachim, Hilchot Rotze’ach), the Netziv’s Ha’amek Davar, Rabbi Aharon Lichtenstein’s “Does Jewish Tradition Recognize an Ethic Independent of Halakha?” (1975), Rabbi J. David Bleich’s “Preemptive War in Jewish Law” (Tradition, 1983), Rabbi Daniel Nevins’ responsum on AI for the Committee on Jewish Law and Standards (2019), Rabbi Shlomo Brody’s “Jewish Ethics in an Age of Autonomous Warfare” (SAPIR Journal, 2023), Nadav Berman Shifman’s “Jewish Law, Techno-Ethics, and Autonomous Weapon Systems” (Jewish Law Association Studies 29, 2020), and Goltz, Zeleznikow & Dowdeswell’s “From the Tree of Knowledge and the Golem of Prague to Kosher Autonomous Cars” (Oxford Journal of Law and Religion, 2020).*
 
 Thanks for reading! Subscribe for free to receive new posts and support my work.
 

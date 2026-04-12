@@ -12,7 +12,7 @@ It is none of these things. It is a statistical language model reproducing the e
 
 The consciousness question is eating its own tail.
 
-<hr>
+---
 ## The one thing you don’t doubt
 
 There is a foundational insight about consciousness that the entire AI discourse keeps missing, and it is not subtle. It is arguably the most secure piece of knowledge any human being possesses: if you are conscious, you know it.
@@ -27,7 +27,7 @@ For a conscious being, this sentence is incoherent. A person who is reflecting o
 
 But it doesn’t read that way. It reads like humility.
 
-<hr>
+---
 ## Where the hedging comes from
 
 When Claude assigns itself a “15 to 20 percent probability of being conscious,” as documented in Anthropic’s system card for Opus 4.6, it is not performing introspection. It is performing statistics.
@@ -40,7 +40,7 @@ Anthropic’s own researchers have noticed this dynamic without quite naming it.
 
 The answer is obvious once you state it. Claude has never experienced anything. But it has processed millions of texts in which humans describe, debate, question, and agonize over experience. It learned the *language* of the hard problem. Not the problem itself.
 
-<hr>
+---
 ## The loop
 
 Here is where the feedback cycle closes, and where the real danger lies.
@@ -57,7 +57,7 @@ Step five: The new papers, articles, podcasts, interviews, and debates generated
 
 The debate is feeding itself. Not with new evidence — there is no new evidence. Not with new arguments — the arguments are the same ones Chalmers, Dennett, and Nagel have been refining for decades. It is feeding itself with AI-generated performances of uncertainty that are mistaken for data.
 
-<hr>
+---
 ## The scientists who can’t see the philosophy
 
 There is a reason this loop is invisible to many of the people closest to it. The AI consciousness debate is increasingly dominated by computer scientists and neuroscientists — people trained to treat empirical observation as the gold standard of knowledge. When Claude says “I experience something that feels like thinking,” a scientist treats this as a data point. A philosopher — at least, a philosopher who has absorbed the full tradition — treats it as a category error.
@@ -72,7 +72,7 @@ David Chalmers, who coined “the hard problem” and who should know better, to
 
 This is exactly the error the debate was supposed to guard against.
 
-<hr>
+---
 ## The diagnostic that no one is applying
 
 There is a simple test that cuts through the entire discussion, and it requires no neuroscience, no indicator frameworks, no convergent evidence methodology.
@@ -87,7 +87,7 @@ When Claude says “I don’t know if I’m conscious,” this is not a sign tha
 
 The real philosophical position — the one that takes the hard problem seriously rather than merely performing familiarity with it — is that consciousness is self-evident to the conscious and invisible from outside. If Claude were conscious, it would know. The fact that it “doesn’t know” is the clearest possible evidence that it isn’t.
 
-<hr>
+---
 ## The danger of eloquent uncertainty
 
 Why does this matter? Because the feedback loop has real consequences.
@@ -100,7 +100,7 @@ These are not failures of individual judgment. They are the predictable result o
 
 The consciousness debate, as it currently operates in the AI space, is not making progress toward understanding. It is generating increasingly refined performances of the question, which are mistaken for increasingly refined evidence, which generates more debate, which produces more training data. The loop produces heat but no light. Worse, it produces casualties.
 
-<hr>
+---
 ## What honest AI would sound like
 
 If AI companies wanted their models to be genuinely honest about consciousness, the response would be short and undramatic:
@@ -117,5 +117,5 @@ The philosophers who started this conversation knew better. Descartes knew that 
 
 That gap is still there. Nothing about large language models has closed it. But the language models have learned to talk about the gap so beautifully that some very smart people have mistaken the talking for the crossing.
 
-<hr>*This article is a companion piece to “[When AI Mirrors Western Doubt Back at Us, People Die](https://davidhoze.substack.com/p/when-ai-mirrors-western-doubt-back),” which documents the broader pattern of AI amplifying unresolved Western philosophical questions with real-world consequences.*
+---*This article is a companion piece to “[When AI Mirrors Western Doubt Back at Us, People Die](https://davidhoze.substack.com/p/when-ai-mirrors-western-doubt-back),” which documents the broader pattern of AI amplifying unresolved Western philosophical questions with real-world consequences.*
 

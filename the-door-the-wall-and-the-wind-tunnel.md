@@ -3,7 +3,7 @@
 
 # The Door, the Wall, and the Wind Tunnel
 
-<hr>[- - 
+---[- - 
 
 ](https://substackcdn.com/image/fetch/$s_!w3Nr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2e92afa-5267-40ae-bc4c-6f6c80162eca_1200x1090.jpeg)Hugh Jackman and Christian Bale in *The Prestige* (2007) — Two rival magicians in Victorian London who push each other to brilliance and then to ruin. Nolan's sharpest film about what happens when a great partnership breaks aprt.Two brothers stand in a bicycle shop in Dayton, Ohio, shouting at each other through open windows. It is the summer of 1900. The heat is terrible. The neighbors don’t look up anymore.
 
@@ -15,7 +15,7 @@ They are arguing about wing curvature. Or maybe lift coefficients. Or maybe whet
 
 They wear suits and ties. Even when they fly.
 
-<hr>Seven years later, on the other side of the Atlantic, a different kind of meeting. Vienna, March 1907. Berggasse 19, the apartment of Dr. Sigmund Freud. A young Swiss psychiatrist named Carl Jung has come to visit. He is thirty-one. Freud is fifty-one. They begin talking.
+---Seven years later, on the other side of the Atlantic, a different kind of meeting. Vienna, March 1907. Berggasse 19, the apartment of Dr. Sigmund Freud. A young Swiss psychiatrist named Carl Jung has come to visit. He is thirty-one. Freud is fifty-one. They begin talking.
 
 They do not stop for thirteen hours.
 
@@ -25,7 +25,7 @@ Jung, for his part, found in Freud the intellectual father he had never had. He 
 
 For six years, they were the most important partnership in the history of psychology. They exchanged 360 letters. They traveled to America together. They analyzed each other’s dreams. Freud, the materialist, the man who believed the unconscious was a basement full of repressed sexual desires. Jung, the mystic, the man who believed the unconscious was a cathedral full of archetypes shared across all of human culture. They agreed that the unconscious was the most important discovery in the history of the mind. They disagreed about everything it contained.
 
-<hr>London, 2024. A small academic conference on the future of marriage. Twelve scholars, three days, a question almost no one in the secular academy takes seriously anymore. Among the panelists: a French Catholic canon lawyer named Father Michel and an Israeli Orthodox scholar named Dvora.
+---London, 2024. A small academic conference on the future of marriage. Twelve scholars, three days, a question almost no one in the secular academy takes seriously anymore. Among the panelists: a French Catholic canon lawyer named Father Michel and an Israeli Orthodox scholar named Dvora.
 
 They had never met before. But they had read each other’s work. Michel had published a defense of marriage as a sacrament — an ontological transformation, two becoming one flesh, a bond that could not be undone by human will. Dvora had published a defense of marriage as a covenant — a *brit* — structured by law, sacred because it was specific, with obligations spelled out in a *ketubah* and conditions for dissolution spelled out in the laws of *gittin*.
 
@@ -35,7 +35,7 @@ On the first day of the panel, a feminist theorist argued that marriage was “a
 
 They did. For two days they were allies. They finished each other’s arguments. The other panelists began calling their shared position “the religious view,” as though there were only one. When the economist presented his data on marriage’s decline, it was Dvora who named what the numbers couldn’t — that a covenant broken leaves a different wound than a contract cancelled — and Michel who explained why, in language the secular room could hear. When the libertarian argued that marriage was a private matter the state should leave alone, it was Michel who insisted that some commitments are too important to leave unwitnessed, and Dvora who gave the proof — that the *ketubah* exists precisely because love alone is not enough, because the body of the community must hold what the hearts of two people cannot always hold by themselves. Alone, each of them spoke from a tradition the room respected but could not enter. Together, they built a doorway the room could walk through.
 
-<hr>In the bicycle shop, the argument about Lilienthal’s data reaches a breaking point. The numbers say one thing. The gliders they’ve built using those numbers do another. The wing should produce a certain amount of lift. It produces a third of that. Either the wings are wrong or the numbers are wrong. Wilbur wants to trust the data and redesign the wing. Orville wants to question the data.
+---In the bicycle shop, the argument about Lilienthal’s data reaches a breaking point. The numbers say one thing. The gliders they’ve built using those numbers do another. The wing should produce a certain amount of lift. It produces a third of that. Either the wings are wrong or the numbers are wrong. Wilbur wants to trust the data and redesign the wing. Orville wants to question the data.
 
 They argue for days. And then they do something that no other experimenter in the world has thought to do. They build a wind tunnel.
 
@@ -47,7 +47,7 @@ On December 17, 1903, at Kill Devil Hills, near Kitty Hawk, North Carolina, thei
 
 Later, Wilbur said that he and Orville had flown many times already — in their minds. When it finally happened in reality, for them, it was just another flight.
 
-<hr>In Freud’s study, 1909. They are arguing about the occult. Freud keeps dismissing Jung’s examples as “mere spookery.” Jung holds himself back, swallowing his anger. He feels a strange sensation — as if his diaphragm were made of iron and becoming red-hot, a glowing vault. Then a loud crash from the bookcase.
+---In Freud’s study, 1909. They are arguing about the occult. Freud keeps dismissing Jung’s examples as “mere spookery.” Jung holds himself back, swallowing his anger. He feels a strange sensation — as if his diaphragm were made of iron and becoming red-hot, a glowing vault. Then a loud crash from the bookcase.
 
 “There,” Jung says. “An example of a catalytic exteriorisation phenomenon.”
 
@@ -63,7 +63,7 @@ They travel to America together that same year, to lecture at Clark University. 
 
 Freud later tells Jung the talk of corpses meant that Jung harbored death wishes toward him. Even Jung’s curiosity becomes, in Freud’s system, a symptom.
 
-<hr>On the third morning of the London conference, over tea before the final session, Michel says something casual.
+---On the third morning of the London conference, over tea before the final session, Michel says something casual.
 
 “The beauty of what we’re both saying is that true marriage cannot end. It can only be betrayed.”
 
@@ -89,13 +89,13 @@ For two days they have been living in the same house. Now they discover that her
 
 “And you are describing a principle that has no room for the people who live under it.”
 
-<hr>Wilbur Wright died in 1912. Typhoid fever. He was forty-five.
+---Wilbur Wright died in 1912. Typhoid fever. He was forty-five.
 
 Orville lived another thirty-six years. He sold the Wright Company. He fought patent battles. He watched the airplane transform the world. He never designed another one.
 
 Not because he lost his skill. Not because he lost his courage. Because he lost his scrapper. The one who pulled him out of darkness. The one who argued him into corners so tight that the only way out was invention. Without the friction, the machine that had produced the wind tunnel, the wing, the flight — that machine went silent. The surviving brother had his hands and his mind and thirty-six years of life. He did not have the argument.
 
-<hr>In 1912, at the Psychoanalytic Congress in Munich, the conversation turns to the Egyptian pharaoh Akhenaten. Someone offers a Freudian reading — Akhenaten destroyed his father’s monuments out of Oedipal rage. It was parricide in stone. Jung pushes back. He argues that Akhenaten was a creative and profoundly religious man who honored his father’s memory. His destruction was directed at the god Amon, not at his father. It was theology, not neurosis.
+---In 1912, at the Psychoanalytic Congress in Munich, the conversation turns to the Egyptian pharaoh Akhenaten. Someone offers a Freudian reading — Akhenaten destroyed his father’s monuments out of Oedipal rage. It was parricide in stone. Jung pushes back. He argues that Akhenaten was a creative and profoundly religious man who honored his father’s memory. His destruction was directed at the god Amon, not at his father. It was theology, not neurosis.
 
 For Freud — anxious about Jung’s rejection, watching his crown prince drift toward mysticism and away from him — this talk of ungrateful sons destroying their fathers’ heritage is too much.
 
@@ -111,7 +111,7 @@ Jung accepts.
 
 What had begun with thirteen hours of conversation ends with a single paragraph.
 
-<hr>Michel and Dvora went to the conference room, trying not to look at each other’s face. The room was full. The other participants expected what they had come to expect over the past two days — the priest and the rabbi, finishing each other’s sentences, making the case that no one else at the table could make.
+---Michel and Dvora went to the conference room, trying not to look at each other’s face. The room was full. The other participants expected what they had come to expect over the past two days — the priest and the rabbi, finishing each other’s sentences, making the case that no one else at the table could make.
 
 The economist opened with a question. “Both of you have argued that marriage creates obligations that outlast the feelings that prompted them. But what happens when the obligation itself becomes the source of harm? What does your tradition do with that?”
 
@@ -123,7 +123,7 @@ Michel tried next. He spoke about the sacrament, about the transformation that m
 
 The feminist theorist watched them both. Something was different. She had spent two days pushing against them, and they had pushed back with a force she hadn’t expected — not angry, not defensive, but grounded, like two people standing on something solid. Now they were standing on different ground, and neither of them was as tall.
 
-<hr>In 1959 — forty-six years after the break — an interviewer asks Carl Jung about his correspondence with Freud. He is eighty-four years old. He calls the letters “that accursed correspondence.”
+---In 1959 — forty-six years after the break — an interviewer asks Carl Jung about his correspondence with Freud. He is eighty-four years old. He calls the letters “that accursed correspondence.”
 
 Accursed. Not regrettable. Not unfortunate. *Accursed.* The word of a man who has spent nearly half a century carrying a wound that will not close. Not because Freud was wrong. Not because Jung was wrong. Because they were both right about the thing they agreed on — the unconscious is the most important discovery in the history of the mind — and irreconcilably wrong about each other. Freud saw the basement. Jung saw the cathedral. And neither could live in the other’s building.
 
@@ -131,7 +131,7 @@ After the split, Freud’s psychoanalysis hardened into orthodoxy — rigid, red
 
 Both went on to prolific careers. Jung's may have been liberated by the break — he developed archetypes, the collective unconscious, and in Wolfgang Pauli found a new scrapper, a twenty-six-year argument between physics and the psyche. He may have been more empiricist than mystic, a man describing observable patterns in the only language large enough to hold them. But without Freud in the room demanding smaller, harder words, the language floated — and the world heard a prophet where it might have heard a scientist. Freud found no Pauli. His psychoanalysis hardened into orthodoxy — rigid, reductive and suspicious of anything that smelled of spirit. One man replaced the friction. The other didn't. And only one ship listed.
 
-<hr>The feminist theorist was starting to realize that marriage had its merit. The data on the children growing with single moms, did something to her heart. But that split, the alliance that broke, stopped what had started to form in her mind. She came back to her position in the university, publishing articles, writing in social media, shaping the future. She was less against the marriage institute, but not really all for it.
+---The feminist theorist was starting to realize that marriage had its merit. The data on the children growing with single moms, did something to her heart. But that split, the alliance that broke, stopped what had started to form in her mind. She came back to her position in the university, publishing articles, writing in social media, shaping the future. She was less against the marriage institute, but not really all for it.
 
 Father Michel looked at his sister’s son. He was a high school drop out. His favorite time was to get stoned and visit the nearby mall. His mother Clarisse, who was divorced for three years now, was just too tired, too alone to do something about it. “Was that door so important?” Father Michel thought to himself. “My sister is outside *her* house right now, and her son is out on the streets of Paris”. Father Michel played with his key chain, his eyes looking for something in the corridor he was standing in. “Door or no door” he finally said with a stifled cry, “I just want my nephew back in his house”. Father Michel decided to walk to his study room at the end of that corridor, and call an old friend.
 

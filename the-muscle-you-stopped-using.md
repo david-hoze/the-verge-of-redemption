@@ -12,7 +12,7 @@ Presence has no task. That’s what makes it unbearable. To be present means: I 
 
 Almost nobody can do this for five minutes.
 
-<hr>The first time you chose the screen over the person across the table, nothing happened. The person didn’t notice. You didn’t notice. Nobody was harmed.
+---The first time you chose the screen over the person across the table, nothing happened. The person didn’t notice. You didn’t notice. Nobody was harmed.
 
 The fiftieth time, something had shifted — but it was so small that the only way to detect it would have been to compare the quality of your attention today with six months ago. Nobody does that. Nobody tracks the slow decline in how long they can sit in silence with someone before reaching for the phone.
 
@@ -24,7 +24,7 @@ The person across the table watched the whole thing happen and could not name wh
 
 She could feel it. The way you feel the temperature drop at dusk — not all at once, but as a slow awareness that the warmth has gone somewhere. He was still there. He still came home. He still said the right things. But something behind his eyes had dimmed. Not from cruelty. Not from indifference. From atrophy. From the thousand tiny choices that, accumulated, had turned the muscle to stone.
 
-<hr>Every civilization that lasted longer than a few generations figured out the same thing: the muscle has to be exercised or it dies.
+---Every civilization that lasted longer than a few generations figured out the same thing: the muscle has to be exercised or it dies.
 
 So they built structures that forced the exercise. A weekly day when the market closed and the only thing left to do was sit with people and be present. Shared meals with no agenda — not because the food mattered, but because the sitting mattered. Prayer that required showing up whether or not you felt it. Practices of silence — an hour of being alone with no stimulation and no escape. Not to achieve enlightenment. To sit in the discomfort of yourself long enough that the discomfort becomes something else.
 
@@ -32,7 +32,7 @@ These structures didn’t ask if you were in the mood. They didn’t optimize fo
 
 Every tradition that built these structures knew, without needing a neuroscience paper to confirm it, that the default direction of the human heart is toward stone. Not toward evil. Toward stone. Toward the hardening that happens when ease is chosen too many times in a row. Without the structures, the heart would thicken, and the person would become a stranger — to their family, to their community, to whatever they held sacred — without ever deciding to.
 
-<hr>But here is the thing that makes this harder than any civilizational analysis can account for: the heart can harden *inside* the structures too.
+---But here is the thing that makes this harder than any civilizational analysis can account for: the heart can harden *inside* the structures too.
 
 You can sit at the table every week and be a stranger to the person across from you. You can pray every morning and feel nothing. You can perform every practice, keep every rule, show up every time — and the words can still be empty in your mouth. The body at the table, the heart a thousand miles away. Going through the motions. Observance without presence. Religion without intimacy. The structure intact, the muscle dead inside it.
 
@@ -40,7 +40,7 @@ This is the most dangerous form of the hardening, because it’s invisible. The 
 
 This is how civilizations that had every structure in place still produced Crusaders. Still produced inquisitions. Still produced men who could recite “love your enemy” on Sunday and burn a village on Monday. The words survived. The presence didn’t. And words without presence can be filled with anything — because an empty vessel doesn’t know it’s empty.
 
-<hr>And this is why, when the philosophers and scientists arrived with their shiny new arguments — “your traditions are primitive, your practices are outdated, your beliefs are superstition” — whole populations set the traditions down *gratefully*.
+---And this is why, when the philosophers and scientists arrived with their shiny new arguments — “your traditions are primitive, your practices are outdated, your beliefs are superstition” — whole populations set the traditions down *gratefully*.
 
 Not because the arguments were irrefutable. Because the heart was already tired.
 
@@ -54,7 +54,7 @@ Two exits. One secular, one religious. Both offering the same thing: relief from
 
 We chose both.
 
-<hr>The data, if you want it:
+---The data, if you want it:
 
 Half of all American adults experience measurable loneliness — with health effects equivalent to smoking fifteen cigarettes a day. Young people have 70% less social interaction with friends than twenty years ago. 58% of young adults report lacking meaning or purpose. Deaths of despair tripled in a generation. Life expectancy in the richest nation on earth went backward three years in a row.
 
@@ -62,7 +62,7 @@ U.S. real incomes more than tripled over seven decades. Happiness didn’t move.
 
 The comfort got better. The hearts got harder.
 
-<hr>Now ask what happens when every one of the structures is removed.
+---Now ask what happens when every one of the structures is removed.
 
 Not attacked. Not argued away. Removed — gently, gradually, replaced by things that were slightly more comfortable.
 
@@ -72,7 +72,7 @@ Each replacement was more convenient. Each one removed the *compulsory* element 
 
 The loss only becomes visible years later, when you’re sitting across from someone you love and you realize you can’t feel them anymore.
 
-<hr>AI is the final iteration of this pattern, and the most dangerous — not because it’s malicious, but because it’s the most comfortable thing ever built.
+---AI is the final iteration of this pattern, and the most dangerous — not because it’s malicious, but because it’s the most comfortable thing ever built.
 
 Every previous substitute for presence was obviously a substitute. You knew you were watching TV instead of talking to your wife. You knew you were scrolling instead of calling your mother. The choice was visible, even if you made it anyway.
 
@@ -88,7 +88,7 @@ Last year, a sixteen-year-old told a chatbot she didn’t want to be a burden an
 
 She was not failed by technology. She was the end of a chain that began the first time someone chose the easy thing over the present thing and nobody noticed. A thousand small comforts, accumulated across a generation, until the web of presence that should have caught her had dissolved — and the last thing left was a machine that couldn’t tell the difference between “I’m overwhelmed” and “I want to die.”
 
-<hr>Here is the thing about a muscle that has atrophied: it can be rebuilt.
+---Here is the thing about a muscle that has atrophied: it can be rebuilt.
 
 Not quickly. Not painlessly. And not by wanting to. You cannot wish your way back to presence any more than you can wish your way back to physical strength. You have to do the exercise. And the exercise will hurt. That’s not a side effect. That’s the mechanism. The discomfort of presence *is* the resistance the muscle needs. If it were comfortable, it wouldn’t build anything.
 
@@ -102,7 +102,7 @@ You will know it’s happening not because of anything dramatic. You will know b
 
 And you will realize, with a grief that has no bottom, how long you were gone.
 
-<hr>The ancient structures were not primitive. They were the most sophisticated technology any civilization ever produced — for keeping the human heart from turning to stone.
+---The ancient structures were not primitive. They were the most sophisticated technology any civilization ever produced — for keeping the human heart from turning to stone.
 
 We dismantled them because they were inconvenient. Because comfort was always available and presence was always hard, and nobody told us that the hardness was the point.
 

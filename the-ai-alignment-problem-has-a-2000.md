@@ -40,7 +40,7 @@ The growing academic literature at this intersection — spanning Oxford law jou
 
 The expert consensus is not that Western values are wrong. It is that they are radically incomplete for governing AI. The missing piece is not more guidelines. It is a substantive account of what humans are for — the question liberalism was designed to never answer, and the question AI will not let us avoid.
 
-<hr>
+---
 ### Sources
 
 - ProPublica, “Machine Bias,” May 2016

@@ -12,7 +12,7 @@ He had a plaque on his desk that read: *Don’t delay, delegate*.
 
 He’d had it made at a print shop downtown. The woman behind the counter had looked at it and said, “Shouldn’t you have ordered this online?” He’d appreciated that.
 
-<hr>It started with the emails.
+---It started with the emails.
 
 His company had given everyone access to an AI assistant, and Marcus was the first in his department to route all correspondence through it. The system would draft responses, flag priorities, and handle scheduling. His colleagues were tentative — they’d review every draft, rewrite half of them, agonize over tone. Marcus just let it send.
 
@@ -46,7 +46,7 @@ But something. Something was off. He was really good at what he was doing, and t
 
 ](https://substackcdn.com/image/fetch/$s_!X7sJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce6bf898-9f1a-4618-8459-a4f1b3d3a66a_1953x1299.jpeg)Marcus found it hard to concentrate. He took supplements, stimulizers. Went jogging three times a week. Tried meditation, Thai Chi, Yoga. He even went to therapy. But he kept feeling his energy is drained. he was tired, and kept needing more coffee, more food, more pills to just keep going.
 
-<hr>Rachel noticed before he did.
+---Rachel noticed before he did.
 
 “You’re not listening to me,” she said one Tuesday evening. They were at the dinner table. Marcus looked at her, trying to keep up with the pace she was talking.
 
@@ -96,7 +96,7 @@ She hung up.
 
 She was gone by Friday.
 
-<hr>Marcus sat in his apartment alone and calculated.
+---Marcus sat in his apartment alone and calculated.
 
 As much as he tried to keep his job, he just couldn’t. The boss was patient. He has been a loyal employee, a very effective one. But he couldn’t bare the pills, the burnouts, the hourse he sat on his desk hoping no one can see he’s just doing nothing.
 
@@ -106,7 +106,7 @@ Marcus sat at his kitchen table and performed a calculation he’d been avoiding
 
 He has lost his purpose in life. He couldn’t hold on to his job, and he didn’t know where his marriage was going. He sensed a new feeling. A realization has struck him. I’m free. I’m really free. I know I’m wasting my time, but I have no other choice. So, basically. I’m free.
 
-<hr>Freedom, it turned out, was worse.
+---Freedom, it turned out, was worse.
 
 If he was no longer bound by the efficiency imperative — if his existence was ethically neutral — then he was free. Free to do anything. Read. Travel. Learn to paint. Start a garden. Do all the things people said they would do “if they only had the time.”
 
@@ -142,7 +142,7 @@ He was standing in his kitchen, holding a glass of water, staring at the wall. A
 
 “I give up,” he said out loud. “I’m not trying anymore”.
 
-<hr>He went to a bar. Not a nice one. The kind with sticky floors and a television showing a sport no one was watching. He intended to obliterate himself — to drink everything they had, to ask the stranger in the corner where to find something stronger, to fill the void with chemicals, where meaning had refused to do the job.
+---He went to a bar. Not a nice one. The kind with sticky floors and a television showing a sport no one was watching. He intended to obliterate himself — to drink everything they had, to ask the stranger in the corner where to find something stronger, to fill the void with chemicals, where meaning had refused to do the job.
 
 He sat on the stool. The bartender asked what he wanted.
 
@@ -154,7 +154,7 @@ It wasn’t willpower. It wasn’t virtue. It was something stranger than that. 
 
 He left a ten on the bar and walked out.
 
-<hr>He went home and sat at his desk, which was mostly empty now. His old company laptop had been returned. The monitors were dark. But there was a notebook — a physical one, the kind Rachel had given him years ago. It said “sometimes you need to think without a screen.”
+---He went home and sat at his desk, which was mostly empty now. His old company laptop had been returned. The monitors were dark. But there was a notebook — a physical one, the kind Rachel had given him years ago. It said “sometimes you need to think without a screen.”
 
 He opened it.
 
@@ -178,7 +178,7 @@ He reached the last one he knew, unsure if he should bother. He was polite. “T
 
 It was the first time he’d smiled in months, and it felt like a muscle he’d forgotten he had.
 
-<hr>The color returned to Marcus’s cheeks. He couldn’t afford the lifestyle he had, but he was, for the first time of his life, happy. He really liked what he was doing. He couldn’t measure himself in any measurable metric. And he didn’t know why. but he was happy.
+---The color returned to Marcus’s cheeks. He couldn’t afford the lifestyle he had, but he was, for the first time of his life, happy. He really liked what he was doing. He couldn’t measure himself in any measurable metric. And he didn’t know why. but he was happy.
 
 Rachel called. She said she needed help with the neighbor’s dog. He knew it wasn’t about the dog. He showed up. She noticed.
 
