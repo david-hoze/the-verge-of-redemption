@@ -188,6 +188,12 @@ A drifter finds sunglasses that reveal the truth: aliens are running society thr
 **WALL-E** (2008) - i-human
 A lonely robot on an abandoned Earth falls in love with a sleek probe from the future. He is obsolete, she is mission-focused, and neither speaks more than a word. The most human love story Pixar ever told, starring no humans. Directed by Andrew Stanton.
 
+**Whiplash** (2014) - the-convergence-trap
+A first-year jazz drummer meets the instructor who will destroy him. Fletcher throws chairs, slaps faces, calibrates humiliation to find the fracture line. Andrew practices until his hands bleed. The final drum solo obliterates everything - and you can't tell if it's transcendence or the training's final product. Directed by Damien Chazelle.
+
+**Hachi: A Dog's Tale** (2009) - the-gradient-and-the-grief
+A professor adopts an Akita. Every day the dog walks him to the train station. Every evening it waits for his return. The professor dies. The dog waits at the station every evening for ten years. Everyone calls it loyalty. The film never tells you whether it is. Directed by Lasse Hallstrom.
+
 ## Collaboration Articles
 
 Movies used in collaboration articles not published on David's Substack.

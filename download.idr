@@ -257,8 +257,11 @@ processArticle slug ts = do
           let title = case findKeyValue "title" chars of
                         Just (t, _) => t
                         Nothing => slug
+          let subtitle = case findKeyValue "subtitle" chars of
+                           Just (s, _) => if s == "" then "" else ": " ++ s
+                           Nothing => ""
           let md = htmlToMd body
-          Right _ <- writeFile out ("# " ++ title ++ "\n\n" ++ md)
+          Right _ <- writeFile out ("# " ++ title ++ subtitle ++ "\n\n" ++ md)
             | Left _ => do putStrLn ("  " ++ slug ++ ": FAILED to write"); pure ts
           putStrLn ("  " ++ slug ++ (if fileExists then " (updated)" else " (new)"))
           pure (updateTs slug updatedAt ts)
@@ -280,6 +283,73 @@ fetchAllSlugs offset acc = do
     _  => fetchAllSlugs (offset + length slugs) (acc ++ slugs)
 
 -------------------------------------------------------------------
+-- Check if a string contains a substring
+-------------------------------------------------------------------
+contains : String -> String -> Bool
+contains needle haystack = go (unpack needle) (unpack haystack)
+  where
+    startsWith : List Char -> List Char -> Bool
+    startsWith [] _ = True
+    startsWith _ [] = False
+    startsWith (n :: ns) (h :: hs) = n == h && startsWith ns hs
+
+    go : List Char -> List Char -> Bool
+    go _ [] = False
+    go nd (h :: hs) = startsWith nd (h :: hs) || go nd hs
+
+-------------------------------------------------------------------
+-- Split at first blank line (\n\n)
+-------------------------------------------------------------------
+splitAtFirstBlank : String -> (String, String)
+splitAtFirstBlank s = go [] (unpack s)
+  where
+    go : List Char -> List Char -> (String, String)
+    go acc [] = (pack (reverse acc), "")
+    go acc ('\n' :: '\n' :: rest) = (pack (reverse acc), pack rest)
+    go acc (c :: rest) = go (c :: acc) rest
+
+-------------------------------------------------------------------
+-- Patch locally-written articles with cover images from Substack
+-------------------------------------------------------------------
+patchImage : String -> IO Bool
+patchImage slug = do
+  let out  = outDir ++ "/" ++ slug ++ ".md"
+  let json = tmp ++ "/" ++ slug ++ ".json"
+  Right content <- readFile out
+    | Left _ => pure False
+  -- Skip if already has image block
+  if contains "[- -" content
+    then pure False
+    else do
+      -- JSON should be in tmp from the download phase; fetch if missing
+      jsonExists <- do
+        Right f <- openFile json Read
+          | Left _ => pure False
+        closeFile f
+        pure True
+      when (not jsonExists) $ do
+        _ <- run ("curl -s 'https://davidhoze.substack.com/api/v1/posts/" ++ slug ++ "' -o '" ++ json ++ "'")
+        pure ()
+      Right rawJson <- readFile json
+        | Left _ => do putStrLn ("  " ++ slug ++ ": no JSON available"); pure False
+      case findKeyValue "cover_image" (unpack rawJson) of
+        Nothing => do putStrLn ("  " ++ slug ++ ": no cover_image in API"); pure False
+        Just ("", _) => do putStrLn ("  " ++ slug ++ ": empty cover_image"); pure False
+        Just (url, _) => do
+          let (title, rest) = splitAtFirstBlank content
+          let patched = title ++ "\n\n[- - \n\n](" ++ url ++ ")" ++ rest
+          Right _ <- writeFile out patched
+            | Left _ => do putStrLn ("  " ++ slug ++ ": failed to write"); pure False
+          putStrLn ("  " ++ slug ++ ": added image")
+          pure True
+
+patchAll : List String -> Nat -> IO ()
+patchAll [] n = putStrLn (show n ++ " images patched")
+patchAll (s :: rest) n = do
+  patched <- patchImage s
+  patchAll rest (if patched then S n else n)
+
+-------------------------------------------------------------------
 main : IO ()
 main = do
   _ <- createDir tmp
@@ -289,6 +359,8 @@ main = do
   putStrLn (show (length slugs) ++ " articles found")
   finalTs <- processAll slugs stored 0
   writeTimestamps finalTs
+  putStrLn "Patching images..."
+  patchAll slugs 0
   putStrLn "Done."
   where
     processAll : List String -> List (String, String) -> Nat -> IO (List (String, String))

@@ -5,8 +5,6 @@
 **Substack:** "The Sacred Lazy One" (thesacredlazyone.substack.com)  
 **Handle:** @thesacredlazyone  
 **Signatures:** "Chimo" and "Namaste"  
-**Name:** Brian (referenced in the neurodivergence conversation)  
-**Background:** Self-described as having experienced psychosis and severe mania. Bipolar. ADHD and HSP. Does not do psychedelics anymore but considers them formative. Uses medication to function in secular society. Has a memoir he's considering publishing about mystical experiences during psychotic episodes. Learned things about language during psychotic states that he uses every day. Feels a "shamanistic responsibility" about his experiences.
 
 ---
 
@@ -122,20 +120,6 @@ Ent and David converge on many structural points but diverge at one critical jun
 Ent functions as the **infrastructure architect** in the Substack group. David brings Nachman and coordination. Sabrina brings the insistence that people must be freed before infrastructure matters. Hawkeye brings soil and embodied ecology. Caitlin brings the body and mycelial connection. Ent builds the structural framework that holds all of them.
 
 Key moment: "The mesh does not precede freedom — it is the precondition for choosing it at scale. You cannot choose what you cannot see, and you cannot see what has no infrastructure to make itself visible... The people choosing goodness — that is already happening. In this conversation. Right now. The symphony is assembling. The infrastructure just needs to be free as air so the choosing has somewhere to land."
-
----
-
-## On Neurodivergence (from his own account)
-
-- Bipolar, ADHD, HSP
-- Went through psychosis — "the closest thing to a notion of hell I can think of"
-- Learned things about language during psychotic states he uses every day
-- Would not wish psychosis on almost anyone
-- Feels a shamanistic responsibility about his experiences
-- Understanding his depressive periods now serves a purpose
-- Medication keeps him from going too low
-- David and Brian's exchange produced the "keenness" framework: ADHD = keenness to be immersed with one's purpose, HSP = keenness to be quietly contemplative, Bipolar = keenness to inner fire. "The virtue is also the hardship."
-- Brian told David: "To have this validated by a righteous one living an Orthodox life, and in Israel too... I was so worried I was blasphemous."
 
 ---
 
