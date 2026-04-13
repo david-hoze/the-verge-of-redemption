@@ -348,7 +348,10 @@ try {
       // Use the last one (closest to the newly opened reply box)
       const btn = candidates[candidates.length - 1];
       btn.scrollIntoView({ block: 'center' });
-      btn.click();
+      // Dispatch full mouse event sequence so React's delegated handlers fire
+      btn.dispatchEvent(new MouseEvent('mousedown', { bubbles: true, cancelable: true }));
+      btn.dispatchEvent(new MouseEvent('mouseup', { bubbles: true, cancelable: true }));
+      btn.dispatchEvent(new MouseEvent('click', { bubbles: true, cancelable: true }));
       return { clicked: true, text: btn.textContent.trim(), index: candidates.length - 1 };
     }
 
@@ -360,7 +363,9 @@ try {
     if (fallback.length > 0) {
       const btn = fallback[fallback.length - 1];
       btn.scrollIntoView({ block: 'center' });
-      btn.click();
+      btn.dispatchEvent(new MouseEvent('mousedown', { bubbles: true, cancelable: true }));
+      btn.dispatchEvent(new MouseEvent('mouseup', { bubbles: true, cancelable: true }));
+      btn.dispatchEvent(new MouseEvent('click', { bubbles: true, cancelable: true }));
       return { clicked: true, text: btn.textContent.trim(), index: fallback.length - 1, method: 'fallback' };
     }
 

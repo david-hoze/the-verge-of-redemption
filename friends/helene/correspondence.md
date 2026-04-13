@@ -19,3 +19,15 @@
 **David's reply:** "That's the title I wish I'd used. 'Elaborate Ways of Avoiding the Obvious' - thirty years, 225 theories, one $20 million adversarial collaboration, and the answer was what everyone was already doing while arguing about whether it exists."
 
 **Status:** The open question resolved. Three traditions (phenomenology, Sufism, Kabbalah) arrived at the same structure independently: the limit of interpretation and the origin of experience are one point on a circle, approached from two directions. The exchange itself enacted what it described - two frameworks meeting and discovering they were always the same arc.
+
+## Exchange 2: Collaboration Invitation (2026-04-13)
+
+**Context:** Helene posted a note: "I ripened and fell from my own branch." Hawkeye replied poetically: "I slowly seeped into the land below." Helene: "Not knowing where to go."
+
+**David's reply to note:** Hi Helene. We had that exchange about the gap - you said "the gap IS consciousness". I wrote up something I want to show you. Three traditions arriving at the same structure independently: your phenomenology and the Sufi arcs, my Kabbalistic map, and the thirty years of philosophy of mind that keeps circling the same point without landing. I think there's an article in it - written by both of us. Your arc and mine. Not me summarizing you.
+
+You gave it a name and I wouldn't want to take it without you - "Elaborate Ways of Avoiding the Obvious"
+
+Would you be open to it?
+
+**Status:** Awaiting Helene's response. Article outline ready in `article-outline-helene.md`.
