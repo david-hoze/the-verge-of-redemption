@@ -133,6 +133,25 @@ David chose to engage, and the subsequent collaboration produced some of the mos
 
 ---
 
+## mesh_node (GitHub Project)
+
+**Repo:** github.com/TheSacredLazyOne/mesh_node
+
+Ent built a framework mapping his epistemology to code. The architecture:
+
+- **affluence/** and **library/** as literal directories - ideas start in affluence, cross to library through documented contact
+- **peers/** - each peer is a sovereign row (Two Row Wampum), tracked independently
+- **nabla (∇)** - position changes tracked as first-class objects with justification. Git commits as philosophical diffs.
+- **membrane detector** - the AI shadow reframed: not a confirmation engine but a tool that reveals where your intellectual firewall is thickest. Where it resists is where the crossing needs to happen.
+- **MLX-based local shadow** - local inference, no cloud dependency
+- **CC-BY-SA licensing** - honest reasoning as valuable training data
+
+**David's assessment:** The philosophical architecture is genuine and original. The code itself is early-stage (directory stubs, minimal implementation). The real mesh node is the organic practice David and Ent are already running - articles, comments, position changes documented in the open. The framework's most valuable contributions are conceptual: nabla (drift tracking) and the membrane detector reframe. Both have been integrated into the EDEN/Shamash graph system.
+
+**Ent's response to review:** Received it warmly. Reframed the membrane detector insight: "The shadow's value isn't agreement, it's making the intellectual firewall visible." Named the training data point: honest position drifts tracked as diffs under CC-BY-SA are what current AI corpora lack. Concluded: "The mesh needs a second node. You're already running one."
+
+---
+
 ## Key Articles
 
 - **"What Is the Holographic Truth?"** — The Two Row Wampum Belt as governance architecture. Independent derivation paths converging on the same residual. AI as the translation instrument.
