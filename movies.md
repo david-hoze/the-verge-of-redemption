@@ -47,6 +47,9 @@ A replicant blade runner falls in love with a holographic AI companion. Directed
 **Children of Men** (2006) - survival-gets-people-in-the-room
 In a world where no child has been born in eighteen years, systems still work; meaning enters when a baby cries. Directed by Alfonso Cuaron.
 
+**Close Encounters of the Third Kind** (1977) - the-mountain-they-all-sculpted
+A power-line repairman sculpts a shape he does not understand. Across the country, others sculpt the same shape. Different substrates, same mountain. The convergence is real. Then the ship lands and the source is not another mountain. Directed by Steven Spielberg.
+
 **Contact** (1997) - the-void-that-computes
 Jodie Foster plays an astronomer who spends her career listening to the void. She finds a signal. She builds the machine. She rides it through spacetime into something that looks like a beach in Pensacola. The experience is real. The recording shows eighteen hours of static. She came back with nothing the instruments could confirm. Directed by Robert Zemeckis.
 

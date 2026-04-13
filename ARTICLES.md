@@ -12,6 +12,9 @@
 - **where-imagination-is-fantasy.md** - "Where Imagination Is Fantasy" - Response to treating philosophical doubt about AI consciousness as moral perception; traditions resolve moral crises, not conversations
 - **consciousness-doesnt-matter.md** - "Consciousness Doesn't Matter" - Jewish law offers ethical frameworks for AI treatment regardless of consciousness
 - **the-child-and-the-window.md** - "The Child and the Window" - The hard problem of consciousness through 30 years of stalled neuroscience; consciousness as structurally unresolvable
+- **the-wall-that-teaches.md** - "The Wall That Teaches" - P vs NP barrier results mapped onto consciousness; three classes of approaches proven structurally incapable of resolving the hard problem
+- **the-void-that-computes.md** - "The Void That Computes" - Quantum computation shares the same three-barrier structure as P vs NP and consciousness; the Born rule as the Bound
+- **the-mountain-they-all-sculpted.md** - "The Mountain They All Sculpted" - Response to the strongest functionalist case for AI consciousness; the argument is the wrong type of proof
 
 ## AI Ethics & Governance
 
