@@ -7,6 +7,9 @@ misc/
 # Test files
 test_write.idr
 
+# Movie images (large, local only)
+movie-images/
+
 # Obsidian session state
 .obsidian/workspace.json
 .obsidian/app.json

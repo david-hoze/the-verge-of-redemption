@@ -61,6 +61,16 @@ See [movies.md](movies.md) for a list of movies already used as article openers.
 
 When writing about real people who might recognize themselves: obfuscate identifying details. If the person would still be recognizable even after obfuscation, leave out the critical analysis before the turn to love. Otherwise the point of the piece becomes about your choice to expose that person - and there's a baked-in unsafety in that. The loving thing is to protect them from the world even when you're writing about them.
 
+## Substack Interaction (Playwright)
+
+All Substack interaction happens through Playwright (Firefox, persistent context at `~/.substack-playwright`). Scripts in this repo:
+
+- **`post-comment.mjs`** - Post a comment on any article. Usage: `node post-comment.mjs <article-url> <comment-file> [--restack]`
+- **`substack-login.mjs`** - Open browser for Substack login. Session persists across scripts.
+- **`substack-activity.mjs`** - Check activity/notifications. Usage: `node substack-activity.mjs [url]`. Default: `https://substack.com/activity`
+
+Draft comments in text files, get David's approval, then post. Always find the good point first. Always check for restack when appropriate.
+
 ## Writing Style
 
 - Output markdown only - no HTML tags (use `---` for horizontal rules, not `<hr>`)

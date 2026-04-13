@@ -200,6 +200,15 @@ A first-year jazz drummer meets the instructor who will destroy him. Fletcher th
 **Hachi: A Dog's Tale** (2009) - the-gradient-and-the-grief
 A professor adopts an Akita. Every day the dog walks him to the train station. Every evening it waits for his return. The professor dies. The dog waits at the station every evening for ten years. Everyone calls it loyalty. The film never tells you whether it is. Directed by Lasse Hallstrom.
 
+**The Karate Kid** (1984) - the-hands-already-knew
+A boy from New Jersey signs up for karate lessons and gets manual labor instead. Wax on, wax off. Paint the fence. Sand the floor. He finally explodes and Miyagi throws punches at him. Daniel blocks every one. The formation happened before he noticed. Directed by John G. Avildsen.
+
+**The Lives of Others** (2006) - the-witness-nobody-examined
+A Stasi captain assigned to surveil a playwright becomes the thing surveillance was never supposed to produce: a witness changed by what he witnessed. The system assumed dispassionate observation was possible. It was wrong. Directed by Florian Henckel von Donnersmarck.
+
+**Willy Wonka & the Chocolate Factory** (1971) - the-factory-with-no-exit
+Five children enter a factory where everything is edible and nothing runs out. Four are destroyed by their appetites. Charlie wins by giving back the Gobstopper - an act of restraint in a place built for indulgence. The factory is post-scarcity. The question is who survives it. Directed by Mel Stuart.
+
 ## Collaboration Articles
 
 Movies used in collaboration articles not published on David's Substack.
