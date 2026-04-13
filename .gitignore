@@ -14,3 +14,4 @@ movie-images/
 .obsidian/workspace.json
 .obsidian/app.json
 .obsidian/appearance.json
+node_modules/
