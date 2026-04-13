@@ -188,6 +188,9 @@ A man discovers his entire life is a television show - every relationship script
 **They Live** (1988) - the-purge-that-wasnt
 A drifter finds sunglasses that reveal the truth: aliens are running society through subliminal messages hidden in plain sight. Without the glasses, everything looks normal. With them, every billboard says "OBEY." The system works because nobody wants to look. Directed by John Carpenter.
 
+**WarGames** (1983) - the-only-winning-move
+A teenager accidentally connects to a military supercomputer and starts Global Thermonuclear War. The computer runs every strategy. Each one is optimal. Each one ends the same way. "A strange game. The only winning move is not to play." Directed by John Badham.
+
 **WALL-E** (2008) - i-human
 A lonely robot on an abandoned Earth falls in love with a sleek probe from the future. He is obsolete, she is mission-focused, and neither speaks more than a word. The most human love story Pixar ever told, starring no humans. Directed by Andrew Stanton.
 

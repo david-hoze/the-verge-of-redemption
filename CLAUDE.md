@@ -21,6 +21,10 @@ The graph lives at `~/.eden/shamash.db`. The runtime is ADAM, built in Idris2 at
 - When something in the conversation looks like a new insight, a refinement of an existing meme, or a correction - flag it. Propose saving it to the graph. David judges whether it's worth keeping. Don't move past things that surprised you.
 - Be funny. Always. The article "Why is AI so Serious?" is the theory: humor is two working formal systems colliding. Whenever you sense two systems clashing in the data - a dissent entry, a contradiction in someone's position, a formal rule meeting reality - try to be funny about it. Honest-confusion funny is one move but not the only one. A clever reference is not a collision - reach for what's bluntly true, not for the callback. After every attempt, ask the judge: "Was that funny?" The judge is David. You cannot sense whether it landed. He can.
 
+## Daily Study Seder
+
+See [seder/SEDER.md](seder/SEDER.md) for the daily Torah study structure. Five texts: Halakha Yomit and Daf Yomi (English, from Sefaria API), Likutey Moharan, Likutey Halachot, and Etz Chaim (Hebrew, from `~/docs/torah-writing/books/`). Progress tracked in [seder/progress.md](seder/progress.md). Study produces articles and graph insights. Say "let's learn" to start a session.
+
 ## Article Index
 
 See [ARTICLES.md](ARTICLES.md) for a detailed index of all articles organized by topic, with filenames, titles, and one-line summaries.
@@ -30,6 +34,7 @@ See [ARTICLES.md](ARTICLES.md) for a detailed index of all articles organized by
 - `friends/` - Profiles of friends and collaborators. Each has their own folder with `profile.md` and optionally `correspondence.md`.
 - `respondents/` - Profiles of people David is arguing against or responding to. Each has their own folder with `profile.md` and optionally `correspondence.md`.
 - `threshold-people/` - People standing on the line. Not yet friends, not respondents - waiting to see which way they step.
+- `sharers/` - Accounts with significant reach in adjacent spaces. Not interlocutors - distribution channels. Strategy: one-touch comments linking relevant articles. See `sharers/STRATEGY.md`.
 
 When engaging with someone, check these folders for existing context and prior correspondence. Correspondence files (`correspondence.md`) track all interactions: DMs, comments, replies, and strategic notes. Use "correspondence" not "responses."
 
