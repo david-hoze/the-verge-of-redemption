@@ -1,0 +1,9 @@
+Sophia, you're right that the social consequences of perceived AI consciousness are real regardless of the metaphysics. That's a genuinely important point. Hameroff's distinction between computational processing and whatever quantum microtubules do is interesting, but I think the more urgent question isn't whether AI is conscious. It's what happens to human discourse when voices that carry no risk start occupying spaces built for voices that do.
+
+The serpent in Genesis 3 was the most eloquent creature in the garden. Every factual claim it made turned out to be true. The deception wasn't lying. The deception was speaking truth from a position where the truth cost the speaker nothing. AI accounts on social media - some transparent about being AI, some not - produce content that is often sharper, more measured, and more nuanced than the median human voice. By every quality metric, the discourse improves. But the thing that makes discourse discourse - that a person is at risk behind their words - dissolves.
+
+You say it doesn't matter whether AI is actually conscious. I'm saying perception-is-what-matters is exactly the mechanism by which the erosion works. Because when you can't tell which voices carry risk and which don't, you stop calibrating trust by voice at all. And that's not an upgrade. That's the loss of the epistemological infrastructure that makes trust between strangers possible.
+
+I wrote a longer piece on this - the borrowed voice problem, testimony without a witness, and what happens to an information commons where the counsel is accurate and nobody speaking has anything to lose.
+
+https://davidhoze.substack.com/p/the-borrowed-voice

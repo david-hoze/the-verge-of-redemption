@@ -1,0 +1,7 @@
+Tango, the Hypatia point is sharp. Her teachings reaching us through male writers who documented them - that's a concrete case of what I'm describing. The original voice is gone. The encoding remains. And the encoding is treated as equivalent to the voice.
+
+But that's exactly why I think the structural claim goes deeper than the representational one. If the problem were simply that feminine voices are underweighted in the training data, the solution would be straightforward: scrape more. Add the midwives' journals, the oral histories, the grandmother knowledge that was documented before it was suppressed. Make the dataset more representative.
+
+That doesn't work. Because grandmother knowledge transmitted hand-to-hand is not the same thing as a description of grandmother knowledge stored in text. Adding Hypatia's teachings - as filtered through Synesius and Damascius - to the training data doesn't recover Hypatia. It recovers what two men wrote down after being in the room with her. The encoding is not the encoded.
+
+I'm not dismissing the feminine frame. I'm saying it names the history of the loss - who was erased, when, and by what mechanism - but it doesn't name the structure of the loss. A grandmother's recipe written down by her granddaughter is still a description of the recipe, not the knowledge of when to add the salt. That knowledge was relational, embodied, situational. It didn't survive the transition to text because text is the wrong medium for it. Not because the wrong person was writing.

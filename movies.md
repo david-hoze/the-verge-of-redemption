@@ -53,8 +53,14 @@ A power-line repairman sculpts a shape he does not understand. Across the countr
 **Contact** (1997) - the-void-that-computes
 Jodie Foster plays an astronomer who spends her career listening to the void. She finds a signal. She builds the machine. She rides it through spacetime into something that looks like a beach in Pensacola. The experience is real. The recording shows eighteen hours of static. She came back with nothing the instruments could confirm. Directed by Robert Zemeckis.
 
+**Cyrano de Bergerac** (1990) - the-borrowed-voice
+Gerard Depardieu, Anne Brochet, Vincent Perez. A brilliant poet with an enormous nose loves a woman he believes he cannot approach. He writes letters for a handsome but inarticulate soldier, feeding him the words to win her heart. The letters are genuine - Cyrano means every word. But the voice she falls in love with is not the man standing in front of her. The eloquence is real. The source is hidden. She is moved by something that exists - but not where she thinks it exists. Directed by Jean-Paul Rappeneau.
+
 **Crimes and Misdemeanors** (1989) - the-questions-you-cant-answer-are
 A wealthy ophthalmologist arranges his mistress's murder and discovers he can live comfortably with what he's done. Directed by Woody Allen.
+
+**Dr. Strangelove** (1964) - the-war-room-has-no-rabbi
+Peter Sellers (three roles), George C. Scott, Sterling Hayden, Slim Pickens. A paranoid general launches a nuclear first strike. The Soviets reveal their Doomsday Machine - an automated system designed to destroy all life on Earth if triggered, impossible to untrigger. The whole point was deterrence, but they forgot to tell anyone. Slim Pickens rides the bomb down like a rodeo bull. The world ends. Nobody meant for it to happen. Directed by Stanley Kubrick.
 
 **Dead Poets Society** (1989) - you-diagnosed-the-disease-now-look
 Robin Williams as a teacher who tears out the introduction. He teaches poetry not by measuring it but by standing on desks. The school destroys him for it. Directed by Peter Weir.
@@ -122,6 +128,12 @@ The most devastating sci-fi film - not because something terrible happens, but b
 **Of Gods and Men** (2010) - the-network-that-already-exists
 Lambert Wilson, Michael Lonsdale. French monks in Algeria build a quiet covenant with their Muslim neighbors: shared meals, shared medicine, shared life. When civil war forces them to choose between institutional safety and the people in front of them, they stay. Based on a true story. The network held. The institution didn't.
 
+**Paterson** (2016) - the-poem-the-bus-driver-wrote
+Adam Driver, Golshifteh Farahani. A bus driver in Paterson, New Jersey writes poetry in a notebook. He does not publish. He does not perform. He drives the bus, writes poems about matches and waterfalls and his wife's curves on the curtains, walks the dog, drinks one beer at the bar, comes home. The poems are small. The life is small. Nothing happens. The notebook is destroyed by the dog. A Japanese tourist gives him a blank notebook and says: "Sometimes an empty page presents the most possibilities." He starts again. The art is inseparable from the life that produced it. Directed by Jim Jarmusch.
+
+**Cyrano de Bergerac** (1990) - the-borrowed-voice
+Gerard Depardieu, Anne Brochet, Vincent Perez. A brilliant poet with an enormous nose writes love letters for a handsome soldier who cannot speak for himself. Roxane falls in love with the words. The words are real. The voice is real. The man she thinks is speaking is not. Directed by Jean-Paul Rappeneau.
+
 **Phantom Thread** (2017) - the-muscle-you-stopped-using
 A genius dressmaker becomes helpless under poison from a woman he cannot tolerate; he lets her poison him again. Directed by Paul Thomas Anderson.
 
@@ -134,6 +146,9 @@ Four witnesses describe the same murder - each account vivid, coherent, and inco
 **Ratatouille** (2007) - the-author-is-not-dead-he-just-changed
 A rat with the palate of a master chef and a kitchen boy with no talent discover partnership produces what neither could alone. Directed by Brad Bird (Pixar).
 
+**Seven Samurai** (1954) - the-law-that-walked
+A farming village hires seven masterless samurai to defend against bandits. Four die. The village survives. The leader says: "We have lost. The farmers have won." Authority without an institution. Service without a throne. Directed by Akira Kurosawa.
+
 **Soul** (2020) - the-sound-you-arent-hearing
 A jazz musician dies on his biggest day and discovers that the spark he spent his life chasing was never about music. Directed by Pete Docter (Pixar).
 
@@ -145,6 +160,9 @@ A theater director builds a full-scale replica of New York inside a warehouse wh
 
 **Syriana** (2005) - americas-suez-moment-the-hormuz-crisis
 A web of oil deals, CIA ops, and backroom betrayals where everyone thinks they're pulling the strings and no one is. With George Clooney, Matt Damon, and Jeffrey Wright each navigating a different layer of the petrodollar machine - feels less like a movie and more like a briefing document for 2026. Directed by Stephen Gaghan.
+
+**The Red Shoes** (1948) - the-shoes-that-wouldnt-stop
+Moira Shearer, Anton Walbrook, Marius Goring. A young ballerina is torn between a demanding impresario and the man she loves. The red shoes in the ballet-within-the-film are enchanted: once you put them on, they dance you. She leaps from a balcony. The gift was the trap. The intensity was the vulnerability. Directed by Michael Powell and Emeric Pressburger.
 
 **The Name of the Rose** (1986) - the-stolen-mystery
 A Franciscan monk investigates murders in a monastery and discovers they are connected to a lost Aristotle text. A blind librarian poisons its pages because laughter undermines fear, and fear is the only foundation of faith. The institution survives. The library burns. Directed by Jean-Jacques Annaud.
@@ -203,11 +221,20 @@ A professor adopts an Akita. Every day the dog walks him to the train station. E
 **The Karate Kid** (1984) - the-hands-already-knew
 A boy from New Jersey signs up for karate lessons and gets manual labor instead. Wax on, wax off. Paint the fence. Sand the floor. He finally explodes and Miyagi throws punches at him. Daniel blocks every one. The formation happened before he noticed. Directed by John G. Avildsen.
 
+**To Kill a Mockingbird** (1962) - the-porch-light-left-on
+Gregory Peck, Mary Badham, Robert Duvall. A lawyer in Alabama defends a Black man accused of a crime he did not commit. His daughter watches everything - the trial, the mob at the jail, the neighbor who never comes outside. Nobody sits her down and explains justice. She watches her father do it. The formation happened before anyone named it. Directed by Robert Mulligan.
+
 **The Lives of Others** (2006) - the-witness-nobody-examined
 A Stasi captain assigned to surveil a playwright becomes the thing surveillance was never supposed to produce: a witness changed by what he witnessed. The system assumed dispassionate observation was possible. It was wrong. Directed by Florian Henckel von Donnersmarck.
 
+**Gattaca** (1997) - the-blood-at-the-door
+Ethan Hawke, Uma Thurman, Jude Law. In a world where your genome determines your future, Vincent Freeman is conceived the old-fashioned way - and classified as an "invalid." His blood, his hair, his skin cells betray him at every checkpoint. He borrows the identity of a genetically superior man and scrubs himself clean every morning to pass. The system is not cruel. It is efficient. It knows everything about you from a single cell. The question is not whether the data is accurate. The question is who gets to decide what it means. Directed by Andrew Niccol.
+
 **Willy Wonka & the Chocolate Factory** (1971) - the-factory-with-no-exit
 Five children enter a factory where everything is edible and nothing runs out. Four are destroyed by their appetites. Charlie wins by giving back the Gobstopper - an act of restraint in a place built for indulgence. The factory is post-scarcity. The question is who survives it. Directed by Mel Stuart.
+
+**The Red Shoes** (1948) - the-shoes-that-wouldnt-stop
+Moira Shearer, Anton Walbrook, Marius Goring. A young ballerina is torn between a demanding impresario and the man she loves. The impresario sees her gift - the intensity, the total commitment, the willingness to disappear into the dance - and feeds it. The red shoes in the ballet-within-the-film are enchanted: once you put them on, they dance you. You don't stop because you want to. You stop because you die. She leaps from a balcony in the red shoes. The gift was the trap. The intensity was the vulnerability. Directed by Michael Powell and Emeric Pressburger.
 
 ## Collaboration Articles
 

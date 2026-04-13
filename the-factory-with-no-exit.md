@@ -1,5 +1,7 @@
 # The Factory with No Exit
 
+*Post-scarcity is not the answer. It is the test.*
+
 ![Willy Wonka & the Chocolate Factory (1971)](https://substackcdn.com/placeholder)
 
 *Gene Wilder, Jack Albertson, Peter Ostrum. Five children win golden tickets to a factory where everything is edible and nothing runs out. Four are destroyed by their own appetites. Augustus Gloop by consumption. Violet Beauregarde by competition. Veruca Salt by entitlement. Mike Teavee by information. Charlie Bucket wins by giving back the Everlasting Gobstopper - an act of restraint in a place built for indulgence. The factory is post-scarcity. The question is who survives it. Directed by Mel Stuart.*

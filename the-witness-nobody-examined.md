@@ -1,6 +1,8 @@
 # The Witness Nobody Examined
 
-![The Lives of Others (2006)](https://substackcdn.com/placeholder)
+*AI generates testimony that cannot be cross-examined - because there is no witness*
+
+![The Lives of Others (2006)|199](https://substackcdn.com/placeholder)
 
 *Ulrich Muhe, Sebastian Koch, Martina Gedeck. A Stasi captain is assigned to surveil a playwright suspected of disloyalty. He is the perfect witness - trained, dispassionate, recording everything. He sits in an attic with headphones and listens to two people live. Slowly, the act of witnessing changes him. He begins covering for the man he was sent to destroy. The system assumed observation wouldn't contaminate the observer. It was wrong. Directed by Florian Henckel von Donnersmarck.*
 

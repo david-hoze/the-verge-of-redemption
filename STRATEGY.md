@@ -184,49 +184,49 @@ See [sharers/STRATEGY.md](sharers/STRATEGY.md) for distribution strategy. One to
 The framework is maximally coherent on critique - why Western solutions fail, what's broken, what Jewish law has that AI governance needs. These articles extend into construction - positive visions built on the same foundation.
 
 ### 1. Education as Formation, Not Information
-**Working title:** TBD
+**Working title:** "The Hands Already Knew" (the-hands-already-knew.md) - WRITTEN
 **Framework tools:** Chevrutah (the-chevrutah-ai-cannot-be), presence atrophy (the-muscle-you-stopped-using), the substitute (the-substitute-for-the-substitute), da'at vs. sechel, encoding vs. encoded.
 **The gap:** Every article about AI tutoring asks "how do we teach better?" None asks "what is teaching for?" Chevrutah isn't tutoring - two people sharpening each other requires the capacity to be wrong. AI tutoring optimizes for correct answers. The tradition forms practitioners, not information-holders. Da'at cannot be transmitted through sechel-optimized systems.
 **Why now:** AI tutoring is being deployed at scale. Khan Academy, Duolingo, every ed-tech startup. Nobody is asking the formation question.
 
 ### 2. What Do You Do with Post-Scarcity
-**Working title:** TBD
+**Working title:** "The Factory with No Exit" (the-factory-with-no-exit.md) - WRITTEN
 **Framework tools:** Freedom-for-what, western-void-thesis, optimization-of-measurables, naval-birshut-hatorah.
 **The gap:** If AI makes everything cheap, the question isn't distribution - it's purpose. What is work for when survival doesn't require it? Jubilee resets accumulation. Shmitta forces the land to rest. Bal tashchit governs destruction even in war. The tradition has an economics of limits when the world offers none. UBI fails because it answers "how do we distribute" when the question is "what is abundance for."
 **Why now:** UBI experiments scaling up. Work displacement accelerating. The conversation is stuck on distribution mechanics.
 
 ### 3. Testimony When AI Can Fake Testimony
-**Working title:** TBD
+**Working title:** "The Witness Nobody Examined" (the-witness-nobody-examined.md) - WRITTEN
 **Framework tools:** Encoding vs. encoded, sechel-daat-distinction, naval-birshut-hatorah, sanhedrin-unanimity-detector.
 **The gap:** Jewish epistemology runs on eidut (testimony) - two witnesses, cross-examination, disqualification for interest. What happens when AI generates perfect testimony? Kabbala (received tradition) vs. sevara (reasoned argument) - the tradition already distinguishes sources of knowledge by type. The unanimity detector (unanimous guilty = acquittal) is a built-in defense against systemic capture. No article maps this onto the epistemic crisis of deepfakes, AI-generated evidence, synthetic knowledge.
 **Why now:** Deepfakes in courts. AI-generated academic papers. Synthetic media indistinguishable from real. The epistemological crisis is here.
 
 ### 4. Teaching Wisdom When Transmission Is Mediated by AI
-**Working title:** TBD
+**Working title:** "The Porch Light Left On" (the-porch-light-left-on.md) - WRITTEN
 **Framework tools:** The-muscle-you-stopped-using, the-substitute-for-the-substitute, intergenerational obligation (v'shinantam l'vanecha), signal-not-yours.
 **The gap:** The tradition requires teaching your children. What happens when the tools of transmission - writing, apprenticeship, modeling, presence - are replaced by AI surrogates? The muscle article diagnoses atrophy in adults. This article asks: what happens to children who never develop the muscle at all? If the signal is planted in you, what happens when the planting ground is pre-occupied by optimization?
 **Why now:** Children growing up with AI tutors, AI companions, AI-mediated everything. The first generation that may never develop unmediated attention.
 
 ### 5. Boundaries and Consent at Scale
-**Working title:** TBD
+**Working title:** "The Blood at the Door" (the-blood-at-the-door.md) - WRITTEN
 **Framework tools:** Lifnei iver (stumbling block before the blind), shomer (guardian) with graduated liability, naval-birshut-hatorah, the-case-against-the-signal-front.
 **The gap:** Lifnei iver is partially deployed in existing articles but not fully mapped onto platform design, algorithmic opacity, cascading consent in data chains. The tradition has shomer with different liability levels - shomer chinam (unpaid guardian), shomer sachar (paid guardian), socher (renter), sho'el (borrower) - each with escalating responsibility. This maps directly onto the chain from user to platform to data broker to AI trainer. Nobody in AI governance is using graduated liability by relationship type.
 **Why now:** GDPR failing. "Notice and consent" architecture collapsing under its own weight. Everyone knows the current system is broken but nobody has the replacement.
 
 ### 6. Eschatology That Isn't Panic
-**Working title:** TBD
+**Working title:** "The War Room Has No Rabbi" (the-war-room-has-no-rabbi.md) - WRITTEN
 **Framework tools:** Western-void-thesis, dissent:pluralism-with-spine, the framework's structural refusal to force endings.
 **The gap:** AI existential risk discourse is stuck between naive optimism ("AI will solve everything") and apocalyptic doom ("p(doom) = 30%"). Jewish eschatology has a third position: the world is heading somewhere, you have obligations in the meantime, and you don't get to force the ending. Mashiach comes when conditions are met, not when you engineer them. Dispensationalist premillennialism (already diagnosed in the articles) is the theological engine behind "move fast and break things." The counter-eschatology is: build well, don't force the timeline, your job is the next right thing.
 **Why now:** AI safety movement increasingly polarized between accelerationists and doomers. The "obligations in the meantime" position has no visible representative.
 
 ### 7. How Authority Actually Works Without Institutions
-**Working title:** TBD
+**Working title:** "The Law That Walked" (the-law-that-walked.md) - WRITTEN
 **Framework tools:** The-network-that-already-exists, eilu-veilu-with-ruling, dissent:pluralism-with-spine, the responsa model.
 **The gap:** The articles show the responsa model as an alternative to institutional governance. But the hard question remains: how does binding authority function when there's no Sanhedrin, no institutional religion? Semikhah (ordination) confers authority through chains of personal transmission. Minhag (custom) hardens into binding law through communal practice. These are mechanisms for distributed governance that actually worked for 2000 years in exile. No article has formalized how this maps onto AI governance networks.
 **Why now:** Every AI governance proposal assumes institutional authority (EU AI Act, NIST, etc.). The institutions are failing. The alternative needs to be visible.
 
 ### 8. The Art That AI Cannot Make
-**Working title:** TBD
+**Working title:** "The Poem the Bus Driver Wrote" (the-poem-the-bus-driver-wrote.md) - WRITTEN
 **Framework tools:** Encoding vs. encoded, the-sound-of-no-one-singing, why-is-ai-so-serious, the-author-is-not-dead-he-just-changed, writing-with-the-blade.
 **The gap:** The articles show what AI art cannot do (orient civilization, carry presence, be serious because it can't be funny). But the positive case - what human art IS that AI art structurally cannot be - isn't fully built. The encoding gap applied to creation: art is not the encoding but the encounter that precedes it. The irreducible first-person experience that makes art art. Yichud (uniqueness) as a structural property, not a romantic ideal.
 **Why now:** AI-generated art flooding every platform. Artists in crisis. The conversation is about copyright and jobs. Nobody is making the ontological case for human art.
@@ -235,13 +235,13 @@ The framework is maximally coherent on critique - why Western solutions fail, wh
 
 ## Priority Actions
 
-1. **Write the Jessie article** - Dabrowski's population and AI attachment. The intense people are the first casualties.
-2. **Write the AI accounts article** - The borrowed voice. Serpent in the garden.
-3. **Write to James Maconochie** - Propose the collaboration. Wisdom Gap + Torah.
-4. **Answer Joe Brewer's question** - The moral architecture piece. What holds communities through collapse.
-5. **Feed Sam articles** - He carries them into institutional rooms.
-6. **Continue the chevrutah with Anri** - Rav Kook, keen minds, the vault.
-7. **Write with Helene** - The convergence needs to become an article.
-8. **Wait for Lynn** - Don't push.
-9. **Move Jessie to friends** - She's Reish Lakish, not an opponent.
+1. **Write the Jessie article** - "The Shoes That Wouldn't Stop" (the-shoes-that-wouldnt-stop.md) - WRITTEN. Dabrowski's population and AI attachment.
+2. **Write the AI accounts article** - "The Borrowed Voice" (the-borrowed-voice.md) - WRITTEN. The borrowed voice. Serpent in the garden.
+3. **Write to James Maconochie** - Propose the collaboration. Wisdom Gap + Torah. NEEDS DAVID'S INPUT on strawman revision.
+4. **Answer Joe Brewer's question** - DRAFTED (comment-draft-joe-brewer.txt). Points to "The Law That Walked." Awaiting David's approval to post.
+5. **Feed Sam articles** - He carries them into institutional rooms. HOLDING - let it breathe, don't flood.
+6. **Continue the chevrutah with Anri** - Rav Kook, keen minds, the vault. WAITING - next move is hers.
+7. **Write with Helene** - The convergence needs to become an article. NEEDS DAVID'S INPUT.
+8. **Wait for Lynn** - Don't push. WAITING.
+9. **Move Jessie to friends** - DONE. Moved from respondents/ to friends/jessie-mannisto/.
 10. **Daily seder** - Study first. The Torah you learn today is tomorrow's etzah.

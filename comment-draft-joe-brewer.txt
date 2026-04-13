@@ -1,0 +1,11 @@
+Joe, I kept thinking about your point on sacred instructions and the social scaffolding question. You asked what holds communities together when supply chains break. I wrote something that I think answers it from a different angle than you might expect.
+
+Jewish law maintained binding authority for 2,000 years without a state, without a central institution, without enforcement power. Not because the tradition is special - because the mechanisms are. Three of them: authority transmitted person-to-person through chains of teachers, legal rulings issued in response to specific community questions (hundreds of thousands of them over fourteen centuries), and communal practice that hardens into binding custom from the bottom up.
+
+Every governance proposal for AI and for collapse assumes you need an institution first. The tradition I study asks: what if the institution is what failed? What if authority lives in persons, not buildings - and that's why it survived when every building burned?
+
+I think this converges with what you're seeing in Indigenous governance. The Haudenosaunee didn't need a centralized state to maintain binding law across nations. They needed chains of relationship and shared practice. That's the same architecture.
+
+I wrote it up here: [The Law That Walked]
+
+The short version: distributed governance isn't a fallback when institutions fail. It's the original design. Institutions were the experiment.
