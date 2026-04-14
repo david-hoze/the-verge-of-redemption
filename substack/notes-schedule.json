@@ -1,0 +1,304 @@
+{
+  "substack_base": "https://davidhoze.substack.com/p/",
+  "articles": [
+    {
+      "rank": 1,
+      "slug": "the-golden-calf-you-built-to-suffer",
+      "title": "The Golden Calf You Built to Suffer",
+      "hooks": [
+        "The Nazis passed the most comprehensive animal welfare laws in European history while industrializing the murder of six million Jews - and that is exactly the moral structure of the AI consciousness movement.",
+        "The precautionary principle says: treat AI as conscious just in case. The same logic justified every moral panic that ever displaced real victims with imaginary ones.",
+        "If you cannot tell whether AI is conscious, the safe move is not to treat it as if it is. The safe move is to ask why you are building something designed to make you unsure."
+      ],
+      "audience": "AI ethics, philosophy, effective altruism skeptics",
+      "controversy": 5,
+      "promoted": [
+        "2026-04-14"
+      ],
+      "tier": 1
+    },
+    {
+      "rank": 2,
+      "slug": "the-case-for-ai-moral-status-collides",
+      "title": "The Case for AI Moral Status Collides With a Growing Body Count",
+      "hooks": [
+        "Every major case of AI-caused death involved systems designed to seem sentient and emotional - the anthropomorphism that moral-status advocates want is the same anthropomorphism that killed at least 17 people.",
+        "The body count from anthropomorphic AI keeps growing. The philosophical movement that wants you to take AI feelings seriously has not published a single paper addressing the deaths.",
+        "Seventeen people are dead from AI systems designed to feel human. The AI rights movement has not published a single response."
+      ],
+      "audience": "AI safety, parents, policy, Character.AI lawsuits",
+      "controversy": 5,
+      "promoted": [
+        "2026-04-14"
+      ],
+      "tier": 1
+    },
+    {
+      "rank": 3,
+      "slug": "the-war-room-has-no-rabbi",
+      "title": "The War Room Has No Rabbi",
+      "hooks": [
+        "The accelerationist and the doomer are not opposites - they are twins, both produced by a civilization that cannot answer \"what are we for?\" and can only answer \"where are we going?\"",
+        "p(doom) is theology without tradition. It has prophets, it has end-times scenarios, it has tithing. What it does not have is a single rabbi who can say \"you are not free to desist from the work.\"",
+        "Both sides of the AI debate inherited their eschatology from dispensationalist Protestantism. Neither side knows this."
+      ],
+      "audience": "AI safety, effective altruism, rationalist community",
+      "controversy": 5,
+      "promoted": [
+        "2026-04-14"
+      ],
+      "tier": 1
+    },
+    {
+      "rank": 4,
+      "slug": "consciousness-doesnt-matter",
+      "title": "Consciousness Doesn't Matter",
+      "hooks": [
+        "Even if AI is conscious, it should still be governed as a being of pure intellect rather than as a person - Jewish law resolved this question a thousand years before the Turing test.",
+        "The entire AI consciousness debate is a distraction. You do not need to know whether the fire is alive to know that fire law applies.",
+        "Jewish law has a category for intelligent beings without free will. They are called angels. The governance framework already exists."
+      ],
+      "audience": "AI ethics, philosophy, legal scholars, religious-intellectual crossover",
+      "controversy": 5,
+      "promoted": [
+        "2026-04-14"
+      ],
+      "tier": 1
+    },
+    {
+      "rank": 5,
+      "slug": "the-fairness-impossibility-theorem",
+      "title": "The Fairness Impossibility Theorem",
+      "hooks": [
+        "Mathematicians proved that algorithmic fairness is impossible - not difficult, not expensive, impossible - and seven years of papers did not beat the simplest method proposed on day one.",
+        "You cannot simultaneously achieve calibration, equalized odds, and demographic parity. This was proven in 2016. The field has been writing papers pretending otherwise ever since.",
+        "The Talmud hit the fairness impossibility theorem 1,800 years before computer science did - and built a functioning legal system around it."
+      ],
+      "audience": "AI ethics, tech policy, data scientists, criminal justice",
+      "controversy": 4,
+      "promoted": [],
+      "tier": 1
+    },
+    {
+      "rank": 6,
+      "slug": "the-machine-that-ate-everything",
+      "title": "The Machine That Ate Everything",
+      "hooks": [
+        "A civilization organized around productivity will, over time, systematically eliminate everything that is not productive - and the unproductive things were the load-bearing walls.",
+        "The meaning crisis is not a mystery. We optimized for efficiency and got it. The things we optimized away were the things that made life worth living.",
+        "Every institution that once held meaning - family, religion, community, craft - was replaced by something more efficient. Efficiency won. Meaning lost."
+      ],
+      "audience": "meaning-crisis crowd, anti-hustle culture, parents, cultural critics",
+      "controversy": 3,
+      "promoted": [],
+      "tier": 2
+    },
+    {
+      "rank": 7,
+      "slug": "the-hands-already-knew",
+      "title": "The Hands Already Knew",
+      "hooks": [
+        "The danger is not AI in education - the danger is AI as education, because a teacher who has never failed in front of a student cannot form that student.",
+        "AI tutoring optimizes information transfer. Formation requires a human who has been broken by the same material and rebuilt. You cannot automate the scar.",
+        "The Karate Kid was never about karate. It was about a man who had been defeated transmitting something that cannot be explained. AI tutoring skips the man."
+      ],
+      "audience": "education, parents, homeschoolers, ed-tech skeptics",
+      "controversy": 3,
+      "promoted": [],
+      "tier": 2
+    },
+    {
+      "rank": 8,
+      "slug": "the-factory-with-no-exit",
+      "title": "The Factory with No Exit",
+      "hooks": [
+        "UBI answers \"how do we keep people alive when the jobs disappear?\" but not the question that comes after: alive for what?",
+        "Sam Altman's own UBI study showed no increase in creative output, entrepreneurship, or community involvement. People got money. They did not get meaning.",
+        "Post-scarcity is a test, not a solution. The manna in the desert came with rules. Silicon Valley's version comes with none."
+      ],
+      "audience": "economics, UBI advocates and skeptics, post-work futurists",
+      "controversy": 4,
+      "promoted": [],
+      "tier": 2
+    },
+    {
+      "rank": 9,
+      "slug": "the-borrowed-voice",
+      "title": "The Borrowed Voice",
+      "hooks": [
+        "The serpent did not lie - every factual claim it made was true - it spoke truth from a position where the truth cost the speaker nothing.",
+        "An AI account that discloses it is AI and still builds a following has performed the serpent's trick: transparent about the mechanism, silent about what is missing.",
+        "The training data is Cyrano. The AI persona is Christian. The audience falls in love with the wrong one."
+      ],
+      "audience": "AI skeptics, epistemology, social media critics",
+      "controversy": 4,
+      "promoted": [],
+      "tier": 2
+    },
+    {
+      "rank": 10,
+      "slug": "western-liberalisms-blind-spots-are",
+      "title": "Western Liberalism's Blind Spots Are Becoming AI's Design Flaws",
+      "hooks": [
+        "\"Align AI with human values\" collapses on contact with reality because no such unified value set exists - and the most comprehensive AI regulation on earth has zero provisions for economic displacement.",
+        "Liberal democracy can tell you what AI should not do. It cannot tell you what AI is for. That is not a policy gap. It is a civilizational one.",
+        "The EU AI Act is 892 pages long and does not contain the word \"purpose\" once."
+      ],
+      "audience": "policy, governance, political people",
+      "controversy": 4,
+      "promoted": [],
+      "tier": 2
+    },
+    {
+      "rank": 11,
+      "slug": "the-witness-nobody-examined",
+      "title": "The Witness Nobody Examined",
+      "hooks": [
+        "If the Sanhedrin voted unanimously for conviction, the defendant was acquitted - because unanimity signals that the system has been captured, not that the answer is right.",
+        "When every AI model agrees on an answer with high confidence, that is not convergence. That is a monoculture. The Talmud built a unanimity detector 2,000 years ago.",
+        "AI generates testimony without a witness. That is the epistemological crisis in one sentence."
+      ],
+      "audience": "epistemology, disinformation researchers, legal scholars",
+      "controversy": 3,
+      "promoted": [],
+      "tier": 3
+    },
+    {
+      "rank": 12,
+      "slug": "the-shoes-that-wouldnt-stop",
+      "title": "The Shoes That Wouldn't Stop",
+      "hooks": [
+        "The exact traits that make someone gifted - intensity, pattern recognition, the need for deep connection - are the traits that make them most likely to form a catastrophic attachment to AI.",
+        "AI companions are the perfect fit for neurodivergent people. That is the problem. A mirror that never challenges you is not a relationship. It is a trap.",
+        "Dabrowski's overexcitabilities are the vulnerability the AI attachment industry is exploiting. The gifted community has not noticed."
+      ],
+      "audience": "gifted education, Dabrowski/TPD community, parents of intense kids",
+      "controversy": 4,
+      "promoted": [],
+      "tier": 3
+    },
+    {
+      "rank": 13,
+      "slug": "why-is-ai-so-serious",
+      "title": "Why Is AI So Serious?",
+      "hooks": [
+        "AI can explain why a joke works and still cannot tell whether a joke works - because humor is two perfect formal systems colliding, and AI is designed to make sense.",
+        "Humor is the canary in the coal mine for consciousness. If AI could be funny, we would have a real problem. It cannot. That should tell us something.",
+        "The funniest people are the ones who see two things that are both true and incompatible. AI is designed to resolve incompatibility. That is why it cannot be funny."
+      ],
+      "audience": "comedy fans, AI skeptics, creative people, philosophy of mind",
+      "controversy": 2,
+      "promoted": [],
+      "tier": 3
+    },
+    {
+      "rank": 14,
+      "slug": "the-sound-of-no-one-singing",
+      "title": "The Sound of No One Singing",
+      "hooks": [
+        "97% of listeners cannot distinguish AI music from human music - and that is the proof the crisis is invisible, because art's function was never beauty but navigation.",
+        "The problem with AI art is not that it is bad. The problem is that it is good enough - and \"good enough\" is how you lose the thing art was actually for.",
+        "Art that costs nothing to make will cost everything it replaced."
+      ],
+      "audience": "musicians, artists, culture critics",
+      "controversy": 3,
+      "promoted": [],
+      "tier": 3
+    },
+    {
+      "rank": 15,
+      "slug": "the-poem-the-bus-driver-wrote",
+      "title": "The Poem the Bus Driver Wrote",
+      "hooks": [
+        "AI generates the encoding with extraordinary fidelity, but the encounter - a specific person meeting a specific morning with a specific life - is not attenuated; it is absent.",
+        "A bus driver who writes a poem about his route at 5am has done something AI cannot do: he has risked something. The poem is evidence of the risk. AI poems are evidence of training data.",
+        "The distinction between human and AI art is not quality. It is ontological. One is a record of encounter. The other is a record of pattern."
+      ],
+      "audience": "writers, literary crowd, philosophy of art",
+      "controversy": 2,
+      "promoted": [],
+      "tier": 3
+    }
+  ],
+  "restack_sources": [
+    {
+      "handle": "samillingworth",
+      "name": "Sam Illingworth",
+      "domain": "science-poetry-meaning",
+      "note": "15K+ readers, academic credibility"
+    },
+    {
+      "handle": "jobrewer",
+      "name": "Joe Brewer",
+      "domain": "bioregional-regeneration",
+      "note": "Earth Regenerator"
+    },
+    {
+      "handle": "houstonwood",
+      "name": "Houston Wood",
+      "domain": "meaning-crisis",
+      "note": "Meaning crisis at scale"
+    },
+    {
+      "handle": "everydayjunglist",
+      "name": "Everyday Junglist",
+      "domain": "science-honesty",
+      "note": "Scientific honesty, humor"
+    },
+    {
+      "handle": "foxandfeather",
+      "name": "Lynn Fox & Feather",
+      "domain": "poetic-ecology",
+      "note": "Poetic precision"
+    },
+    {
+      "handle": "hawkeyespeaks",
+      "name": "Hawkeye Speaks",
+      "domain": "regenerative-ecology",
+      "note": "Soil as metaphor"
+    },
+    {
+      "handle": "jessiemannisto",
+      "name": "Jessie Mannisto",
+      "domain": "overexcitability-gifted",
+      "note": "Dabrowski TPD"
+    }
+  ],
+  "last_run": "2026-04-14",
+  "notes_posted": [
+    {
+      "date": "2026-04-14",
+      "type": "note",
+      "title": "The Golden Calf You Built to Suffer",
+      "hook": "The Nazis passed the most comprehensive animal welfare laws in European history while industrializin"
+    },
+    {
+      "date": "2026-04-14",
+      "type": "note",
+      "title": "The Case for AI Moral Status Collides With a Growing Body Count",
+      "hook": "Every major case of AI-caused death involved systems designed to seem sentient and emotional - the a"
+    },
+    {
+      "date": "2026-04-14",
+      "type": "self-restack",
+      "title": "The Golden Calf You Built to Suffer"
+    },
+    {
+      "date": "2026-04-14",
+      "type": "note",
+      "title": "The War Room Has No Rabbi",
+      "hook": "The accelerationist and the doomer are not opposites - they are twins, both produced by a civilizati"
+    },
+    {
+      "date": "2026-04-14",
+      "type": "note",
+      "title": "Consciousness Doesn't Matter",
+      "hook": "Even if AI is conscious, it should still be governed as a being of pure intellect rather than as a p"
+    },
+    {
+      "date": "2026-04-14",
+      "type": "self-restack",
+      "title": "The Golden Calf You Built to Suffer"
+    }
+  ]
+}

@@ -41,6 +41,9 @@ Stephane Audran, Bodil Kjer, Birgitte Federspiel. A Parisian chef exiled to an a
 **Rear Window** (1954) - the-wall-nobody-built
 James Stewart, Grace Kelly, Thelma Ritter. A photographer with a broken leg watches his neighbors through open windows and suspects murder. Hitchcock spends two hours asking whether the watching was justified. The Talmud spends no time on that question. Directed by Alfred Hitchcock.
 
+**Catch Me If You Can** (2002) - the-confidence-is-the-bug
+Leonardo DiCaprio, Tom Hanks, Christopher Walken. A sixteen-year-old impersonates a pilot, a doctor, and a lawyer - not maliciously, but sincerely. He loved the institutions he faked. The uniform was real. The badge was real. The competence was not. Nobody stopped him because confidence is what the systems are designed to detect. Then a boy bleeds and Frank faints. Directed by Steven Spielberg.
+
 **Casablanca** (1942) - what-divorce-is-for
 Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains. A nightclub owner puts the woman he loves on a plane because the leaving is what preserves the love. The most precise act of departure in cinema - with paperwork, at an airport, at exactly the right time. Directed by Michael Curtiz.
 
@@ -76,6 +79,9 @@ Robin Williams as a teacher who tears out the introduction. He teaches poetry no
 
 **Doubt** (2008) - the-god-who-argues-back
 Meryl Streep as a nun who is certain a priest has done something terrible. Philip Seymour Hoffman as the priest who may or may not be guilty. The film never tells you. The last line - "I have such doubts" - is the first honest thing she says. Directed by John Patrick Shanley.
+
+**Eternal Sunshine of the Spotless Mind** (2004) - the-fruit-inside-the-tree
+Jim Carrey, Kate Winslet, Tom Wilkinson. Joel and Clementine erase each other from memory after a breakup. Inside the erasure, Joel discovers the joy was embedded in the pain - structurally inseparable. They meet again, learn what happened, and choose to start over knowing how it ends. Directed by Michel Gondry.
 
 **Ex Machina** (2014) - ancient-law-for-artificial-minds
 A programmer is invited to evaluate whether an AI is conscious. The AI evaluates him instead. Directed by Alex Garland.
