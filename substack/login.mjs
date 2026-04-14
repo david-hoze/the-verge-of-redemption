@@ -1,7 +1,7 @@
 // Open Substack login page in Playwright Firefox persistent context
 // Sign in, then close the browser. Cookies will be saved for other scripts.
 
-import { launchBrowser, getPage } from './lib/substack.mjs';
+import { launchBrowser, getPage } from './lib.mjs';
 
 const browser = await launchBrowser();
 const page = await getPage(browser);

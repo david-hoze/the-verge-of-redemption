@@ -1,7 +1,7 @@
 // Check Substack activity/notifications via Playwright
 // Usage: node substack-activity.mjs [url]
 
-import { launchBrowser, getPage, screenshot, HOME } from './lib/substack.mjs';
+import { launchBrowser, getPage, screenshot, HOME } from './lib.mjs';
 
 const url = process.argv[2] || 'https://substack.com/activity';
 

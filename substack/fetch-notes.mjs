@@ -1,7 +1,7 @@
 // Download all notes from a Substack profile via API
 // Usage: node fetch-notes.mjs [user-id] [output-dir]
 
-import { launchBrowser, getPage, screenshot, HOME } from './lib/substack.mjs';
+import { launchBrowser, getPage, screenshot, HOME } from './lib.mjs';
 import { join } from 'path';
 import { writeFileSync, mkdirSync, existsSync } from 'fs';
 const USER_ID = process.argv[2] || '348513546'; // default: @machinepoet

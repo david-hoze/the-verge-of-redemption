@@ -1,7 +1,7 @@
 // Browse Substack explore by category or feed
 // Usage: node substack-explore.mjs [url]
 
-import { launchBrowser, getPage, screenshot, HOME } from './lib/substack.mjs';
+import { launchBrowser, getPage, screenshot, HOME } from './lib.mjs';
 import { join } from 'path';
 const url = process.argv[2] || 'https://substack.com/home';
 const count = parseInt(process.argv[3]) || 6;

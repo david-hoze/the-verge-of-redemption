@@ -9,7 +9,7 @@
 // Outputs the comment and all replies as a threaded conversation.
 // --replies-only: skip the parent, just show replies
 
-import { launchBrowser, getPage } from './lib/substack.mjs';
+import { launchBrowser, getPage } from './lib.mjs';
 
 const input = process.argv[2];
 const repliesOnly = process.argv.includes('--replies-only');
