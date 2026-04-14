@@ -1,11 +1,9 @@
 // Reply to a Substack note
 // Usage: node reply-note.mjs <note-url> <comment-file> [--dry-run]
-import { firefox } from 'playwright';
-import { join } from 'path';
-import { homedir } from 'os';
-import { readFileSync } from 'fs';
 
-const PROFILE_DIR = join(homedir(), '.substack-playwright');
+import { launchBrowser, getPage, screenshot, HOME } from './lib/substack.mjs';
+import { join } from 'path';
+import { readFileSync } from 'fs';
 const noteUrl = process.argv[2];
 const commentFile = process.argv[3];
 const dryRun = process.argv.includes('--dry-run');
@@ -22,11 +20,8 @@ console.log(commentText);
 console.log('---');
 if (dryRun) console.log('[DRY RUN - will not post]');
 
-const browser = await firefox.launchPersistentContext(PROFILE_DIR, {
-  headless: false,
-  viewport: { width: 1280, height: 900 },
-});
-const page = browser.pages()[0] || await browser.newPage();
+const browser = await launchBrowser();
+const page = await getPage(browser);
 
 try {
   console.log(`Navigating to ${noteUrl} ...`);
@@ -52,13 +47,13 @@ try {
 
   if (!opened.found) {
     console.log('Could not find "Leave a reply" button.');
-    await page.screenshot({ path: join(homedir(), 'note-reply-fail.png') });
+    await page.screenshot({ path: join(HOME, 'note-reply-fail.png') });
     await browser.close();
     process.exit(1);
   }
 
   await page.waitForTimeout(2000);
-  await page.screenshot({ path: join(homedir(), 'note-reply-opened.png') });
+  await page.screenshot({ path: join(HOME, 'note-reply-opened.png') });
   console.log('Screenshot after opening: ~/note-reply-opened.png');
 
   // Find the textarea or contenteditable that appeared
@@ -93,7 +88,7 @@ try {
 
   if (!inputInfo.found) {
     console.log('Reply input not found after clicking button.');
-    await page.screenshot({ path: join(homedir(), 'note-reply-noinput.png'), fullPage: true });
+    await page.screenshot({ path: join(HOME, 'note-reply-noinput.png'), fullPage: true });
     await browser.close();
     process.exit(1);
   }
@@ -115,7 +110,7 @@ try {
   }
 
   await page.waitForTimeout(1000);
-  await page.screenshot({ path: join(homedir(), 'note-before-reply.png') });
+  await page.screenshot({ path: join(HOME, 'note-before-reply.png') });
   console.log('Screenshot before posting: ~/note-before-reply.png');
 
   if (dryRun) {
@@ -161,10 +156,10 @@ try {
 
   if (clicked.clicked) {
     await page.waitForTimeout(5000);
-    await page.screenshot({ path: join(homedir(), 'note-after-reply.png') });
+    await page.screenshot({ path: join(HOME, 'note-after-reply.png') });
     console.log('REPLIED! Screenshot: ~/note-after-reply.png');
   } else {
-    await page.screenshot({ path: join(homedir(), 'note-reply-nobutton.png'), fullPage: true });
+    await page.screenshot({ path: join(HOME, 'note-reply-nobutton.png'), fullPage: true });
     console.log('Could not find submit button. Buttons found:', JSON.stringify(clicked.allButtons));
     console.log('Browser stays open 60s for manual posting.');
     await page.waitForTimeout(60000);
@@ -172,7 +167,7 @@ try {
 
 } catch (err) {
   console.error('Error:', err.message);
-  await page.screenshot({ path: join(homedir(), 'note-reply-error.png') }).catch(() => {});
+  await page.screenshot({ path: join(HOME, 'note-reply-error.png') }).catch(() => {});
 } finally {
   await browser.close();
 }

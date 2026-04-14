@@ -8,12 +8,9 @@
 // <search-text> matches against commenter name or comment text to find the right comment
 // --newest: when multiple comments match, prefer the last one in DOM order (most recent)
 
-import { firefox } from 'playwright';
+import { launchBrowser, getPage, screenshot, HOME } from './lib/substack.mjs';
 import { join } from 'path';
-import { homedir } from 'os';
 import { readFileSync } from 'fs';
-
-const PROFILE_DIR = join(homedir(), '.substack-playwright');
 
 const inputUrl = process.argv[2];
 const commentFile = process.argv[3];
@@ -52,16 +49,8 @@ const navUrl = isCommentThread
 
 console.log(`URL type: ${isCommentThread ? 'comment thread' : 'article'}`);
 
-const browser = await firefox.launchPersistentContext(PROFILE_DIR, {
-  headless: false,
-  viewport: { width: 1280, height: 900 },
-  firefoxUserPrefs: {
-    'layers.acceleration.disabled': true,
-    'gfx.webrender.all': false,
-  },
-});
-
-const page = browser.pages()[0] || await browser.newPage();
+const browser = await launchBrowser();
+const page = await getPage(browser);
 page.setDefaultTimeout(30000);
 
 try {
@@ -234,7 +223,7 @@ try {
   console.log('Search result:', JSON.stringify(found, null, 2));
 
   if (!found.found) {
-    await page.screenshot({ path: join(homedir(), 'substack-reply-notfound.png'), fullPage: true });
+    await page.screenshot({ path: join(HOME, 'substack-reply-notfound.png'), fullPage: true });
     console.log('Could not find target comment. Screenshot: ~/substack-reply-notfound.png');
     if (found.searchTextOnPage) {
       console.log('NOTE: Search text IS on the page but no Reply button found near it.');
@@ -248,7 +237,7 @@ try {
   // Wait for reply textarea
   console.log('Waiting for reply input...');
   await page.waitForTimeout(3000);
-  await page.screenshot({ path: join(homedir(), 'substack-reply-opened.png') });
+  await page.screenshot({ path: join(HOME, 'substack-reply-opened.png') });
 
   // Find and focus the reply textarea
   const inputInfo = await page.evaluate(() => {
@@ -288,7 +277,7 @@ try {
   console.log('Input info:', JSON.stringify(inputInfo));
 
   if (!inputInfo.found) {
-    await page.screenshot({ path: join(homedir(), 'substack-reply-noinput.png'), fullPage: true });
+    await page.screenshot({ path: join(HOME, 'substack-reply-noinput.png'), fullPage: true });
     console.log('Reply input not found. Screenshot: ~/substack-reply-noinput.png');
     console.log('Browser stays open 60s for manual action.');
     await page.waitForTimeout(60000);
@@ -347,7 +336,7 @@ try {
     });
   }
 
-  await page.screenshot({ path: join(homedir(), 'substack-before-reply.png') });
+  await page.screenshot({ path: join(HOME, 'substack-before-reply.png') });
   console.log('Screenshot before posting: ~/substack-before-reply.png');
 
   if (dryRun) {
@@ -395,10 +384,10 @@ try {
 
   if (clicked.clicked) {
     await page.waitForTimeout(5000);
-    await page.screenshot({ path: join(homedir(), 'substack-after-reply.png') });
+    await page.screenshot({ path: join(HOME, 'substack-after-reply.png') });
     console.log('REPLIED! Screenshot: ~/substack-after-reply.png');
   } else {
-    await page.screenshot({ path: join(homedir(), 'substack-reply-nobutton.png'), fullPage: true });
+    await page.screenshot({ path: join(HOME, 'substack-reply-nobutton.png'), fullPage: true });
     console.log('Could not find post button. Screenshot: ~/substack-reply-nobutton.png');
     console.log('Browser stays open 60s for manual posting.');
     await page.waitForTimeout(60000);
@@ -406,7 +395,7 @@ try {
 
 } catch (err) {
   console.error('Error:', err.message);
-  await page.screenshot({ path: join(homedir(), 'substack-reply-error.png') }).catch(() => {});
+  await page.screenshot({ path: join(HOME, 'substack-reply-error.png') }).catch(() => {});
   console.log('Error screenshot: ~/substack-reply-error.png');
 } finally {
   await browser.close();

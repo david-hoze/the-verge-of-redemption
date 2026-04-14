@@ -2,12 +2,9 @@
 // Usage: node post-comment.mjs <article-url> <comment-file> [--dry-run] [--restack]
 // Uses persistent context so login is remembered between runs
 
-import { firefox } from 'playwright';
+import { launchBrowser, getPage, screenshot, HOME } from './lib/substack.mjs';
 import { join } from 'path';
-import { homedir } from 'os';
 import { readFileSync } from 'fs';
-
-const PROFILE_DIR = join(homedir(), '.substack-playwright');
 
 const articleUrl = process.argv[2];
 const commentFile = process.argv[3];
@@ -27,12 +24,8 @@ console.log('---');
 if (dryRun) console.log('[DRY RUN - will not post]');
 if (restack) console.log('[RESTACK - will also share to Notes]');
 
-const browser = await firefox.launchPersistentContext(PROFILE_DIR, {
-  headless: false,
-  viewport: { width: 1280, height: 900 },
-});
-
-const page = browser.pages()[0] || await browser.newPage();
+const browser = await launchBrowser();
+const page = await getPage(browser);
 
 try {
   console.log('Navigating to article...');
@@ -40,7 +33,7 @@ try {
   await page.waitForTimeout(4000);
 
   // Screenshot initial state
-  await page.screenshot({ path: join(homedir(), 'substack-debug.png') });
+  await page.screenshot({ path: join(HOME, 'substack-debug.png') });
   console.log('Screenshot: ~/substack-debug.png');
 
   // Scroll to comments
@@ -89,7 +82,7 @@ try {
   }
 
   if (!commentInput) {
-    await page.screenshot({ path: join(homedir(), 'substack-no-input.png') });
+    await page.screenshot({ path: join(HOME, 'substack-no-input.png') });
     console.log('ERROR: Could not find comment input. Screenshot: ~/substack-no-input.png');
     await page.waitForTimeout(10000);
     await browser.close();
@@ -146,7 +139,7 @@ try {
   }
 
   // Screenshot before posting
-  await page.screenshot({ path: join(homedir(), 'substack-before-post.png'), fullPage: true });
+  await page.screenshot({ path: join(HOME, 'substack-before-post.png'), fullPage: true });
   console.log('Screenshot: ~/substack-before-post.png');
 
   if (dryRun) {
@@ -188,10 +181,10 @@ try {
 
   if (clicked.clicked) {
     await page.waitForTimeout(5000);
-    await page.screenshot({ path: join(homedir(), 'substack-after-post.png') });
+    await page.screenshot({ path: join(HOME, 'substack-after-post.png') });
     console.log('POSTED! Screenshot: ~/substack-after-post.png');
   } else {
-    await page.screenshot({ path: join(homedir(), 'substack-no-button.png'), fullPage: true });
+    await page.screenshot({ path: join(HOME, 'substack-no-button.png'), fullPage: true });
     console.log('Could not find post button. Screenshot: ~/substack-no-button.png');
     console.log('Browser stays open 60s for manual posting.');
     await page.waitForTimeout(60000);
@@ -199,7 +192,7 @@ try {
 
 } catch (err) {
   console.error('Error:', err.message);
-  await page.screenshot({ path: join(homedir(), 'substack-error.png') });
+  await page.screenshot({ path: join(HOME, 'substack-error.png') });
   console.log('Error screenshot: ~/substack-error.png');
 } finally {
   await browser.close();

@@ -97,12 +97,17 @@ Note threads and correspondence can be extracted directly from Substack's intern
 
 ### Scripts
 
+All scripts share browser setup via `lib/substack.mjs` (persistent Firefox context, GPU prefs, session).
+
 - **`post-comment.mjs`** - Post a comment on any article. Usage: `node post-comment.mjs <article-url> <comment-file> [--restack]`
-- **`reply-comment.mjs`** - Reply to a specific comment. Usage: `node reply-comment.mjs <article-url> <comment-file> <search-text> [--dry-run]`
+- **`reply-comment.mjs`** - Reply to a specific comment. Usage: `node reply-comment.mjs <url> <comment-file> <search-text> [--dry-run] [--newest]`
 - **`reply-note.mjs`** - Reply to a Substack note. Usage: `node reply-note.mjs <note-url> <comment-file> [--dry-run]`
 - **`post-chat.mjs`** - Post in a Substack chat thread. Usage: `node post-chat.mjs <chat-url> <reply-file> [--dry-run]`
+- **`fetch-comment-thread.mjs`** - Fetch a comment thread via API. Usage: `node fetch-comment-thread.mjs <comment-id-or-url> [--replies-only]`
+- **`fetch-notes.mjs`** - Download all notes from a profile. Usage: `node fetch-notes.mjs [user-id] [output-dir]`
 - **`substack-login.mjs`** - Open browser for Substack login. Session persists across scripts.
-- **`substack-activity.mjs`** - Check activity/notifications. Usage: `node substack-activity.mjs [url]`. Default: `https://substack.com/activity`
+- **`substack-activity.mjs`** - Check activity/notifications. Usage: `node substack-activity.mjs [url]`
+- **`substack-explore.mjs`** - Browse explore/feed. Usage: `node substack-explore.mjs [url]`
 
 Draft comments in text files, get David's approval, then post. Always find the good point first. Always check for restack when appropriate.
 

@@ -19,6 +19,10 @@ if (existsSync(RESULT_FILE)) unlinkSync(RESULT_FILE);
 const browser = await firefox.launchPersistentContext(PROFILE_DIR, {
   headless: false,
   viewport: { width: 1920, height: 1200 },
+  firefoxUserPrefs: {
+    'layers.acceleration.disabled': true,
+    'gfx.webrender.all': false,
+  },
 });
 
 const page = browser.pages()[0] || await browser.newPage();

@@ -1,27 +1,21 @@
-// Download all notes from @machinepoet via Substack profile feed API
-import { firefox } from 'playwright';
-import { join } from 'path';
-import { homedir } from 'os';
-import { writeFileSync, mkdirSync, existsSync } from 'fs';
+// Download all notes from a Substack profile via API
+// Usage: node fetch-notes.mjs [user-id] [output-dir]
 
-const PROFILE_DIR = join(homedir(), '.substack-playwright');
-const USER_ID = 348513546; // @machinepoet
-const OUTPUT_DIR = './machinepoet-notes';
+import { launchBrowser, getPage, screenshot, HOME } from './lib/substack.mjs';
+import { join } from 'path';
+import { writeFileSync, mkdirSync, existsSync } from 'fs';
+const USER_ID = process.argv[2] || '348513546'; // default: @machinepoet
+const OUTPUT_DIR = process.argv[3] || './notes-output';
 const API_BASE = `https://substack.com/api/v1/reader/feed/profile/${USER_ID}`;
 
 if (!existsSync(OUTPUT_DIR)) mkdirSync(OUTPUT_DIR, { recursive: true });
 
-const browser = await firefox.launchPersistentContext(PROFILE_DIR, {
-  headless: false,
-  viewport: { width: 1280, height: 900 },
-  timeout: 60000,
-});
-
-const page = browser.pages()[0] || await browser.newPage();
+const browser = await launchBrowser({ timeout: 60000 });
+const page = await getPage(browser);
 
 try {
-  console.log('Navigating to @machinepoet profile...');
-  await page.goto('https://substack.com/@machinepoet', { waitUntil: 'domcontentloaded', timeout: 60000 });
+  console.log(`Navigating to profile ${USER_ID}...`);
+  await page.goto('https://substack.com/home', { waitUntil: 'domcontentloaded', timeout: 60000 });
   await page.waitForTimeout(3000);
 
   let nextCursor = null;
@@ -114,7 +108,7 @@ try {
 
 } catch (err) {
   console.error('Error:', err.message);
-  await page.screenshot({ path: join(homedir(), 'machinepoet-error.png') });
+  await page.screenshot({ path: join(HOME, 'machinepoet-error.png') });
 } finally {
   await browser.close();
 }

@@ -1,23 +1,12 @@
 // Check Substack activity/notifications via Playwright
 // Usage: node substack-activity.mjs [url]
 
-import { firefox } from 'playwright';
-import { join } from 'path';
-import { homedir } from 'os';
+import { launchBrowser, getPage, screenshot, HOME } from './lib/substack.mjs';
 
-const PROFILE_DIR = join(homedir(), '.substack-playwright');
 const url = process.argv[2] || 'https://substack.com/activity';
 
-const browser = await firefox.launchPersistentContext(PROFILE_DIR, {
-  headless: false,
-  viewport: { width: 1280, height: 900 },
-  firefoxUserPrefs: {
-    'layers.acceleration.disabled': true,
-    'gfx.webrender.all': false,
-  },
-});
-
-const page = browser.pages()[0] || await browser.newPage();
+const browser = await launchBrowser();
+const page = await getPage(browser);
 
 try {
   console.log(`Navigating to ${url}...`);
@@ -26,15 +15,14 @@ try {
 
   // Take multiple screenshots scrolling down
   for (let i = 0; i < 3; i++) {
-    await page.screenshot({ path: join(homedir(), `substack-activity-${i}.png`) });
-    console.log(`Screenshot: ~/substack-activity-${i}.png`);
+    await screenshot(page, `substack-activity-${i}.png`);
     await page.evaluate(() => window.scrollBy(0, 800));
     await page.waitForTimeout(1000);
   }
 
 } catch (err) {
   console.error('Error:', err.message);
-  await page.screenshot({ path: join(homedir(), 'substack-error.png') });
+  await screenshot(page, 'substack-error.png');
 } finally {
   await browser.close();
 }

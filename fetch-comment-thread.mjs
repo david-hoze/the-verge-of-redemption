@@ -9,11 +9,7 @@
 // Outputs the comment and all replies as a threaded conversation.
 // --replies-only: skip the parent, just show replies
 
-import { firefox } from 'playwright';
-import { join } from 'path';
-import { homedir } from 'os';
-
-const PROFILE_DIR = join(homedir(), '.substack-playwright');
+import { launchBrowser, getPage } from './lib/substack.mjs';
 
 const input = process.argv[2];
 const repliesOnly = process.argv.includes('--replies-only');
@@ -54,16 +50,8 @@ if (!pageUrl) {
 
 console.log(`Fetching comment ${commentId}...`);
 
-const browser = await firefox.launchPersistentContext(PROFILE_DIR, {
-  headless: false,
-  viewport: { width: 1280, height: 900 },
-  firefoxUserPrefs: {
-    'layers.acceleration.disabled': true,
-    'gfx.webrender.all': false,
-  },
-});
-
-const page = browser.pages()[0] || await browser.newPage();
+const browser = await launchBrowser();
+const page = await getPage(browser);
 page.setDefaultTimeout(30000);
 
 try {

@@ -1,18 +1,10 @@
 // Open Substack login page in Playwright Firefox persistent context
-// Sign in, then close the browser. Cookies will be saved for post-comment.mjs
+// Sign in, then close the browser. Cookies will be saved for other scripts.
 
-import { firefox } from 'playwright';
-import { join } from 'path';
-import { homedir } from 'os';
+import { launchBrowser, getPage } from './lib/substack.mjs';
 
-const PROFILE_DIR = join(homedir(), '.substack-playwright');
-
-const browser = await firefox.launchPersistentContext(PROFILE_DIR, {
-  headless: false,
-  viewport: { width: 1280, height: 900 },
-});
-
-const page = browser.pages()[0] || await browser.newPage();
+const browser = await launchBrowser();
+const page = await getPage(browser);
 await page.goto('https://substack.com/sign-in', { waitUntil: 'domcontentloaded' });
 
 console.log('Browser open. Sign in to Substack, then close the browser window.');
