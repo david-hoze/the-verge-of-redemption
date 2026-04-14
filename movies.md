@@ -41,6 +41,9 @@ Stephane Audran, Bodil Kjer, Birgitte Federspiel. A Parisian chef exiled to an a
 **Rear Window** (1954) - the-wall-nobody-built
 James Stewart, Grace Kelly, Thelma Ritter. A photographer with a broken leg watches his neighbors through open windows and suspects murder. Hitchcock spends two hours asking whether the watching was justified. The Talmud spends no time on that question. Directed by Alfred Hitchcock.
 
+**Casablanca** (1942) - what-divorce-is-for
+Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains. A nightclub owner puts the woman he loves on a plane because the leaving is what preserves the love. The most precise act of departure in cinema - with paperwork, at an airport, at exactly the right time. Directed by Michael Curtiz.
+
 **Being There** (1979) - the-consciousness-debate-is-feeding
 Peter Sellers, Shirley MacLaine, Melvyn Douglas. A simple gardener who knows nothing but plants and television is mistaken for a political genius - because his empty words sound exactly like the profound ones. The whole country projects depth onto pattern. Nobody is lying. Nobody is conscious of the deception. That's the point.
 

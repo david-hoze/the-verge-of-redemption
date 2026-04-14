@@ -56,7 +56,7 @@ Output goes to `../{movie_name}_1200x1090/`.
 
 ## Output
 
-Each movie gets two directories under `/home/natanh/temp/`:
+Each movie gets two directories under `movie-images/` in the repo:
 - `{movie}_raw/` — original downloads
 - `{movie}_1200x1090/` — processed 1200x1090 images
 

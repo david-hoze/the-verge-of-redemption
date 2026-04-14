@@ -21,8 +21,9 @@ if len(sys.argv) < 2:
     sys.exit(1)
 
 MOVIE = sys.argv[1]
+REPO = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.abspath('.')
-OUT = os.path.abspath(f'../{MOVIE}_1200x1090')
+OUT = os.path.join(REPO, 'movie-images', f'{MOVIE}_1200x1090')
 os.makedirs(OUT, exist_ok=True)
 
 files = sorted([f for f in os.listdir('.') if f.lower().endswith(('.jpg', '.png'))])
