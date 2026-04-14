@@ -31,3 +31,13 @@ You gave it a name and I wouldn't want to take it without you - "Elaborate Ways 
 Would you be open to it?
 
 **Status:** Awaiting Helene's response. Article outline ready in `article-outline-helene.md`.
+
+## Exchange 3: Intimacy Notes / Keritut Convergence (2026-04-14)
+
+**Context:** Helene published "Intimacy Notes - I" on her Higgs Hum publication. The piece defines integration as arriving at a center where perception is no longer processed as input - direct seeing without interpretation. Green-or-nothing signal model: no spectrum, no yellow. The cost of real intimacy is that very little qualifies. "Not as a punishment, but as an expense."
+
+**David's comment (posted + restacked):** Named her integration model as the keritut principle from Gittin - complete severance of what isn't real so that what remains is honest. Connected her green-or-nothing signal to the Talmudic ruling that partial leaving is no leaving. Mapped her "cost of intimacy" to l'fum tza'ara agra and the altar weeping. Linked "What Divorce Is For" - the Gittin article.
+
+**The convergence:** Exchange 1 was consciousness (phenomenology/Kabbalah/Sufism converging on the gap). Exchange 3 is intimacy/relationships (her integration model and Gittin's keritut converging on the same precision of dissolution). Different domain, same structural meeting point. She keeps arriving at the same place from a different tradition.
+
+**Status:** Awaiting Helene's response.
