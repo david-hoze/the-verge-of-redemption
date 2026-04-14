@@ -1,0 +1,3 @@
+[submodule "torah-writing"]
+	path = torah-writing
+	url = git@github.com:david-hoze/torah-writing.git

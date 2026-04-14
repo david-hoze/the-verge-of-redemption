@@ -35,6 +35,12 @@ Amy Adams, Jeremy Renner, Forest Whitaker. A linguist decoding an alien language
 **Au Hasard Balthazar** (1966) - the-great-loss
 A donkey is passed from owner to owner; its body tells the story of how each treated it. Directed by Robert Bresson.
 
+**Babette's Feast** (1987) - three-descents
+Stephane Audran, Bodil Kjer, Birgitte Federspiel. A Parisian chef exiled to an austere Danish Protestant community wins the lottery and spends all of it on one magnificent French dinner. The community agrees not to mention the food. Their faces change anyway. The higher light entered the vessel's smallness and revealed what had been there all along. Directed by Gabriel Axel.
+
+**Rear Window** (1954) - the-wall-nobody-built
+James Stewart, Grace Kelly, Thelma Ritter. A photographer with a broken leg watches his neighbors through open windows and suspects murder. Hitchcock spends two hours asking whether the watching was justified. The Talmud spends no time on that question. Directed by Alfred Hitchcock.
+
 **Being There** (1979) - the-consciousness-debate-is-feeding
 Peter Sellers, Shirley MacLaine, Melvyn Douglas. A simple gardener who knows nothing but plants and television is mistaken for a political genius - because his empty words sound exactly like the profound ones. The whole country projects depth onto pattern. Nobody is lying. Nobody is conscious of the deception. That's the point.
 
@@ -235,6 +241,9 @@ Five children enter a factory where everything is edible and nothing runs out. F
 
 **The Red Shoes** (1948) - the-shoes-that-wouldnt-stop
 Moira Shearer, Anton Walbrook, Marius Goring. A young ballerina is torn between a demanding impresario and the man she loves. The impresario sees her gift - the intensity, the total commitment, the willingness to disappear into the dance - and feeds it. The red shoes in the ballet-within-the-film are enchanted: once you put them on, they dance you. You don't stop because you want to. You stop because you die. She leaps from a balcony in the red shoes. The gift was the trap. The intensity was the vulnerability. Directed by Michael Powell and Emeric Pressburger.
+
+**Man on the Moon** (1999) - the-comedian-who-cant-hear-laughter
+Jim Carrey as Andy Kaufman - the comedian who didn't tell jokes but was the collision between performer and person. He read The Great Gatsby at Carnegie Hall. The audience expected comedy. He gave them literature. Neither system was broken. Directed by Milos Forman.
 
 ## Collaboration Articles
 

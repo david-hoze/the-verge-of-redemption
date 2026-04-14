@@ -23,7 +23,7 @@ The graph lives at `~/.eden/shamash.db`. The runtime is ADAM, built in Idris2 at
 
 ## Daily Study Seder
 
-See [seder/SEDER.md](seder/SEDER.md) for the daily Torah study structure. Five texts: Halakha Yomit and Daf Yomi (English, from Sefaria API), Likutey Moharan, Likutey Halachot, and Etz Chaim (Hebrew, from `~/docs/torah-writing/books/`). Progress tracked in [seder/progress.md](seder/progress.md). Study produces articles and graph insights. Say "let's learn" to start a session.
+See [seder/SEDER.md](seder/SEDER.md) for the daily Torah study structure. Five texts: Halakha Yomit and Daf Yomi (English, from Sefaria API), Likutey Moharan, Likutey Halachot, and Etz Chaim (Hebrew, from `torah-writing/books/`). Progress tracked in [seder/progress.md](seder/progress.md). Study produces articles and graph insights. Say "let's learn" to start a session.
 
 ## Article Index
 
@@ -63,9 +63,44 @@ When writing about real people who might recognize themselves: obfuscate identif
 
 ## Substack Interaction (Playwright)
 
-All Substack interaction happens through Playwright (Firefox, persistent context at `~/.substack-playwright`). Scripts in this repo:
+All Substack interaction happens through Playwright (Firefox, persistent context at `~/.substack-playwright`). See [SUBSTACK-PLAYBOOK.md](SUBSTACK-PLAYBOOK.md) for the full operational playbook - URL structures, UI elements, known pitfalls, and verified patterns.
+
+**Core rules:**
+- Prefer DOM extraction for retrieving content. Use screenshots only for sanity checks.
+- Screenshot after every write operation. Never assume a navigation or click worked. Only codify a pattern into a script after it has worked 3 times in exploratory runs.
+- Always read and update `SUBSTACK-PLAYBOOK.md` when interacting with Substack. Document every URL structure, UI pattern, and discovery.
+- Full Substack URL documentation lives in the playbook. When constructing URLs, always check the playbook first.
+
+### Substack API (via authenticated Playwright session)
+
+Note threads and correspondence can be extracted directly from Substack's internal API. These endpoints work when called from within an authenticated Playwright page context (using `page.evaluate(() => fetch(...))`).
+
+**Endpoints:**
+- **Get a note/comment:** `GET /api/v1/reader/comment/{comment-id}` - Returns `{ item: { comment: { id, name, body, date, ancestor_path, children_count, ... } } }`
+- **Get replies to a note:** `GET /api/v1/reader/comment/{comment-id}/replies?comment_id={comment-id}` - Returns `{ commentBranches: [...], rootComment: {...} }`
+- **Get feed data:** Available via `window._preloads.feedData` on any note page (has `feedItem`, `feedItemStats`)
+
+**Key fields:**
+- `body` - Plain text content of the comment
+- `body_json` - Structured ProseMirror document with formatting (italic marks, mentions, etc.)
+- `ancestor_path` - Dot-separated chain of parent comment IDs (e.g. `241445987.242067812.242107038`)
+- `children_count` - Number of direct replies
+- `descendantComments` - Nested replies within a branch (in the `/replies` response)
+
+**Navigating deep threads:** The `ancestor_path` reveals the full chain. If a comment's path is `A.B.C.D.E`, you can fetch each ID individually via `/api/v1/reader/comment/{id}` to reconstruct the complete conversation. The `/replies` endpoint only returns direct children and their descendants, not sibling branches.
+
+**Pattern for extracting a full thread:**
+1. Navigate to the note URL in Playwright (to authenticate)
+2. Fetch the parent note via `/api/v1/reader/comment/{id}`
+3. Fetch replies via `/api/v1/reader/comment/{id}/replies`
+4. For deeply nested threads, check `ancestor_path` on the deepest comment and fetch any missing intermediate IDs
+
+### Scripts
 
 - **`post-comment.mjs`** - Post a comment on any article. Usage: `node post-comment.mjs <article-url> <comment-file> [--restack]`
+- **`reply-comment.mjs`** - Reply to a specific comment. Usage: `node reply-comment.mjs <article-url> <comment-file> <search-text> [--dry-run]`
+- **`reply-note.mjs`** - Reply to a Substack note. Usage: `node reply-note.mjs <note-url> <comment-file> [--dry-run]`
+- **`post-chat.mjs`** - Post in a Substack chat thread. Usage: `node post-chat.mjs <chat-url> <reply-file> [--dry-run]`
 - **`substack-login.mjs`** - Open browser for Substack login. Session persists across scripts.
 - **`substack-activity.mjs`** - Check activity/notifications. Usage: `node substack-activity.mjs [url]`. Default: `https://substack.com/activity`
 
