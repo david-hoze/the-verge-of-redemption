@@ -1,6 +1,12 @@
 // Reply to a specific comment on Substack using Playwright
-// Usage: node reply-comment.mjs <article-url> <comment-file> <search-text> [--dry-run] [--restack]
+// Usage: node reply-comment.mjs <url> <comment-file> <search-text> [--dry-run] [--restack] [--newest]
+//
+// <url> can be:
+//   - Article URL: https://pub.substack.com/p/slug (navigates to /comments)
+//   - Comment thread URL: https://pub.substack.com/p/slug/comment/12345 (navigates directly)
+//   - Comment thread with hash: .../comment/12345#comment-67890 (navigates to thread, targets hash comment)
 // <search-text> matches against commenter name or comment text to find the right comment
+// --newest: when multiple comments match, prefer the last one in DOM order (most recent)
 
 import { firefox } from 'playwright';
 import { join } from 'path';
@@ -9,169 +15,201 @@ import { readFileSync } from 'fs';
 
 const PROFILE_DIR = join(homedir(), '.substack-playwright');
 
-const articleUrl = process.argv[2];
+const inputUrl = process.argv[2];
 const commentFile = process.argv[3];
 const searchText = process.argv[4];
 const dryRun = process.argv.includes('--dry-run');
 const restack = process.argv.includes('--restack');
+const preferNewest = process.argv.includes('--newest');
 
-if (!articleUrl || !commentFile || !searchText) {
-  console.error('Usage: node reply-comment.mjs <article-url> <comment-file> <search-text> [--dry-run]');
+// Extract target comment ID from URL hash if present (e.g. #comment-243174185)
+const hashMatch = (inputUrl || '').match(/#comment-(\d+)/);
+const targetCommentId = hashMatch ? hashMatch[1] : null;
+
+if (!inputUrl || !commentFile || !searchText) {
+  console.error('Usage: node reply-comment.mjs <url> <comment-file> <search-text> [--dry-run] [--restack] [--newest]');
+  console.error('  <url> can be an article URL or a comment thread URL');
   console.error('  <search-text> matches commenter name or comment text');
+  console.error('  --newest: prefer the last matching comment (most recent)');
   process.exit(1);
 }
 
 const commentText = readFileSync(commentFile, 'utf-8').trim();
 console.log(`Searching for comment matching: "${searchText}"`);
-console.log('Reply to post:');
+if (targetCommentId) console.log(`Target comment ID from URL hash: ${targetCommentId}`);
+if (preferNewest) console.log('Prefer newest match: ON');
+console.log('Reply text:');
 console.log('---');
 console.log(commentText);
 console.log('---');
 if (dryRun) console.log('[DRY RUN - will not post]');
 
+// Detect URL type: comment thread vs article
+const isCommentThread = /\/comment\/\d+/.test(inputUrl);
+const navUrl = isCommentThread
+  ? inputUrl.split('?')[0].split('#')[0]  // use comment URL directly
+  : inputUrl.replace(/\/$/, '') + '/comments';  // append /comments for articles
+
+console.log(`URL type: ${isCommentThread ? 'comment thread' : 'article'}`);
+
 const browser = await firefox.launchPersistentContext(PROFILE_DIR, {
   headless: false,
   viewport: { width: 1280, height: 900 },
+  firefoxUserPrefs: {
+    'layers.acceleration.disabled': true,
+    'gfx.webrender.all': false,
+  },
 });
 
 const page = browser.pages()[0] || await browser.newPage();
+page.setDefaultTimeout(30000);
 
 try {
-  // Navigate directly to comments section
-  const commentsUrl = articleUrl.replace(/\/$/, '') + '/comments';
-  console.log(`Navigating to ${commentsUrl} ...`);
-  await page.goto(commentsUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
+  console.log(`Navigating to ${navUrl} ...`);
+  await page.goto(navUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
   await page.waitForTimeout(5000);
 
-  // Try to sort by newest - click "Top first" to toggle to "Newest first"
-  console.log('Looking for sort toggle...');
-  const sorted = await page.evaluate(() => {
-    const buttons = document.querySelectorAll('button');
-    for (const btn of buttons) {
-      const text = btn.textContent.trim().toLowerCase();
-      if (text.includes('top first') || text.includes('top')) {
-        btn.click();
-        return 'clicked-top-first-toggle';
-      }
-    }
-    return 'no-sort-found';
-  });
-  console.log(`Sort result: ${sorted}`);
-  await page.waitForTimeout(3000);
-
-  // If sort opened a menu, look for "Newest first" option and click it
-  if (sorted === 'clicked-top-first-toggle') {
-    const menuResult = await page.evaluate(() => {
-      // Look for any newly visible element with "newest" text
-      const allEls = document.querySelectorAll('button, a, [role="menuitem"], [role="option"], div, span');
-      for (const el of allEls) {
-        const text = el.textContent.trim().toLowerCase();
-        if (text === 'newest first' || text === 'newest') {
-          el.click();
-          return 'clicked-newest';
+  // For article comment pages, try to sort by newest
+  if (!isCommentThread) {
+    console.log('Looking for sort toggle...');
+    const sorted = await page.evaluate(() => {
+      const buttons = document.querySelectorAll('button');
+      for (const btn of buttons) {
+        const text = btn.textContent.trim().toLowerCase();
+        if (text.includes('top first') || text.includes('top')) {
+          btn.click();
+          return 'clicked-top-first-toggle';
         }
       }
-      return 'no-newest-option';
+      return 'no-sort-found';
     });
-    console.log(`Menu result: ${menuResult}`);
+    console.log(`Sort result: ${sorted}`);
     await page.waitForTimeout(3000);
+
+    if (sorted === 'clicked-top-first-toggle') {
+      await page.evaluate(() => {
+        const allEls = document.querySelectorAll('button, a, [role="menuitem"], [role="option"], div, span');
+        for (const el of allEls) {
+          const text = el.textContent.trim().toLowerCase();
+          if (text === 'newest first' || text === 'newest') { el.click(); return; }
+        }
+      });
+      await page.waitForTimeout(3000);
+    }
   }
 
-  // Scroll down to load more comments
+  // Scroll to load comments/replies
   console.log('Scrolling to load comments...');
-  for (let i = 0; i < 8; i++) {
-    await page.evaluate(() => window.scrollBy(0, 800));
-    await page.waitForTimeout(1000);
-  }
+  await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+  await page.waitForTimeout(2000);
 
-  // Click any "See more comments" / "Load more" buttons
-  const loadMore = await page.evaluate(() => {
+  // Expand collapsed replies
+  const expanded = await page.evaluate(() => {
     const clicked = [];
-    const buttons = document.querySelectorAll('button, a');
-    for (const btn of buttons) {
-      const text = btn.textContent.trim().toLowerCase();
-      if (text.includes('load more') || text.includes('see more') ||
-          text.includes('show more') || text.includes('view more') ||
-          text.includes('more comments')) {
-        btn.click();
+    const els = document.querySelectorAll('button, a');
+    for (const el of els) {
+      const text = (el.textContent || '').trim().toLowerCase();
+      if (text.includes('load more') || text.includes('see more') || text.includes('show more') ||
+          text.includes('view more') || text.includes('more comments') || text.includes('more repl') ||
+          text.includes('show repl') || text.includes('view repl')) {
+        el.click();
         clicked.push(text);
       }
     }
     return clicked;
   });
-  if (loadMore.length > 0) {
-    console.log(`Clicked load-more buttons: ${loadMore.join(', ')}`);
+  if (expanded.length > 0) {
+    console.log(`Expanded: ${expanded.join(', ')}`);
     await page.waitForTimeout(3000);
-    // Scroll again after loading more
-    for (let i = 0; i < 5; i++) {
-      await page.evaluate(() => window.scrollBy(0, 800));
-      await page.waitForTimeout(1000);
-    }
   }
 
-  // Scroll back to top to start searching
+  // Scroll again after expanding, then back to top
+  await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+  await page.waitForTimeout(2000);
   await page.evaluate(() => window.scrollTo(0, 0));
   await page.waitForTimeout(1000);
 
-  // Strategy: Substack Reply links are <a> tags (not <button>), with text "Reply" or "Reply (N)"
-  // CSS makes them uppercase visually. Find the SMALLEST container matching search text.
+  // Find the comment and click Reply
   console.log(`Looking for comment matching "${searchText}"...`);
-  const found = await page.evaluate((search) => {
-    // Find all <a> elements whose text starts with "Reply" (Substack comment action links)
+  const found = await page.evaluate((opts) => {
+    const { search, targetId, newest } = opts;
     const allLinks = Array.from(document.querySelectorAll('a'));
     const replyLinks = allLinks.filter(a => {
       const text = a.textContent.trim().toLowerCase();
       return text === 'reply' || text.startsWith('reply (') || text.startsWith('reply(');
     });
 
-    const debug = {
-      totalLinks: allLinks.length,
-      replyLinks: replyLinks.length,
-    };
+    const debug = { totalLinks: allLinks.length, replyLinks: replyLinks.length };
 
-    // For each Reply link, walk up to find the SMALLEST container with the search text
-    // This ensures we match the specific comment, not the whole thread
-    let bestMatch = null;
-
-    for (const link of replyLinks) {
-      let container = link;
-      for (let j = 0; j < 10; j++) {
-        if (!container.parentElement) break;
-        container = container.parentElement;
-        const containerText = container.textContent || '';
-        if (containerText.toLowerCase().includes(search.toLowerCase()) && containerText.length < 5000) {
-          // Found a container with the search text - is it smaller than current best?
-          if (!bestMatch || containerText.length < bestMatch.size) {
-            bestMatch = {
-              link,
-              size: containerText.length,
-              snippet: containerText.substring(0, 200),
-              linkText: link.textContent.trim(),
-            };
+    // If we have a target comment ID from the URL hash, try to find it by data attribute or DOM id
+    if (targetId) {
+      // Substack uses data-comment-id or id="comment-{id}" patterns
+      const byId = document.querySelector(`[data-comment-id="${targetId}"], #comment-${targetId}, [id*="${targetId}"]`);
+      if (byId) {
+        // Find the Reply link within or near this element
+        let container = byId;
+        for (let j = 0; j < 10; j++) {
+          const links = container.querySelectorAll('a');
+          for (const a of links) {
+            const text = a.textContent.trim().toLowerCase();
+            if (text === 'reply' || text.startsWith('reply (') || text.startsWith('reply(')) {
+              a.scrollIntoView({ block: 'center' });
+              a.click();
+              return { found: true, method: 'comment-id', targetId, linkText: a.textContent.trim(), debug };
+            }
           }
-          break; // Don't walk up further for this link
+          if (!container.parentElement) break;
+          container = container.parentElement;
         }
       }
     }
 
-    if (bestMatch) {
-      bestMatch.link.scrollIntoView({ block: 'center' });
-      bestMatch.link.click();
-      return {
-        found: true,
-        method: 'smallest-container',
-        linkText: bestMatch.linkText,
-        containerLength: bestMatch.size,
-        snippet: bestMatch.snippet,
-        debug,
-      };
+    // Smallest container algorithm - collect ALL matches, then pick best
+    const matches = [];
+    for (const link of replyLinks) {
+      let container = link;
+      for (let j = 0; j < 12; j++) {
+        if (!container.parentElement) break;
+        container = container.parentElement;
+        const containerText = container.textContent || '';
+        if (containerText.toLowerCase().includes(search.toLowerCase()) && containerText.length < 5000) {
+          matches.push({ link, size: containerText.length, snippet: containerText.substring(0, 200), linkText: link.textContent.trim() });
+          break;
+        }
+      }
     }
 
-    // Fallback: search by commenter name in profile links, then find nearest Reply <a>
+    if (matches.length > 0) {
+      // Pick the best match:
+      // --newest: prefer the last match in DOM order (among smallest containers)
+      // default: prefer the smallest container
+      let bestMatch;
+      if (newest && matches.length > 1) {
+        // Among matches, find the smallest containers, then pick the LAST one
+        const minSize = Math.min(...matches.map(m => m.size));
+        const smallest = matches.filter(m => m.size <= minSize * 1.2); // within 20% of smallest
+        bestMatch = smallest[smallest.length - 1]; // last in DOM = newest
+        bestMatch.matchCount = matches.length;
+        bestMatch.selectedBy = 'newest-among-smallest';
+      } else {
+        bestMatch = matches.reduce((a, b) => a.size < b.size ? a : b);
+        bestMatch.matchCount = matches.length;
+        bestMatch.selectedBy = 'smallest';
+      }
+
+      if (matches.length > 1) {
+        debug.warning = `${matches.length} comments matched search text - used ${bestMatch.selectedBy} strategy`;
+      }
+
+      bestMatch.link.scrollIntoView({ block: 'center' });
+      bestMatch.link.click();
+      return { found: true, method: 'smallest-container', linkText: bestMatch.linkText, containerLength: bestMatch.size, snippet: bestMatch.snippet, matchCount: bestMatch.matchCount, selectedBy: bestMatch.selectedBy, debug };
+    }
+
+    // Fallback: search by commenter name
     const nameLinks = document.querySelectorAll('a[href*="substack.com/@"]');
     for (const nameLink of nameLinks) {
       if (nameLink.textContent.toLowerCase().includes(search.toLowerCase())) {
-        // Found the commenter's name - walk up to find the Reply link for this comment
         let container = nameLink;
         for (let j = 0; j < 10; j++) {
           if (!container.parentElement) break;
@@ -182,30 +220,16 @@ try {
             if (text === 'reply' || text.startsWith('reply (') || text.startsWith('reply(')) {
               a.scrollIntoView({ block: 'center' });
               a.click();
-              return {
-                found: true,
-                method: 'name-link-reply',
-                name: nameLink.textContent.trim(),
-                linkText: a.textContent.trim(),
-                debug,
-              };
+              return { found: true, method: 'name-link-reply', name: nameLink.textContent.trim(), linkText: a.textContent.trim(), debug };
             }
           }
         }
-        return { found: true, method: 'name-found-no-reply-link', name: nameLink.textContent.trim(), debug };
       }
     }
 
-    // Not found - dump diagnostic info
     const pageText = document.body.innerText;
-    const hasSearch = pageText.toLowerCase().includes(search.toLowerCase());
-    return {
-      found: false,
-      searchTextOnPage: hasSearch,
-      debug,
-      pageSnippet: pageText.substring(0, 500),
-    };
-  }, searchText);
+    return { found: false, searchTextOnPage: pageText.toLowerCase().includes(search.toLowerCase()), debug, pageSnippet: pageText.substring(0, 500) };
+  }, { search: searchText, targetId: targetCommentId, newest: preferNewest });
 
   console.log('Search result:', JSON.stringify(found, null, 2));
 
@@ -214,7 +238,6 @@ try {
     console.log('Could not find target comment. Screenshot: ~/substack-reply-notfound.png');
     if (found.searchTextOnPage) {
       console.log('NOTE: Search text IS on the page but no Reply button found near it.');
-      console.log('The comment may need more scrolling or a "See more" click.');
     }
     console.log('Browser stays open 60s for manual action.');
     await page.waitForTimeout(60000);
@@ -222,28 +245,16 @@ try {
     process.exit(1);
   }
 
-  // Wait for reply input to appear
+  // Wait for reply textarea
   console.log('Waiting for reply input...');
   await page.waitForTimeout(3000);
   await page.screenshot({ path: join(homedir(), 'substack-reply-opened.png') });
-  console.log('Screenshot after clicking Reply: ~/substack-reply-opened.png');
 
-  // Find and focus the reply textarea using evaluate (bypasses Playwright stability checks)
-  // The reply box has "Cancel" and "Reply" buttons nearby - use that to find the RIGHT textarea
+  // Find and focus the reply textarea
   const inputInfo = await page.evaluate(() => {
-    // Look for textareas - the reply one should be near Cancel/Reply buttons
     const textareas = Array.from(document.querySelectorAll('textarea'));
-    const info = textareas.map((t, i) => ({
-      index: i,
-      placeholder: t.placeholder,
-      visible: t.offsetParent !== null,
-      rect: t.getBoundingClientRect(),
-    }));
-
-    // Find the textarea near Cancel/Reply buttons (the reply box, not the top-level comment box)
     for (let i = textareas.length - 1; i >= 0; i--) {
       const ta = textareas[i];
-      // Check if there's a Cancel button nearby (reply boxes have Cancel + Reply buttons)
       const parent = ta.closest('form') || ta.parentElement?.parentElement?.parentElement;
       if (parent) {
         const buttons = parent.querySelectorAll('button');
@@ -252,21 +263,17 @@ try {
           ta.scrollIntoView({ block: 'center' });
           ta.focus();
           ta.click();
-          return { found: true, index: i, placeholder: ta.placeholder, method: 'cancel-nearby', total: textareas.length };
+          return { found: true, index: i, method: 'cancel-nearby', total: textareas.length };
         }
       }
     }
-
-    // Fallback: just use the last textarea
     if (textareas.length > 0) {
       const ta = textareas[textareas.length - 1];
       ta.scrollIntoView({ block: 'center' });
       ta.focus();
       ta.click();
-      return { found: true, index: textareas.length - 1, placeholder: ta.placeholder, method: 'last-textarea', total: textareas.length };
+      return { found: true, index: textareas.length - 1, method: 'last-textarea', total: textareas.length };
     }
-
-    // Try contenteditable
     const editables = Array.from(document.querySelectorAll('[contenteditable="true"]'));
     if (editables.length > 0) {
       const el = editables[editables.length - 1];
@@ -275,8 +282,7 @@ try {
       el.click();
       return { found: true, method: 'contenteditable', total: editables.length };
     }
-
-    return { found: false, textareaCount: textareas.length, info };
+    return { found: false, textareaCount: textareas.length };
   });
 
   console.log('Input info:', JSON.stringify(inputInfo));
@@ -292,19 +298,39 @@ try {
 
   await page.waitForTimeout(500);
 
-  // Type the reply using keyboard (input should already be focused via evaluate)
-  console.log('Typing reply...');
-  await page.keyboard.press('Control+a');
-  await page.keyboard.press('Backspace');
-
-  const paragraphs = commentText.split('\n\n');
-  for (let i = 0; i < paragraphs.length; i++) {
-    await page.keyboard.type(paragraphs[i], { delay: 5 });
-    if (i < paragraphs.length - 1) {
-      await page.keyboard.press('Enter');
-      await page.keyboard.press('Enter');
+  // Set reply text via native setter (more stable than keyboard.type on Windows/GPU issues)
+  console.log('Setting reply text...');
+  const setResult = await page.evaluate((text) => {
+    const textareas = Array.from(document.querySelectorAll('textarea'));
+    for (let i = textareas.length - 1; i >= 0; i--) {
+      const ta = textareas[i];
+      const parent = ta.closest('form') || ta.parentElement?.parentElement?.parentElement;
+      if (parent) {
+        const buttons = parent.querySelectorAll('button');
+        const hasCancel = Array.from(buttons).some(b => b.textContent.trim().toLowerCase() === 'cancel');
+        if (hasCancel) {
+          const setter = Object.getOwnPropertyDescriptor(window.HTMLTextAreaElement.prototype, 'value').set;
+          setter.call(ta, text);
+          ta.dispatchEvent(new Event('input', { bubbles: true }));
+          ta.dispatchEvent(new Event('change', { bubbles: true }));
+          ta.focus();
+          return { set: true, method: 'cancel-nearby', index: i };
+        }
+      }
     }
-  }
+    if (textareas.length > 0) {
+      const ta = textareas[textareas.length - 1];
+      const setter = Object.getOwnPropertyDescriptor(window.HTMLTextAreaElement.prototype, 'value').set;
+      setter.call(ta, text);
+      ta.dispatchEvent(new Event('input', { bubbles: true }));
+      ta.dispatchEvent(new Event('change', { bubbles: true }));
+      ta.focus();
+      return { set: true, method: 'last', index: textareas.length - 1 };
+    }
+    return { set: false };
+  }, commentText);
+
+  console.log('Set result:', JSON.stringify(setResult));
 
   await page.waitForTimeout(1000);
 
@@ -321,8 +347,7 @@ try {
     });
   }
 
-  // Screenshot before posting
-  await page.screenshot({ path: join(homedir(), 'substack-before-reply.png'), fullPage: true });
+  await page.screenshot({ path: join(homedir(), 'substack-before-reply.png') });
   console.log('Screenshot before posting: ~/substack-before-reply.png');
 
   if (dryRun) {
@@ -332,30 +357,24 @@ try {
     process.exit(0);
   }
 
-  // Click the submit button - look for "Reply" or "Post" near the reply input
+  // Submit via full mouse event sequence (React delegated handlers)
   console.log('Looking for Post/Reply submit button...');
   const clicked = await page.evaluate(() => {
     const buttons = Array.from(document.querySelectorAll('button'));
-    // Look for submit-style buttons that say "Reply" or "Post" (not the comment action REPLY buttons)
-    // The submit button is typically near the input and has different styling
     const candidates = buttons.filter(b => {
       const text = b.textContent.trim().toLowerCase();
-      // Match "reply" or "post" but NOT "reply (3)" which is a comment action button
       return (text === 'reply' || text === 'post' || text === 'comment') && !b.disabled;
     });
 
     if (candidates.length > 0) {
-      // Use the last one (closest to the newly opened reply box)
       const btn = candidates[candidates.length - 1];
       btn.scrollIntoView({ block: 'center' });
-      // Dispatch full mouse event sequence so React's delegated handlers fire
       btn.dispatchEvent(new MouseEvent('mousedown', { bubbles: true, cancelable: true }));
       btn.dispatchEvent(new MouseEvent('mouseup', { bubbles: true, cancelable: true }));
       btn.dispatchEvent(new MouseEvent('click', { bubbles: true, cancelable: true }));
-      return { clicked: true, text: btn.textContent.trim(), index: candidates.length - 1 };
+      return { clicked: true, text: btn.textContent.trim() };
     }
 
-    // Fallback: look for any enabled button with these texts
     const fallback = buttons.filter(b => {
       const text = b.textContent.trim().toLowerCase();
       return (text.startsWith('reply') || text.startsWith('post')) && !b.disabled;
@@ -366,7 +385,7 @@ try {
       btn.dispatchEvent(new MouseEvent('mousedown', { bubbles: true, cancelable: true }));
       btn.dispatchEvent(new MouseEvent('mouseup', { bubbles: true, cancelable: true }));
       btn.dispatchEvent(new MouseEvent('click', { bubbles: true, cancelable: true }));
-      return { clicked: true, text: btn.textContent.trim(), index: fallback.length - 1, method: 'fallback' };
+      return { clicked: true, text: btn.textContent.trim(), method: 'fallback' };
     }
 
     return { clicked: false, buttonTexts: buttons.map(b => b.textContent.trim().substring(0, 30)) };

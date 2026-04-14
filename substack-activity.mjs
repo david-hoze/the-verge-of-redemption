@@ -6,11 +6,15 @@ import { join } from 'path';
 import { homedir } from 'os';
 
 const PROFILE_DIR = join(homedir(), '.substack-playwright');
-const url = process.argv[2] || 'https://substack.com/profile/activity';
+const url = process.argv[2] || 'https://substack.com/activity';
 
 const browser = await firefox.launchPersistentContext(PROFILE_DIR, {
   headless: false,
   viewport: { width: 1280, height: 900 },
+  firefoxUserPrefs: {
+    'layers.acceleration.disabled': true,
+    'gfx.webrender.all': false,
+  },
 });
 
 const page = browser.pages()[0] || await browser.newPage();
