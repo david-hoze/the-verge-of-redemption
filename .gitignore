@@ -15,3 +15,6 @@ movie-images/
 .obsidian/app.json
 .obsidian/appearance.json
 node_modules/
+
+# EDEN graph (local runtime state)
+.eden/
