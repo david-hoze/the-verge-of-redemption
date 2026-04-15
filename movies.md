@@ -265,7 +265,12 @@ Michelle Yeoh, Ke Huy Quan, Stephanie Hsu, Jamie Lee Curtis. A woman failing at 
 
 **Big Fish** (2003) - the-story-that-survived
 Ewan McGregor, Albert Finney, Billy Crudup, Jessica Lange. A dying man has spent his entire life telling stories his journalist son considers lies. The son wants the facts - the real version, without the embellishments. At the end, the father is dying and cannot finish the last story. The son tells it for him. In that moment he understands: the stories were never decorations on top of the truth. They were the delivery system. The facts were already inside them. Directed by Tim Burton.
-Michelle Yeoh, Ke Huy Quan, Stephanie Hsu, Jamie Lee Curtis. A woman failing at her laundromat, her marriage, and her relationship with her daughter discovers she can access every version of herself across the multiverse. She tries them all. Her daughter, who accessed everything first, concluded that nothing matters and built a black hole from it. The mother defeats the nihilism not with power but with presence - choosing to be kind in the version she already has. The googly eyes are not a joke. They are the thesis. Directed by Daniel Kwan and Daniel Scheinert.
+
+**Into the Wild** (2007) - twenty-miles-from-the-highway
+Emile Hirsch, Hal Holbrook, Marcia Gay Harden, William Hurt. A twenty-two-year-old graduates from Emory, gives away his savings, burns his cash, and walks into the Alaskan wilderness. He lives in an abandoned bus for 113 days. He dies of starvation twenty miles from a highway. The fire was real. The vessel was missing. Directed by Sean Penn.
+
+**The King's Speech** (2010) - the-command-that-killed-the-song
+Colin Firth, Geoffrey Rush, Helena Bonham Carter, Guy Pearce. The Duke of York cannot speak publicly - the words seize in his throat every time the speech is demanded rather than offered. His father bellows "Get it out, boy!" and the stammer gets worse. An Australian speech therapist without credentials creates the conditions in which the speech can arrive on its own. Directed by Tom Hooper.
 
 ## Collaboration Articles
 

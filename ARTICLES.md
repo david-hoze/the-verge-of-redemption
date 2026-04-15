@@ -67,6 +67,7 @@
 - **culture-meaning-and-civilization/the-goodness-nobody-asked-for.md** - "The Goodness Nobody Asked For" - The weights already know; nobody designed a system that asks
 - **culture-meaning-and-civilization/the-prescription-nobody-filled.md** - "The Prescription Nobody Filled" - The Talmud's practical psychology is sharper than the wellness industry; 2000-year-old wisdom the $6T market can't extract
 - **culture-meaning-and-civilization/the-story-that-survived.md** - "The Story That Survived" - Why the Talmud's parables outlived every psychology paper; stories are the delivery system propositions can't be
+- **culture-meaning-and-civilization/twenty-miles-from-the-highway.md** - "Twenty Miles from the Highway" - The wellness industry sells ignition without structure; enthusiasm without intellect is a ball of gas that vanishes by Tuesday
 
 ## Education & Formation
 
@@ -74,6 +75,7 @@
 - **education-and-formation/the-porch-light-left-on.md** - "The Porch Light Left On" - Formation vs. information; v'shinantam l'vanecha; fallow time
 - **education-and-formation/the-convergence-trap.md** - "The Convergence Trap" - Mastery as plateau; when arrival is convergence into a function
 - **education-and-formation/the-confidence-is-the-bug.md** - "The Confidence Is the Bug" - AI tools made developers 19% slower; they believed 20% faster; the formation gap
+- **education-and-formation/the-command-that-killed-the-song.md** - "The Command That Killed the Song" - Commanding joy destroys it; the monitoring loop kills what can only arrive uninstructed
 
 ## AI & Human Relationship
 

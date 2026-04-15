@@ -1,0 +1,3 @@
+# Your Depression Is Telling You Something
+
+If you're persistently sad, that's not a chemical problem. It's a pride problem. Not the obvious kind - not arrogance, not vanity. The quiet kind: the belief that your life should be different than it is. That you deserve more. That you were meant for something bigger. That belief is the engine of the sadness. People who genuinely believe they deserve nothing are the happiest people you'll ever meet. Not because they've given up. Because they receive everything as a surprise instead of a shortfall. Gratitude isn't a practice. It's what happens when entitlement dies.

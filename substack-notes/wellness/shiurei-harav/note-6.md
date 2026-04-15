@@ -1,0 +1,3 @@
+# Say It Already
+
+A woman couldn't pray one specific prayer for thirty years. Every time she heard the word, her body flinched. As a child, every time she was playing outside - seeing the divine in jump-rope, feeling alive in her body - her mother would scream from the window: "Have you said it yet? Say it already!" The word became punishment. It branded itself into her bones. She could hear the whole liturgy except that one word. That's what happens when you command the thing you're trying to produce. The child needed to hear the prayer sung with joy, not screamed as a deadline. You can destroy a sacred word in one generation of bad delivery.

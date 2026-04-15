@@ -1,0 +1,3 @@
+# The One Prescription
+
+Every tradition that studies human behavior has a diagnostic arm and a prescriptive arm. The diagnostic arm is usually sharp. The prescriptive arm is usually weak. You can find a hundred books that name what's wrong with you. Finding one that tells you what to do about it - in a way that actually works when you try it - is almost impossible. The one tool that consistently works across every system is joy. Not happiness. Not comfort. Joy - the active state where the mind expands enough to redirect what it normally can't control. Every other approach gives you the diagnosis. Joy gives you the capacity. Without it, you see the problem clearly and can't move.
