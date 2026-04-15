@@ -94,7 +94,9 @@ Every Substack URL follows one of these patterns. When navigating programmatical
 
 5. **React event delegation.** Substack uses React. Always dispatch full mouse event sequences (mousedown, mouseup, click with bubbles:true) instead of plain `.click()`.
 
-6. **Don't dry-run then live-run in sequence.** Running a script twice (once with `--dry-run`, once without) can fail on the second run because the browser state changed between runs (modal already opened, card position shifted, page cache). Either dry-run OR live-run, not both in the same session. If you need to verify, do it manually from screenshots, then run once for real.
+6. **Paywall comment gates.** Some posts restrict commenting to paid subscribers. The paywall modal (`data-testid="paywall"`, class `paywall modal-paywall`) appears *after* clicking the comment input, not on page load. It says "Only paid subscribers can comment on this post." The `post-comment.mjs` script now detects this via `checkPaywall()` in lib.mjs and exits cleanly. Without this check, `typeText`'s initial `Ctrl+A` selects the entire page (since the textarea lost focus to the modal), and the browser context crashes.
+
+7. **Don't dry-run then live-run in sequence.** Running a script twice (once with `--dry-run`, once without) can fail on the second run because the browser state changed between runs (modal already opened, card position shifted, page cache). Either dry-run OR live-run, not both in the same session. If you need to verify, do it manually from screenshots, then run once for real.
 
 ## Procedure for New Interactions
 

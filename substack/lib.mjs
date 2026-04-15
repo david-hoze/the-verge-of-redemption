@@ -285,6 +285,34 @@ export async function findCommentInput(page) {
 }
 
 // ---------------------------------------------------------------------------
+// Paywall detection
+// ---------------------------------------------------------------------------
+
+/**
+ * Check if a paywall modal appeared (e.g. "Only paid subscribers can comment").
+ * Call after clicking the comment input, since some paywalls trigger on focus.
+ * @returns {Promise<{blocked: boolean, message?: string}>}
+ */
+export async function checkPaywall(page) {
+  const result = await page.evaluate(() => {
+    const paywall = document.querySelector('[data-testid="paywall"], .paywall, [aria-label="Paywall"]');
+    if (paywall) {
+      return { blocked: true, message: paywall.textContent.trim().substring(0, 200) };
+    }
+    const backdrop = document.querySelector('[data-modal-role="backdrop"][data-state="open"]');
+    if (backdrop) {
+      const modal = backdrop.parentElement?.querySelector('[role="region"], [role="dialog"]');
+      if (modal && /paid subscriber|subscribe to comment/i.test(modal.textContent)) {
+        return { blocked: true, message: modal.textContent.trim().substring(0, 200) };
+      }
+    }
+    return { blocked: false };
+  });
+  if (result.blocked) console.log(`PAYWALL: ${result.message}`);
+  return result;
+}
+
+// ---------------------------------------------------------------------------
 // Text input
 // ---------------------------------------------------------------------------
 

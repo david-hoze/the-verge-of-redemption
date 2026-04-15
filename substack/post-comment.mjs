@@ -2,7 +2,7 @@
 // Usage: node post-comment.mjs <article-url> <comment-file> [--dry-run] [--restack]
 
 import { launchBrowser, getPage, screenshot, navigateTo,
-         findCommentInput, typeText, checkRestack, clickSubmit } from './lib.mjs';
+         findCommentInput, typeText, checkRestack, clickSubmit, checkPaywall } from './lib.mjs';
 import { readFileSync } from 'fs';
 
 const articleUrl = process.argv[2];
@@ -42,8 +42,18 @@ try {
 
   console.log(`Found input: ${input.selector}`);
   await input.element.click();
-  await page.waitForTimeout(500);
+  await page.waitForTimeout(4000);
+
+  // Check if clicking the input triggered a paywall modal
+  const paywall = await checkPaywall(page);
+  if (paywall.blocked) {
+    await screenshot(page, 'substack-paywall.png');
+    console.log('ERROR: Comments are paywalled on this post. Cannot comment.');
+    process.exit(1);
+  }
+
   await input.element.focus();
+  await page.waitForTimeout(500);
   await typeText(page, commentText);
   await page.waitForTimeout(1000);
 
