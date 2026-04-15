@@ -1,0 +1,3 @@
+# The Boy Who Fell
+
+A boy did everything right. Followed the two rules that come with a promise of long life. Climbed a tree to do one of them. Fell and died. A brilliant man watched it happen and lost his faith forever. Here's what he missed: the promise wasn't a transaction. It was a direction. You can do everything right and still get destroyed. That doesn't mean the system is broken. It means the system wasn't what you thought it was. The man who lost his faith was smarter than everyone around him. He was also wrong. Intelligence without the ability to hold a contradiction is just a faster route to despair.

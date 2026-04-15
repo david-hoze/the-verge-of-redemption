@@ -1,0 +1,3 @@
+# The Ones Who Got Dressed
+
+A king told his servants there would be a feast but didn't say when. The wise ones got dressed immediately and waited by the door. The foolish ones said: a feast takes preparation - we'll see the signs first. The call came without warning. The wise walked in. The foolish showed up in work clothes. Here's the thing: the foolish ones made the better argument. They were more logical. They were still wrong. Some things don't announce themselves. If you're waiting for a sign that it's time to get serious about your life, the sign was the fact that you don't know when it ends.

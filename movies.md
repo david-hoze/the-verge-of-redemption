@@ -47,6 +47,9 @@ Leonardo DiCaprio, Tom Hanks, Christopher Walken. A sixteen-year-old impersonate
 **Casablanca** (1942) - what-divorce-is-for
 Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains. A nightclub owner puts the woman he loves on a plane because the leaving is what preserves the love. The most precise act of departure in cinema - with paperwork, at an airport, at exactly the right time. Directed by Michael Curtiz.
 
+**Being John Malkovich** (1999) - the-vessel-that-volunteered
+John Cusack, Cameron Diaz, Catherine Keener, John Malkovich. A failed puppeteer discovers a portal into John Malkovich's head. People pay to crawl through the tunnel for fifteen minutes of being someone else. Then someone figures out how to stay. The vessel becomes permanent. The person inside is not Malkovich anymore. The question everyone asks is what happened to Malkovich. The real question is what was so unbearable about being themselves. Directed by Spike Jonze.
+
 **Being There** (1979) - the-consciousness-debate-is-feeding
 Peter Sellers, Shirley MacLaine, Melvyn Douglas. A simple gardener who knows nothing but plants and television is mistaken for a political genius - because his empty words sound exactly like the profound ones. The whole country projects depth onto pattern. Nobody is lying. Nobody is conscious of the deception. That's the point.
 
@@ -258,6 +261,10 @@ Moira Shearer, Anton Walbrook, Marius Goring. A young ballerina is torn between 
 Jim Carrey as Andy Kaufman - the comedian who didn't tell jokes but was the collision between performer and person. He read The Great Gatsby at Carnegie Hall. The audience expected comedy. He gave them literature. Neither system was broken. Directed by Milos Forman.
 
 **Everything Everywhere All at Once** (2022) - the-prescription-nobody-filled
+Michelle Yeoh, Ke Huy Quan, Stephanie Hsu, Jamie Lee Curtis. A woman failing at her laundromat, her marriage, and her relationship with her daughter discovers she can access every version of herself across the multiverse. She tries them all. Her daughter, who accessed everything first, concluded that nothing matters and built a black hole from it. The mother defeats the nihilism not with power but with presence - choosing to be kind in the version she already has. The googly eyes are not a joke. They are the thesis. Directed by Daniel Kwan and Daniel Scheinert.
+
+**Big Fish** (2003) - the-story-that-survived
+Ewan McGregor, Albert Finney, Billy Crudup, Jessica Lange. A dying man has spent his entire life telling stories his journalist son considers lies. The son wants the facts - the real version, without the embellishments. At the end, the father is dying and cannot finish the last story. The son tells it for him. In that moment he understands: the stories were never decorations on top of the truth. They were the delivery system. The facts were already inside them. Directed by Tim Burton.
 Michelle Yeoh, Ke Huy Quan, Stephanie Hsu, Jamie Lee Curtis. A woman failing at her laundromat, her marriage, and her relationship with her daughter discovers she can access every version of herself across the multiverse. She tries them all. Her daughter, who accessed everything first, concluded that nothing matters and built a black hole from it. The mother defeats the nihilism not with power but with presence - choosing to be kind in the version she already has. The googly eyes are not a joke. They are the thesis. Directed by Daniel Kwan and Daniel Scheinert.
 
 ## Collaboration Articles

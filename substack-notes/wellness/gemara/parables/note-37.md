@@ -1,0 +1,3 @@
+# The Same Dream
+
+Two men had the same dream. They went to the same interpreter. One paid. One didn't. The one who paid got a good reading - and his life unfolded accordingly. The one who didn't got a bad reading - and his life collapsed. Same raw material. Different interpretation. Different outcome. That's not magic. That's how it actually works. The events of your life are ambiguous. The story you tell about them isn't. The interpreter you choose - the friend, the therapist, the voice in your own head - doesn't just describe your future. They build it. Choose carefully who reads your dreams.

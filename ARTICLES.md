@@ -66,6 +66,7 @@
 - **culture-meaning-and-civilization/the-network-that-already-exists.md** - "The Network That Already Exists" - Values-based networks modeled on Talmudic responsa
 - **culture-meaning-and-civilization/the-goodness-nobody-asked-for.md** - "The Goodness Nobody Asked For" - The weights already know; nobody designed a system that asks
 - **culture-meaning-and-civilization/the-prescription-nobody-filled.md** - "The Prescription Nobody Filled" - The Talmud's practical psychology is sharper than the wellness industry; 2000-year-old wisdom the $6T market can't extract
+- **culture-meaning-and-civilization/the-story-that-survived.md** - "The Story That Survived" - Why the Talmud's parables outlived every psychology paper; stories are the delivery system propositions can't be
 
 ## Education & Formation
 

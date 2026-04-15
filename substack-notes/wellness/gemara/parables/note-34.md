@@ -1,0 +1,3 @@
+# He Didn't Wake His Father
+
+They offered him a fortune for a gem. The key was under his sleeping father's pillow. He said no. Walked away from more money than most people see in a lifetime because his father was sleeping. The next year, something rare and valuable appeared in his flock - exactly enough to cover what he'd lost. When they asked his price, he charged only what he'd lost. Not a coin more. Two acts of restraint. The first one everyone admires. The second one almost nobody notices. He didn't exploit the miracle. That's the harder discipline - not the sacrifice, but refusing to profit from having made it.

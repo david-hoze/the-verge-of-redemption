@@ -1,0 +1,3 @@
+# The Letters Fly
+
+A man was burned alive for teaching what he believed. His students asked what he could see. He said: the container is burning but the contents are rising into the air. The soldier watching this asked: if I end it faster for you, do I get a share of where you're going? Yes. The soldier jumped in. The man who killed for a living found one moment of mercy and it was enough. The content survives the container. The thing you built inside yourself - the patience, the integrity, the refusal to stop - that doesn't burn with you. It goes somewhere. And sometimes the last person you'd expect follows it.

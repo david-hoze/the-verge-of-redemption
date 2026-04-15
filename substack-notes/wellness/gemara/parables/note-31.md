@@ -1,0 +1,3 @@
+# One Bandage at a Time
+
+The person the whole world is waiting for sits at the gates of the city that destroyed everything, surrounded by people in the same condition. The others unwrap all their bandages at once, treat themselves, and rewrap. He unwraps one bandage, treats one wound, rewraps it, then moves to the next. Why? Because he might be called at any moment and doesn't want to be delayed. That's readiness. Not strength. Not purity. Not vision. Just: I tend to what's in front of me, one wound at a time, because I might be needed before I'm finished. You might be needed before you're finished. Tend to the next wound anyway.

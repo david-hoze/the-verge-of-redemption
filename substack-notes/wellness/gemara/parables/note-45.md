@@ -1,0 +1,3 @@
+# Spit in My Eye
+
+A woman's husband told her she couldn't come home until she spat in the rabbi's face. The rabbi heard about it. He called her over, pretended his eye hurt, and asked her to spit in it seven times as a cure. His students were furious. He said: her marriage is worth more than my dignity. That's the hierarchy most people get backwards. You'd rather protect your reputation than save someone's relationship. You'd rather be respected than be useful. The man who let a woman spit in his face to save her marriage understood something you don't: your honor is not the most important thing in the room.
