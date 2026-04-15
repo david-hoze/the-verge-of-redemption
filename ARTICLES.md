@@ -95,9 +95,9 @@
 ## Breslov & Inner Life
 
 - **breslov-and-inner-life/the-fruit-inside-the-tree.md** - "The Fruit Inside the Tree" - Reb Noson's operating manual for happiness hidden in Likutey Halachot; joy extracted from sadness; the mind-to-heart gap
-- **breslov-and-inner-life/the-drug-that-wore-off.md** - "The Drug That Wore Off" - Hitchadshut from Likutey Halachot; daily renewal; it is forbidden to be old; blood becomes milk at birth
 - **breslov-and-inner-life/what-god-actually-wants.md** - "What God Actually Wants" - God's desire for loyalty, family love, and simplicity over material success
 - **breslov-and-inner-life/the-sophisticate-and-the-simpleton.md** - "The Sophisticate and the Simpleton" - Hasidic parable; infinite choice traps while simplicity leads to flourishing
+- **breslov-and-inner-life/the-point-that-survived.md** - "The Point That Survived" - Azamra as life advice; find the good point in the wreckage; the Mishkan built from what survived the fire
 
 ## Narrative & Fiction
 

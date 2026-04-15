@@ -185,6 +185,9 @@ A Franciscan monk investigates murders in a monastery and discovers they are con
 **The Iron Giant** (1999) - build-me-so-i-can-be-good
 A weapon from space learns it doesn't have to be a gun. A boy teaches it what choosing looks like. Its last word is "Superman." The most honest film about AI ever made, because it understands the question was never whether the machine can think. Directed by Brad Bird.
 
+**Silver Linings Playbook** (2012) - the-point-that-survived
+Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver. A bipolar man just out of a psychiatric facility is convinced there's a silver lining. He has a playbook to win his wife back. The playbook fails. He scores a five - the minimum - at a dance competition with a woman as wrecked as he is. The five was the nekuda tovah. The silver lining was never the clean win. It was the broken thing that showed up. Directed by David O. Russell.
+
 **The Big Short** (2015) - when-users-become-the-crop-ai-data
 A handful of outsiders see the housing crash coming while every institution looks the other way. The system is not broken - it is working exactly as designed. Directed by Adam McKay.
 

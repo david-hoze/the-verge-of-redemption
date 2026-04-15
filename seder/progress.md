@@ -10,9 +10,9 @@ Daily study tracker. Updated after each session.
 
 ## Likutey Halachot
 
-- **Current position**: Hashkamat HaBoker 1, continue
+- **Current position**: Hashkamat HaBoker COMPLETE - next section TBD
 - **Source**: `~/docs/torah-writing/books/breslov/likutei-halachot.md`
-- **Last studied**: 2026-04-13 - Hashkamat HaBoker 1 (rise like a lion through Azamra, finding good points = waking from sleep)
+- **Last studied**: 2026-04-15 - Hashkamat HaBoker Perek 1-5 complete (Perek 3: sleep/waking as day one; Perek 4: sickness/healing, mind-war, sharing wisdom, reaching the broken, coat of many colors; Perek 5: songs from darkness, difficulty is the work, faith as hands, generational continuation). Produced wellness-notes advice-3 through advice-9.
 
 ## Etz Chaim
 
