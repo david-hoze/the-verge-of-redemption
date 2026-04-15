@@ -20,8 +20,10 @@
 - `substack-notes/` - Short notes for Substack posting
   - `*.txt` - Posted notes
   - `GUIDE.md` - Production rules for advice notes
-  - `wellness/likutey-halachot/` - Advice batches 1-9 from LH study
   - `advice-10.md` - Marriage counseling advice batch
+  - `wellness/likutey-halachot/` - Advice batches 1-9 from LH study
+  - `wellness/harav-malka/` - Advice from Harav Malka's shalom bayit newsletters
+  - `wellness/day/` - Advice from Day's dating/relationship framework
 - `notes-drafts/` - Research and draft notes
 - `drafts/` - Article drafts in progress
 

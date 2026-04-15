@@ -25,6 +25,10 @@ The graph lives at `.eden/shamash.db` (gitignored, in this repo). The runtime is
 
 See [seder/SEDER.md](seder/SEDER.md) for the daily Torah study structure. Five texts: Halakha Yomit and Daf Yomi (English, from Sefaria API), Likutey Moharan, Likutey Halachot, and Etz Chaim (Hebrew, from `torah-writing/books/`). Progress tracked in [seder/progress.md](seder/progress.md). Study produces articles and graph insights. Say "let's learn" to start a session.
 
+## Directory Structure
+
+See [index.md](index.md) for the full directory structure of the repository.
+
 ## Article Index
 
 See [ARTICLES.md](ARTICLES.md) for a detailed index of all articles organized by topic, with filenames, titles, and one-line summaries.
