@@ -10,9 +10,12 @@ Daily study tracker. Updated after each session.
 
 ## Likutey Halachot
 
-- **Current position**: Hashkamat HaBoker COMPLETE - next section TBD
+- **Current position**: Birkat HaReach 4 COMPLETE - next target: Hilchot Tefillin (8 study concepts converge, 66 claims)
 - **Source**: `~/docs/torah-writing/books/breslov/likutei-halachot.md`
-- **Last studied**: 2026-04-15 - Hashkamat HaBoker Perek 1-5 complete (Perek 3: sleep/waking as day one; Perek 4: sickness/healing, mind-war, sharing wisdom, reaching the broken, coat of many colors; Perek 5: songs from darkness, difficulty is the work, faith as hands, generational continuation). Produced wellness-notes advice-3 through advice-9.
+- **Index**: [lh-index.md](lh-index.md) - topical index with concept tables and article cross-references
+- **Claims**: `torah-writing/claims/breslov/likutei-halachot-seder.json` - 33 hand-curated claims from study sessions
+- **Last studied**: 2026-04-16 - Birkat HaReach 4, chalakot 30-46 (Purim/medameh, daily emunah renewal, golden calf/machloket, 974 generations, sleep=medameh, reverse search, chevel d'kedusha). Produced article additions to "The Run That Had No Reason."
+- **Completed sections**: Hashkamat HaBoker 1-5, Birkat HaReach 4
 
 ## Etz Chaim
 
