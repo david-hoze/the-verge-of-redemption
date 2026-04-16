@@ -281,6 +281,15 @@ Colin Firth, Geoffrey Rush, Helena Bonham Carter, Guy Pearce. The Duke of York c
 **The Wizard of Oz** (1939) - the-hand-that-opens-empty
 Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley, Margaret Hamilton. A girl from Kansas is dropped into a world of saturated color and follows a yellow brick road to a wizard who has what she needs. The Scarecrow wants a brain, the Tin Man wants a heart, the Lion wants courage, Dorothy wants home. They arrive. The wizard is a small man behind a curtain. He opens his hand and there is nothing in it. The gifts he gives - a diploma, a testimonial, a ticking clock-heart - are placebos. They change nothing. But they work. Dorothy had the ruby slippers the whole time. Directed by Victor Fleming.
 
+**Life of Pi** (2012) - the-story-that-carried-him
+Suraj Sharma, Irrfan Khan, Gerard Depardieu. A boy survives 227 days on a lifeboat with a Bengal tiger. At the end he tells a second version - the same events without the animals. The tiger was a man. The beauty was horror. The investigators choose the first story. "And so it goes with God." The tiger is the medameh - the imagination running true, carrying the truth the bare facts cannot hold. Directed by Ang Lee.
+
+**The Shawshank Redemption** (1994) - the-person-who-is-not-here-anymore
+Tim Robbins, Morgan Freeman, Bob Gunton, Clancy Brown. A banker convicted of a murder he didn't commit spends nineteen years digging a tunnel with a rock hammer. The prison is a machine for preventing renewal - fixing identity in place. Red at his parole hearing: "That kid's long gone and this old man's all that's left." The old person is not improved. He is gone. The one in the rain is someone else. Directed by Frank Darabont.
+
+**Inception** (2010) - the-architect-who-goes-home-at-night
+Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy, Ken Watanabe, Cillian Murphy. A team enters other people's dreams to steal or plant ideas. An architect designs the dream; the dreamer's subconscious fills it with hostile projections. A spinning top is the only test: if it falls, you're awake. The deeper you go, the more the supervisor is absent and the imagination runs unsupervised. At the end, the man walks toward his children and doesn't check the top. Directed by Christopher Nolan.
+
 ## Collaboration Articles
 
 Movies used in collaboration articles not published on David's Substack.

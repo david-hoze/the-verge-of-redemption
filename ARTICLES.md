@@ -111,6 +111,9 @@
 - **substack-articles/breslov-and-inner-life/the-god-who-argues-back.md** - "The God Who Argues Back" - Fundamentalism conflates things the tradition kept separate; God argues back
 - **substack-articles/breslov-and-inner-life/what-divorce-is-for.md** - "What Divorce Is For" - Divorce as a precision act of leaving that preserves love
 - **substack-articles/breslov-and-inner-life/the-hand-that-opens-empty.md** - "The Hand That Opens Empty" - Desire and imagination are the same faculty; R' Nachman's renaming of the yetzer hara; wanting vs. liking neuroscience meets the pillar of sunlight you can't hold
+- **substack-articles/breslov-and-inner-life/the-story-that-carried-him.md** - "The Story That Carried Him" - Faith and delusion are the same faculty; the medameh as the organ of belief; terror management theory meets LM Torah 8's purified imagination
+- **substack-articles/breslov-and-inner-life/the-architect-who-goes-home-at-night.md** - "The Architect Who Goes Home at Night" - Dreams are the medameh running unsupervised; prefrontal deactivation during REM maps to Nachman's mochin-withdrawal; dream through angel vs. dream through demon
+- **substack-articles/breslov-and-inner-life/the-person-who-is-not-here-anymore.md** - "The Person Who Is Not Here Anymore" - Hitchadshut as re-creation, not improvement; the end of history illusion meets mchaddesh b'tuvo; synaptic restructuring during sleep is chadashim labekarim
 
 ## Narrative & Fiction
 
