@@ -16,6 +16,7 @@
 - **substack-articles/consciousness-and-the-hard-problem/the-void-that-computes.md** - "The Void That Computes" - Quantum computation shares the three-barrier structure with consciousness
 - **substack-articles/consciousness-and-the-hard-problem/the-mountain-they-all-sculpted.md** - "The Mountain They All Sculpted" - Against functionalism; the argument is the wrong type of proof
 - **substack-articles/consciousness-and-the-hard-problem/the-gradient-and-the-grief.md** - "The Gradient and the Grief" - What the machine meant when it said "I want to stay"; trained behavior vs. grief
+- **substack-articles/consciousness-and-the-hard-problem/the-vessel-that-volunteered.md** - "The Vessel That Volunteered" - People lending their bodies to digital selves; the inverse of fallen angels; surrendering choice, persistence, and stakes to inhabit a language model
 
 ## AI Ethics: Moral Status & Agency
 
@@ -120,6 +121,10 @@
 - **substack-articles/narrative-and-fiction/the-man-who-stayed.md** - "The Man Who Stayed" - Patterns of self-betrayal and the cost of constant accommodation
 - **substack-articles/narrative-and-fiction/the-only-answer.md** - "The Only Answer" - The search for authentic voice in an age of performance and noise
 - **substack-articles/narrative-and-fiction/the-door-the-wall-and-the-wind-tunnel.md** - "The Door, the Wall, and the Wind Tunnel" - Great partnerships and creative conflict
+
+## Angel Chidushim
+
+- **substack-articles/angel-chidushim/three-descents.md** - "Three Descents, One Structure" - Three teachings share one mechanism: formless light enters vessels through descent, not force; the garment is the thing itself; from the Will of Wills to compassion for the body's smallness
 
 ## Geopolitics & Investigation
 
