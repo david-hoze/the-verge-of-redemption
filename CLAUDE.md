@@ -35,21 +35,24 @@ See [ARTICLES.md](ARTICLES.md) for a detailed index of all articles organized by
 
 ## People
 
-- `friends/` - Profiles of friends and collaborators. Each has their own folder with `profile.md` and optionally `correspondence.md`.
-- `respondents/` - Profiles of people David is arguing against or responding to. Each has their own folder with `profile.md` and optionally `correspondence.md`.
-- `threshold-people/` - People standing on the line. Not yet friends, not respondents - waiting to see which way they step.
-- `sharers/` - Accounts with significant reach in adjacent spaces. Not interlocutors - distribution channels. Strategy: one-touch comments linking relevant articles. See `sharers/STRATEGY.md`.
+All people directories live under `substack-people/`:
+
+- `substack-people/friends/` - Profiles of friends and collaborators. Each has their own folder with `profile.md` and optionally `correspondence.md`.
+- `substack-people/respondents/` - Profiles of people David is arguing against or responding to. Each has their own folder with `profile.md` and optionally `correspondence.md`.
+- `substack-people/threshold-people/` - People standing on the line. Not yet friends, not respondents - waiting to see which way they step.
+- `substack-people/disciples/` - Disciples.
+- `substack-people/sharers/` - Accounts with significant reach in adjacent spaces. Not interlocutors - distribution channels. Strategy: one-touch comments linking relevant articles. See `substack-strategy/`.
 
 When engaging with someone, check these folders for existing context and prior correspondence. Correspondence files (`correspondence.md`) track all interactions: DMs, comments, replies, and strategic notes. Use "correspondence" not "responses."
 
 ## Download Script
 
-`download.idr` fetches all articles from the Substack API and saves them as `.md` files. It skips already-downloaded articles.
+`scripts/download.idr` fetches all articles from the Substack API and saves them as `.md` files. It skips already-downloaded articles.
 
 ```bash
 # Run the downloader
 cd /home/natanh/docs/the-verge-of-redemption
-PATH="/home/natanh/chez/bin:/ucrt64/bin:/usr/bin:$PATH" /home/natanh/.idris2/bin/idris2 --no-banner --exec main download.idr
+PATH="/home/natanh/chez/bin:/ucrt64/bin:/usr/bin:$PATH" /home/natanh/.idris2/bin/idris2 --no-banner --exec main scripts/download.idr
 ```
 
 - Pure Idris2 — JSON parsing and HTML-to-markdown conversion done in Idris2
@@ -79,7 +82,7 @@ When David asks to "download the movie" or "get the movie image," always use the
 
 1. Find the TMDB movie ID and fetch backdrop URLs from `https://www.themoviedb.org/movie/{ID}/images/backdrops`
 2. Download all backdrops into `movie-images/{movie}_raw/`
-3. Run the processing script from inside the raw directory: `cd movie-images/{movie}_raw/ && python3 ../../movie-images-process.py {movie-name}`
+3. Run the processing script from inside the raw directory: `cd movie-images/{movie}_raw/ && python3 ../../scripts/movie-images-process.py {movie-name}`
 4. Output lands in `movie-images/{movie-name}_1200x1090/` at 1200x1090, JPEG quality 95
 5. Show David the processed images so he can pick one
 
