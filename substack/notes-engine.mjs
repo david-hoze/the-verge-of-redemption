@@ -1,7 +1,7 @@
 // Notes Engine - generates daily draft for David's approval
 // Usage: node substack/notes-engine.mjs [--post]
 //
-// Without --post: generates notes-drafts/YYYY-MM-DD.md for review
+// Without --post: generates drafts/YYYY-MM-DD.md for review
 // With --post: posts approved drafts via Playwright
 //
 // The draft contains:
@@ -18,7 +18,7 @@ import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const REPO = join(__dirname, '..');
 const SCHEDULE_FILE = join(__dirname, 'notes-schedule.json');
-const DRAFTS_DIR = join(REPO, 'notes-drafts');
+const DRAFTS_DIR = join(REPO, 'drafts');
 
 if (!existsSync(DRAFTS_DIR)) mkdirSync(DRAFTS_DIR, { recursive: true });
 

@@ -28,7 +28,7 @@ const today = new Date().toISOString().substring(0, 10);
 // Find draft file
 let draftFile = args.find(a => a !== '--dry-run');
 if (!draftFile) {
-  draftFile = join(__dirname, '..', 'notes-drafts', `${today}.md`);
+  draftFile = join(__dirname, '..', 'drafts', `${today}.md`);
 }
 
 if (!existsSync(draftFile)) {

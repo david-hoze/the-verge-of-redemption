@@ -45,11 +45,11 @@ done
 
 ## Process
 
-Saved as `process.py`. Run from inside the `{movie}_raw/` directory:
+Run from inside the `{movie}_raw/` directory:
 
 ```bash
 cd {movie}_raw/
-python3 ../process.py {movie_name}
+python3 ../../scripts/movie-images-process.py {movie_name}
 ```
 
 Output goes to `../{movie_name}_1200x1090/`.
