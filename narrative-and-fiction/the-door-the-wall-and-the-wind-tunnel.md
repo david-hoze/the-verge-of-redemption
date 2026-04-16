@@ -1,11 +1,10 @@
 # The Door, the Wall, and the Wind Tunnel
 
+*Hugh Jackman and Christian Bale in The Prestige (2007) — Two rival magicians in Victorian London who push each other to brilliance and then to ruin. Nolan's sharpest film about what happens when a great partnership breaks aprt.Two brothers stand in a bicycle shop in Dayton, Ohio, shouting at each other through open windows. It is the summer of 1900. The heat is terrible. The neighbors don’t look up anymore.*
 
 # The Door, the Wall, and the Wind Tunnel
 
----[- - 
-
-](https://substackcdn.com/image/fetch/$s_!w3Nr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2e92afa-5267-40ae-bc4c-6f6c80162eca_1200x1090.jpeg)Hugh Jackman and Christian Bale in *The Prestige* (2007) — Two rival magicians in Victorian London who push each other to brilliance and then to ruin. Nolan's sharpest film about what happens when a great partnership breaks aprt.Two brothers stand in a bicycle shop in Dayton, Ohio, shouting at each other through open windows. It is the summer of 1900. The heat is terrible. The neighbors don’t look up anymore.
+---
 
 Wilbur is the older one — steady, brooding, prone to dark silences that last for days. His father once said he was “never rattled in thought or temper,” but that isn’t quite right. He is rattled constantly. He just doesn’t show it. When Wilbur is uncertain, he goes quiet. When he is certain, he speaks so softly you have to lean in. Orville is the younger one — impulsive, optimistic, always taking things apart to see how they work. When Orville is uncertain, he builds something. When he is certain, he talks faster. He is the one who keeps Wilbur from sinking. Wilbur broods, and the brooding sometimes becomes despondency, and Orville pulls him out. Every time.
 

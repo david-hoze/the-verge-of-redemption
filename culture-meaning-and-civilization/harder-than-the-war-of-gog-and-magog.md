@@ -1,8 +1,5 @@
 # Harder Than the War of Gog and Magog
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!Rie5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F622eb494-44e2-46aa-9ede-af5892f7cb16_1330x1330.jpeg)
 ### The War You Are Losing
 
 *The real threat to Western civilization isn’t the enemy at the gate. It’s the emptiness at the kitchen table.*
@@ -286,210 +283,141 @@ That turning — quiet, intimate, unmeasurable by any survey — is what stands 
 
 - Case & Deaton, “Deaths of Despair,” Federal Reserve Bank of Minneapolis
 
-
 - CDC, Drug Overdose Deaths 2003–2023
-
 
 - CDC, Suicide Data and Statistics
 
-
 - U.S. Surgeon General’s Advisory on Loneliness and Isolation, 2023
-
 
 - Surgeon General’s Advisory; Haidt, *The Anxious Generation*
 
-
 - Harvard Making Caring Common, “Gen Z, Meaning & Purpose”
-
 
 - Easterlin Paradox, confirmed in IZA Discussion Paper 13923; LSE Inequalities Blog, 2025
 
-
 - Gallup, U.S. Church Membership, 2021
-
 
 - ChurchTrac, State of Church Membership 2025
 
-
 - Haidt, *The Anxious Generation* (2024), NYU Stern
-
 
 - OECD, Society at a Glance 2024: Marriage and Divorce
 
-
 - Xinhua / ONS, “Marriage rate in UK hits new low,” 2025
-
 
 - CBS News / PBS, U.S. Birth Rate All-Time Low, CDC data, 2025
 
-
 - The Lancet / IHME, Global Fertility Rates Study, 2024
-
 
 - CDC, National Health and Nutrition Examination Survey
 
-
 - Institute for Family Studies, “The Sex Recession,” General Social Survey 2024
-
 
 - Ibid.
 
-
 - Buyukeren, Makarin & Xiong, “The Impact of Dating Apps on Young Adults,” SSRN
-
 
 - APA survey data; The Spotlight, “Hookup Culture,” 2023
 
-
 - Pew Research Center, Children in Single-Parent Households, 2019
-
 
 - Gitnux, Single Parent Family Statistics, 2026
 
-
 - European Child & Adolescent Psychiatry, “Family structure and mental health,” 2024
-
 
 - Federal Reserve, Distributional Financial Accounts, 2024
 
-
 - St. Louis Fed; AFL-CIO Executive Paywatch
-
 
 - Putnam, *Bowling Alone* (2000, updated edition)
 
-
 - Pew Research Center, Community Attachment Survey
-
 
 - Pew Research Center, Americans’ Trust in One Another, 2025
 
-
 - Gallup, Trust in Government data
-
 
 - Sandel, *What Money Can’t Buy* (2012)
 
-
 - Syracuse University / CDC, ADHD Diagnosis Trends
-
 
 - DEA / IQVIA, Stimulant Prescription Trends 2012–2023
 
-
 - *New England Journal of Medicine*, Relative Age Effect, 2018; replicated across 13 countries
-
 
 - AAFP, “Is There Evidence of ADHD Overdiagnosis in Children?,” 2023
 
-
 - PublishingState.com, “5 Million Scholarly Articles Published in 2024”
-
 
 - WordsRated, Academic Publishing Statistics
 
-
 - Open Science Collaboration, *Science*, 2015
-
 
 - Begley & Ellis, *Nature*, 2012
 
-
 - Nature, “More than 10,000 papers retracted in 2023”; PNAS, paper mills study
-
 
 - UCSD, “Research Less Likely to Be True Is Cited More”
 
-
 - PwC 2025 Global AI Jobs Barometer; MIT/Harvard AI productivity studies
-
 
 - Google DeepMind, AlphaFold; Nobel Prize in Chemistry, 2024
 
-
 - McKinsey Global Institute; World Economic Forum, 2023
-
 
 - Oppenheimer, MIT lecture, 1947
 
-
 - Eugenics Archive; multiple sources
-
 
 - WWF, *Living Planet Report* 2024
 
-
 - FAO, *Global Forest Resources Assessment* 2020
-
 
 - Jambeck et al., *Science*, 2015; UNEP Plastics Report
 
-
 - WHO, Air Pollution and Health Data, 2024
-
 
 - FDA / Environmental Working Group, Food Additive Data
 
-
 - BMJ Oncology, “Global Burden of Early-Onset Cancer,” 2023
-
 
 - Levine et al., “Temporal Trends in Sperm Count,” *Human Reproduction Update*, 2023
 
-
 - Keefe, *Empire of Pain* (2021); DOJ, Purdue Pharma settlement
-
-
 
 ### Additional Talmudic and Prophetic Sources
 
 - Berachot 7b — R. Shimon bar Yochai, *tarbut ra’ah b’toch beito*
 
-
 - Mishnah Sotah 9:15 / Sotah 49b — *Ikveta deMeshicha*, the 21 signs
-
 
 - Sanhedrin 97a–98a — The pre-Messianic era; kingdoms clashing as a sign
 
-
 - Bereishit Rabbah 42:4 — Wars between nations and the footsteps of the Messiah
-
 
 - Zohar I:117a–118a — The opening of the gates of wisdom in the sixth millennium
 
-
 - Zohar II:46a — The darkest hour before dawn
-
 
 - Isaiah 5:8 — Woe to those who join house to house
 
-
 - Isaiah 19:2 — God stirring Egypt against Egypt
-
 
 - Isaiah 59:14–15 — Truth stumbling in the public square
 
-
 - Hosea 4:6 — Destroyed for lack of knowledge
-
 
 - Micah 7:6 — A man’s enemies are the men of his own house
 
-
 - Malachi 3:24 — Turning the hearts of fathers and children
-
 
 - Maharsha, *Chidushei Aggadot* on Sanhedrin 97a — Truth fleeing into enclaves
 
-
 - R. Yisrael Salanter (via Rav Elchonon Wasserman, *Kovetz Ma’amarim* §13) — The dog parable
-
 
 - Chofetz Chaim — “The rich will never have been richer”; the dog and the stick; Kollel Kodshim
 
-
 - Rav Elchonon Wasserman, *Ikveta deMeshicha* / *Kovetz Ma’amarim* — Modernity as idolatry; compressed timeline
-
 
 Thanks for reading! Subscribe for free to receive new posts and support my work.
 

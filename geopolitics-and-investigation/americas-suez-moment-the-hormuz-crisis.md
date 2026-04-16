@@ -1,9 +1,8 @@
 # America’s Suez moment? The Hormuz crisis and the question of US decline
 
-[- - 
+*A web of oil deals, CIA ops, and backroom betrayals where everyone thinks they're pulling the strings and no one is. Stephen Gaghan's 2005 thriller — with George Clooney, Matt Damon, and Jeffrey Wright each navigating a different layer of the petrodollar machine — feels less like a movie and more like a briefing document for 2026.*
 
-](https://substackcdn.com/image/fetch/$s_!PhkD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a6bed37-6099-463f-8071-e95cb28dd9fe_1200x1090.jpeg)A web of oil deals, CIA ops, and backroom betrayals where everyone thinks they're pulling the strings and no one is. Stephen Gaghan's 2005 thriller — with George Clooney, Matt Damon, and Jeffrey Wright each navigating a different layer of the petrodollar machine — feels less like a movie and more like a briefing document for 2026. Cold, intricate, and uncomfortably prescient.Five weeks into a war the Trump administration said would last four to six weeks, the Strait of Hormuz remains functionally closed, oil has surged past $110 a barrel, and Iran is running a toll booth in Chinese yuan on what was once an American-guaranteed shipping lane. The White House has confirmed that reopening the strait is not a “core objective” of the military campaign. A 40-nation coalition led by Britain is scrambling to fill the vacuum — without US participation. China, meanwhile, is sailing its tankers through under Iranian escort while positioning itself as the responsible adult in global affairs. These facts do not by themselves prove that a structural power transition is underway. But they create the conditions under which one could accelerate dramatically.
-
+Cold, intricate, and uncomfortably prescient.Five weeks into a war the Trump administration said would last four to six weeks, the Strait of Hormuz remains functionally closed, oil has surged past $110 a barrel, and Iran is running a toll booth in Chinese yuan on what was once an American-guaranteed shipping lane. The White House has confirmed that reopening the strait is not a “core objective” of the military campaign. A 40-nation coalition led by Britain is scrambling to fill the vacuum — without US participation. China, meanwhile, is sailing its tankers through under Iranian escort while positioning itself as the responsible adult in global affairs. These facts do not by themselves prove that a structural power transition is underway. But they create the conditions under which one could accelerate dramatically.
 
 ## The mechanism that killed the pound is now testing the dollar
 
@@ -17,7 +16,6 @@ Trump’s public statements have lurched from promising to escort tankers person
 
 This is the dynamic that makes the Suez analogy bite. A superpower that cannot — or will not — keep the world’s most critical trade route open is a superpower whose guarantees ring hollow. Fubini captured it precisely: “If the United States cannot reopen the Strait of Hormuz — or are perceived as incapable of doing so — the question simply arises: what does dollar dominance guarantee, exactly, if it no longer guarantees the routes of energy and commerce?”
 
-
 ## China sails through while Washington retreats
 
 Beijing’s response to the Hormuz crisis has been a masterclass in strategic positioning — or, as former US diplomat Danny Russel put it, “messaging, not mediation.” Both characterizations contain truth, and understanding which matters more is central to evaluating the power-transition thesis.
@@ -30,7 +28,6 @@ Yet dismissing China’s positioning as mere theater misses a deeper point. **Th
 
 That said, China’s capacity to actually replace American functions remains severely limited. Beijing has no military bases in the Gulf, no CENTCOM-equivalent command structure, no alliance architecture comparable to what the US built over decades. Its Navy, while growing rapidly, cannot project power in the Persian Gulf the way the US Fifth Fleet does. The crisis reveals American weakness without yet demonstrating Chinese strength — a critical distinction.
 
-
 ## The economic architecture of a power shift
 
 Three economic dimensions of the Hormuz crisis deserve serious analysis: the dollar’s reserve status, the energy transition, and the defense industrial base.
@@ -42,7 +39,6 @@ But the Hormuz crisis is introducing a novel wedge. Iran is demanding yuan or cr
 **On energy**, the crisis sharpens an asymmetry that already favored China. Beijing dominates the technologies that replace fossil fuels: **over 80% of global solar manufacturing**, **70% of EV battery production** (CATL alone holds 39% of the global market), and **over 70% of global EV production**. Every week of elevated oil prices strengthens the economic case for electrification — and China controls the supply chain. Since the war began, BYD’s stock rose 18% and CATL gained 22%, while Stellantis fell 15% and Volkswagen dropped 14%. EVs already account for 52% of new car sales in China versus roughly 10% in the United States. Rising fuel costs hit American consumers directly; Chinese consumers are increasingly insulated.
 
 **On defense**, the picture is genuinely alarming. China controls approximately **90% of global rare earth processing**, **83% of tungsten production**, and **98% of gallium output** — minerals essential for precision munitions, jet engines, and electronics. The West Point Modern War Institute published an analysis in mid-March warning that the Hormuz closure was causing “a paralyzing, real-time problem” for the US defense industrial base, particularly through disrupted sulfur supply chains (half of global seaborne sulfur transits Hormuz) needed to extract copper and cobalt for military hardware. The weapons stockpile situation is stark: the US has fired over **850 Tomahawk cruise missiles in 30 days** — representing roughly 15 years of procurement at the pre-war production rate of about 57 per year. THAAD interceptor inventories were already depleted from Israel’s 2025 conflict. The Heritage Foundation estimated before the war that US initial munitions stocks would last just 25 days in a high-intensity conflict. Pentagon sources have warned bluntly: “If China cuts off magnesium exports, the US would have six months to decide to go to war. After that, we wouldn’t be able to wage war at all.”
-
 
 ## Why the Suez analogy may still break down
 
@@ -57,7 +53,6 @@ Perhaps most importantly, there is no ready successor. In 1956, the United State
 Historical precedent also counsels caution. Predictions of American decline surged after Sputnik, Vietnam, the 1970s oil shocks, Japan’s rise in the 1980s, and the 2008 financial crisis. Each time, the US adapted. Paul Kennedy’s influential 1987 thesis of “imperial overstretch” was widely cited — until the Soviet Union collapsed and the American economy boomed through the 1990s. As one AEI analysis noted, declinists consistently make the error of “straight-lining” rivals’ growth curves indefinitely while assuming American weaknesses are permanent.
 
 But there is a critical difference this time. Previous decline scares were driven by external competitive pressure — Japan outproducing, the Soviets outarming. **The 2026 crisis is substantially self-inflicted.** The United States chose to strike Iran. The administration chose not to plan for Hormuz closure, despite intelligence warnings. The president chose to tell allies to fend for themselves. The damage to American credibility is not being imposed from outside; it is being generated from within. And Gallup’s finding that China’s global approval rating (**36%**) now exceeds America’s (**31%**) — the largest gap in 20 years — suggests the reputational damage is registering worldwide.
-
 
 ## Neither Suez redux nor business as usual
 

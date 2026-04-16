@@ -1,8 +1,7 @@
 # The Wall That Teaches
 
-[- - 
+*Memento (2000). Directed by Christopher Nolan. Guy Pearce plays a man who cannot form new memories. He is trying to solve a murder. He investigates, discovers, makes progress - and then it is gone. Every few minutes his slate is wiped. So he tattoos the crucial facts onto his body. He photographs every lead. He builds a system of external memory to compensate for the one thing his mind cannot do. The film works because the audience realizes, before the character does, that the problem is not the murder. The problem is the structure of his investigation. His tools are incapable of retaining what they find. He can be brilliant within each window of lucidity, and it does not matter, because the architecture of his cognition ensures that every breakthrough evaporates before it can be used. This is what it is like to work on certain problems. Not all problems. Just the ones that push back.*
 
-](https://substackcdn.com/image/fetch/$s_!EoK1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F132f0c88-ee8d-415b-9a26-d49d529290d9_1200x1090.jpeg)**Memento** (2000). Directed by Christopher Nolan. Guy Pearce plays a man who cannot form new memories. He is trying to solve a murder. He investigates, discovers, makes progress - and then it is gone. Every few minutes his slate is wiped. So he tattoos the crucial facts onto his body. He photographs every lead. He builds a system of external memory to compensate for the one thing his mind cannot do. The film works because the audience realizes, before the character does, that the problem is not the murder. The problem is the structure of his investigation. His tools are incapable of retaining what they find. He can be brilliant within each window of lucidity, and it does not matter, because the architecture of his cognition ensures that every breakthrough evaporates before it can be used. This is what it is like to work on certain problems. Not all problems. Just the ones that push back.
 ## Fifty years of walls
 
 P versus NP is the most important unsolved problem in mathematics and computer science. It asks whether every problem whose solution can be quickly verified can also be quickly found. The Clay Mathematics Institute put a million-dollar bounty on it. Fifty years of the smartest people alive have tried. Nobody has come close.
@@ -12,7 +11,6 @@ But the failures are not random. They are patterned. And the patterns are the mo
 Over three decades, three independent results proved something that is, in its own way, more remarkable than a solution would have been. They did not solve P versus NP. They proved that entire *classes* of approaches cannot solve it. Not that specific techniques failed. That specific *types* of techniques are structurally incapable of succeeding.
 
 These are called barrier results. A barrier result does not say “you tried the wrong thing.” It says “everything that looks like what you tried is the wrong thing.” It carves away not a single path but an entire direction.
-
 
 ## The three barriers
 
@@ -27,7 +25,6 @@ I will describe each barrier in the simplest terms I can manage, because what ma
 Three barriers. Three formally proven impossibilities. Three classes of techniques - representing the vast majority of what complexity theorists have ever tried - proven to be structurally incapable of resolving the question.
 
 The problem is not that we are not clever enough. The problem is that our cleverness is the wrong *type*.
-
 
 ## Now read that again, about consciousness
 
@@ -49,7 +46,6 @@ Three barriers. Three classes of approaches to consciousness - representing the 
 
 The hard problem of consciousness is not merely unsolved. It is unsolved the way P versus NP is unsolved - surrounded by proven barriers that tell us what kinds of approaches *cannot* work, no matter how cleverly they are executed.
 
-
 ## What my own walls taught me
 
 I have spent two years trying to prove that P is not equal to NP. Eighty-eight rounds of sustained research across sheaf theory, formula complexity, proof complexity, SAT solvers, and computational enumeration. I have built tools. I have generated data. I have written papers.
@@ -66,7 +62,6 @@ And then came the critical inversion. I discovered that a property I was certain
 
 Each dead end taught me something. Not about the solution. About the problem. Each failed approach carved away one more class of techniques, leaving a smaller and more specific space where the answer could live.
 
-
 ## The deepest parallel
 
 The extractor/distinguisher tension from my P versus NP work maps onto consciousness with uncomfortable precision.
@@ -80,7 +75,6 @@ If first-person experience is hard to extract from third-person data - if you ca
 This is the zombie argument restated in complexity-theoretic terms. But stating it this way reveals something the philosophical version obscures: the difficulty is not a vague intuition about the limits of science. It is a *structural coupling*. Detection and extraction are bound together by the same mathematical necessity that binds them in computational complexity. If you accept that you cannot extract consciousness from third-person data - and the four-century failure of the hard problem suggests you should - then you must accept that you cannot detect it either.
 
 This does not mean consciousness is not real. It means that the entire framework of third-person investigation - observation, measurement, correlation, formalization - faces not a contingent difficulty but a formal barrier.
-
 
 ## What the barriers demand
 
@@ -103,7 +97,6 @@ You must pay the laborer before nightfall, because he is poor and his life depen
 What formalization cannot reach, lived practice sometimes can.
 
 Whether the traditions have the answer or merely point in the right direction, I cannot say. What I can say is that the barriers are real, the standard approaches are provably limited, and the space where the answer might live is smaller and more specific than most people realize.
-
 
 ## The tattoos
 

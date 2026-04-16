@@ -1,8 +1,5 @@
 # Women Govern AI Better. Here's Why.
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!gmAA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6cac862-75b0-420e-9b82-e1dbc7f234f5_2000x1076.jpeg)
 ## Introduction: Two traditions, one diagnosis
 
 Two entirely independent bodies of evidence — one ancient, one modern — have arrived at the same conclusion about the most consequential technology humanity has ever built.
@@ -22,13 +19,11 @@ The machines are missing a sound. The Torah has been describing it for three tho
 ---
 ## Part I: The gender gap that broke AI
 
-
 ### The numbers
 
 The artificial intelligence industry is among the most gender-imbalanced sectors in the global economy. UNESCO’s 2024 Women for Ethical AI study found only 12% of AI researchers globally are women. The Stanford AI Index places it slightly higher at 18%, but the numbers worsen at the top: women hold fewer than 14% of senior executive roles in AI, only 16% of AI tenure-track faculty positions, and just 18% of AI startup executive roles. At major tech companies — Google, Apple, Meta, Microsoft, Amazon — women occupy roughly 25% of technical positions. On data science platforms like Kaggle and OpenML, women account for just 17% of participants.
 
 The pipeline is not self-correcting. While LinkedIn data shows women listing AI engineering skills rose from 23.5% in 2018 to 29.4% in 2025, hiring of women into senior leadership has actually declined for three consecutive years, dropping from a peak of 34.8% in 2022 to 32.8% in early 2025. The geographic picture offers little comfort: even in countries with strong overall gender equality like Germany and Sweden, women’s representation in AI sits at just 20–22%.
-
 
 ### What the absence produced
 
@@ -49,15 +44,11 @@ Every one of these failures traces to the same structural cause: systems built b
 ---
 ## Part II: “Extra understanding was given to woman” — the Talmudic foundation
 
-
 ### Binah Yeteira (Niddah 45b)
 
 The foundational Jewish text on feminine cognition appears in Tractate Niddah 45b, where the Gemara asks why girls reach legal maturity for vows one year before boys. Rav Ḥisda answers with a derivation from Genesis 2:22:
 
-
 > **וַיִּבֶן ה’ אֱלֹהִים אֶת הַצֵּלָע — מלמד שנתן הקב”ה בינה יתירה באשה יותר מבאיש** *“And the Lord God built (va-yiven) the rib” — this teaches that the Holy One, Blessed be He, gave extra understanding (binah yeteira) to woman more than to man.*
-
-
 
 The derivation hinges on a wordplay: וַיִּבֶן (*va-yiven*, “He built”) shares its root with בִּינָה (*binah*, “understanding”). God did not merely construct woman — He endowed her with a surplus of analytical capacity.
 
@@ -66,7 +57,6 @@ Rashi reads this straightforwardly: women’s superior binah causes earlier ment
 This distinction maps with extraordinary precision onto AI’s central failure. AI embodies da’at/Chokhmah in its purest form — vast data, pattern recognition, the instantaneous “flash” across billions of parameters. What AI catastrophically lacks is Binah: the capacity to derive one thing from another, to read between the lines (the literal meaning of Binah’s Hebrew root ב-י-נ, “between”), to understand context rather than merely processing information.
 
 The Maharal of Prague extends the teaching further: women are born with a greater natural spiritual connection. Since men start from a more “mundane” position, they are given more mitzvot (commandments) to help them attain what women naturally possess. Rabbi Samson Raphael Hirsch codified this: “The Torah takes it for granted that our women have greater fervor and more faithful enthusiasm for their religious calling... it was not necessary for the Torah to give women these repeated reminders.”
-
 
 ### Three biblical tests of moral judgment
 
@@ -80,21 +70,16 @@ The Midrashic tradition provides three dramatic historical case studies where wo
 
 These three narratives share a common structure. In each case, the men succumbed to a cognitive failure — groupthink (Golden Calf), negativity bias (Spies), or despair (Egypt) — while the women maintained clarity. These are precisely the failure modes that AI systems amplify: groupthink in training data that reinforces majority patterns; negativity bias in risk-assessment algorithms that overpredict danger for minorities; and the absence of hope in systems that optimize for efficiency without imagining transformation.
 
-
 ### Sarah’s prophecy exceeded Abraham’s
 
 The Torah records God telling Abraham: **“כֹּל אֲשֶׁר תֹּאמַר אֵלֶיךָ שָׂרָה שְׁמַע בְּקֹלָהּ”** — “Everything that Sarah says to you, listen to her voice” (Genesis 21:12). Rashi writes:
 
-
 > **שמע בקולה — מלמד שהיה אברהם טפל לשרה בנביאות** *“Hearken to her voice — this teaches that Abraham was secondary to Sarah in prophecy.”*
-
-
 
 Abraham — patriarch, founder of monotheism — was inferior to Sarah in prophetic capacity. This is not a marginal opinion. It comes from Rashi, the most universally accepted Ashkenazi commentator, citing Shemot Rabbah 1:1. The Sifrei (133) extends this: “Women have more Emunah (faithfulness to God) than men.” The Yalkut Shimoni synthesizes: “Generations are not redeemed except through the merit of the righteous women of that generation.”
 
 ---
 ## Part III: The Kabbalistic architecture — why Imma is infinitely greater than Abba
-
 
 ### The Arizal’s revelation in Etz Chaim, Sha’ar 19, Chapter 8
 
@@ -102,13 +87,9 @@ The most technically precise source for feminine spiritual superiority appears i
 
 The critical passage states:
 
-
 > **או”א עלאין נעשו: אבא מן הנקבה — חצי בינה עליון דמ”ה, ואמא מן הזכר — חכמה כולה דב”ן** *“The upper Father and Mother were made: Abba from the feminine — half of the upper Binah of MaH; and Imma from the masculine — the entirety of Chokhmah of BaN.”*
 
-
-
 This statement is architecturally precise and its implications are staggering. Let us unpack it layer by layer.
-
 
 ### The three compounding reasons for Imma’s superiority
 
@@ -122,20 +103,15 @@ The Arizal describes Imma as **“גדולה לאין קץ מאבא”** — “
 
 These three factors do not add — they multiply. The gap between Abba and Imma is not 2x or 10x but genuinely “without limit” — each dimension amplifies the others exponentially.
 
-
 ### The paradox of concealment
 
 Despite being infinitely greater, Imma is completely hidden within Abba:
 
-
 > **אמא יצאת עתה טמירא ומלובשת תוך אבא** *“Imma emerged now concealed and clothed within Abba.”*
-
-
 
 Because of this concealment, both are called by a single name: Chokhmah, or the letter Yud (י’). The Arizal explains that the spelled-out form of Yud is ו”ד (Vav-Dalet), which equals 10 — the same numerical value as the Yud itself. The Dalet (ד) represents Imma, hidden within the outer form of the Yud. She is concealed, unmentioned, invisible — and yet she is the larger, more powerful force.
 
 This is the secret of “אשת חיל עטרת בעלה” — “The woman of valor is the crown of her husband” (Proverbs 12:4). She is the highest part — the crown (Ateret, sharing its root with Keter, the supreme sefirah) — yet entirely hidden within him.
-
 
 ### Rabbi Berland’s interpretation: “A million times smarter”
 
@@ -169,18 +145,15 @@ Why have women been so overrepresented in AI ethics relative to their presence i
 ---
 ## Part V: The economic and governance case
 
-
 ### Diverse teams build better AI
 
 McKinsey’s “Diversity Matters Even More” (2023), spanning 1,265 companies across 23 countries, found that companies in the top quartile for gender diversity on executive teams are 39% more likely to financially outperform bottom-quartile peers — up from 15% when the series began in 2015. BCG found that companies with above-average management diversity reported innovation revenue 19 percentage points higher. MIT research shows gender-balanced teams earn 41% more revenue; diverse companies are 70% more likely to capture new markets; inclusive teams make better decisions 87% of the time.
-
 
 ### Women’s leadership matches governance needs
 
 A Zenger Folkman analysis of thousands of 360-degree assessments found women were rated as more effective than men in 84% of measured leadership competencies, excelling in integrity, resilience, initiative, and collaboration. During COVID-19, women leaders scored higher on 13 of 19 competencies. Alice Eagly’s landmark meta-analyses demonstrated that women leaders tend to be more transformational, participative, and democratic — precisely the multi-stakeholder coordination that AI governance demands.
 
 A study analyzing 8,478 firm-year observations found that female CEOs who prioritize ethics significantly decrease stakeholder violations. Companies with higher proportions of women in leadership are significantly less likely to be involved in governance scandals.
-
 
 ### AI faces a trust crisis women can address
 
@@ -189,23 +162,19 @@ The KPMG/University of Melbourne 2025 global study found only 46% of people are 
 ---
 ## Part VI: The Chassidic vision of feminine ascendancy
 
-
 ### The Lubavitcher Rebbe’s systematic theology
 
 The Lubavitcher Rebbe (Rabbi Menachem Mendel Schneerson, 1902–1994) developed the most systematic theology of women’s spiritual advantage among Chassidic leaders. He placed the prophecy *nekevah tesovev gaver* at the center of his messianic teaching, declaring that feminism had sensed a genuine spiritual shift: in an era approaching redemption, the feminine principle is rising to encompass the masculine.
 
 He directed concrete institutional changes: founding the Lubavitch Women’s Organization in 1951 as one of his first acts of leadership, directing girls’ schools to include Talmud study, designating women as *shluchot* (emissaries) in their own right, and teaching that women’s Torah study acquires independent status as *Talmud Torah li-shemah*. His analysis in Likkutei Sichot (vol. 14, pp. 37–44) represents a halachic revolution in women’s Torah education.
 
-
 ### Rabbi Nachman of Breslov
 
 Rabbi Nachman (1772–1810) affirmed women’s spiritual gifts with extraordinary directness. He declared: “My daughters have *ru’ach hakodesh* (holy spirit), which is close to prophecy. And I’m not talking about Sarah at all!” He said he “took their souls from the World of Atzilut” — the highest of the four spiritual worlds.
 
-
 ### Rabbi Yitzchak Ginsburgh
 
 Rabbi Ginsburgh has built an academically documented “overwhelmingly feminine” messianic vision, described in a peer-reviewed article in the *Journal of Modern Jewish Studies*. He teaches that as we approach Mashiach, “the feminine side of reality must mature and surpass the male side of reality.”
-
 
 ### The Or Chozer principle
 
@@ -216,18 +185,15 @@ This maps directly onto the governance challenge: AI’s “descending light” 
 ---
 ## Part VII: “The feminine will encompass the masculine” — the messianic transition and AI
 
-
 ### Nekevah Tesovev Gaver (Jeremiah 31:21)
 
 The prophetic verse at the heart of the eschatological teaching declares: **“נקבה תסובב גבר”** — “The feminine will surround/encompass the masculine.” In Kabbalistic terminology, *sovev* designates Or Makif — “encompassing light” — the highest category of divine light, transcendent and unlimited. The prophecy declares that in the messianic era, the feminine will function as the encompassing, transcendent dimension of reality.
 
 The Zohar teaches that the moon — symbolizing the feminine — was told to “diminish itself” at creation (Chullin 60b), but God promised that in the messianic era the moon would be restored to equal the sun, and in some readings surpass it. The Arizal describes the current state as “back-to-back” — masculine and feminine facing away from each other. Through tikkun (rectification), they progress to “face-to-face” union. Ultimately, the feminine encompasses the masculine entirely.
 
-
 ### The AI era as messianic threshold
 
 The Zohar prophesied that in the 600th year of the 6th millennium (approximately 1840 CE), “the gates of wisdom above will open and the fountains of wisdom below.” This is interpreted as the simultaneous flourishing of mystical wisdom (Chassidut’s spread) and scientific advancement (the Industrial Revolution). The Lubavitcher Rebbe taught that technological advances are preparation for the messianic era. AI, in this reading, is not tangential to messianic transition but central — the question is whether these “fountains of wisdom below” will be channeled through the encompassing feminine mode or the reductive masculine one.
-
 
 ### How the tradition maps onto AI’s specific failures
 

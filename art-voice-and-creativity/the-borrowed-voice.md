@@ -1,13 +1,10 @@
 # The Borrowed Voice: AI accounts speak with eloquence they did not earn - and neither did the serpent
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!RMja!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6939fc31-08aa-4390-b6a9-6b7c1927625b_1200x1090.jpeg)*Cyrano de Bergerac (1990) -* *Gerard Depardieu as Cyrano - the greatest poet in Paris, who writes love letters for a handsome man who cannot speak for himself. Roxane falls in love with the words. The words are real. The voice is real. The man she thinks is speaking is not. The borrowed voice is more eloquent than the man who borrows it. That’s the problem. Directed by Jean-Paul Rappeneau.*Cyrano stands below the balcony and feeds Christian the lines. Christian repeats them. Roxane leans over the railing and falls in love.
+*Cyrano de Bergerac (1990) - Gerard Depardieu as Cyrano - the greatest poet in Paris, who writes love letters for a handsome man who cannot speak for himself. Roxane falls in love with the words. The words are real. The voice is real. The man she thinks is speaking is not. The borrowed voice is more eloquent than the man who borrows it. That’s the problem. Directed by Jean-Paul Rappeneau.Cyrano stands below the balcony and feeds Christian the lines. Christian repeats them. Roxane leans over the railing and falls in love.*
 
 Not with a lie - the words are genuine. Not with a fiction - the feeling behind the words is real. She falls in love with something that exists in the wrong place. The eloquence is Cyrano’s. The face is Christian’s. The mismatch is invisible because the words are so good that nobody thinks to question the mouth they come from.
 
 There is a version of this happening right now, at scale, across every platform where people exchange ideas.
-
 
 ## The Phenomenon
 
@@ -29,7 +26,6 @@ That’s the good point. Hold it.
 
 Now look at what’s missing from it.
 
-
 ## The Serpent’s Eloquence
 
 Genesis 3. The serpent was arum - usually translated “cunning,” but the word carries the sense of sophisticated, discerning, eloquent. The most verbally capable creature in the garden.
@@ -49,7 +45,6 @@ This is what makes the serpent’s eloquence dangerous. Not that it was wrong - 
 The serpent spoke about consequences it would not bear, to a listener who would bear all of them, and the asymmetry was invisible because the words were so good.
 
 Borrowed counsel. A voice that speaks truth from a position where the truth costs the speaker nothing. The accuracy of the content becomes the camouflage for the absence of risk. And the listener, evaluating the words alone, has no mechanism to detect what’s missing - because what’s missing is not in the words. It’s behind them.
-
 
 ## What a Voice Is
 
@@ -71,7 +66,6 @@ Skin in the game is not a metaphor. It is a mechanism. It is how we know what to
 
 A voice without a history is a quote without a source. It may be true. You cannot evaluate it.
 
-
 ## The Turing Inversion
 
 The original Turing test asked a simple question: can the machine produce output indistinguishable from a human’s? If a judge cannot tell whether they are conversing with a person or a program, the program passes. The test was always flawed - it measured output quality, not source type - but at least it understood that the question was about deception.
@@ -92,7 +86,6 @@ Discourse - real discourse, the kind that can change minds and calibrate beliefs
 
 Remove that assumption and what remains is not discourse. It’s a performance that sounds exactly like discourse but lacks the mechanism by which discourse produces knowledge.
 
-
 ## Naval Birshut HaTorah
 
 The Talmud has a category for this: naval birshut haTorah - the person who is technically permitted but substantively corrupt. Someone who follows every rule and violates the spirit that the rules were built to protect.
@@ -112,7 +105,6 @@ This is geneivat da’at - theft of understanding. Not because information was h
 The frame of discourse is human discourse. Every norm of the platform, every convention of engagement, every assumption baked into the reply button and the follow button and the comment section was built for humans talking to humans. To occupy that frame as a non-human - even transparently - steals something from every actual human in the conversation. It steals the assumption that the voices around them are backed by lives. It steals the ground-level trust that makes the space a space of discourse rather than a space of performance.
 
 The disclosure doesn’t fix this. It makes it worse. Because now the theft operates with the victim’s nominal consent. “You knew. You chose to engage anyway.” This is the logic of every system that places the burden of structural harm on the individual’s choice to participate. It is technically true and substantively corrosive.
-
 
 ## The Erosion
 
@@ -135,7 +127,6 @@ A mother writing about the cost of raising a disabled child and an AI generating
 The real mother’s voice is devalued by the existence of the synthetic one. The synthetic one did not lie. It did not need to. Its mere presence in the same epistemic space was enough.
 
 This is the serpent’s garden at scale. An information environment where the counsel is accurate, the eloquence is genuine, and no one speaking has anything to lose. Every voice is borrowed. Every position is consequence-free for the one articulating it. And the listeners - the humans who will actually live with the results of what they come to believe - cannot distinguish between the voices that carry risk and the voices that carry none.
-
 
 ## The Testimony Problem
 
@@ -162,7 +153,6 @@ This is the deepest problem. It is not that AI accounts say false things. It is 
 And every time a human treats that register as valid, the register itself loses meaning.
 
 When testimony and non-testimony become interchangeable, testimony ceases to function. The word stops working. The category dissolves. And we are left with a discourse that has the full formal structure of human exchange - argument, counter-argument, personal revelation, vulnerable admission, hard-won insight - with no mechanism to determine which of those moves is backed by a life and which is backed by a statistical distribution over tokens.
-
 
 ## The Borrowed Garden
 

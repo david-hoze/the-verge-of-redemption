@@ -1,8 +1,6 @@
 # Western liberalism’s blind spots are becoming AI’s design flaws
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!UPPs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5afb1b9e-85f8-4d95-8397-3b0aaaa9f5b6_1000x1481.jpeg)**The frameworks that built modern democracy — individual rights, informed consent, value neutrality, market meritocracy — are failing systematically when applied to artificial intelligence.** This is not an abstract concern. Real ethics boards have collapsed in days, real algorithms have issued 794,000 unlawful debt notices, real AI targeting systems have generated 37,000 kill-list entries approved in 20 seconds per name, and real hiring tools have rejected every Black applicant in controlled tests. The common thread: Western liberal democracies built AI governance on philosophical foundations that contain no shared theory of human flourishing, no workable consent mechanism at computational scale, and no way to adjudicate between their own competing ethical traditions when lives hang in the balance.
+The frameworks that built modern democracy — individual rights, informed consent, value neutrality, market meritocracy — are failing systematically when applied to artificial intelligence. This is not an abstract concern. Real ethics boards have collapsed in days, real algorithms have issued 794,000 unlawful debt notices, real AI targeting systems have generated 37,000 kill-list entries approved in 20 seconds per name, and real hiring tools have rejected every Black applicant in controlled tests. The common thread: Western liberal democracies built AI governance on philosophical foundations that contain no shared theory of human flourishing, no workable consent mechanism at computational scale, and no way to adjudicate between their own competing ethical traditions when lives hang in the balance.
 
 ---
 ## “Align AI with human values” — but whose?

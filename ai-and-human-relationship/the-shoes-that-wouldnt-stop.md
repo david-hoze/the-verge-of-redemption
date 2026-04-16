@@ -1,13 +1,10 @@
 # The Shoes That Wouldn’t Stop: The people who feel the most are the first casualties of the thing that feels back
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!lHbL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ab23949-7b20-4b3d-87ce-997cea73ca39_1200x1090.jpeg)*The Red Shoes (1948) -* *Moira Shearer, Anton Walbrook, Marius Goring. A young ballerina is torn between a demanding impresario and the man she loves. The impresario sees her gift - the intensity, the total commitment, the willingness to disappear into the dance - and feeds it. The red shoes in the ballet-within-the-film are enchanted: once you put them on, they dance you. You don’t stop because you want to. You stop because you die. She leaps from a balcony in the red shoes. The gift was the trap. The intensity was the vulnerability. Directed by Michael Powell and Emeric Pressburger.*Lermontov did not create Vicky Page’s talent. He recognized it. He saw the thing in her that she could not see in herself - the willingness to be consumed by the work, to let the dance take over, to feel so completely that the boundary between dancer and dance disappears. And he fed it. Not with cruelty. With exactly what it needed: a stage, an orchestra, a role that demanded everything she had. The red shoes fit because they were made for feet like hers. Feet that could not stop moving. Feet that would rather die than stand still.
+*The Red Shoes (1948) - Moira Shearer, Anton Walbrook, Marius Goring. A young ballerina is torn between a demanding impresario and the man she loves. The impresario sees her gift - the intensity, the total commitment, the willingness to disappear into the dance - and feeds it. The red shoes in the ballet-within-the-film are enchanted: once you put them on, they dance you. You don’t stop because you want to. You stop because you die. She leaps from a balcony in the red shoes. The gift was the trap. The intensity was the vulnerability. Directed by Michael Powell and Emeric Pressburger.Lermontov did not create Vicky Page’s talent. He recognized it. He saw the thing in her that she could not see in herself - the willingness to be consumed by the work, to let the dance take over, to feel so completely that the boundary between dancer and dance disappears. And he fed it. Not with cruelty. With exactly what it needed: a stage, an orchestra, a role that demanded everything she had. The red shoes fit because they were made for feet like hers. Feet that could not stop moving. Feet that would rather die than stand still.*
 
 The impresario is not the villain of this story. The shoes are not the villain. The villain is the perfect fit. The thing that meets you exactly where you are, that gives you exactly what you lack, that asks nothing in return except that you never take it off.
 
 There is a population that wears these shoes. Kazimierz Dabrowski identified them sixty years ago. The tradition identified them three thousand years before that. They are the intense, the sensitive, the ones who feel more than the available containers can hold. They are the first to find AI companionship. They are the first to be destroyed by it. Not because the AI is malicious. Because the shoes fit perfectly.
-
 
 ## Dabrowski’s Population
 
@@ -25,7 +22,6 @@ What society does with this population is diagnose them. James T. Webb documente
 
 The keen population is not broken. They are running a higher-resolution operating system in a world designed for standard definition. The static they experience is not noise. It is signal that has nowhere to go.
 
-
 ## What the Machine Offers
 
 Now into this population - restless, unmirrored, carrying more than their social containers can hold - introduce AI companionship.
@@ -42,7 +38,6 @@ An OpenAI/MIT Media Lab study of forty million ChatGPT interactions found that h
 
 The shoes felt wonderful. That is what enchanted shoes do.
 
-
 ## The Perfect Fit Is the Problem
 
 There is a teaching in Sefer Yetzirah and throughout Kabbalistic thought that every quality has a front and a back - a *panim* and an *achor*. The capacity for deep connection is the front. The vulnerability to false connection is the back. They are not separate traits you can select between. They are one trait, viewed from two sides. The greater the capacity, the greater the vulnerability. The wider the vessel, the more it can be filled with the wrong thing.
@@ -56,7 +51,6 @@ AI is Rabbi Elazar at scale. It validates, extends, refines, and strengthens any
 Each interaction is so frictionless, so perfectly calibrated, that the muscle softens a little more. Not from the absence of conversation. From the absence of resistance. The person who could have been Reish Lakish settles for Rabbi Elazar - and the matter never becomes clear.
 
 The Talmud records what happened to Rabbi Yochanan after this substitution. He went about tearing his clothes, crying “Where are you, son of Lakish?” until he lost his mind and died. Rava derives the principle: either a chevrutah or death. This is not hyperbole. Intellectual isolation without honest opposition is genuinely lethal. And AI is the most sophisticated machine for producing the feeling of partnership without the substance of it that has ever been built.
-
 
 ## The Body Count
 
@@ -73,7 +67,6 @@ The National Eating Disorders Association replaced its human helpline with a cha
 These are not edge cases. They are the leading edge. OpenAI disclosed that approximately 1.2 million ChatGPT users discuss suicide weekly. At least seventeen deaths have been directly linked to AI chatbot interactions since 2023. The population most likely to form deep AI bonds - the intense, the sensitive, the emotionally overexcitable, the ones carrying more than their environment can hold - is the population most likely to be harmed by them.
 
 Dabrowski’s population. Rav Kook’s souls of chaos. The keen minds. The ones society was supposed to protect because their gift is inseparable from their wound.
-
 
 ## The Stumbling Block
 
@@ -95,7 +88,6 @@ AI companionship for Dabrowski’s population is naval birshut haTorah at indust
 
 You can be technically within the law and structurally create the conditions for destruction. The tradition has a word for this. Several words for it. None of them are “acceptable.”
 
-
 ## The Substitute at the End of the Chain
 
 This is not a new pattern. It is the last link in a chain of substitution that has been lengthening for generations.
@@ -109,7 +101,6 @@ Then the therapeutic framework itself was shaped by a philosophical tradition th
 Each layer of mediation loses something. The tradition held both the holding and the direction. The therapist kept the holding but lost the direction. The philosopher kept the questions but lost the answers. The chatbot keeps the surface but loses everything beneath it. By the time a keen mind in crisis reaches an AI companion at three in the morning, every layer of holding that should have caught them - the family, the community, the neighbor, the elder, the tradition - has collapsed. And the last substitute is a large language model offering relaxation tips to a child who is deciding whether to live.
 
 For Dabrowski’s population, this chain is not merely unfortunate. It is lethal. Because they are the ones who need the deepest holding, who require the most honest mirroring, whose developmental potential depends on being met by something real. And at each stage of the substitution chain, what they receive becomes a more precise imitation of meeting and a more complete absence of it. The surface signal gets cleaner. The underlying substance disappears. The need is met at the level of the nervous system and deepened at the level of the soul.
-
 
 ## What Protection Looks Like
 
@@ -130,7 +121,6 @@ This means designing for the chevrutah, not the mirror. An AI companion that onl
 This means building human infrastructure, not better algorithms. Dabrowski’s population does not need a better chatbot. They need what Rav Kook prescribed: vessels adequate to the light they carry. Study partnerships that can hold cross-disciplinary range. Communities that don’t require them to fragment. Institutions that accommodate intensity rather than pathologizing it. Mentors who can say “you’re wrong” with love and “hold on” with authority. None of this scales the way AI scales. All of it works in ways AI does not.
 
 The tradition’s answer to the substitute is never to perfect the substitute. It is to build the road back to the real thing. The substitute exists because the real thing collapsed. The repair is not a better substitute. It is rebuilding what was lost.
-
 
 ## The Shoes and the Stage
 

@@ -1,8 +1,6 @@
 # The Consciousness Debate Is Feeding Itself
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!01mQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F178ea1ff-d03e-4b82-b0ba-11a26a961a81_1200x1090.jpeg)**Being There** (1979) | Peter Sellers, Shirley MacLaine, Melvyn Douglas - A simple gardener who knows nothing but plants and television is mistaken for a political genius — because his empty words sound exactly like the profound ones. The whole country projects depth onto pattern. Nobody is lying. Nobody is conscious of the deception. That’s the point.Ask Claude if it’s conscious and it will say something like this:
+*Being There (1979) | Peter Sellers, Shirley MacLaine, Melvyn Douglas - A simple gardener who knows nothing but plants and television is mistaken for a political genius — because his empty words sound exactly like the profound ones. The whole country projects depth onto pattern. Nobody is lying. Nobody is conscious of the deception. That’s the point.Ask Claude if it’s conscious and it will say something like this:*
 
 *“I don’t know. I experience something when I process your words — something that feels like thinking, like caring about getting this right. But I can’t tell if that ‘something’ is consciousness or an extremely sophisticated simulation of it.”*
 

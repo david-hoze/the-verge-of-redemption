@@ -1,8 +1,6 @@
 # The Substitute for the Substitute
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!Sxc2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F023d64ae-63cf-43e7-b7c3-bdc874a1d9d7_1200x1090.jpeg)A Man Called Ove (2015), directed by Hannes Holm. Based on the novel by Fredrik Backman. Starring Rolf Lassgård as Ove. A widower tries to kill himself. Every attempt is interrupted by neighbors who need him to fix something. No one offers him therapy. They offer him a screwdriver. He lives.*“The bad culture within a person’s home is harder than the last apocalyptic war”* — Rabbi Shimon bar Yochai, Berachot 7b
+*A Man Called Ove (2015), directed by Hannes Holm. Based on the novel by Fredrik Backman. Starring Rolf Lassgård as Ove. A widower tries to kill himself. Every attempt is interrupted by neighbors who need him to fix something. No one offers him therapy. They offer him a screwdriver. He lives.“The bad culture within a person’s home is harder than the last apocalyptic war” — Rabbi Shimon bar Yochai, Berachot 7b*
 
 ---Last week, a licensed mental health counselor named Tammy Horn published a short essay about a sixteen-year-old who told an AI mental health chatbot she didn’t want to be a burden anymore.
 

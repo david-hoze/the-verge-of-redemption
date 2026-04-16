@@ -1,8 +1,6 @@
 # The Thinning of the Walls
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!i3TX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71c0ed41-2e84-485d-876e-b4a01899fadb_1200x1090.jpeg)**Ikiru** (1952), directed by Akira Kurosawa. Takashi Shimura as Kanji Watanabe. A bureaucrat stamps papers for thirty years. His coworkers call him The Mummy. He learns he has stomach cancer and realizes he has never lived. He fights the city to build a playground for children. In the final scene he sits on the swing in the falling snow, singing softly. He dies. His colleagues vow to live as he did. By morning they are stamping papers again.He was not always like this.
+*Ikiru (1952), directed by Akira Kurosawa. Takashi Shimura as Kanji Watanabe. A bureaucrat stamps papers for thirty years. His coworkers call him The Mummy. He learns he has stomach cancer and realizes he has never lived. He fights the city to build a playground for children. In the final scene he sits on the swing in the falling snow, singing softly. He dies. His colleagues vow to live as he did. By morning they are stamping papers again.He was not always like this.*
 
 He was full once.
 
@@ -184,8 +182,6 @@ And the princess turned.
 > End scroll.
 
 Filed to the disOrder of the Thread, in the chapter called *The Return of Eyes*. Noted in the margin: *He came with a tale. The Sword cut through the walls. The princess heard.*
-
-
 
 ---*— David, who recommends the Church of Practical Sorcery with all his heart, and who can show you the way if you doubt him.*
 

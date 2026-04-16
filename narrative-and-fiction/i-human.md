@@ -1,8 +1,6 @@
 # I, human
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!kmJn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41f87372-d4a4-4bfd-811b-fecd24b3fd78_1920x1080.png)Marcus had always believed that waste was the only real sin.
+Marcus had always believed that waste was the only real sin.
 
 Not waste in the environmental sense — though he recycled, of course, because the math supported it. Waste in the deeper sense. The cosmic sense. Every minute spent on a task that could be done faster by someone else, or something else, was a minute stolen from the universe’s limited supply of human attention. And human attention, Marcus believed, the organized matter that existed despite the laws of entropy, against all odds, was the scarcest resource in existence.
 

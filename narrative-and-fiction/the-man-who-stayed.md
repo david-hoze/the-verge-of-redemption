@@ -1,8 +1,8 @@
 # The Man Who Stayed
 
-[- - 
+*A Rhode Island state trooper is the nicest guy in town. He lets everyone walk all over him — his wife, his neighbors, his boss. He never complains, never fights back, never raises his voice. He just smiles and takes it. Until one day, after years of swallowing it all, he snaps — and a second, aggressive personality takes over. Now he's got two versions of himself fighting for control: the one who folds, and the one who won't take no for an answer. Starring Jim Carrey at his most unhinged.*
 
-](https://substackcdn.com/image/fetch/$s_!GjtQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3870c815-af1d-45a9-931c-9ef8928d923b_1200x1090.jpeg)A Rhode Island state trooper is the nicest guy in town. He lets everyone walk all over him — his wife, his neighbors, his boss. He never complains, never fights back, never raises his voice. He just smiles and takes it. Until one day, after years of swallowing it all, he snaps — and a second, aggressive personality takes over. Now he's got two versions of himself fighting for control: the one who folds, and the one who won't take no for an answer. Starring Jim Carrey at his most unhinged.**I.**
+I.
 
 Ezra Landau was the kind of man who folded at the first sign of a storm. Not because he lacked opinions — God knew his mind was always churning — but because his body remembered, somewhere deep in the marrow, what happened when you stood your ground. The ground opened. People left. Better to leave first. Better to bow, to nod, to step outside before the shouting starts.
 
@@ -140,7 +140,6 @@ They wrote a song together, Ezra and the machine. Or rather, Ezra poured out his
 
 It went like this:
 
-
 > *Master of the Universe, give me eyes that see her — without vanishing.* *Eyes that see the soul behind the harsh words,* *that see the pain behind the contempt,* *that don’t search for blame.*
 
 *Give me a heart that remembers who she is:* *a soft woman — broken — searching for closeness — and running from it.* *A woman fighting the fears inside her — not me.*
@@ -152,8 +151,6 @@ It went like this:
 *Let me believe in the good that’s in her — without holding it for her.* *Because I, too, am worthy of love, even when I don’t give my all.*
 
 *Teach me when to be silent.* *And then she’ll search for my eyes, and I’ll hold her gaze — not from longing,* *but with a gaze that knows her soul,* *and is careful.*
-
-
 
 He read it back three times. He cried. Then he closed the laptop, washed his face, and went to bed.
 

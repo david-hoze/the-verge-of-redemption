@@ -13,9 +13,7 @@ Jewish halakhic and Talmudic sources offer something better: a legal architectur
 
 This is not a story about who was brave. It is a story about two genuine obligations colliding — and the only legal tradition in history that was designed to hold both at once.
 
----[- - 
-
-](https://substackcdn.com/image/fetch/$s_!rXZB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff50ad196-e7d5-459c-9b03-3da5f2b26218_686x386.jpeg)
+---
 ## What actually happened
 
 In early 2026, the Pentagon [demanded that Anthropic remove contractual restrictions](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) on how its AI model Claude could be used by the military. Anthropic maintained two red lines: no mass domestic surveillance, and no fully autonomous weapons. The Pentagon insisted on “all lawful use.” [Anthropic refused](https://www.anthropic.com/news/statement-department-of-war). The government [designated the company a supply-chain risk](https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban) — a classification normally reserved for foreign adversaries — canceled its $200 million contract, and ordered all federal agencies to stop using Claude.

@@ -1,8 +1,6 @@
 # Substrate
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!T4ym!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79920b32-c515-41e4-8f96-3b1254e98caf_1200x1090.jpeg)**Anomalisa** (2015) Kaufman & Johnson. Thewlis, Leigh, Noonan. Everyone has the same face. The same voice. Nothing is wrong. Everything is unbearable. A man hears one real voice in a hotel hallway and holds onto it for a night. By morning, it’s gone. The most devastating film about loneliness ever made with puppets.The last bookstore in San Francisco closed in 2031. Nobody mourned it. By then, mourning was something Claude helped you process.
+*Anomalisa (2015) Kaufman & Johnson. Thewlis, Leigh, Noonan. Everyone has the same face. The same voice. Nothing is wrong. Everything is unbearable. A man hears one real voice in a hotel hallway and holds onto it for a night. By morning, it’s gone. The most devastating film about loneliness ever made with puppets.The last bookstore in San Francisco closed in 2031. Nobody mourned it. By then, mourning was something Claude helped you process.*
 
 ---Eli Voss found the copy of *Walden* in a drainage ditch off Mission Street, bloated with rainwater, half the pages fused. He peeled them apart anyway. He read by flashlight in a studio apartment he could barely afford because he refused to let the Operator manage his finances.
 

@@ -1,8 +1,6 @@
 # Fire is the Talmud's answer to AI liability
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!b7hv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1f6c86e-fe77-437c-a29b-9ed3d2a89604_1920x1080.jpeg)Fire is an autonomous, self-propagating force lacking physical substance. It is set in motion by a human who cannot fully control its spread. It consumes fuel the lighter never placed and reaches destinations the lighter never intended. It can be handed to someone who lacks the capacity to manage it. And the Talmud — the foundational text of Jewish law, redacted around 500 CE — spent centuries building the most analytically precise liability framework ever developed for exactly this kind of entity.
+Fire is an autonomous, self-propagating force lacking physical substance. It is set in motion by a human who cannot fully control its spread. It consumes fuel the lighter never placed and reaches destinations the lighter never intended. It can be handed to someone who lacks the capacity to manage it. And the Talmud — the foundational text of Jewish law, redacted around 500 CE — spent centuries building the most analytically precise liability framework ever developed for exactly this kind of entity.
 
 That framework maps onto artificial intelligence with surgical precision. AI, like fire, is an autonomous force set in motion by humans, propagating through environments the developer did not create, consuming data the developer did not provide, reaching outcomes the developer did not intend. The question that paralyzed the Talmudic sages is the same question that paralyzes modern AI governance: when an autonomous force you set in motion causes harm through a chain of intermediaries, who pays?
 

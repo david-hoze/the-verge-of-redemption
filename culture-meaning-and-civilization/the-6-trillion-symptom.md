@@ -1,8 +1,8 @@
 # The $6 Trillion Symptom
 
-[- - 
+*Peter Finch as Howard Beale in Network (1976, dir. Sidney Lumet). A prophet's genuine rage gets packaged into a prime-time product — the system doesn't cure the despair, it monetizes it. Also starring Faye Dunaway and William Holden.*
 
-](https://substackcdn.com/image/fetch/$s_!7hiz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa26f88d6-d1fe-4043-82b3-757a83340263_1200x1090.jpeg)*Peter Finch as Howard Beale in* Network *(1976, dir. Sidney Lumet). A prophet's genuine rage gets packaged into a prime-time product — the system doesn't cure the despair, it monetizes it. Also starring Faye Dunaway and William Holden.*Betsy Chasse — who co-created *What the Bleep Do We Know!?* and helped launch the wave she’s now critiquing — recently wrote a sharp essay asking how a six-trillion-dollar spirituality and wellness industry devoted to human awakening managed to produce a culture more fractured and disoriented than ever. She draws a direct line from “you create your reality” to The Secret to prosperity theology to anti-vax movements to Trump.
+Betsy Chasse — who co-created What the Bleep Do We Know!? and helped launch the wave she’s now critiquing — recently wrote a sharp essay asking how a six-trillion-dollar spirituality and wellness industry devoted to human awakening managed to produce a culture more fractured and disoriented than ever. She draws a direct line from “you create your reality” to The Secret to prosperity theology to anti-vax movements to Trump.
 
 It’s a brave piece. She implicates herself. She names real damage. And she’s right about the surface.
 
@@ -92,52 +92,35 @@ It’s the fever. And the fever is telling you the body is fighting for its life
 
 - Case & Deaton, “Deaths of Despair,” Federal Reserve Bank of Minneapolis
 
-
 - CDC, Drug Overdose Deaths 2003–2023
-
 
 - CDC, Suicide Data and Statistics
 
-
 - U.S. Surgeon General’s Advisory on Loneliness and Isolation, 2023
-
 
 - Harvard Making Caring Common, “Gen Z, Meaning & Purpose”
 
-
 - Gallup, U.S. Church Membership, 2021
-
 
 - ChurchTrac, State of Church Membership 2025
 
-
 - Gallup, Trust in Government data
-
 
 - Gallup, Confidence in Congress
 
-
 - Open Science Collaboration, *Science*, 2015
-
 
 - Begley & Ellis, *Nature*, 2012
 
-
 - *Nature*, “More than 10,000 papers retracted in 2023”; PNAS, paper mills study
-
 
 - U.S. Department of Justice, Pharmaceutical Fraud Settlements
 
-
 - Keefe, *Empire of Pain* (2021); DOJ, Purdue Pharma settlement
-
 
 - PublishingState.com, “5 Million Scholarly Articles Published in 2024”
 
-
 - WordsRated, Academic Publishing Statistics
 
-
 - Serra-Garcia & Gneezy, “Nonreplicable publications are cited more than replicable ones,” *Science Advances*, 2021
-
 

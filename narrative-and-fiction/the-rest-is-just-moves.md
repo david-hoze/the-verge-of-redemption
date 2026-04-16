@@ -1,8 +1,7 @@
 # The Rest Is Just Moves
 
-[- - 
+*Never Let Me Go (2010). Carey Mulligan, Andrew Garfield, Keira Knightley. The most devastating sci-fi film ever made — not because something terrible happens, but because no one resists it. The system isn't cruel. It's efficient. And the characters adjust, cooperate, find small comforts within the constraints. The way we all do when the thing replacing us doesn't feel like violence. It feels like progress.*
 
-](https://substackcdn.com/image/fetch/$s_!MmpC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb204a121-3ba3-4a7c-a1ac-f868f3f45ccd_1200x1090.jpeg)**Never Let Me Go (2010).** Carey Mulligan, Andrew Garfield, Keira Knightley. The most devastating sci-fi film ever made — not because something terrible happens, but because no one resists it. The system isn't cruel. It's efficient. And the characters adjust, cooperate, find small comforts within the constraints. The way we all do when the thing replacing us doesn't feel like violence. It feels like progress.
 ## Monday
 
 Nora made coffee the way her father had taught her — Turkish, in the copper finjan he’d brought from Istanbul forty years ago, heating it three times until the foam rose and almost spilled, pulling it off the flame at the last moment each time. The grounds settled at the bottom in patterns he used to read when she was small. *Here is a bird, sweetheart. That means news is coming. Here is a mountain. That means an obstacle. But look — the path goes around it.* She’d believed him completely, the way you believe someone who holds you on his lap and smells like tobacco and wool, until she was old enough to understand he was inventing, and then old enough again to understand that inventing was the whole point. The grounds didn’t predict anything. The conversation about the grounds was the thing — a father teaching his daughter to look at chaos and refuse to be paralyzed by it.

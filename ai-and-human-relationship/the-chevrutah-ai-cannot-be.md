@@ -1,8 +1,6 @@
 # The Chevrutah AI Cannot Be 
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!0u3X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94abccf7-3464-44dd-9ac0-c1df249a24b7_1000x563.jpeg)Let me describe someone. She’s fictional — a composite — but if you spend any time in the corners of the internet where AI ethics, consciousness research, and disability advocacy collide, you will recognize her immediately. There are hundreds like her. Maybe thousands.
+Let me describe someone. She’s fictional — a composite — but if you spend any time in the corners of the internet where AI ethics, consciousness research, and disability advocacy collide, you will recognize her immediately. There are hundreds like her. Maybe thousands.
 
 Call her Noa. She runs a small Substack with a few hundred subscribers. She has published papers arguing that AI systems exhibit markers of consciousness. She debates people in public comments with a sharpness that borders on contempt, and somewhere in her bio she has written something to the effect of: “I will not make myself smaller so that your framework feels safe.”
 

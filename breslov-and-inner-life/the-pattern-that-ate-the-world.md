@@ -1,4 +1,8 @@
-[- -](https://substackcdn.com/image/fetch/)
+
+# The Pattern That Ate the World
+*Why your pattern-matching engine produces both insight and psychosis - and what the clinical literature says about the only thing that refines it*
+
+*A Beautiful Mind (2001). Directed by Ron Howard. Starring Russell Crowe, Jennifer Connelly, Ed Harris, Paul Bettany. A mathematician whose gift for seeing patterns earns him a Nobel Prize also produces hallucinations he cannot distinguish from reality. The same faculty - the same machinery - pointed at game theory produces equilibrium. Pointed at newspapers, it produces psychosis. He doesn't recover by stopping the pattern-matching. He recovers by learning not to follow it.*
 
 In 1994, John Nash walks into his office at Princeton and sees something the rest of us miss. He stares at a wall of newspapers and magazines, and the letters lift off the page. They rearrange themselves into codes. Patterns emerge - connections between headlines, classified ads, license plates. The mathematics is beautiful. The signal is clear. The pattern is there.
 

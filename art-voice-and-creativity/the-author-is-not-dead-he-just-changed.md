@@ -1,8 +1,6 @@
 # The Author Is Not Dead — He Just Changed Tools
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!tkPC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dc47067-887a-4d46-a827-6727f061dbc0_1200x1090.jpeg)*Ratatouille* (2007), directed by Brad Bird. Pixar. Voices by Patton Oswalt, Lou Romano, Peter O'Toole. A rat with the palate of a master chef and a kitchen boy with no talent discover that the right partnership produces what neither could alone.“AI slop” was Merriam-Webster’s 2025 Word of the Year. Nearly half of all web content is now AI-generated. Amazon drowns under tens of thousands of AI-written books per month, including mushroom-picking guides that listed poisonous varieties as safe to eat. Dead Internet Theory — the idea that most online interaction is between bots — moved from conspiracy forum to Silicon Valley consensus when Sam Altman himself acknowledged it.
+*Ratatouille (2007), directed by Brad Bird. Pixar. Voices by Patton Oswalt, Lou Romano, Peter O'Toole. A rat with the palate of a master chef and a kitchen boy with no talent discover that the right partnership produces what neither could alone.“AI slop” was Merriam-Webster’s 2025 Word of the Year. Nearly half of all web content is now AI-generated. Amazon drowns under tens of thousands of AI-written books per month, including mushroom-picking guides that listed poisonous varieties as safe to eat. Dead Internet Theory — the idea that most online interaction is between bots — moved from conspiracy forum to Silicon Valley consensus when Sam Altman himself acknowledged it.*
 
 The diagnosis is everywhere. AI is flooding the world with polished garbage.
 

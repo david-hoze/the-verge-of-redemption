@@ -1,8 +1,8 @@
 # The Purge That Wasn’t
 
-[- - 
+*They Live (1988, dir. John Carpenter) — A drifter finds sunglasses that reveal the truth: aliens are running society through subliminal messages hidden in plain sight. Without the glasses, everything looks normal. With them, every billboard says "OBEY." The system works because nobody wants to look.*
 
-](https://substackcdn.com/image/fetch/$s_!9Mgt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb42c5fe7-b018-4e49-b3f6-3dbe7620db2b_1200x1090.jpeg)*They Live* (1988, dir. John Carpenter) — A drifter finds sunglasses that reveal the truth: aliens are running society through subliminal messages hidden in plain sight. Without the glasses, everything looks normal. With them, every billboard says "OBEY." The system works because nobody wants to look.In February 2026, The Guardian published an investigation revealing that Substack was generating revenue from newsletters promoting Nazi ideology, white supremacy, and antisemitism. Within two hours of subscribing to one such newsletter — NatSocToday — the platform’s own recommendation algorithm directed reporters to 21 additional profiles featuring similar content.
+In February 2026, The Guardian published an investigation revealing that Substack was generating revenue from newsletters promoting Nazi ideology, white supremacy, and antisemitism. Within two hours of subscribing to one such newsletter — NatSocToday — the platform’s own recommendation algorithm directed reporters to 21 additional profiles featuring similar content.
 
 Substack co-founder Hamish McKenzie responded with what has become the company’s standard refrain: “I just want to make it clear that we don’t like Nazis either — we wish no one held those views.” He argued that censorship “makes it worse.”
 
@@ -15,10 +15,7 @@ But the accounts didn’t actually go away. They just adapted.
 
 As of this writing, an account called 𝖂𝖍𝖎𝖙𝖊 𝕽𝖆𝖇𝖇𝖎𝖙 (@whiterabbit) remains live on Substack with over 10,000 subscribers. Its bio reads:
 
-
 > National Socialist writer and content creator. NAME THE JEW! We must secure the existence of our people and a future for White children. 14/88 \o Southern White Nationalist
-
-
 
 [- - 
 
@@ -27,7 +24,6 @@ As of this writing, an account called 𝖂𝖍𝖎𝖙𝖊 𝕽𝖆𝖇𝖇𝖎�
 There is nothing subtle here. “14/88” combines the white supremacist “14 words” slogan with a numeric code for “Heil Hitler.” The “\o” is a text-based Nazi salute. The account runs two publications: “White Rabbits National Socialism” and “Down The Rabbit Hole.”
 
 This is not a fringe account that slipped through a crack. It has ten thousand subscribers. According to the tech blog Pixel Envy, White Rabbit grew from 8,600 subscribers to over 10,000 in just six months — after the purge.
-
 
 ## What It Posts
 
@@ -65,7 +61,6 @@ The account’s recent activity feed is a stream of unambiguous Nazi propaganda.
 
 These are not obscure posts buried in a forgotten corner. They receive consistent engagement — dozens of likes and restacks — from a network of followers actively consuming and amplifying this content on Substack’s platform.
 
-
 ## The Evasion Tactics
 
 What makes accounts like White Rabbit particularly difficult to catch at scale — and particularly worth documenting — is the deliberate use of evasion techniques designed to defeat automated content moderation.
@@ -78,7 +73,6 @@ What makes accounts like White Rabbit particularly difficult to catch at scale �
 
 **Algorithmic camouflage through volume.** The account mixes its most extreme content (calls for violence, antisemitic manifestos) with “historical” posts (Nazi-era photographs, rally footage) that don’t technically call for violence but normalize the ideology. This creates a content profile that may look, to an algorithm, like a history enthusiast rather than an active propagandist.
 
-
 ## The Platform’s Responsibility
 
 Substack’s position has been consistent: it opposes censorship and will only remove content that explicitly incites violence. But this framework has a problem. The Rockwell quote — in which an American Nazi leader promises that white men will make Jews “get on their knees” — sits in a grey zone designed to be exploited. Is it a historical quote or a threat? The account treats it as both.
@@ -88,7 +82,6 @@ Meanwhile, Substack takes approximately 10% of revenue from paid subscriptions. 
 The Guardian investigation in February 2026 was not the first time this issue was raised. Jonathan Katz reported on it for The Atlantic in November 2023. Taylor Lorenz covered it in mid-2024. Casey Newton’s Platformer pressed the issue until Substack removed five accounts — which, the company noted, had a combined total of about 100 readers. The accounts with real reach were left untouched.
 
 White Rabbit had 8,600 subscribers when Lorenz covered it. It now has over 10,000. The purge didn’t slow it down. It may have helped it grow.
-
 
 ## What You Can Do
 
@@ -101,7 +94,6 @@ If you’re a Substack writer or subscriber troubled by this, a few concrete ste
 **Name the pattern.** The evasion tactics — Unicode fonts, mirror accounts, image-based text — aren’t unique to this one account. They’re a playbook. Documenting the playbook makes it harder to run.
 
 **Demand transparency.** Substack has never disclosed how much revenue it generates from extremist newsletters, how many accounts it has removed, or how it handles mirror account networks. These are reasonable questions for a company that takes a cut of every paid subscription on its platform.
-
 
 ## My Personal Angle
 

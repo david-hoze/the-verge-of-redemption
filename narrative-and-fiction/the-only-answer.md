@@ -1,8 +1,6 @@
 # The only answer
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!ugmk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaa72381-4846-4db3-b6d5-ee10b46ec9be_1200x1090.jpeg)*Field of Dreams* (1989). A man (Kevin Costner) hears a voice no one else hears. It tells him to plough his cornfield and build a baseball diamond.She found the video at 1 a.m., the way you find everything at 1 a.m. — by not looking for it.
+*Field of Dreams (1989). A man (Kevin Costner) hears a voice no one else hears. It tells him to plough his cornfield and build a baseball diamond.She found the video at 1 a.m., the way you find everything at 1 a.m. — by not looking for it.*
 
 She’d been scrolling for an hour, maybe two. First the news, which was unbearable. Then Instagram, which was worse — everyone performing their lives in high definition while hers felt like it was being shot on a broken phone. Then YouTube, where the algorithm fed her a man with a beard talking about faith.
 

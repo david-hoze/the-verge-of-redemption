@@ -1,8 +1,6 @@
 # When users become the crop: AI data extraction through the lens of ona’ah
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!jUFq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F769aa146-62b1-43fa-987b-083ea2faf7ae_1280x720.jpeg)The parallel is not merely metaphorical. OpenAI’s valuation surged from nothing to **$300–$500 billion** between 2022 and 2025 while its users received a chat window that disappears. Anthropic reversed its privacy commitments in August 2025 to begin harvesting consumer conversations. Kenyan workers who made ChatGPT safe earned **$1.32 per hour** while the product they refined generated **$13–20 billion in 2025 revenue**. Meanwhile, the Talmudic tradition — from Bava Metzia 49b through the Shulchan Aruch — has for centuries insisted that a transaction where one party extracts more than one-sixth above fair value is fraudulent, that consent obtained through incomplete information is invalid, and that the laborer in the field has a divine right to eat from what they harvest.
+The parallel is not merely metaphorical. OpenAI’s valuation surged from nothing to $300–$500 billion between 2022 and 2025 while its users received a chat window that disappears. Anthropic reversed its privacy commitments in August 2025 to begin harvesting consumer conversations. Kenyan workers who made ChatGPT safe earned $1.32 per hour while the product they refined generated $13–20 billion in 2025 revenue. Meanwhile, the Talmudic tradition — from Bava Metzia 49b through the Shulchan Aruch — has for centuries insisted that a transaction where one party extracts more than one-sixth above fair value is fraudulent, that consent obtained through incomplete information is invalid, and that the laborer in the field has a divine right to eat from what they harvest.
 
 ---
 ## The terms of service reveal a two-tier extraction system
@@ -57,12 +55,9 @@ The Talmudic framework for analyzing this exploitation begins with **ona’ah** 
 
 - **Less than one-sixth deviation** from market price: the sale stands, with the difference treated as implicit waiver (*mechilah*)
 
-
 - **Exactly one-sixth**: the sale stands but the overcharge must be returned
 
-
 - **More than one-sixth**: the sale is voidable by the aggrieved party (*bitul mekach*)
-
 
 The Rambam (Hilchot Mechirah 12:3) explains the rationale: “most people willingly forgo such a small difference” under one-sixth. But the framework assumes both parties can at least *estimate* the market value of what they exchange. The AI data transaction shatters this assumption entirely. When a user types a sophisticated prompt containing domain expertise — effectively teaching the model patent law, oncology protocols, or compiler design — they cannot begin to estimate the value of what they have provided. The company, by contrast, has extensive internal metrics on the training value of different interaction types.
 

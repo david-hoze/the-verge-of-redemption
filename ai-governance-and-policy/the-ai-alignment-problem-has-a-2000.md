@@ -1,8 +1,6 @@
 # The AI Alignment Problem Has a 2,000-Year-Old Precedent
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!Gz9f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9623cfc6-05c2-427d-97c0-cbf478bd746e_1200x675.jpeg)In 2016, ProPublica revealed that the COMPAS algorithm used to sentence criminal defendants across the United States was racially biased: Black defendants were almost twice as likely to be falsely labeled high-risk as white defendants.¹ Northpointe, the company behind COMPAS, fired back with its own analysis showing the algorithm predicted recidivism at similar accuracy rates for both groups.² The controversy consumed AI ethics for months.
+In 2016, ProPublica revealed that the COMPAS algorithm used to sentence criminal defendants across the United States was racially biased: Black defendants were almost twice as likely to be falsely labeled high-risk as white defendants.¹ Northpointe, the company behind COMPAS, fired back with its own analysis showing the algorithm predicted recidivism at similar accuracy rates for both groups.² The controversy consumed AI ethics for months.
 
 Then mathematicians ended the debate — not by picking a side, but by proving that both sides were right and that the conflict was unsolvable. Alexandra Chouldechova at Carnegie Mellon and a team led by Jon Kleinberg at Cornell independently demonstrated that when base rates of an outcome differ across groups, no imperfect algorithm can simultaneously achieve equal predictive accuracy and equal error rates.³ This is not a software limitation. It is a theorem. Competing definitions of fairness are mathematically irreconcilable.
 
@@ -45,84 +43,57 @@ The expert consensus is not that Western values are wrong. It is that they are r
 
 - ProPublica, “Machine Bias,” May 2016
 
-
 - Northpointe (Equivant), “Response to ProPublica,” 2016
-
 
 - Chouldechova, “Fair Prediction with Disparate Impact,” *Big Data* 5(2), 2017; Kleinberg, Mullainathan & Raghavan, “Inherent Trade-Offs in the Fair Determination of Risk Scores,” *Proceedings of ITCS*, 2017
 
-
 - Vox, “Google’s AI Ethics Board Lasted All of One Week,” April 2019
-
 
 - Multiple sources including *The New York Times*, *The Verge*, November 2023; Harvard Law Review, “Amoral AI Corporate Governance,” 2024
 
-
 - Jan Leike, public statement on X (formerly Twitter), May 2024
-
 
 - arXiv, “Aligning AI with Human Values: Analysis of RLHF Datasets,” 2025
 
-
 - *PNAS Nexus*, “Cultural Values in Large Language Models,” 2024–2025
-
 
 - ProPublica, “Cigna’s Algorithm and Medical Claim Denials,” 2023; U.S. Senate Finance Committee investigation
 
-
 - STAT News / CBS News, “UnitedHealth AI Denial Rates,” 2023; federal appeals data
-
 
 - Royal Commission into the Robodebt Scheme, Final Report, 2023
 
-
 - University of Washington, “AI Resume Screening Audit,” 2024–2025
-
 
 - EEOC complaint / reporting on HireVue, 2025
 
-
 - Sam Altman, BlackRock AI Summit, March 2026
-
 
 - Regulation (EU) 2024/1689 (EU AI Act); Carnegie Endowment, “Regulating AI vs. Managing Displacement,” February 2026
 
-
 - Asilomar AI Principles, 2017; VDW Policy Paper critique
-
 
 - Munn, “The Uselessness of AI Ethics,” *AI and Ethics* 3, 2023
 
-
 - Thomas Metzinger, public critique of EU High-Level Expert Group guidelines
-
 
 - Babylonian Talmud, Sanhedrin 65b
 
-
 - Goltz, Zeleznikow & Dowdeswell, “From the Tree of Knowledge and the Golem of Prague to Kosher Autonomous Cars,” *Oxford Journal of Law and Religion* 9(1), 2020; Nevins, “Halakhic Responses to Artificial Intelligence,” CJLS Responsum, 2019
-
 
 - Babylonian Talmud, Sanhedrin 74a/b; Maimonides, *Mishneh Torah*, Hilchot Yesodei HaTorah 5:1–4
 
-
 - Bleich, “Autonomous Vehicles and the Trolley Problem,” *Tradition* 52(2), 2019; cf. Sanhedrin 74a, “Who says your blood is redder than his?”
-
 
 - Exodus 22:6–14; Babylonian Talmud, Bava Metzia 93a–94b
 
-
 - Navon, “Jewish Ethics and AI: A Halakhic Framework,” *AI and Ethics* (Springer), 2024; Israeli Bailees Law (1967)
-
 
 - Babylonian Talmud, Sanhedrin 17a
 
-
 - Gunn et al., “The Paradox of the Unanimous Verdict,” Royal Society, 2016
 
-
 - Kalman, “AI and Judaism,” in *Cambridge Companion to Judaism and Technology*, 2025; Wolfson, “Talmudic Scenario-Based Reasoning for AI Consciousness,” *AI and Ethics* (Springer), 2025; Rosen, *Like Silicon from Clay*, AEI Press, 2025
-
 
 Thanks for reading! Subscribe for free to receive new posts and support my work.
 

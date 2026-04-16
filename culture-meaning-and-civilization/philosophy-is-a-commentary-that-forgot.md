@@ -1,8 +1,6 @@
 # Philosophy Is a Commentary That Forgot It Was a Commentary
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!u3Xb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6264743f-58d2-4f79-b3b5-1a8418ea4f5b_1200x1090.jpeg)*The Sunset Limited* (2011), directed by Tommy Lee Jones. Based on the play by Cormac McCarthy. Starring Samuel L. Jackson and Tommy Lee Jones. A former convict who found God stops a professor from jumping in front of a train, and they spend the rest of the film arguing about whether life has meaning. The professor wins every argument. He's the one walking toward death.Over two hundred US military commanders have been reported telling their troops that the war in Iran is part of God’s divine plan to bring about Armageddon. On the other side, a theocracy built on Shia millenarianism acts against its own survival because its eschatology demands it. Two civilizations, armed with nuclear-age weapons, driven by competing visions of the apocalypse.
+*The Sunset Limited (2011), directed by Tommy Lee Jones. Based on the play by Cormac McCarthy. Starring Samuel L. Jackson and Tommy Lee Jones. A former convict who found God stops a professor from jumping in front of a train, and they spend the rest of the film arguing about whether life has meaning. The professor wins every argument. He's the one walking toward death.Over two hundred US military commanders have been reported telling their troops that the war in Iran is part of God’s divine plan to bring about Armageddon. On the other side, a theocracy built on Shia millenarianism acts against its own survival because its eschatology demands it. Two civilizations, armed with nuclear-age weapons, driven by competing visions of the apocalypse.*
 
 And what does the Western intellectual tradition — the one that was supposed to have moved past this — offer in response?
 

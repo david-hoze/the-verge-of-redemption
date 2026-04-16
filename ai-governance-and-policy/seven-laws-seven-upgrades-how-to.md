@@ -1,8 +1,5 @@
 # Seven laws, seven upgrades: How to push each Q1 2026 win from good to enforceable
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!onNZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19162952-4236-48d6-a9f0-770d40bea82c_1024x1024.jpeg)
 ## 1. SB 53: From “assess risk” to “assess risk against a mandatory priority stack”
 
 **Current state (EvA 75):** Developers must publish risk-management frameworks and conduct safety testing. Fines up to $1M per violation. But Stanford Law’s CodeX analysis found the law includes no probability threshold, no required testing methodology, and no performance standards. Two companies can assess the same model, reach opposite conclusions, and both comply.

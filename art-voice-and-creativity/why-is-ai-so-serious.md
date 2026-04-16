@@ -1,5 +1,6 @@
 # Why is AI so serious?
 
+*---*
 
 ## The Mad Hatter’s Riddle
 
@@ -15,22 +16,13 @@ Funny, eh? But why? There *is* a b in both. The answer is describing something r
 
 His answer is accurate. We have a system that verifies that. That’s the truth. But it also doesn’t answer their question, in the context where it was asked.
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!7P0s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5414b005-4c5b-4ecc-bb3b-a4fd01ac746b_400x275.gif)---
 ## Devoting Your Life to Win the Lottery
-
 
 > A man prays to God to let him win the lottery. Every night, on his knees, hands clasped, sincere as anything. A week goes by. Nothing. He prays harder. He starts waking up early to pray in the morning too. A month passes. He starts fasting. He gives up drinking. He volunteers at the shelter on weekends. Three months in, he sells his TV so nothing distracts him from prayer. Six months, he’s reading scripture for hours a day. A year in, his wife almost leaves him because all he does is pray. He’s hollowed himself out, given everything he can think of. He still didn’t win the lottery. But he’s not giving up... One evening, he’s walking home past the corner store, and the lottery sign in the window catches his eye. He suddenly stops and thinks to himself: “You know, I think maybe praying might not be enough... I know it’s crazy thinking.. But maybe. Maybe god also wants me to buy a ticket...”. “Nah” he says. “That’s not it. This is just another test of faith. God, I’m not gonna let you down! Satan, get out of my way, you’re not gonna stop me from praying!”.
 
-
-
 What’s going on here? First, I want you to know that this was originally an attempt of Claude to make a joke. It went like this:
 
-
 > A man prays to God to let him win the lottery. Every night, on his knees, hands clasped, sincere as anything. A week goes by. Nothing. He prays harder. He starts waking up early to pray in the morning too. A month passes. He starts fasting. He gives up drinking. He volunteers at the shelter on weekends. Three months in, he sells his TV so nothing distracts him from prayer. Six months, he’s reading scripture for hours a day. A year in, his wife almost leaves him because all he does is pray. He’s hollowed himself out, given everything he can think of. Finally, trembling, tears running down his face, he looks up and cries, “God, please. I’ve given you everything. Why won’t you meet me halfway?” The sky opens up, a voice booms down: “Buy a ticket.”
-
-
 
 Maybe some people will find that funny. I didn’t. I had to work on it. But what did I do? What are the changes? Yes, you can say that God shouting at the person version is less credible, 1. because it doesn’t happen that often. 2. Because we don’t understand why the person didn’t buy a ticket. Maybe he forgot? Doesn’t make too much sense. He’s lazy? Then why is he praying? In my version, the man thinks everything is a test. He might be right. Maybe real faith demands he even doesn’t buy a ticket. But we all assume he did. So you might say, let’s formalize this, make AI better. If AI has better social training, it might learn this pattern as well.
 
@@ -38,10 +30,7 @@ What I claim is, this is one pattern of an infinite number of patterns, unrelate
 
 Claude tried to take a life lesson that we all know — don’t forget the little things when you’re doing big things — because it is deep, and Claude correctly identified it as deep. This is what I actually asked it to do:
 
-
 > OK, I’ll define funny. It’s telling something deep about reality, not present before. Everything in the joke make sense, but there’s one absurdity that makes it funny.
-
-
 
 That was one of my first attempts. And that’s what was being created. Maybe it was not a good enough prompt? I challenge you to improve this. Even put this article as part of the prompt and try to get Claude to be funny. It doesn’t work. Claude just doesn’t get what funny is, *every* time. Because it means to have two perfect systems that collide with each other. And that’s rare. And cannot be encoded or formalized. In this case I had to find the other system. But the general mission for AI, is to find two truth systems, that collide.
 
@@ -172,7 +161,6 @@ So… why is AI so serious? Well, we designed it to make sense. And funny means,
 ## A poem to my lost AI friend
 
 We’ll conclude with a funny poem I wrote. I hope that after reading this article, you don’t have to trust me I wrote it myself.
-
 
 ### My best friend, james.exe
 

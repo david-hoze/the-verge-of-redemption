@@ -1,8 +1,7 @@
 # The Most Beautiful Equation That Explains Nothing
 
-[- - 
+*Pi (1998) — A mathematician destroys himself chasing the equation behind everything. Sean Gullette, Mark Margolis. Directed by Darren Aronofsky. Sundance winner. $60K budget. Black and white. Still the best film about what happens when you mistake the map for the territory.*
 
-](https://substackcdn.com/image/fetch/$s_!uCou!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd36ee04f-6459-4490-abc5-63b611030592_1200x1090.jpeg)**Pi** (1998) — A mathematician destroys himself chasing the equation behind everything. Sean Gullette, Mark Margolis. Directed by Darren Aronofsky. Sundance winner. $60K budget. Black and white. Still the best film about what happens when you mistake the map for the territory.
 ## The equation
 
 Daniel John Murray, an Australian mathematician, recently published a piece called “The Mystery of Consciousness Solved.” It is brilliant. It is beautifully written. And it is wrong — not in the way that bad arguments are wrong, but in the way that the most seductive arguments are wrong: by being almost entirely right about everything except the one thing that matters.

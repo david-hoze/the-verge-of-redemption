@@ -1,8 +1,6 @@
 # You Diagnosed the Disease. Now Look at Why There’s No Cure.
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!6h7M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4b88a52-009f-4c4d-b48e-80d9c3816c38_584x308.jpeg)Professor Kaiser,
+Professor Kaiser,
 
 I read your piece. Twice. And I want to start by saying something you probably don’t hear often enough in those meetings: you’re right.
 

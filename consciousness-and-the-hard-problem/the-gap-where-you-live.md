@@ -1,8 +1,7 @@
 # The Gap Where You Live
 
-[- - 
+*The Diving Bell and the Butterfly (2007) - Mathieu Amalric, Emmanuelle Seigner, Marie-Josée Croze - A paralyzed man with a fully intact mind composes an entire book using only his left eyelid — consciousness at full volume can be nearly invisible from outside.*
 
-](https://substackcdn.com/image/fetch/$s_!jTL4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78a63e61-1879-4054-b012-a4e7b261e311_1200x1090.jpeg)**The Diving Bell and the Butterfly** (2007) - Mathieu Amalric, Emmanuelle Seigner, Marie-Josée Croze - *A paralyzed man with a fully intact mind composes an entire book using only his left eyelid — consciousness at full volume can be nearly invisible from outside.*
 ## The concept is dead. The problem isn’t.
 
 A recent paper in philosophy of mind argues that the “hard problem of consciousness” — the famous puzzle of why there is *something it is like* to be you — is not a real problem at all. It is an artifact of a broken concept.[1](#footnote-1)

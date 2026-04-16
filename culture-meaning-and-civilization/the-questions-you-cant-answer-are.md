@@ -1,8 +1,6 @@
 # The Questions You Can’t Answer Are Not the Questions You Need to Answer
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!VDtn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15cf6efc-3d17-47a5-a789-cc08a82dfa12_1200x1090.jpeg)*Crimes and Misdemeanors* (1989), directed by Woody Allen. Starring Martin Landau as Judah Rosenthal and Anjelica Huston as Dolores Paley. A wealthy ophthalmologist arranges the murder of his mistress — and discovers that without the moral tradition he abandoned, nothing prevents him from living comfortably with what he's done.You cannot prove, in any rigorous philosophical sense, that torturing a child for fun is wrong.
+*Crimes and Misdemeanors (1989), directed by Woody Allen. Starring Martin Landau as Judah Rosenthal and Anjelica Huston as Dolores Paley. A wealthy ophthalmologist arranges the murder of his mistress — and discovers that without the moral tradition he abandoned, nothing prevents him from living comfortably with what he's done.You cannot prove, in any rigorous philosophical sense, that torturing a child for fun is wrong.*
 
 This is not a provocation. It is a straightforward observation about the state of moral philosophy after twenty-five centuries of sustained effort. You can appeal to consequences, but then someone asks why suffering matters. You can appeal to duty, but then someone asks where duties come from. You can appeal to human dignity, but then someone asks what grounds dignity in a material universe. At every level, the conversation bottoms out in an intuition that cannot be argued for without circularity.
 

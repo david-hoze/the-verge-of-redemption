@@ -61,6 +61,18 @@ PATH="/home/natanh/chez/bin:/ucrt64/bin:/usr/bin:$PATH" /home/natanh/.idris2/bin
 
 See [movies.md](movies.md) for a list of movies already used as article openers. When writing a new article, pick a movie NOT on this list and add it to the list afterward.
 
+### Movie Captions
+
+Every article has a movie caption in italic, right after the title (and subtitle if present). Format:
+
+```
+# Article Title
+
+*MovieTitle (Year). Directed by Director. Starring Actor1, Actor2, Actor3. One to three sentences describing the film and connecting it thematically to the article.*
+```
+
+Always include: movie title, year, director, key cast, and a description that resonates with the article's argument. The caption is italic (`*...*`), no bold, no nested italic. David adds the image separately - never include image links in articles.
+
 ### Movie Images
 
 When David asks to "download the movie" or "get the movie image," always use the movie images workflow in [movie-images-workflow.md](movie-images-workflow.md):
@@ -133,4 +145,4 @@ Draft comments in text files, get David's approval, then post. Always find the g
 - When the user says "pasted", check `~/clip.md` for the pasted content
 - When the user references external content or mentions something obscure/unfamiliar, check `~/clip.md` for context
 - When the user says "screenshot", read `~/img.png`
-- When copying an article to the clipboard, strip the image link and caption at the top (the `[- -](https://...)` block)
+- When copying an article to the clipboard, strip the movie caption at the top (the italic line after the title)

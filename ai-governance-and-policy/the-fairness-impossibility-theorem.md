@@ -1,8 +1,5 @@
 # The Fairness Impossibility Theorem: Proven, Unresolved, and Increasingly Seen as the Wrong Question
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!6Mni!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a31792e-ee63-47ea-9fc6-9542f23df274_1920x1080.jpeg)
 ### The math that broke AI ethics — and what happened when nobody could fix it
 
 Everyone building AI says the same thing: *we’re committed to fairness.* It’s in every mission statement, every press release, every congressional testimony. What almost no one mentions is that mathematicians proved — not argued, not suggested, *proved* — that fairness in algorithmic systems is impossible to achieve. Not difficult. Not expensive. Impossible.

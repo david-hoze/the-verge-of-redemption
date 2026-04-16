@@ -1,8 +1,5 @@
 # Yes, AI Can Imitate Judgment. No, That’s Not the Same Thing.
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!n0yE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be8f1b1-f59f-497c-b8cf-dd8a6b41d742_1920x750.jpeg)
 ### A response to Steven Adler’s “Clear-Eyed AI”
 
 ---Steven Adler, an ex-OpenAI safety researcher whose work I respect, recently published an article arguing that judgment is not uniquely human — that AI already demonstrates it, that people who claim otherwise are romanticizing humanity, and that we should stop asserting false limits about what machines can do.

@@ -1,8 +1,6 @@
 # The Sound You Aren’t Hearing
 
-[- - 
-
-](https://substackcdn.com/image/fetch/$s_!MTwu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7a07d8c-37a3-4791-8c47-d2d4758ad603_600x399.jpeg)You’re tired. You’ve got something in you you can’t express in words. You feel like you’re struggling against life, wading against the current. You didn’t always feel like this. Or maybe you did, and you just didn’t have words for it yet.
+You’re tired. You’ve got something in you you can’t express in words. You feel like you’re struggling against life, wading against the current. You didn’t always feel like this. Or maybe you did, and you just didn’t have words for it yet.
 
 Think back. You were seven, maybe eight. The classroom was bright. The teacher was talking. And something in you — something restless, something alive — was looking out the window. Not because you were stupid. Not because you didn’t care. But because whatever was happening out there — the bird on the wire, the clouds shifting, the way the light hit the puddle in the parking lot — felt more *real* than the worksheet in front of you.
 

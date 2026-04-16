@@ -1,11 +1,8 @@
 # The Hands Already Knew: Why AI tutoring optimizes the wrong kind of knowing
 
-[- - 
+*The Karate Kid (1984) - Ralph Macchio, Pat Morita. A boy from New Jersey signs up for karate lessons and gets manual labor instead. Wax on, wax off. Paint the fence. Sand the floor. He finally explodes - “You’re using me as slave labor!” - and Miyagi throws punches at him. Daniel blocks every one. The movements are in his body. The formation happened before he noticed. Directed by John G. Avildsen.*
 
-](https://substackcdn.com/image/fetch/$s_!-KKX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5f3127e-3b2a-4aa6-9b2f-15b146641aea_1200x1090.jpeg)*The Karate Kid (1984) - Ralph Macchio, Pat Morita. A boy from New Jersey signs up for karate lessons and gets manual labor instead. Wax on, wax off. Paint the fence. Sand the floor. He finally explodes - “You’re using me as slave labor!” - and Miyagi throws punches at him. Daniel blocks every one. The movements are in his body. The formation happened before he noticed. Directed by John G. Avildsen.*
 # 
-
-
 
 <hr>Daniel LaRusso thought he was learning karate. He was wrong. He was learning to be the kind of person who could do karate. Miyagi didn’t give him information about blocking. He gave him a body that blocks. The difference is everything.
 

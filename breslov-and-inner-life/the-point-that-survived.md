@@ -1,7 +1,5 @@
 # The Point That Survived
 
-[- -](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/)
-
 *Silver Linings Playbook (2012). Directed by David O. Russell. Starring Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver.*
 
 Pat Solitano is released from a psychiatric facility and moves back in with his parents. He has lost his wife, his house, his job, and most of his friends. There is a restraining order. He is bipolar and refuses medication because he believes a positive attitude will fix everything.
