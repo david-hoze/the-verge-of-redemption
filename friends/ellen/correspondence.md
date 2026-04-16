@@ -42,8 +42,28 @@ Context: This was her responding to the original DM about "The Child and the Win
 
 ---
 
+## Comment on Reading List article (mid-April 2026)
+
+**David commented:**
+
+The "What is the Physical?" section is the most important part of this list and you're right that it's underdeveloped - not just here but in the field. The tradition has spent centuries on consciousness and barely touched the question of what "physical" means. If you can't define the physical without smuggling in assumptions about consciousness, the mind-body problem isn't a problem about minds. It's a problem about bodies.
+
+**David replied (to Ellen's response):**
+
+That makes sense - your January piece on the hard problem was already working that seam. I'd be curious what you found when you pulled the thread all the way through.
+
+**Ellen replied (Apr 16, 2026):**
+
+Thank you for your reply. I just want you to know that I saw it and I intend on reading more closely your post (I read it last night when I was very tired - and on first look, I was not finding a problem or reality in some of the premises and concepts mentioned, Maybe that is the point and where you too ended it, but I will look freshly again) and replying when I can.
+
+Context: She read "The Child and the Window" but the premises didn't land on first read - the tradition-grounded concepts don't register as "real" to an analytic philosopher trained in Chomsky and Columbia. But she's self-aware enough to wonder if that's the point. Committed to re-reading fresh.
+
+---
+
 ## Strategy Note
 
 Phase 1 complete. The comment moved David from "nice fan" to "peer interlocutor." Ellen engaged substantively with the philosophical challenge, revealed her position is closer to David's than expected (consciousness is real, the framing is wrong, not the phenomenon), and reopened the DM she had previously ignored. She said she'll read "The Child and the Window."
 
-Next: wait. Don't push. Let the article do the work. If she reads it and engages, the door to collaboration is open. The productive tension (she dissolves the hard problem, he says the gap is load-bearing) could generate genuine exchange.
+Phase 2 in progress. She read the article and hit the tradition wall - the premises don't bottom out in the kind of evidence she's trained to recognize. But she's honest about it and committed to re-reading rather than dismissing. This is the right kind of friction.
+
+Next: wait. Don't respond - even to say "take your time." She's coming to you. Let the asymmetry hold.

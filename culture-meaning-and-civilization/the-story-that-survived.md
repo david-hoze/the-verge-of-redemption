@@ -38,13 +38,17 @@ Brickman and Campbell gave you a proposition you can argue with. The fox gave yo
 
 ## The Torch in the Dark
 
-A blind man walks through the streets at night carrying a lit torch. Someone asks: why do you need a torch? You can't see. He says: the torch isn't for me. It's so you can see me, and help me avoid the holes in the road (Megillah 24b).
+A blind man walks through the streets at night carrying a lit torch. Someone asks: why do you need a torch? You can't see. He says: as long as I have this torch in my hand, people see me and save me from the pits (Megillah 24b).
 
-Brene Brown published *Daring Greatly* in 2012 and told millions of people that vulnerability is strength. TED talk. Bestseller. Netflix special. The proposition: showing weakness invites connection. The audience clapped.
+The legal context matters. The Talmud is debating whether a blind man can bless God for creating light. The objection: he's never seen it. He can't be grateful for something he hasn't experienced. The torch story is the answer. He benefits from light - not directly, but through other people. He can't see the pits. He'll never see them. But when he carries the torch, others see him and route him around the danger. Light serves him through a channel he cannot perceive.
 
-The blind man's torch says the same thing in four sentences - and says it better, because it doesn't call vulnerability "brave." It calls vulnerability strategic. The blind man isn't courageous. He's practical. He can't see the holes. The torch tells others where he is so they can help. That's not bravery. That's engineering.
+The self-help industry runs on the opposite premise. Look inward. Find your truth. See your patterns. Heal yourself. The entire model assumes you can perceive your own problem - that with enough journaling, enough therapy, enough meditation, you'll see the pit before you fall in.
 
-Brown's proposition asks you to redefine weakness as strength. The Talmud's torch skips the redefinition. It just shows you a man who solved the problem by being visible. You don't need to feel brave. You need to carry the torch.
+The blind man says: you won't. You're blind. You will never see the pits. That's not a temporary condition that better self-awareness will fix. It's structural. But you can carry a torch - you can show up visibly, in community, in a practice, in a room where other people can see you. And their sight becomes your navigation. Not your self-knowledge. Their perception.
+
+That's why therapy works - someone else sees what you can't. That's why community works - others catch what you miss. That's why the traditions insist on showing up in person, in a room, with other people, week after week. Not because the room is magical. Because you're blind and the room is full of people who can see your pits. The torch is not self-help. The torch is the act of being findable.
+
+The blind man can bless over light. He should be grateful for it. His life is held up by infrastructure he'll never see - the community, the tradition, the people watching out for him in ways he can't measure. The proposition "be grateful for what you have" is a bumper sticker. The blind man carrying a torch through the dark is the image that makes you understand why.
 
 ---
 

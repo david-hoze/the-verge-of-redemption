@@ -1,5 +1,7 @@
 # The Run That Had No Reason
 
+*"Psychology built a profession around sitting still. The body needed to move. The heart needed someone to follow.*
+
 *Forrest Gump (1994). Directed by Robert Zemeckis. Tom Hanks, Robin Wright, Gary Sinise, Mykelti Williamson. A man with an IQ of 75 sits on a bench and tells strangers the story of his life. He played college football, went to Vietnam, met the President three times, started a shrimp empire, and ran across the country for three years. He didn't plan any of it. He was never strategic. He just showed up wherever his body took him and did the next thing. His mother gave him simple, clear instructions and never let go of the rope. The woman he loved sat in hotel rooms, communes, and apartments, thinking her way deeper into her own destruction. His best friend lost his legs and sat on a boat screaming at God. Forrest ran. Not from anything. Not toward anything. He ran because one morning his body started running and he didn't argue with it. When reporters asked why, he had no answer. When he stopped, a crowd that had been following him for three years asked: "Now what are we supposed to do?" He didn't know. He just felt like stopping. The film is usually read as a fable about American innocence. It's not. It's the most accurate picture anyone has ever drawn of what happens when the body leads and the mind doesn't interfere.*
 
 ---

@@ -102,6 +102,7 @@
 - **breslov-and-inner-life/what-god-actually-wants.md** - "What God Actually Wants" - God's desire for loyalty, family love, and simplicity over material success
 - **breslov-and-inner-life/the-sophisticate-and-the-simpleton.md** - "The Sophisticate and the Simpleton" - Hasidic parable; infinite choice traps while simplicity leads to flourishing
 - **breslov-and-inner-life/the-point-that-survived.md** - "The Point That Survived" - Azamra as life advice; find the good point in the wreckage; the Mishkan built from what survived the fire
+- **breslov-and-inner-life/the-run-that-had-no-reason.md** - "The Run That Had No Reason" - Psychology's seated model vs. LH's moving cure; chimmutz hamoch, the body-mind gap, and acting without certainty
 
 ## Narrative & Fiction
 

@@ -130,6 +130,7 @@ Draft comments in text files, get David's approval, then post. Always find the g
 - Output markdown only - no HTML tags (use `---` for horizontal rules, not `<hr>`)
 - Always use regular dashes (-), never em dashes or en dashes
 - After printing a composed response (e.g. a reply, summary, or draft), always copy it to the clipboard using `clip`
-- When the user pastes, references external content, or mentions something obscure/unfamiliar, check `~/clip.md` for context
+- When the user says "pasted", check `~/clip.md` for the pasted content
+- When the user references external content or mentions something obscure/unfamiliar, check `~/clip.md` for context
 - When the user says "screenshot", read `~/img.png`
 - When copying an article to the clipboard, strip the image link and caption at the top (the `[- -](https://...)` block)

@@ -1,0 +1,3 @@
+# The Faith You Borrowed
+
+A man lived for nearly seven hundred years on his grandfather's conviction. His grandfather had seen everything firsthand - the creation of the world, the first light, the first loss. The man grew up in that certainty. He never questioned it because he never had to. Then his grandfather died. Within eight years, the man collapsed into despair and never recovered. He had never built his own foundation. He was standing on someone else's floor his entire life and didn't know it until the floor was pulled out. The faith that survives the death of your mentor is the faith you built yourself, in the dark, when no one was holding you up.

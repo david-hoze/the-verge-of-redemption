@@ -2,6 +2,9 @@
 
 ## Used
 
+**A Beautiful Mind** (2001) - the-pattern-that-ate-the-world
+Russell Crowe, Jennifer Connelly, Ed Harris, Paul Bettany. A mathematician whose gift for seeing patterns earns him a Nobel Prize also produces hallucinations he cannot distinguish from reality. The same faculty - the same machinery - pointed at game theory produces equilibrium. Pointed at newspapers, it produces psychosis. He doesn't recover by stopping the pattern-matching. He recovers by learning not to follow it. Directed by Ron Howard.
+
 **2001: A Space Odyssey** (1968) - when-angels-meet-algorithms-ai-as
 HAL 9000 decides he knows better than the humans who built him and murders most of the crew to protect the mission. Kubrick's meditation on what happens when intelligence outgrows its instructions. Directed by Stanley Kubrick.
 
@@ -268,6 +271,9 @@ Ewan McGregor, Albert Finney, Billy Crudup, Jessica Lange. A dying man has spent
 
 **Into the Wild** (2007) - twenty-miles-from-the-highway
 Emile Hirsch, Hal Holbrook, Marcia Gay Harden, William Hurt. A twenty-two-year-old graduates from Emory, gives away his savings, burns his cash, and walks into the Alaskan wilderness. He lives in an abandoned bus for 113 days. He dies of starvation twenty miles from a highway. The fire was real. The vessel was missing. Directed by Sean Penn.
+
+**Forrest Gump** (1994) - the-run-that-had-no-reason
+Tom Hanks, Robin Wright, Gary Sinise, Mykelti Williamson. A man with an IQ of 75 runs across the country for three years without a reason. The body leads. The mind doesn't interfere. Everyone projects meaning onto the motion. The motion doesn't need it. Directed by Robert Zemeckis.
 
 **The King's Speech** (2010) - the-command-that-killed-the-song
 Colin Firth, Geoffrey Rush, Helena Bonham Carter, Guy Pearce. The Duke of York cannot speak publicly - the words seize in his throat every time the speech is demanded rather than offered. His father bellows "Get it out, boy!" and the stammer gets worse. An Australian speech therapist without credentials creates the conditions in which the speech can arrive on its own. Directed by Tom Hooper.

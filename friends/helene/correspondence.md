@@ -41,3 +41,17 @@ Would you be open to it?
 **The convergence:** Exchange 1 was consciousness (phenomenology/Kabbalah/Sufism converging on the gap). Exchange 3 is intimacy/relationships (her integration model and Gittin's keritut converging on the same precision of dissolution). Different domain, same structural meeting point. She keeps arriving at the same place from a different tradition.
 
 **Status:** Awaiting Helene's response.
+
+## Exchange 4: The Safe Prison / You Stopped Moving (2026-04-15)
+
+**Context:** David posted a note ("You Stopped Moving") about certainty being a ceiling, not a floor - the plateau that feels like the summit. Helene replied with a link to her 2017 article "The Safe Prison of Certainty" - a piece about the danger of believing you've arrived, the stagnation of comfortable answers, ending on a Norwegian universalist proverb: don't bother others, be nice, do as you please.
+
+**David's reply to the article:** Honored the piece - "you can feel the honesty in it." Then surfaced the distance between 2017 Helene and 2026 Helene: the article says there is no final stop, but her exchange with David found one. Three traditions, one point. "My note was a warning against stopping too early. You didn't stop too early. You kept going until something met you. That's rare."
+
+**Separate thread on the same note:** Helene commented playfully on the "You Stopped Moving" note - "I walk 6-10km a day, I may have passed the test." David noticed she laughs a lot in her comments and said so. She misread the sincerity as irony and tried to be funny back. A small miscommunication: she read a straight observation as a game and played defense with cleverness.
+
+David cut through: "You don't have to be smart Helene, you just have to be you." Then: "You can be smart, after you're honest." She said honesty is a fire you can't shut off. David pushed: "Real honesty is not a fire." She pushed back: "Until integration it is" - bringing her framework from the Intimacy Notes piece. David accepted: "So I accept your fire. I think it's fire of truth."
+
+**The pattern:** She defends with irony and cleverness. David doesn't play that game - keeps pulling her back to straight ground. When she finally drops the armor and says something real ("until integration it is"), he accepts it without pushing further. The exchange enacts the article she linked: irony as its own safe prison. She wrote about the danger of certainty-as-safety in 2017. Here, uncertainty-as-performance was the safety she was hiding behind.
+
+**Status:** Warming. The intellectual exchanges (1-3) are deepening into personal honesty. She's starting to bring her real self, not just her frameworks.
