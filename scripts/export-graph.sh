@@ -2,7 +2,7 @@
 # Export EDEN graph from SQLite to tracked markdown
 # Runs before commit so graph state is versioned even though .eden/ is gitignored
 
-REPO="$(cd "$(dirname "$0")" && pwd)"
+REPO="$(cd "$(dirname "$0")/.." && pwd)"
 DB="$REPO/.eden/shamash.db"
 OUT="$REPO/.eden-graph.md"
 
