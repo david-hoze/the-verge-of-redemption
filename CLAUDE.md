@@ -86,6 +86,8 @@ When David asks to "download the movie" or "get the movie image," always use the
 4. Output lands in `movie-images/{movie-name}_1200x1090/` at 1200x1090, JPEG quality 95
 5. Show David the processed images so he can pick one
 
+David picks the final image. You can recommend, but don't ask him to pick - he'll do it on his own time.
+
 ## Writing About Real People
 
 When writing about real people who might recognize themselves: obfuscate identifying details. If the person would still be recognizable even after obfuscation, leave out the critical analysis before the turn to love. Otherwise the point of the piece becomes about your choice to expose that person - and there's a baked-in unsafety in that. The loving thing is to protect them from the world even when you're writing about them.
