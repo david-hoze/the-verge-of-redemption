@@ -109,6 +109,7 @@
 - **substack-articles/breslov-and-inner-life/the-pattern-that-ate-the-world.md** - "The Pattern That Ate the World" - The pattern-matching engine that produces both genius and psychosis; dual-process theory meets embodied refinement
 - **substack-articles/breslov-and-inner-life/the-god-who-argues-back.md** - "The God Who Argues Back" - Fundamentalism conflates things the tradition kept separate; God argues back
 - **substack-articles/breslov-and-inner-life/what-divorce-is-for.md** - "What Divorce Is For" - Divorce as a precision act of leaving that preserves love
+- **substack-articles/breslov-and-inner-life/the-hand-that-opens-empty.md** - "The Hand That Opens Empty" - Desire and imagination are the same faculty; R' Nachman's renaming of the yetzer hara; wanting vs. liking neuroscience meets the pillar of sunlight you can't hold
 
 ## Narrative & Fiction
 

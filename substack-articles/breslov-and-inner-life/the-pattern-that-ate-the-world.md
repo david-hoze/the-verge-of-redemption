@@ -52,6 +52,8 @@ The same faculty that made Nash a genius made him psychotic. The same associativ
 
 This has implications the rationalist framework hasn't absorbed. If the problem is absence of awareness rather than presence of bias, then the solution isn't more analysis. It's more presence. Not more System 2. More of whatever it is that makes System 2 possible in the first place.
 
+A 19th-century Hasidic rabbi named this with clinical precision two centuries before Kahneman. Rebbe Nachman of Breslov said: I was strong in my mind - unless You make me crazy. But if a person is in their right mind, they don't fear any test (Chayei Moharan 232). The only thing that defeats you isn't the content of any problem. It's losing the checking function itself. And in his collected teachings: a person doesn't sin unless a spirit of foolishness enters them - therefore everyone is literally crazy according to their sins (Likutei Etzot, Talmud Torah 4). The spirit of foolishness - *ruach shtut* - is not a metaphor for poor judgment. It is the pattern-matching engine running without supervision. Every wrong turn you ever took, you took while temporarily insane - while the engine was delivering the wrong package to the right address and you couldn't tell the difference because the faculty you'd use to check was the one that was compromised.
+
 And here the clinical literature does something surprising. It points away from cognition entirely.
 
 ## The hand that plays

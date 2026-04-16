@@ -278,6 +278,9 @@ Tom Hanks, Robin Wright, Gary Sinise, Mykelti Williamson. A man with an IQ of 75
 **The King's Speech** (2010) - the-command-that-killed-the-song
 Colin Firth, Geoffrey Rush, Helena Bonham Carter, Guy Pearce. The Duke of York cannot speak publicly - the words seize in his throat every time the speech is demanded rather than offered. His father bellows "Get it out, boy!" and the stammer gets worse. An Australian speech therapist without credentials creates the conditions in which the speech can arrive on its own. Directed by Tom Hooper.
 
+**The Wizard of Oz** (1939) - the-hand-that-opens-empty
+Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley, Margaret Hamilton. A girl from Kansas is dropped into a world of saturated color and follows a yellow brick road to a wizard who has what she needs. The Scarecrow wants a brain, the Tin Man wants a heart, the Lion wants courage, Dorothy wants home. They arrive. The wizard is a small man behind a curtain. He opens his hand and there is nothing in it. The gifts he gives - a diploma, a testimonial, a ticking clock-heart - are placebos. They change nothing. But they work. Dorothy had the ruby slippers the whole time. Directed by Victor Fleming.
+
 ## Collaboration Articles
 
 Movies used in collaboration articles not published on David's Substack.
