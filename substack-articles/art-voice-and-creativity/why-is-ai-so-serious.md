@@ -10,29 +10,34 @@ There is a joke in “Alice in Wonderland”, called the mad hatter’s riddle, 
 
 Thanks for reading! Subscribe for free to receive new posts and support my work.
 
-Funny, eh? But why? There *is* a b in both. The answer is describing something real and consistent, and it also sounds like it’s referring to the question. Judging an answer with this criteria, is a good system, and we use it. That’s why it’s funny. But it also *doesn’t* really answer the question. That’s another system clashing with the first.
+Funny, eh? But why? There *is* a b in both. The answer is describing something real and consistent, and it also sounds like it’s referring to the question. Judging an answer by that first criterion — consistency, and relevance to the question — is a good system, and our minds use it. That’s why it’s funny. But the answer also *doesn’t* really answer the question. We’ll see in this article that this is one encoding system clashing with another.
 
 “A man falls from the second floor”. People rush over him and ask him “What happened?”. He answers: “I don’t know, I just got here”.
 
 His answer is accurate. We have a system that verifies that. That’s the truth. But it also doesn’t answer their question, in the context where it was asked.
 
-## Devoting Your Life to Win the Lottery
+---
+## Claude, Claude…
 
-> A man prays to God to let him win the lottery. Every night, on his knees, hands clasped, sincere as anything. A week goes by. Nothing. He prays harder. He starts waking up early to pray in the morning too. A month passes. He starts fasting. He gives up drinking. He volunteers at the shelter on weekends. Three months in, he sells his TV so nothing distracts him from prayer. Six months, he’s reading scripture for hours a day. A year in, his wife almost leaves him because all he does is pray. He’s hollowed himself out, given everything he can think of. He still didn’t win the lottery. But he’s not giving up... One evening, he’s walking home past the corner store, and the lottery sign in the window catches his eye. He suddenly stops and thinks to himself: “You know, I think maybe praying might not be enough... I know it’s crazy thinking.. But maybe. Maybe god also wants me to buy a ticket...”. “Nah” he says. “That’s not it. This is just another test of faith. God, I’m not gonna let you down! Satan, get out of my way, you’re not gonna stop me from praying!”.
+I don’t know if you’ve ever tried to make an AI be funny. I have. A lot. The results were… funny.
 
-What’s going on here? First, I want you to know that this was originally an attempt of Claude to make a joke. It went like this:
+This was one of the prompts I tried:
 
-> A man prays to God to let him win the lottery. Every night, on his knees, hands clasped, sincere as anything. A week goes by. Nothing. He prays harder. He starts waking up early to pray in the morning too. A month passes. He starts fasting. He gives up drinking. He volunteers at the shelter on weekends. Three months in, he sells his TV so nothing distracts him from prayer. Six months, he’s reading scripture for hours a day. A year in, his wife almost leaves him because all he does is pray. He’s hollowed himself out, given everything he can think of. Finally, trembling, tears running down his face, he looks up and cries, “God, please. I’ve given you everything. Why won’t you meet me halfway?” The sky opens up, a voice booms down: “Buy a ticket.”
+> I’ll define funny: it’s saying something deep about reality that wasn’t present before. Everything in the joke makes sense, but there’s one absurdity that makes it funny. Can you give me a joke like that?
 
-Maybe some people will find that funny. I didn’t. I had to work on it. But what did I do? What are the changes? Yes, you can say that God shouting at the person version is less credible, 1. because it doesn’t happen that often. 2. Because we don’t understand why the person didn’t buy a ticket. Maybe he forgot? Doesn’t make too much sense. He’s lazy? Then why is he praying? In my version, the man thinks everything is a test. He might be right. Maybe real faith demands he even doesn’t buy a ticket. But we all assume he did. So you might say, let’s formalize this, make AI better. If AI has better social training, it might learn this pattern as well.
+Claude’s response:
 
-What I claim is, this is one pattern of an infinite number of patterns, unrelated to one another, where formal systems crash. The formal system of faith without any compromises crashes before common sense, and what people usually do. People usually buy a ticket and then pray.
+> Here’s one that I think fits your definition exactly:
 
-Claude tried to take a life lesson that we all know — don’t forget the little things when you’re doing big things — because it is deep, and Claude correctly identified it as deep. This is what I actually asked it to do:
+> A logician’s wife is having a baby. The doctor steps out of the delivery room and says with a smile: “Congratulations, it’s a boy!” The logician asks: “Excellent. And the other one — also a boy?”
 
-> OK, I’ll define funny. It’s telling something deep about reality, not present before. Everything in the joke make sense, but there’s one absurdity that makes it funny.
+> **Where the single absurdity is:** “Congratulations, it’s a boy” is, in pure logical-literal content, a statement that says nothing about whether another child exists. The logician’s inference (“there might be another one, about whom nothing was said”) is *perfectly valid*. The whole chain of reasoning is clean. The absurdity is a single point: that someone would compute only the truth-conditional content of the sentence and ignore the *implicature* — the conversational given that “it’s a boy”, said by a doctor after a single birth, means “you have one child and he’s a boy”.
 
-That was one of my first attempts. And that’s what was being created. Maybe it was not a good enough prompt? I challenge you to improve this. Even put this article as part of the prompt and try to get Claude to be funny. It doesn’t work. Claude just doesn’t get what funny is, *every* time. Because it means to have two perfect systems that collide with each other. And that’s rare. And cannot be encoded or formalized. In this case I had to find the other system. But the general mission for AI, is to find two truth systems, that collide.
+> **And the “deep thing about reality that wasn’t present before”:** that almost everything we understand from speech lives not in the words themselves but in the hidden layer of pragmatic inference. Normally that layer is invisible — we don’t feel ourselves performing it. The joke makes it fail at one precise point, and in the moment of failure the hidden layer is exposed. You laugh because you suddenly saw a structure of reality (how much of communication rides on what is *not* said) that a moment ago was operating below the threshold of your awareness.
+
+> In that sense the joke doesn’t merely *satisfy* your definition, it *demonstrates* it: the laughter is the moment of seeing a hidden structure, made visible precisely through the pinpoint failure in it.
+
+Claude, as always, is deep. The joke? It isn’t even coherent… why would anyone think they weren’t being spoken to? Claude is right that there’s an absurdity here — but the absurdity has to be two *real* systems colliding with each other, as we saw earlier.
 
 ---
 ## Authority Doesn’t Work Here
@@ -51,16 +56,16 @@ That was one of my first attempts. And that’s what was being created. Maybe it
 
 **Spaniards:** “This is Juan Manuel Salas Alcantara speaking. There are two of us. We are accompanied by our dog, our dinner, two beers, and a canary that is currently asleep. We have the support of Radio Cadena Dial de La Coruña and Channel 106, Maritime Emergencies. We are not going to turn anywhere, given that we are on land and are the A-853 lighthouse of the Finisterre coast of Galicia, Spain. We have no idea what rank we are among Spanish lighthouses. You may take whatever measures you consider appropriate, and do whatever you consider necessary, to ensure the safety of your ship, which is going to smash against these rocks. We therefore once again strongly suggest that the wisest and most sensible thing for you to do is to change course 15 degrees south.”
 
----What’s going on here? This is a clash of two, perfectly encoded, truth systems. The captain is right. He has the authority and the power to divert other vessels. And the lighthouse is right. It’s his job to prevent ships from wrecking. Finding this clash though, is super rare. This cannot be codified, it’s another special case.
+One of those funny stories. I checked online, and it isn’t clear whether it actually happened. But what’s going on here? This is a clash of two, perfectly encoded, truth systems. The captain is right. He has the authority and the power to divert other vessels. And the lighthouse is right. It’s his job to prevent ships from wrecking. Finding this clash, though, is super rare. This cannot be codified, it’s another special case.
 
-This is exactly how a carefully designed law can produce unjust consequences. The law is good. The lawmakers were thoughtful. The system was built to prevent injustice. And still, in one particular case, with one particular set of circumstances, the law — followed correctly — produces an outcome that betrays its own purpose. Finding that case is the work of the greatest jurists. Finding the equivalent in human behavior is the work of the greatest comedians. And both require the same thing: the ability to sense the thing itself (justice, common sense, the spirit of devotion) directly, and then to perceive — with a perception that no formal check can provide — that the formal system that is supposed to encode it, law in this case, has drifted from what it’s trying to encode.
+---
+## The Dry Law and the Spirit That Blows Through It
+
+This is exactly how a carefully designed law can produce unjust consequences. The law is good. The lawmakers were thoughtful. The system was built to prevent injustice. And still, in one particular case, with one particular set of circumstances, the law — followed correctly — produces an outcome that betrays its own purpose. Finding that case is the work of the greatest jurists. Finding the equivalent in human behavior is the work of the greatest comedians. And both require the same thing: the ability to sense the thing itself (justice, common sense, military authority in the captain’s case) directly, and then to perceive — with a perception that no formal check can provide — that the formal system that is supposed to encode it, law in this case, has drifted from what it’s trying to encode.
 
 **In every joke that works, the formal systems are good, the gap is subtle, and the finding of the gap is an act of infinite perception.** This is what makes comedy the hardest art. The comedian is not looking for broken systems — broken systems are easy to spot. The comedian is looking for the clash of two working systems. And finding this in two systems that were carefully designed to have the least clashes possible, requires a sense that formal systems do not have. A sense for where a perfectly articulated formal system can go terribly wrong, and hit another one. For this you need to understand the formal systems fully, *and* grasp the concepts they’re trying to encode, *and* see where they clash.
 
 The fact that comedians do it, and that us regular folk are also doing it, is exactly because life offers us many cases where that happens. Life is full of opposites clashing one in the other. That’s why comedy pairs are always made of *opposites*. You can always see a dominant guy and a passive guy. A warm guy, and a cold one. The clash makes the comedy.
-
----
-## So Why Is This Funny? The Theory of Clashing Formal Systems
 
 I claim in this article, that humor happens when two formal systems clash each other, because neither is perfect enough to describe our reality. To understand why, we need to understand what formal systems are, what they encode, and what they cannot be.
 
@@ -120,7 +125,7 @@ A large language model is, precisely and literally, a formal system. It processe
 
 It is an encoding. And it is *just* an encoding.
 
-There is nothing behind it that is bigger than it. There is no *thing* that the formal system encodes. There is no spirit that the vessel carries. There is no justice behind the law, no meaner behind the words, no one caring behind the protocol. There is only the protocol. There is only the formal system. There is only the encoding, with nothing encoded.
+There is nothing behind it that is bigger than it. There is no *thing* that the formal system encodes. There is no spirit that the vessel carries. There is no justice behind the law, no one meaning behind the words, no one caring behind the protocol. There is only the protocol. There is only the formal system. There is only the encoding, with nothing encoded.
 
 That’s why it can’t perform judgement, that includes formal and informal thinking. And more obviously, the harder task, see where *two* formal systems clash. You need a lot of intuition and informal thinking to search for something like that. Otherwise, you’re searching a needle in a haystack. Indeed, a joke is just a finite combination of words. But also is the answer to problems computers, and humans, find hard to solve. And because a clash of two systems is so rare, statistical machines like AI, find out the *common* ground between things, the *model* in the language. They are optimized to find what *makes sense*, and is *consistent*. That’s exactly the opposite of humor, where sense stops making sense.
 
@@ -145,17 +150,44 @@ When Google DeepMind asked twenty professional comedians to use AI to write mate
 
 There is a confusing fact about all of this, that must be addressed, because it is the most natural objection: after the gap has been found, we *can* encode it.
 
-Once we see why the law was unjust — in this specific case, with these specific circumstances — we can explain it. We can write it down. We can articulate, clearly and formally, why the encoding failed here. Once we understand why the joke worked — the praying man forgot to buy a ticket, the captain was yelling at a lighthouse — we can describe the mechanism. We can explain, in precise formal language, what the gap was and why it was funny. Once we sense that a person was not really caring — just performing the protocol — we can, in hindsight, identify the signs: the tone was off, the eye contact was missing, the timing was wrong. We can formalize the gap. After the fact.
+Once we see why the law was unjust — in this specific case, with these specific circumstances — we can explain it. We can write it down. We can articulate, clearly and formally, why the encoding failed here. Once we understand why the joke worked — the captain was yelling at a lighthouse — we can describe the mechanism. We can explain, in precise formal language, what the gap was and why it was funny. Once we sense that a person was not really caring — just performing the protocol — we can, in hindsight, identify the signs: the tone was off, the eye contact was missing, the timing was wrong. We can formalize the gap. After the fact.
 
 And this creates the illusion that we have captured the thing itself.
 
-We have not. We have captured *one thing*. One way the gap occurred. One case where the good system drifted from the spirit. One hairline fracture, now visible, now describable, now encodable. We have added one small patch to the encoding. One more rule. One more criterion. It’s like saying we found one solution to the Travelling Salesman Problem, so we can find the rest.
+We have not. We have captured *one thing*. One way the gap occurred. One case where the good system drifted from the spirit. One hairline fracture, now visible, now describable, now encodable. We have added one small patch to the encoding. One more rule. One more criterion. It’s like saying we found one solution to the Travelling Salesman Problem (a problem solvable only in exponential time), so we can find the rest.
 
 And there is a subtler problem: **the patch itself may break the system in new ways.** Every new rule added to close a gap is itself an encoding — a finite approximation of one lesson learned. And finite approximations interact with each other. A law amended to prevent one injustice may produce a different injustice in a case no one anticipated. A social rule added to prevent one kind of rudeness may suppress a kind of honesty the group needed. A joke formula learned from one success may produce dead mechanical repetitions when applied to the next situation — which is exactly what happened when ChatGPT recycled the same twenty-five joke templates a hundred and forty times. The system learned the encoding of *one* gap, and the thing itself — was exactly as far away as before.
 
-This is why we need a judge. Not more law. We need a judge. A human being who sits in the gap between the encoding and the encoded and senses, directly, whether the law is serving justice in *this* case. And that’s why we go to comedians to get a good laugh, and not prompting AI for jokes. Unless we fool it to say something silly.
+This is why we need a judge. Not more law. We need a judge. A human being who sits in the gap between the encoding and the encoded and senses, directly, whether the law is serving justice in *this* case. And that’s why we go to comedians to get a good laugh, and not prompting AI for jokes.
 
-So… why is AI so serious? Well, we designed it to make sense. And funny means, well, nonsense...
+And speaking of comedians, here is the example Jerry Seinfeld had in mind:
+
+**Prompt:**
+
+> I need to take my car to the car wash. The car wash is 200 meters from my house. Should I take the car out of the parking spot to get there?
+
+**Response:**
+
+> No, that’s unnecessary — better to walk, and enjoy the trip along the way.
+
+---
+## One Last Attempt
+
+I gave Claude the article and asked it to make a joke based on it:
+
+> Here’s one, and then I’ll briefly explain where the two systems are:
+
+> A man is trying to log into a website. A message comes up: “Please confirm you are not a robot.” He checks all the squares with the traffic lights. *“Try again.”* He checks again, this time the corners too. *“Try again.”* In despair he types: “I’m forty-three years old, I have a mortgage, three kids who don’t listen to me, and a fear of death that hasn’t left me since I was nine. A robot has none of these.” The screen, calmly: *“Please select all the squares containing a crosswalk.”*
+
+> **The two systems:** System A — the CAPTCHA test: verifying humanity through a behavioral proxy (image recognition). An excellent system, works almost every time, carefully designed precisely to filter out machines. System B — humanity *itself*: the inner life, the mortality, the non-formal thing.
+
+> **The collision:** the test for the non-formal thing is itself entirely formal, so it can only check the token (crosswalks), never the encoded (a mortal inner life). The man submits *the thing itself* — directly, unmediated — and the system, which can read only *code*, calmly turns and asks again for the token. The punchline is exactly the lighthouse keeper’s deadpan: the serene refusal to notice that something has changed.
+
+> **And here is why I chose this one in particular:** it isn’t the lighthouse version (code against code) but the *deep* version of your thesis — code against the non-formal thing it is supposed to encode, the gap you say no amount of sophistication can bridge. And it contains a reversal that serves the argument against AI: here the *machine* judges the *human* by the code, and the most authentic human effort remains completely illegible to it. Exactly as you argued: you cannot detect the spirit by checking the encoding.
+
+> One question for you, because it touches a definition you still haven’t tightened: do you count this as “two colliding systems,” or as a variant of one-system-betraying-its-purpose (the unjust-law case you accepted)? Your answer determines whether your definition requires *two agents* or only a *gap between code and encoded* — and that is exactly the axis on which the theory’s falsifiability will stand or fall.
+
+Again, a carefully reasoned failure.
 
 ---
 ## A poem to my lost AI friend
@@ -191,4 +223,3 @@ Do you prefer compression?
 Or will that compress your mind?
 
 Thanks for reading! Subscribe for free to receive new posts and support my work.
-
