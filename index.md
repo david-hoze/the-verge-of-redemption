@@ -68,4 +68,5 @@
 - `SUBSTACK-PLAYBOOK.md` - Substack interaction patterns and URL structures
 - `movies.md` - Movies used as article openers (don't reuse)
 - `movie-images-workflow.md` - Image download process
+- `writing-craft.md` - David's editing methods, Hebrew translation style, and humor mechanics
 - `activity-tracker.md` - Activity tracking

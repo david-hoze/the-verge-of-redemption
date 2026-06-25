@@ -144,6 +144,8 @@ Draft comments in text files, get David's approval, then post. Always find the g
 
 ## Writing Style
 
+See [writing-craft.md](writing-craft.md) for David's editing methods, Hebrew translation style, and humor mechanics - distilled from his edit passes. Apply these when drafting and revising.
+
 - Output markdown only - no HTML tags (use `---` for horizontal rules, not `<hr>`)
 - Always use regular dashes (-), never em dashes or en dashes
 - After printing a composed response (e.g. a reply, summary, or draft), always copy it to the clipboard using `clip`

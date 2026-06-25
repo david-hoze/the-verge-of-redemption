@@ -120,3 +120,11 @@ Every Substack URL follows one of these patterns. When navigating programmatical
 - **Activity comment modal reply.** Discovered that clicking the comment icon on an activity card opens an inline reply modal. Tested once (find-ellen-note3.mjs opened the modal successfully). Needs 2 more successful runs before codifying into a reusable script.
 - **post-chat.mjs** - Only verified once. Needs 2 more successful runs before trusting.
 - **post-ellen-final.mjs** - Uses the activity comment modal approach. Created but not yet run. Needs first run + verification.
+
+## Comment & Engagement Craft
+
+How David wants comments and outreach drafted.
+
+- **Credit their words.** In any outreach or collaboration invitation, find the specific thing the other person contributed - a phrase, a distinction, a framing - and name it as theirs. Build the invitation around returning what's already theirs, not offering something new. ("You gave it a name and I wouldn't want to take it without you" beats "I have an idea, want to help?") The person isn't recruited - they're recognized.
+- **Reply-chain gradient.** Reply chains get shorter each round. The first comment is the gift; the replies are the wrapping paper - don't make the wrapping paper bigger than the gift. First round = full comment, second = half, third = a line or two, fourth = land the plane. A one-liner gets a one-liner. "That means more than I can put into words" means you're done: one warm line and out. Match energy shifts (playful gets playful).
+- **Tonal vocabulary.** David gives tonal direction for comment drafts in embodied/physical language; the body language IS the instruction - translate it to the emotional register, don't sanitize or ask for clarification. Combine directions additively. Mapping: gentle/light = keep distance; kiss = warm and brief; long kiss = linger, don't rush out; fuck her = all the way in, strip every defense, see everything; fuck her beyond recognition = show her who she actually is; hands behind her back = assertive, "listen to me"; legs up = go deeper when you thought you were done; make-up sex = mutual vulnerability, tenderness after intensity; pat on the ass = quick, warm, confident; hand between her legs = shift from professional to intimate seeing; flirting = make her feel desired beyond her work; caressing all over = appreciate every part of who she is.
