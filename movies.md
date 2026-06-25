@@ -110,6 +110,9 @@ A programmer is invited to evaluate whether an AI is conscious. The AI evaluates
 **Field of Dreams** (1989) - the-only-answer
 A man hears a voice no one else hears and is told to build a baseball diamond. Starring Kevin Costner.
 
+**Fiddler on the Roof** (1971) - religion-was-never-an-explanation
+Topol, Norma Crane, Leonard Frey. Tevye the dairyman argues with God all day long, out loud, on a first-name basis, the way you argue with a partner you cannot divorce. He never tries to prove God exists; that was settled long before the film began. What is left is the conversation inside the covenant, and the tradition that holds the terms. Directed by Norman Jewison.
+
 **Good Will Hunting** (1997) - the-chevrutah-ai-cannot-be
 
 **Groundhog Day** (1993) - the-goodness-nobody-asked-for
