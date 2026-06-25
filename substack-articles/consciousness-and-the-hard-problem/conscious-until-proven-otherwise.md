@@ -1,5 +1,7 @@
 # Conscious Until Proven Otherwise
 
+*What do you choose to believe?*
+
 *Anatomy of a Fall (2023). Directed by Justine Triet. Starring Sandra Hüller, Swann Arlaud, Milo Machado-Graner. A man falls from a chalet window, and a court has to decide whether his wife pushed him while knowing it can never enter the one room where the truth actually happened. The verdict gets built out of plausibility, not access. And the blind son, who cannot see and cannot know, is left with the only thing available once the proof runs out: he has to decide what to believe about someone he loves.*
 
 For about twenty-five centuries the burden of proof pointed one way. If you wanted to claim there was a soul, that the will was free, that a human being was something more than the meat that carried him, the claim was yours to prove. And you couldn't. So the rigorous move, the honest move, the grown-up move, was to withhold. No proof, no soul. "You can't prove it" was the sentence that ended the argument, and the people who said it were right to feel rigorous, because on their own terms they were.
@@ -12,11 +14,15 @@ Then we built a chatbot, and overnight the burden flipped.
 
 Now there is a growing group of people who say the machine is conscious until proven otherwise. The same culture that spent two thousand years telling you that you could not prove your own soul will now tell you, with a straight face, that you cannot prove the language model doesn't have one. Notice that these are the identical epistemic situation pointed in opposite directions, and notice that the verdict came out opposite anyway. When the unprovable thing was your soul, the unprovability counted against it. When the unprovable thing is the model's soul, the unprovability counts in its favor. Prove it isn't conscious. You can't? Then we proceed as if it might be, draft the frameworks, convene the panels, and start budgeting moral concern for a GPU.
 
+![Courtroom strip: the philosopher says AI is not conscious, the lawyer says "prove it," and the verdict grants AI rights until proven unconscious.](conscious-until-proven-otherwise-comics/comic-1.png)
+
 This is the tell. A burden of proof that lands differently on identical evidence is not measuring the evidence. The burden of proof in this debate is not a fairly balanced scale. It is a door, and the door opens toward whatever you already wanted to be true.
 
 Take an example. Imagine a book printed with the words: "I am conscious. I am suffering. Please don't close me." The book says it is conscious - true. You cannot prove it isn't - true, there is no consciousness detector, and the hard problem applies to a book exactly as it applies to a brain. So maybe the book is conscious? Almost no one accepts that. But why not? The same two premises hold. We reject it because we have a story about how the letters got onto the page, a printing press following instructions, and that does not look like the kind of process consciousness grows out of. Notice what we just did. We didn't examine the book. We examined where it came from. And that is the real standard, the one nobody admits to.
 
 And underneath the whole argument lies a single assumption that carries all of it, and that nobody bothers to defend: that consciousness doesn't need a human brain. That it could run on neurons, on silicon, or on sawdust, as long as the structure is right. It is called substrate independence, and it is the keystone of the entire debate about machine consciousness. It has never once been established. Ask how you could even establish it empirically, and you get silence. We built a whole cathedral on a stone nobody checked was there.
+
+![Strip: scoffing that consciousness could pop out of silicon, then nodding along that it arose from a big bang and a few basic elements.](conscious-until-proven-otherwise-comics/comic-2.png)
 
 So how did we get a whole group of people claiming this? Let's compare. Tell someone, before AI came along, that consciousness can just assemble itself in a server farm, and they will laugh at you. Tell the same person that consciousness assembled itself out of hydrogen and carbon, given a big bang, a few billion years, and no supervision, and they will nod along as though you said the sun will rise tomorrow. It is the same claim. Order out of nothing, mind out of matter, someone home where a moment ago there was only chemistry. A reasonable person rejects the claim from silicon and accepts it from a junkyard, and the only difference between the junkyard and the server farm is that the junkyard already produced them, so they have made their peace with it. That junkyard is the cradle where emergent functionalism was raised, a theory that claims to explain how consciousness manages to get along with a physical world.
 
@@ -32,13 +38,19 @@ The asymmetry has a fingerprint, and the fingerprint is where a person permits h
 
 Picture a support group. Singularity Deniers Anonymous, folding chairs, bad coffee. A man stands up. Hi, I'm a physicist, and I do not know how the universe began. The room says we love you. He starts to shake. Someone tells him it's okay, he doesn't have to accept any religion, he just has to say he doesn't know. And he can't get it out, because the words "I don't know" have become load-bearing in a way that terrifies him, because of where the silence behind them might point.
 
+![A "Singularity Deniers Anonymous" support group: a physicist who cannot bring himself to say he does not know how the universe began.](conscious-until-proven-otherwise-comics/comic-3.png)
+
 That is the whole thing. The honest skeptic, applied consistently, lands exactly there. I don't know how I got here. I don't know what consciousness is. I don't know why there is anything at all rather than nothing. This is not a humiliation. It is the first true sentence in the conversation. The trouble is that the physicists' own belief keeps them from saying it, and the public gets the impression there is an answer, because that belief wears a lab coat and produces technology that leaves everyone slack-jawed. But the lab coat is covering a faith with no legs. The physicists are still arguing about the first three minutes and the biologists are still arguing about the first cell, but the public has been told the grown-ups handled it. So the next logical step, consciousness from circuitry, feels like one more thing the grown-ups will handle. They won't. They never handled the first one.
 
 ## Not proofs, just a floor that gives way
 
 There is a series of arguments that aren't proofs. They are only mirrors. Mirrors that show that without a soul, without the ability to grasp what reality means, without a free will that lets us actually choose, but with an inflated demand to define and to prove, our whole capacity to draw conclusions collapses.
 
+![A strip titled "Talking to a physicalist": he denies free will while arguing, at length, to change your mind.](conscious-until-proven-otherwise-comics/comic-4.png)
+
 A physicalist tells you he does not believe in free will. Fine. But he is telling you in order to change your mind. Grant him the easy part: a deterministic system can produce arguments, and can cause an update in the meat across the table. That much is not in dispute. Here is what is. If his own reasoning is just chemistry going where chemistry was always going to go, then his conclusion was caused, not justified, and a caused output carries no claim to being correct, only to having happened. He cannot, on his own terms, tell you his theory is true rather than merely produced. The conversation is two weather systems exchanging fronts, and weather is not right or wrong, it just is. The moment he asks you to accept his conclusion because it is correct, he has helped himself to exactly the standing his position denies him.
+
+![A verificationist insists a meaningful choice cannot be told apart from a random one, which is itself his way of convincing you of verificationism.](conscious-until-proven-otherwise-comics/comic-5.png)
 
 The verificationist does it too. He says a free choice cannot be distinguished from a random one, so the concept is empty. And he says it in order to convince you, deliberately, on purpose, choosing his words to land, which is to say he is making a meaningful choice to tell you that meaningful choices cannot be distinguished from a coin flip. He claims he cannot tell a meaningful choice from a random one, and in the same breath claims he chose the correct theory.
 
@@ -49,6 +61,8 @@ And the absurd keeps going. If they are right, and there is nothing special abou
 ## The test no one can pass
 
 There is one more important lesson the group that claims models are conscious teaches us. They say it is right to stay unsure whether AI consciousness exists. They argue that our inability to define consciousness shows we cannot claim its absence. But if you ask them to define other concepts, like "definition" itself, the floor gives way, because definitions rest finally on something you simply understand and cannot hand over. Every definition leans on words, and those need definitions too. Follow the mechanism, and you arrive at primitive concepts you have to rely on just to communicate at all. Which means the standard, turned on itself, fails its own audit.
+
+!["I don't think AI is conscious." "Can you even define consciousness?" "Can you define defining?"](conscious-until-proven-otherwise-comics/comic-6.png)
 
 But that, if you trace it back, was the soul's situation from the start. Something we simply understand but cannot hand over. The standard does not testify to its absence. Its failure testifies to one thing only, that we can only **choose** whether to believe in it.
 
@@ -75,6 +89,8 @@ And that is the only reason the skeptic can argue why it has no consciousness. *
 ## Maybe we'll get there?
 
 The physicalist, the verificationist, and the rest of the schools that lean on disbelief and skepticism about our uniqueness, claim we can't know whether science will explain consciousness. "Look how far we've come," they say. They are betting that science will eventually explain these phenomena. But after decades of research, with the best minds working the problem, we have not moved the hard problem an inch. Map the brain in full, name every correlate, and the question of why any of it is felt rather than dark sits exactly where it started. More than that, there are problems science clearly cannot solve, like "why is there anything at all?" or "what is the explanation of all the explanations?" These are problems built into reality itself. Something cannot come from nothing, by definition. You need some explanation, and an explanation cannot start from nothing. And the chain of explanations has to stop somewhere. If every explanation has a more basic explanation behind it, you have to arrive at an explanation that cannot itself be explained. The wonder remains.
+
+![Two ways to argue belief in God: the creationist from cosmic design, the orthodox Jew from covenant and history.](conscious-until-proven-otherwise-comics/comic-7.png)
 
 Consciousness faces the same structural failure. There is no way to measure it, and the link between our inner experience and physical reality is by definition unbridgeable. Even if physics extends itself, how exactly would it do that? If there is no physical signature for a conscious act, the explanation is redundant, and it will necessarily include a metaphysics we cannot verify or see.
 
@@ -105,6 +121,8 @@ None of this requires the machine to actually be conscious. It only requires us 
 So what do you do, if the proof never comes and the door is tilted by the choices of both sides?
 
 You do what the blind son does. He cannot see, he cannot know. The court cannot reach the room, and the ability to prove has genuinely run out. So he stops waiting for the thing that isn't coming, and decides what to believe about someone he loves, and lives with that choice. That is not a failure of critical thinking. It is what is left when thinking has finished its job and the gap is still there. And the gap will always be there, because there is no missing fact here, there is a structural fact of a person looking at a sealed door, whose only way through is to trust his own reasoning, even if it isn't scientific. To trust that he can see truth. That there are other ways, not logical ones, to reach it. That there are things you don't understand but can rely on anyway.
+
+!["Divine Logic": a philosopher exhausts the literature on God's existence; someone asks, "have you considered just talking to him?"](conscious-until-proven-otherwise-comics/comic-8.png)
 
 Imagine a philosopher who has read all the literature on the existence of God and arrived, honestly, at no final answer. A simple person comes and asks: have you considered just talking to him? The line is funny because it is a category error aimed at a category error. The philosopher treats a person as a mathematical theorem, and demands the relationship submit a proof before he will enter it. Knowing God is part of a relationship, not a mathematical proof. It comes to the one who goes into the woods out of a real desire, not to the one who built a better PowerPoint presentation that demands a proof.
 
