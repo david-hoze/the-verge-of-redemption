@@ -129,6 +129,10 @@
 
 - **substack-articles/angel-chidushim/three-descents.md** - "Three Descents, One Structure" - Three teachings share one mechanism: formless light enters vessels through descent, not force; the garment is the thing itself; from the Will of Wills to compassion for the body's smallness
 
+## Philosophy in Plain English
+
+- **substack-articles/philosophy-in-plain-english/what-proof-means.md** - "What Proof Means" - Proof transmits certainty from premises to conclusions but generates none; the foundations are always unproven; "you can't prove it" is a standard nothing meets
+
 ## Geopolitics & Investigation
 
 - **substack-articles/geopolitics-and-investigation/americas-suez-moment-the-hormuz-crisis.md** - "America's Suez Moment?" - The Hormuz crisis as structural power transition

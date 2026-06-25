@@ -15,6 +15,7 @@
   - `geopolitics-and-investigation/` - Geopolitics, investigation pieces
   - `jewish-law-and-ai/` - Halakha and AI intersections
   - `narrative-and-fiction/` - Fiction, narrative pieces
+  - `philosophy-in-plain-english/` - Philosophy for a general audience, no Torah hook
 - `substack-notes/` - Short notes for Substack posting
   - `GUIDE.md` - Production rules for advice notes
   - `wellness/` - Advice batches by source (gemara, likutey-halachot, marriage-counseling, shiurei-harav, etc.)
