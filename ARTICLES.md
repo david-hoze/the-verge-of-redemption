@@ -2,6 +2,7 @@
 
 ## Consciousness & the Hard Problem
 
+- **substack-articles/consciousness-and-the-hard-problem/conscious-until-proven-otherwise.md** - "Conscious Until Proven Otherwise" - The consciousness debate runs on a one-way burden of proof; the same unprovability that once denied the soul now grants it to the machine; the exit is relational, not evidential
 - **substack-articles/consciousness-and-the-hard-problem/the-golden-calf-you-built-to-suffer.md** - "The Golden Calf You Built to Suffer" - Dismantles "treat AI as conscious to be safe" as idolatry
 - **substack-articles/consciousness-and-the-hard-problem/the-gap-where-you-live.md** - "The Gap Where You Live" - Defends the explanatory gap; quantum indeterminacy as coherent scenario for consciousness
 - **substack-articles/consciousness-and-the-hard-problem/the-criterion-problem.md** - "The Criterion Problem" - Technical defense of qualia against conceptual dissolution

@@ -2,6 +2,9 @@
 
 ## Used
 
+**Anatomy of a Fall** (2023) - conscious-until-proven-otherwise
+Sandra Hüller, Swann Arlaud, Milo Machado-Graner. A man falls from a chalet window and a court has to decide whether his wife pushed him, knowing it can never enter the one room where the truth happened. The verdict is built from plausibility, not access. The blind son, who cannot see and cannot know, is left with the only thing available once the proof runs out: he has to decide what to believe about someone he loves. Directed by Justine Triet.
+
 **12 Angry Men** (1957) - what-proof-means
 Henry Fonda, Lee J. Cobb, Martin Balsam. Eleven jurors vote guilty. One votes not guilty - not because he knows the boy is innocent, but because he isn't sure of anything the others are sure of. He doesn't prove innocence. He shows that the old man couldn't have reached the door in time, that the woman across the tracks wore glasses, that the knife wasn't one of a kind. One by one, the certainties dissolve - not into doubt, but into premises nobody had examined. Directed by Sidney Lumet.
 
