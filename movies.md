@@ -2,6 +2,9 @@
 
 ## Used
 
+**12 Angry Men** (1957) - what-proof-means
+Henry Fonda, Lee J. Cobb, Martin Balsam. Eleven jurors vote guilty. One votes not guilty - not because he knows the boy is innocent, but because he isn't sure of anything the others are sure of. He doesn't prove innocence. He shows that the old man couldn't have reached the door in time, that the woman across the tracks wore glasses, that the knife wasn't one of a kind. One by one, the certainties dissolve - not into doubt, but into premises nobody had examined. Directed by Sidney Lumet.
+
 **A Beautiful Mind** (2001) - the-pattern-that-ate-the-world
 Russell Crowe, Jennifer Connelly, Ed Harris, Paul Bettany. A mathematician whose gift for seeing patterns earns him a Nobel Prize also produces hallucinations he cannot distinguish from reality. The same faculty - the same machinery - pointed at game theory produces equilibrium. Pointed at newspapers, it produces psychosis. He doesn't recover by stopping the pattern-matching. He recovers by learning not to follow it. Directed by Ron Howard.
 
@@ -29,6 +32,9 @@ A mediocre composer who understands greatness perfectly watches a genius who can
 **American Beauty** (1999) - harder-than-the-war-of-gog-and-magog
 A suburban father dismantles his own life in pursuit of beauty and freedom; what he finds is neither. Directed by Sam Mendes.
 
+**A Separation** (2011) - the-split-stones
+Peyman Moaadi, Leila Hatami, Sareh Bayat, Shahab Hosseini. A wife wants to leave Iran for their daughter's future. A husband cannot leave his father with Alzheimer's. Neither is wrong. The film refuses to resolve the difference - cuts to black before the daughter answers which parent she chooses. The most honest ending in cinema, because there is no answer. Directed by Asghar Farhadi.
+
 **Anomalisa** (2015) - substrate
 Kaufman & Johnson. Thewlis, Leigh, Noonan. Everyone has the same face. The same voice. Nothing is wrong. Everything is unbearable. A man hears one real voice in a hotel hallway and holds onto it for a night. By morning, it's gone. The most devastating film about loneliness ever made with puppets.
 
@@ -44,11 +50,17 @@ Stephane Audran, Bodil Kjer, Birgitte Federspiel. A Parisian chef exiled to an a
 **Rear Window** (1954) - the-wall-nobody-built
 James Stewart, Grace Kelly, Thelma Ritter. A photographer with a broken leg watches his neighbors through open windows and suspects murder. Hitchcock spends two hours asking whether the watching was justified. The Talmud spends no time on that question. Directed by Alfred Hitchcock.
 
+**Bridges of Madison County, The** (1995) - the-exception-who-built-the-temple
+Meryl Streep, Clint Eastwood. An Italian war bride on an Iowa farm has four days with a man who sees her. Her hand is on the door handle. She does not open it. Eastwood treats her staying as the larger act. Directed by Clint Eastwood.
+
 **Catch Me If You Can** (2002) - the-confidence-is-the-bug
 Leonardo DiCaprio, Tom Hanks, Christopher Walken. A sixteen-year-old impersonates a pilot, a doctor, and a lawyer - not maliciously, but sincerely. He loved the institutions he faked. The uniform was real. The badge was real. The competence was not. Nobody stopped him because confidence is what the systems are designed to detect. Then a boy bleeds and Frank faints. Directed by Steven Spielberg.
 
 **Casablanca** (1942) - what-divorce-is-for
 Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains. A nightclub owner puts the woman he loves on a plane because the leaving is what preserves the love. The most precise act of departure in cinema - with paperwork, at an airport, at exactly the right time. Directed by Michael Curtiz.
+
+**Blue Valentine** (2010) - the-gaze-that-scrambles
+Ryan Gosling, Michelle Williams. Two timelines: falling in love on 16mm film, falling apart on digital. The same man, the same woman, the same eyes. The only thing that changed was how they looked at each other. Directed by Derek Cianfrance.
 
 **Being John Malkovich** (1999) - the-vessel-that-volunteered
 John Cusack, Cameron Diaz, Catherine Keener, John Malkovich. A failed puppeteer discovers a portal into John Malkovich's head. People pay to crawl through the tunnel for fifteen minutes of being someone else. Then someone figures out how to stay. The vessel becomes permanent. The person inside is not Malkovich anymore. The question everyone asks is what happened to Malkovich. The real question is what was so unbearable about being themselves. Directed by Spike Jonze.
@@ -134,11 +146,17 @@ Fritz Lang built the blueprint a century early: a city split into thinkers and l
 **Minority Report** (2002) - the-operating-system-ai-governance
 A pre-crime system that punishes murders before they happen. The system works perfectly - until the man who runs it is next. Directed by Steven Spielberg.
 
+**Marriage Story** (2019) - the-council-that-became-a-court
+Adam Driver, Scarlett Johansson, Laura Dern, Ray Liotta, Alan Alda. Two people who agreed to divorce without lawyers end up screaming in a hallway because the legal system needed opponents and made them. Directed by Noah Baumbach.
+
 **Modern Times** (1936) - the-machine-that-ate-everything
 A factory worker on an assembly line tightens bolts until the rhythm enters his body; he cannot stop. Directed by Charlie Chaplin.
 
 **Moon** (2009) - the-soul-in-the-wire
 A man mining helium on the moon discovers another version of himself is a clone; they must decide who is expendable. Directed by Duncan Jones.
+
+**Ordinary People** (1980) - the-palaces-of-exchange
+Timothy Hutton, Mary Tyler Moore, Donald Sutherland, Judd Hirsch. A mother substitutes management for presence after her son drowns. The house is immaculate. The offering has been switched. Mary Tyler Moore plays warmth's absence without a single false note. Directed by Robert Redford.
 
 **Network** (1976) - the-6-trillion-symptom
 Peter Finch as Howard Beale. A prophet's genuine rage gets packaged into a prime-time product - the system doesn't cure the despair, it monetizes it. Directed by Sidney Lumet. Also starring Faye Dunaway and William Holden.
@@ -230,6 +248,9 @@ A man discovers his entire life is a television show - every relationship script
 **They Live** (1988) - the-purge-that-wasnt
 A drifter finds sunglasses that reveal the truth: aliens are running society through subliminal messages hidden in plain sight. Without the glasses, everything looks normal. With them, every billboard says "OBEY." The system works because nobody wants to look. Directed by John Carpenter.
 
+**When Harry Met Sally** (1989) - fire-and-water
+Billy Crystal, Meg Ryan. A man and a woman argue for twelve years about whether men and women can be friends. He speaks in principles. She speaks in specifics. He solves. She connects. On New Year's Eve he runs across Manhattan and lists the specific things he loves about her. Fire learned to speak water. Directed by Rob Reiner.
+
 **WarGames** (1983) - the-only-winning-move
 A teenager accidentally connects to a military supercomputer and starts Global Thermonuclear War. The computer runs every strategy. Each one is optimal. Each one ends the same way. "A strange game. The only winning move is not to play." Directed by John Badham.
 
@@ -290,6 +311,15 @@ Tim Robbins, Morgan Freeman, Bob Gunton, Clancy Brown. A banker convicted of a m
 **Inception** (2010) - the-architect-who-goes-home-at-night
 Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy, Ken Watanabe, Cillian Murphy. A team enters other people's dreams to steal or plant ideas. An architect designs the dream; the dreamer's subconscious fills it with hostile projections. A spinning top is the only test: if it falls, you're awake. The deeper you go, the more the supervisor is absent and the imagination runs unsupervised. At the end, the man walks toward his children and doesn't check the top. Directed by Christopher Nolan.
 
+**Julie & Julia** (2009) - the-compliment-that-missed
+Meryl Streep, Amy Adams, Stanley Tucci, Chris Messina. Two women, two kitchens, fifty years apart. Paul Child sees Julia - not what she makes. The blog audience sees 524 recipes. One gaze lands on the person. The other lands on the product. The difference is not sincerity. It is where the gaze lands. Directed by Nora Ephron.
+
+**The Family Stone** (2005) - the-man-in-the-middle
+Sarah Jessica Parker, Diane Keaton, Dermot Mulroney, Luke Wilson, Claire Danes, Rachel McAdams. Everett brings his girlfriend home for Christmas. The family rejects her. He stands in the middle and chooses neither. His brother Ben builds the bridge in hours that Everett couldn't build in years - not because he had a technique, but because he chose her out loud. Directed by Thomas Bezucha.
+
+**Fences** (2016) - the-system-with-many-wheels
+Denzel Washington, Viola Davis, Jovan Adepo, Stephen Henderson, Mykelti Williamson. Troy Maxson builds a fence every Saturday while his marriage dies at the center. Every peripheral wheel is turning - the paycheck, the discipline, the provision. The central wheel, the one where Rose lives, has stopped. Rose names the system: she planted herself inside him and waited to bloom, and the soil was hard and rocky. Directed by Denzel Washington.
+
 ## Collaboration Articles
 
 Movies used in collaboration articles not published on David's Substack.
@@ -299,3 +329,6 @@ Jim Carrey as a man who gets God's powers and discovers that answering every pra
 
 **PK** (2014)
 An alien stranded on Earth tries to understand human religion by taking every claim literally. Aamir Khan as the most honest theologian in cinema - because he has no theology. Directed by Rajkumar Hirani.
+
+**The Prince of Tides** (1991) - the-silence-that-has-no-name
+Nick Nolte, Barbra Streisand, Blythe Danner, Kate Nelligan. A man flies to New York to help his sister's psychiatrist understand why she tried to kill herself. In the process, he unearths the thing they both buried - a night when three escaped convicts broke into their home and raped them both. The sister wrote about it in code. The brother said nothing for thirty years. Directed by Barbra Streisand.
