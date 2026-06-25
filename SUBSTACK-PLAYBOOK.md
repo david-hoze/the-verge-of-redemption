@@ -114,6 +114,7 @@ Every Substack URL follows one of these patterns. When navigating programmatical
 - **post-chat.mjs** - Post in a Substack chat thread. Verified working (one run).
 - **substack-activity.mjs** - Check activity page. URL fixed to `/activity`.
 - **substack-login.mjs** - Open browser for login. Session persists.
+- **fetch-likes.mjs** - Download a profile's likes + replies feed back to a cutoff date. `node substack/fetch-likes.mjs [user-id] [since-YYYY-MM-DD] [output.json]`. Hits `/api/v1/reader/feed/profile/{id}?types[]=like&types[]=replies` (the Likes tab endpoint), cursor-paginated. 429 backoff + incremental save. David's user id: `379279962`. Verified working (pulled ~600 items back to May 2026). Each item: `context.type` (note_like/note_reply/post_like/comment_like), `context.timestamp`, `comment` (the liked note OR David's reply - `comment.handle==='davidhoze'` means it's his reply), `parentComments` (what a reply answers).
 
 ## Unverified / Needs Work
 

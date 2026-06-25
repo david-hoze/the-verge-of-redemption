@@ -136,6 +136,7 @@ All scripts live in `substack/` and share a framework via `substack/lib.mjs` (br
 - **`post-chat.mjs`** - Post in a Substack chat thread. Usage: `node substack/post-chat.mjs <chat-url> <reply-file> [--dry-run]`
 - **`fetch-comment-thread.mjs`** - Fetch a comment thread via API. Usage: `node substack/fetch-comment-thread.mjs <comment-id-or-url> [--replies-only]`
 - **`fetch-notes.mjs`** - Download all notes from a profile. Usage: `node substack/fetch-notes.mjs [user-id] [output-dir]`
+- **`fetch-likes.mjs`** - Download a profile's likes + replies feed back to a cutoff date. Usage: `node substack/fetch-likes.mjs [user-id] [since-YYYY-MM-DD] [output.json]` (defaults: David, 2026-05-01). Handles 429 backoff, saves incrementally.
 - **`login.mjs`** - Open browser for Substack login. Session persists across scripts.
 - **`activity.mjs`** - Check activity/notifications. Usage: `node substack/activity.mjs [url]`
 - **`explore.mjs`** - Browse explore/feed. Usage: `node substack/explore.mjs [url]`
