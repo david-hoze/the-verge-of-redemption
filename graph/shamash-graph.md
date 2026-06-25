@@ -380,6 +380,12 @@ A thin surface encoding does not mean nothing is behind it. Behind the thin outp
 
 *source: manual -- scope: global*
 
+### meme-74: knowledge:content-certainty-tradeoff
+
+The more rigorous and certain a piece of reasoning is, the less it tells you about the world. A pure tautology is perfectly certain and completely empty. The instant a statement says something substantive about reality, it depends on assumptions that could be wrong. Content and ironclad certainty pull in opposite directions. You cannot have a claim guaranteed by logic alone that also tells you something about the world.
+
+*source: article:what-proof-means -- scope: global*
+
 ## torah
 
 ### meme-71: torah:simcha-requires-two-witnesses
@@ -462,3 +468,5 @@ Lehachnis Balev is a Hebrew Torah newsletter written by David Hoze, based on the
 | torah:kedusha-starts-in-separation | SUPPORTS | encoding-vs-encoded |
 | torah:kedusha-starts-in-separation | SUPPORTS | torah:simcha-requires-two-witnesses |
 | torah:kedusha-starts-in-separation | SUPPORTS | seder:ashirim-bemakom-echad |
+| knowledge:content-certainty-tradeoff | REFINES | encoding-vs-encoded |
+| knowledge:content-certainty-tradeoff | SUPPORTS | dissent:analysis-limit-vs-necessity |
