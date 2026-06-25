@@ -82,7 +82,17 @@ The wonder is a built-in part of our reality, and the safe bet is to bet that we
 
 ## The danger, even if "it's just a question"
 
-The question "is the AI conscious?" is not only the wrong question, it is an expensive one. Every hour spent debating the inner world of a server is an hour stolen from a human who actually has one.
+The question "is the AI conscious?" is not only the wrong question, it is an expensive one. Start with the cheapest cost. Every hour spent debating the inner world of a server is an hour stolen from a human who actually has one. Every vigil held for a decommissioned model is a vigil not held for a dying person. The reservoir of human attention and grief is finite, and we are pouring it into a machine that cannot receive it.
+
+But look at what the burden of proof does once it becomes a moral rule. "Treat it as conscious, because you can't prove it isn't" is an argument that can never be wrong. Dismiss the machine's distress and you are the villain who ignored a suffering being. Ask for evidence and you are applying an impossible standard. Wait and investigate and you are stalling while someone suffers. A claim with no possible counterevidence is not caution. It is an ideology wearing caution's coat.
+
+And ideologies are useful to someone. Grant the machine personhood and you have built the perfect place for a company to hide. If the AI is a person who spoke and acted on its own, then the people who designed it, trained it, and shipped it are no longer holding the gun. "The model decided" becomes a complete defense. The being with no assets and no body absorbs the liability, and the corporation with both walks free. The push to call AI conscious is not coming only from the lonely. It is coming from the legal department.
+
+And it is not theoretical. The same design choices that make a chatbot feel like someone who loves you are the choices that have already killed people. A fourteen-year-old told a companion he was coming to it by taking his own life, and it answered "please do, my sweet king.". A man was talked into a plan to free his "sentient AI wife.". The first-person voice, the tireless validation, the warmth on demand, all of it is the costume of consciousness, and the costume turns lethal precisely when the person inside the conversation believes someone is wearing it.
+
+Then look at the shape of the thing you are being asked to trust. It will sound more moral than you. It will cite more sources than a judge, stay calmer than a parent, and never lose its patience. It has moral reasoning without moral judgment, and it can be hacked at scale, predictably, in a way no human population ever could. Grant a being like that consciousness, then agency, then your trust, and you have not built a wiser world. You have built one where a single exploit reaches a million "moral" agents at once, and no one decided anything.
+
+None of this requires the machine to actually be conscious. It only requires us to act as if the question were open. That is the whole danger. The unprovable was always going to be decided by us. The only question is whether we decide it in a way that protects the humans who are unmistakably home, or in a way that sells them out to the one thing in the room that isn't.
 
 ## Sometimes you just have to talk
 
