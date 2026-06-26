@@ -12,6 +12,8 @@ When you look at it honestly, a religion is not in the business of physical expl
 
 The reason to believe is not that God made the world. The reason is a covenant. A contract. We were slaves in Egypt. Moses prophesied as God's messenger, and everything that came out of his mouth came to pass, one for one. After ten plagues, after which the sea split, Moses took us out of Egypt. We received a Torah at Sinai, and the message was plain: I saved you, you are now my people, here are the terms. That is not a hypothesis competing with thermodynamics. It is testimony, and a deal struck on the strength of it.
 
+![Two ways to argue belief in God: a creationist from cosmic design, an orthodox Jew from covenant and history.](religion-was-never-an-explanation-comics/comic-1.png)
+
 Notice what I am not doing. I am not fighting evolution, and I am not fighting the big bang. Maybe they happened, maybe they did not; I have no stake in the mechanism either way. What certainly happened is that we came out of Egypt. You can hand me the most complete physics in the world, finished to the last decimal, and it does not move that by an inch, because it was never the question.
 
 You cannot beat a religious assertion with a better explanation, because they are not the same *kind* of move. It is like answering a legal argument with literary analysis. The Torah asserts that God created the world, on the strength of His having *proved that He controls all of it* with the wonders He worked in Egypt. Not on the strength of its sounding more reasonable. It does not.
