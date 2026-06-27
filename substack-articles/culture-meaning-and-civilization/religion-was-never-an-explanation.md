@@ -58,7 +58,7 @@ What is a firmament? Fine, it's some kind of thing that separates between water 
 
 **7** And God made the firmament, and separated between the waters under the firmament and the waters above the firmament; and it was so.
 
-Fine, God already said let there be a firmament (let there in Hebrew means being). Why is He now *making* it? Didn't it already come to be? And why does He again need to say "and it was so"?
+Fine, God already said let there be a firmament (the Hebrew "let there be" is a word of being, not making). Why is He now *making* it? Didn't it already come to be? And why does He again need to say "and it was so"?
 
 **8** And God called the firmament heaven; and there was evening and there was morning, a second day.
 
