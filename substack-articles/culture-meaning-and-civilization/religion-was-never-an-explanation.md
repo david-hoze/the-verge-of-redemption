@@ -176,13 +176,15 @@ And even if the people who received the verses had said, "oh, it's just a creati
 
 I want to dwell for a moment on the claim itself, "what we know today," even though I have already shown in several ways that it is irrelevant in any case.
 
-"What we **know** today"? Let us admit the truth. **We will never know what really was there.** The theories can be magnificent. They can be convincing in a way that raises, in my eyes, the probability that they happened. And they can turn out to be a complete mistake. In the end God can always come and say, "The truth is, I did it a completely different way. And by the way, you're missing a few constants in the equations."
-
-"But I don't believe in God!" the objector will shout. True, but that is what is called "begging the question." If you do not believe that God can come in the end and say, I created it this way, then you also do not believe that He created it, and so a priori you reject the claim. I have no problem with that, but it means you also cannot refute the Torah, because you have already smuggled in, without noticing, the assumption that it is refuted, and then, how surprising, you refuted it.
+"What we **know** today"? Let us admit the truth. **We will never know what really was there.** The theories can be magnificent. They can be convincing in a way that raises, in my eyes, the probability that they happened. And they can turn out to be a complete mistake. There is no way to verify.
 
 And of course all of this is utterly irrelevant.
 
 Human curiosity is a blessed thing. I do not see much point in investigating the past, but if someone enjoys it, good for him. Maybe it is even true. But as we saw, it has nothing whatsoever to do with anything connected to the Torah or to faith. The war is unnecessary.
+
+## What about the age of the world?
+
+On the face of it, the verses show that the world was created in six days. But as we saw in the analysis, what does "days" even mean without a sun and a moon? According to Kabbalah, the only text that interprets these verses in full, time itself is also a created thing, and the worlds Kabbalah describes are the true meaning of the verses. Some of them are worlds above time. So how can you even begin to compare the time of Genesis with the time the scientists estimate? The whole comparison is ridiculous: you are setting theories of how the world formed against a Kabbalistic text.
 
 ## You don't re-prove a diploma
 
