@@ -32,6 +32,8 @@ You could also read the Torah and come away with the impression that it suffers 
 
 And even if we grant it, the whole discussion is silly. Belief, as we wrote, does not rest on this. Even if the Torah is ignorant, or not clever enough, it makes no difference whatsoever. Even if Genesis 1 really did describe a primitive scientific theory that has been disproved, the Jewish people would still not be exempt from it. God would come and say, "True, that really is how I ran things once, but I have made a few upgrades since." Or, "True, I put that in to confuse you." It makes no difference. *The moment* God took us out of Egypt, none of that applies. If someone proved to you that he is the one fit to be your manager, and you signed a contract with him, and at the top of the contract he wrote a few wrong things about gravity, the contract is still **binding**. The exodus still happened.
 
+![Faith and Explanation: a secular man believes in evolution; the religious man says "magic" is no explanation to him either, and he believes not because the Torah explains anything but because God showed He could split the sea and sustain a people for forty years.](religion-was-never-an-explanation-comics/comic-2.png)
+
 ## Analysis (slightly cynical) of the verses
 
 Let us look at the verses. I am going to be a bit cynical, so bear with me a little:
