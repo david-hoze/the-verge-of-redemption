@@ -41,7 +41,7 @@ Let us look at the verses. I am going to be a bit cynical, so bear with me a lit
 **1** In the beginning God created the heavens and the earth.
 **2** And the earth was formless and void, and darkness was over the face of the deep; and the spirit of God hovered over the face of the waters.
 
-Deep? Water? Darkness? What is the deep? And what is formless and void? Why is there both formless, and void, and also darkness, which is somehow over the face of a deep. Oh, and the spirit of God hovers over the face of the waters. The spirit of God... is that even a physical concept? I wonder how it hovered, maybe it was with air pressure... and where did the water come from? Fine, let's keep going.
+Deep? Water? Darkness? What is the deep? The earth was formless? What does that mean? Why is there darkness, which is somehow over the face of a deep. Oh, and the spirit of God hovers over the face of the waters. The spirit of God... is that even a physical concept? I wonder how it hovered, maybe it was with air pressure... and where did the water come from? Fine, let's keep going.
 
 **3** And God said, let there be light; and there was light.
 **4** And God saw the light, that it was good; and God separated between the light and the darkness.
@@ -58,7 +58,7 @@ What is a firmament? Fine, it's some kind of thing that separates between water 
 
 **7** And God made the firmament, and separated between the waters under the firmament and the waters above the firmament; and it was so.
 
-Fine, God already said let there be a firmament. Why is He now *making* it? Didn't it already come to be? And why does He again need to say "and it was so"?
+Fine, God already said let there be a firmament (let there in Hebrew means being). Why is He now *making* it? Didn't it already come to be? And why does He again need to say "and it was so"?
 
 **8** And God called the firmament heaven; and there was evening and there was morning, a second day.
 
@@ -78,7 +78,7 @@ Fine, that sounds a little physical.
 
 **12** And the earth brought forth grass, herb yielding seed after its kind, and tree producing fruit whose seed is in it, after its kind; and God saw that it was good.
 
-Well, didn't they already say this? If this were a physics book, I think they would delete this line. Besides, the tree is no longer a fruit tree. It's just a tree. Okay, I don't understand what this means. And why earlier did it produce fruit after its kind, and now not? And why again do I care that God sees it's good? What, He did something, and only afterward checked whether it was good? Enough, I don't understand a thing.
+Well, didn't they already say this? If this were a physics book, I think they would delete this line. Besides that the tree is no longer a fruit tree. It's just a tree. Okay, I don't understand what this means. And why earlier did it produce fruit after its kind, and now not? And why again do I care that God sees it's good? What, He did something, and only afterward checked whether it was good? Enough, I don't understand a thing.
 
 **13** And there was evening and there was morning, a third day.
 
@@ -148,13 +148,13 @@ Thanks on behalf of the animals. How about a little biology?
 
 **31** And God saw all that He had made, and behold, it was very good; and there was evening and there was morning, the sixth day.
 
-Great, now it's very good. But just out of curiosity, very good in terms of the theory of relativity, or in terms of quantum mechanics? Just, asking, curious.
+Great, now it's very good. But just out of curiosity, very good in terms of the theory of relativity, or in terms of quantum mechanics? Just asking out of curiosity.
 
 ---
 
 Fine, out of 31 verses, there are only 8 that can somehow be connected to a physical world we know. Again. Not a scientific claim. Just a connection that **does not seem strange** to the world we know. Does that sound like a science book?
 
-And the verses with the strange statements speak of a world that has nothing to do with ours. Immediately, as I prefaced, the objector will jump up and say, "There, that proves how ignorant they were." That is a strange claim. We are talking about things that have nothing to do with our daily life. Separating between light and darkness? Making something after it already came to be? Separating between water and water that sits above our heaven, that no one has ever seen? That is not ignorance, it is just strange. Moreover, the Sages knew how to calculate the orbit of the moon with astronomical precision. The Hebrew calendar is accurate to this day, with a full moon at the middle of every month, and the months aligning with the seasons every year. It seems to me they had non-trivial cosmological knowledge. Strange verses do not testify to ignorance, they testify that **something else entirely** is written there.
+And the verses with the strange statements speak of a world that has nothing to do with ours. Immediately, as I prefaced, the objector will jump up and say, "There, that proves how ignorant they were." That is a strange claim. We are talking about things that have nothing to do with our daily life. Separating between light and darkness? Making something after it already came to be? Separating between water and water that sits above our heaven, that no one has ever seen? That is not ignorance, it is just strange. Moreover, the Sages knew how to calculate the orbit of the moon with astronomical precision. The Hebrew calendar is accurate to this day, with a full moon at the middle of every month, and the months aligning with the seasons every year. They also had a very advanced knowledge of anatomy, so much that the Chazon Ish (a famous Hebrew scholar in the 20th century) once advised brain surgeons, only from knowledge he found on tractate Chulin. It seems to me they had non-trivial anatomical and cosmological knowledge. Strange verses do not testify to ignorance, they testify that **something else entirely** is written there.
 
 And besides. Again. We do not rely on the Torah's ability to describe the physical world. We rely on the fact that we came out of Egypt. To object to that is simply meaningless.
 
@@ -206,7 +206,7 @@ And this is not the inheritance of the Jews alone. The exodus, and the whole fra
 
 Imagine what it would have taken to convince that many people to accept two new religions founded on an event they had never heard of. Something as large as a whole people walking out of an empire would have had to leave a great mark on humanity, and surely no one would have accepted it unless he already **knew of it**.
 
-If you have a more reliable way to carry a fact across that much time, come and name one, because the standard demanded of the Jewish tradition is a standard nothing else in history meets. Everywhere else we accept far weaker evidence without blinking. The memory of the Holocaust rests on a thinner apparatus than the exodus, fewer means of remembering and fewer institutions, and no one seriously argues that a few generations from now its denial should count as reasonable doubt.
+If you have a more reliable way to carry a fact across that much time, come and name one, because the standard demanded of the Jewish tradition is a standard nothing else in history meets. Everywhere else we accept far weaker evidence without blinking. The memory of the Holocaust rests on a thinner apparatus than the exodus (we have a special day for that), fewer means of remembering and fewer institutions, and no one seriously argues that a few generations from now its denial should count as reasonable doubt.
 
 On top of that, it is also not the unfalsifiable hand-waving its critics assume. The Torah places bets in history. Prophecy is a bet that can lose. And indeed, the Torah prophesies that Israel will be exiled and return, which is what happened. It also says that the end of the world as we know it will come in another 234 years. A faith that says "this will come to pass" has put something on the table that the world can knock over. That is the opposite of a claim engineered to be safe.
 
