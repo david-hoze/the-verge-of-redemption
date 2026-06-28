@@ -1,0 +1,16 @@
+# Normalize line endings. Text files are stored with LF in the repo, so a
+# CRLF/LF flip from an editor re-saving a file no longer shows up as a change.
+* text=auto
+
+# Binary types: never apply line-ending conversion.
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.ico  binary
+*.pdf  binary
+*.mp3  binary
+*.wav  binary
+*.zip  binary
+*.gz   binary
