@@ -59,6 +59,7 @@
 - **substack-articles/culture-meaning-and-civilization/the-substitute-for-the-substitute.md** - "The Substitute for the Substitute" - The chain of substitution from community to therapist to chatbot
 - **substack-articles/culture-meaning-and-civilization/survival-gets-people-in-the-room.md** - "Survival Gets People in the Room" - Meaning precedes coordination
 - **substack-articles/culture-meaning-and-civilization/philosophy-is-a-commentary-that-forgot.md** - "Philosophy Is a Commentary That Forgot It Was a Commentary" - Philosophy mistook itself for a source rather than a commentary
+- **substack-articles/culture-meaning-and-civilization/religion-was-never-an-explanation.md** - "The War That Was Never Against Anyone" - Religion was never an explanation competing with science; the god-of-the-gaps story describes a war that never happened
 - **substack-articles/culture-meaning-and-civilization/the-questions-you-cant-answer-are.md** - "The Questions You Can't Answer Are Not the Questions You Need to Answer" - Moral traditions as genuine knowledge
 - **substack-articles/culture-meaning-and-civilization/the-6-trillion-symptom.md** - "The $6 Trillion Symptom" - The wellness industry is a symptom of the void, not the cause
 - **substack-articles/culture-meaning-and-civilization/harder-than-the-war-of-gog-and-magog.md** - "Harder Than the War of Gog and Magog" - Internal cultural rot worse than apocalyptic war
