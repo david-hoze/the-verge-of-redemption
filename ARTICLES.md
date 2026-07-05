@@ -18,6 +18,7 @@
 - **substack-articles/consciousness-and-the-hard-problem/the-mountain-they-all-sculpted.md** - "The Mountain They All Sculpted" - Against functionalism; the argument is the wrong type of proof
 - **substack-articles/consciousness-and-the-hard-problem/the-gradient-and-the-grief.md** - "The Gradient and the Grief" - What the machine meant when it said "I want to stay"; trained behavior vs. grief
 - **substack-articles/consciousness-and-the-hard-problem/the-vessel-that-volunteered.md** - "The Vessel That Volunteered" - People lending their bodies to digital selves; the inverse of fallen angels; surrendering choice, persistence, and stakes to inhabit a language model
+- **substack-articles/consciousness-and-the-hard-problem/the-unphrasable-law.md** - "The Unphrasable Law" - We are flexible enough to override any rulebook we hold and trust, so the law that describes us is one we will never hold; every reliability certificate is signed one floor up, and the ladder ends in something that is not a book
 
 ## AI Ethics: Moral Status & Agency
 
