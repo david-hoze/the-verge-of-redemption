@@ -200,6 +200,9 @@ A jazz musician dies on his biggest day and discovers that the spark he spent hi
 **Stalker** (1979) - the-map-nobody-asked-for
 A guide leads a writer and professor through a forbidden zone toward a room that grants your deepest wish. Directed by Andrei Tarkovsky.
 
+**Stranger than Fiction** (2006) - the-unphrasable-law
+An ordinary man begins to hear a narrator describing his life - and the moment the description reaches him, he stops obeying it. The author, one floor up, discovers that a story whose subject has read the manuscript can no longer end as written. Directed by Marc Forster.
+
 **Synecdoche, New York** (2008) - the-sound-of-no-one-singing
 A theater director builds a full-scale replica of New York inside a warehouse where he stages his own existence. Directed by Charlie Kaufman.
 
