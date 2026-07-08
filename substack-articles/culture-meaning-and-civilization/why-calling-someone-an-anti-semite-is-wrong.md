@@ -1,5 +1,7 @@
 # Why Calling Someone an Anti-Semite Is Wrong
 
+*American History X (1998). Directed by Tony Kaye. Starring Edward Norton, Edward Furlong, Avery Brooks. A neo-Nazi comes out of prison trying to pull his younger brother back from the hatred he taught him. What breaks his own hatred is not being silenced or shouted down - it is a Black teacher and a Black fellow inmate who treat him as a reasonable man and ask whether any of it has made his life better. Nobody calls him a monster, and that is why he stops being one.*
+
 There is increasing criticism of the affairs going on in Israeli warfare. There is also increasing evidence of corruption in the highest places of the Israeli and US governments. I'm not here to discuss these matters - they are thoroughly discussed and I'm not an expert. However, there is also a rise in claims about the Jewish people itself - from gathering evidence on their conduct in European countries in the past, whether true or not, to current events.
 
 Some people say it's wrong to base any claims on grounds of culture or religion. I think that's wrong. There may be true claims that do involve certain cultures or religions. Why wouldn't there be? Culture and religion shape the minds of the people that are in them. Why should these claims be automatically dismissed? Sure, some of them are just wrong, but I feel that the lack of discussion and the automatic dismissal just make them more powerful, since the people holding them have no other source that confronts these claims.

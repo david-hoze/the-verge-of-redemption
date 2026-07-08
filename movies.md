@@ -329,6 +329,9 @@ Sarah Jessica Parker, Diane Keaton, Dermot Mulroney, Luke Wilson, Claire Danes, 
 **Fences** (2016) - the-system-with-many-wheels
 Denzel Washington, Viola Davis, Jovan Adepo, Stephen Henderson, Mykelti Williamson. Troy Maxson builds a fence every Saturday while his marriage dies at the center. Every peripheral wheel is turning - the paycheck, the discipline, the provision. The central wheel, the one where Rose lives, has stopped. Rose names the system: she planted herself inside him and waited to bloom, and the soil was hard and rocky. Directed by Denzel Washington.
 
+**American History X** (1998) - why-calling-someone-an-anti-semite-is-wrong
+Edward Norton, Edward Furlong, Avery Brooks. A neo-Nazi comes out of prison trying to pull his younger brother back from the hatred he taught him. He wasn't reached by being silenced or labeled - a Black teacher and a Black fellow inmate treated him as a reasonable man and asked whether any of it had made his life better. Directed by Tony Kaye.
+
 ## Collaboration Articles
 
 Movies used in collaboration articles not published on David's Substack.
