@@ -114,10 +114,10 @@ A man hears a voice no one else hears and is told to build a baseball diamond. S
 Topol, Norma Crane, Leonard Frey. Tevye the dairyman argues with God all day long, out loud, on a first-name basis, the way you argue with a partner you cannot divorce. He never tries to prove God exists; that was settled long before the film began. What is left is the conversation inside the covenant, and the tradition that holds the terms. Directed by Norman Jewison.
 
 **Good Will Hunting** (1997) - the-chevrutah-ai-cannot-be
+A janitor solves equations that stump MIT professors but cannot solve the problem of being known by another person. Directed by Gus Van Sant.
 
 **Groundhog Day** (1993) - the-goodness-nobody-asked-for
 A weatherman wakes up on the same day forever. He exploits it, despairs over it, tries to die his way out of it. Nothing works. Then he learns piano. Catches a kid falling from a tree. Saves a choking man. Not for gratitude - no one will remember. Not for consequences - there are none. He does it because the doing is the point. Directed by Harold Ramis.
-A janitor solves equations that stump MIT professors but cannot solve the problem of being known by another person. Directed by Gus Van Sant.
 
 **Her** (2013) - consciousness-doesnt-matter
 The most honest love story of the decade - about a man who chose the relationship that never pushed back. Directed by Spike Jonze.
@@ -176,9 +176,6 @@ Lambert Wilson, Michael Lonsdale. French monks in Algeria build a quiet covenant
 **Paterson** (2016) - the-poem-the-bus-driver-wrote
 Adam Driver, Golshifteh Farahani. A bus driver in Paterson, New Jersey writes poetry in a notebook. He does not publish. He does not perform. He drives the bus, writes poems about matches and waterfalls and his wife's curves on the curtains, walks the dog, drinks one beer at the bar, comes home. The poems are small. The life is small. Nothing happens. The notebook is destroyed by the dog. A Japanese tourist gives him a blank notebook and says: "Sometimes an empty page presents the most possibilities." He starts again. The art is inseparable from the life that produced it. Directed by Jim Jarmusch.
 
-**Cyrano de Bergerac** (1990) - the-borrowed-voice
-Gerard Depardieu, Anne Brochet, Vincent Perez. A brilliant poet with an enormous nose writes love letters for a handsome soldier who cannot speak for himself. Roxane falls in love with the words. The words are real. The voice is real. The man she thinks is speaking is not. Directed by Jean-Paul Rappeneau.
-
 **Phantom Thread** (2017) - the-muscle-you-stopped-using
 A genius dressmaker becomes helpless under poison from a woman he cannot tolerate; he lets her poison him again. Directed by Paul Thomas Anderson.
 
@@ -210,7 +207,7 @@ A theater director builds a full-scale replica of New York inside a warehouse wh
 A web of oil deals, CIA ops, and backroom betrayals where everyone thinks they're pulling the strings and no one is. With George Clooney, Matt Damon, and Jeffrey Wright each navigating a different layer of the petrodollar machine - feels less like a movie and more like a briefing document for 2026. Directed by Stephen Gaghan.
 
 **The Red Shoes** (1948) - the-shoes-that-wouldnt-stop
-Moira Shearer, Anton Walbrook, Marius Goring. A young ballerina is torn between a demanding impresario and the man she loves. The red shoes in the ballet-within-the-film are enchanted: once you put them on, they dance you. She leaps from a balcony. The gift was the trap. The intensity was the vulnerability. Directed by Michael Powell and Emeric Pressburger.
+Moira Shearer, Anton Walbrook, Marius Goring. A young ballerina is torn between a demanding impresario and the man she loves. The impresario sees her gift - the intensity, the total commitment, the willingness to disappear into the dance - and feeds it. The red shoes in the ballet-within-the-film are enchanted: once you put them on, they dance you. You don't stop because you want to. You stop because you die. She leaps from a balcony in the red shoes. The gift was the trap. The intensity was the vulnerability. Directed by Michael Powell and Emeric Pressburger.
 
 **The Name of the Rose** (1986) - the-stolen-mystery
 A Franciscan monk investigates murders in a monastery and discovers they are connected to a lost Aristotle text. A blind librarian poisons its pages because laughter undermines fear, and fear is the only foundation of faith. The institution survives. The library burns. Directed by Jean-Jacques Annaud.
@@ -286,9 +283,6 @@ Ethan Hawke, Uma Thurman, Jude Law. In a world where your genome determines your
 
 **Willy Wonka & the Chocolate Factory** (1971) - the-factory-with-no-exit
 Five children enter a factory where everything is edible and nothing runs out. Four are destroyed by their appetites. Charlie wins by giving back the Gobstopper - an act of restraint in a place built for indulgence. The factory is post-scarcity. The question is who survives it. Directed by Mel Stuart.
-
-**The Red Shoes** (1948) - the-shoes-that-wouldnt-stop
-Moira Shearer, Anton Walbrook, Marius Goring. A young ballerina is torn between a demanding impresario and the man she loves. The impresario sees her gift - the intensity, the total commitment, the willingness to disappear into the dance - and feeds it. The red shoes in the ballet-within-the-film are enchanted: once you put them on, they dance you. You don't stop because you want to. You stop because you die. She leaps from a balcony in the red shoes. The gift was the trap. The intensity was the vulnerability. Directed by Michael Powell and Emeric Pressburger.
 
 **Man on the Moon** (1999) - the-comedian-who-cant-hear-laughter
 Jim Carrey as Andy Kaufman - the comedian who didn't tell jokes but was the collision between performer and person. He read The Great Gatsby at Carnegie Hall. The audience expected comedy. He gave them literature. Neither system was broken. Directed by Milos Forman.
