@@ -88,6 +88,8 @@ When David asks to "download the movie" or "get the movie image," always use the
 
 David picks the final image. You can recommend, but don't ask him to pick - he'll do it on his own time.
 
+Modesty rule: never offer or recommend an image showing an immodestly dressed woman. Inspect the images and filter these out before showing David.
+
 ## Writing About Real People
 
 When writing about real people who might recognize themselves: obfuscate identifying details. If the person would still be recognizable even after obfuscation, leave out the critical analysis before the turn to love. Otherwise the point of the piece becomes about your choice to expose that person - and there's a baked-in unsafety in that. The loving thing is to protect them from the world even when you're writing about them.
