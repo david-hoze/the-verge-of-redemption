@@ -30,7 +30,7 @@ So actually, what are we fighting about? Is it land? There's plenty of land. No 
 
 Friends. We are fighting over nothing.
 
-## Why it doesn't matter
+## Why it doesn't help to know who is right
 
 People are arguing all over the web about the situation in Gaza. Well, maybe there are war crimes committed in Gaza. Maybe there aren't. The sure thing is, someone is trying to make us argue over these things, when in fact, it doesn't lead to any solution.
 
@@ -38,12 +38,12 @@ Because the solution is never to decide who is right, and make more wars. More k
 
 If we analyze the situation, we get to a clear conclusion. If Israel is depicted as an arch villain (and maybe it is), the nations will eventually go to war on Israel. I'm guessing atomic bombs will be used, and we are facing an apocalypse.
 
-So it really doesn't matter who is right.
+So it really doesn't help anyone to know who is right.
 
 ## So what do we do?
 
 I have a dream. In my dream, all the soldiers of the world take down their weapons, and destroy them. They do it all at once. They go back to their homes and families, and everybody in the world decides to **refuse to fight**. For any reason.
 
-The only thing holding us back is that we need to agree that all we want is peace. If we establish trust, and stop believing the narratives we are sold, we may advertise this new treaty, this new alliance. We don't even need to overthrow our governments. A government can't fight a war that nobody shows up to. We just refuse to take part in this blood bath.
+The only thing holding us back is that we need to agree that all we want is peace. If we establish trust, and stop believing the narratives we are sold, we may advertise this new treaty, this new alliance. We don't even need to overthrow our governments. A government can't fight a war that nobody shows up to. We just need to refuse to take part in this blood bath.
 
 Who's with me?
