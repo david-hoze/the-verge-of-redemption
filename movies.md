@@ -140,6 +140,9 @@ A broken man introduces a life-sized doll to his town as his girlfriend; the tow
 **Marjorie Prime** (2017) - the-golden-calf-you-built-to-suffer
 An elderly woman with dementia talks to a hologram of her dead husband who learns to be the man she lost. Directed by Michael Almereyda.
 
+**Mars Attacks!** (1996) - why-cant-we-all-just-get-along
+The Martians circle the Earth announcing "we come in peace" while vaporizing everyone who believes them, and humanity argues over what the signals mean. Jack Nicholson as the President gives the speech of his life - why can't we all just get along? - and the Martian ambassador sheds a tear, applauds, and vaporizes him too. Directed by Tim Burton.
+
 **Me, Myself & Irene** (2000) - the-man-who-stayed
 A Rhode Island state trooper is the nicest guy in town. He lets everyone walk all over him. Until one day, after years of swallowing it all, he snaps - and a second, aggressive personality takes over. Now he's got two versions of himself fighting for control: the one who folds, and the one who won't take no for an answer. Starring Jim Carrey at his most unhinged.
 
