@@ -1,4 +1,10 @@
 {
+  "permissions": {
+    "allow": [
+      "PowerShell(Start-Process \"C:\\\\Program Files\\\\Google\\\\Chrome\\\\Application\\\\chrome.exe\" -ArgumentList '--remote-debugging-port=9222','--user-data-dir=C:\\\\Users\\\\natanh\\\\.philpapers-chrome-cdp','https://philpapers.org/login'; Start-Sleep -Seconds 6; try { \\(Invoke-WebRequest -Uri \"http://localhost:9222/json/version\" -UseBasicParsing\\).Content } catch { \"port not up: $\\($_.Exception.Message\\)\" })",
+      "PowerShell(git *)"
+    ]
+  },
   "hooks": {
     "UserPromptSubmit": [
       {
