@@ -30,6 +30,10 @@ When translating an English essay into Hebrew (e.g. for `torah-writing/hagut/`),
 - **Punchy fragments for emphasis;** bold the single load-bearing phrase; replace a vague pronoun with the explicit noun when clarity is at stake.
 - **Inline bilingual gloss for the key technical term:** `**מתהווה** (it emerges)`.
 - **Rhetorical questions as section headers and transitions** (`אולי נגיע?`, `אז מה יוצא לנו?`) - a question opens a loop the reader wants closed.
+- **The tradition's own term, not the generic one.** Torah words receive `קדושה`, not `רוחניות`. When the sentence describes a specific religious concept, use the word the tradition itself uses for it.
+- **Attribute views to their source, not to "we"** (`כמו שאנחנו רואים את זה` to `כמו שהיהדות רואה את זה`). Also drop possessive suffixes that over-personalize an impersonal claim (`לתועלתך` to `לתועלת`).
+- **Verb-first comparisons:** `אפשר להשוות X ל-Y`, not `X אפשר להשוות ל-Y` (a calque of English topic-fronting).
+- **Don't manufacture punchiness the original doesn't have.** A dash-fragment I added for emphasis (`מרגישים — אמיתי`) was reverted to plain syntax (`מרגישים הוא אמיתי`). Fragments are his move to make, not the translator's.
 
 Note: the project's "regular dashes, never em dashes" rule is for English/Substack output. Hebrew essays in `torah-writing` use em dashes as normal Hebrew punctuation.
 
