@@ -329,7 +329,7 @@ Denzel Washington, Viola Davis, Jovan Adepo, Stephen Henderson, Mykelti Williams
 **American History X** (1998) - why-calling-someone-an-anti-semite-is-wrong
 Edward Norton, Edward Furlong, Avery Brooks. A neo-Nazi comes out of prison trying to pull his younger brother back from the hatred he taught him. He wasn't reached by being silenced or labeled - a Black teacher and a Black fellow inmate treated him as a reasonable man and asked whether any of it had made his life better. Directed by Tony Kaye.
 
-**My Big Fat Greek Wedding** (2002) - every-nation-is-chosen (hagut)
+**My Big Fat Greek Wedding** (2002) - every-nation-is-chosen
 Nia Vardalos, John Corbett, Michael Constantine. Gus Portokalos can prove every word in every language comes from Greek, heals every wound with Windex, and divides humanity into Greeks and everyone who wishes they were Greek. The film doesn't mock him - it loves him. National narcissism in the right dose isn't a disease; it's home. Directed by Joel Zwick.
 
 **Ghost** (1990) - the-ghost-in-the-machine

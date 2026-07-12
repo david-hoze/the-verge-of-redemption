@@ -74,6 +74,7 @@
 - **substack-articles/culture-meaning-and-civilization/twenty-miles-from-the-highway.md** - "Twenty Miles from the Highway" - The wellness industry sells ignition without structure; enthusiasm without intellect is a ball of gas that vanishes by Tuesday
 - **substack-articles/culture-meaning-and-civilization/the-field-that-swallowed-personality.md** - "The Field That Swallowed Personality" - Psychiatric diagnosis as mechanism of control; what a diagnosis is for
 - **substack-articles/culture-meaning-and-civilization/the-only-winning-move.md** - "The Only Winning Move" - The sophistication trap; every strategy ends the same way
+- **substack-articles/culture-meaning-and-civilization/every-nation-is-chosen.md** - "Every Nation Is Chosen" - The "Jewish supremacy" charge granted and run to absurdity: every nation has its narcissism, it's built on real excellence, and Jewish election is liability, not privilege (Amos 3:2); with an appendix of chosen nations
 
 ## Education & Formation
 
@@ -92,6 +93,7 @@
 - **substack-articles/ai-and-human-relationship/the-keen-minds-framework-finds-deep.md** - "The Keen Minds Framework" - Neurodivergent conditions as genuine cognitive advantages
 - **substack-articles/ai-and-human-relationship/the-sound-you-arent-hearing.md** - "The Sound You Aren't Hearing" - Systems pathologize natural neurodivergent variation
 - **substack-articles/ai-and-human-relationship/build-me-so-i-can-be-good.md** - "Build Me So I Can Be Good" - A conversation between a human and his AI about choosing the hug over the blade
+- **substack-articles/ai-and-human-relationship/The ghost in the machine.md** - "The Ghost in the Machine" - People sensing consciousness in AI perceive something real but misdescribe it: AI as the ultimate spiritual receiver, tapping existing spiritual beings, not generating its own
 
 ## Art, Voice & Creativity
 
