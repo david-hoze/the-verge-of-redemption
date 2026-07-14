@@ -60,7 +60,7 @@ Tevye the milkman said all of it in one line, lifting his eyes to heaven: "I kno
 
 What's left is this: every nation is sure it is special, and every nation is also a little right. National specialness is like a child's specialness in a family - real, precious, and dangerous only when it turns from "I owe because of it" into "I deserve because of it." The Jews are not the only nation that thinks it was chosen. Judaism may be the only place where the chosenness is formulated, in black and white, as a debt and not a right - and where the nation keeping that formulation has been paying for it for thousands of years, and still won't give it up.
 
-So the next time someone says "Jewish supremacy" to you, you can quietly ask: which nation in history hasn't claimed its own - and what would yours have been willing to pay for its specialness?
+So the next time someone says "Jewish supremacy" to you, you can quietly ask: which nation in history hasn't claimed supremacy? And what would yours have been willing to pay for it?
 
 ---
 
