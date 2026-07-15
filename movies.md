@@ -185,6 +185,9 @@ A genius dressmaker becomes helpless under poison from a woman he cannot tolerat
 **Pi** (1998) - the-most-beautiful-equation-that
 A mathematician destroys himself chasing the equation behind everything. Directed by Darren Aronofsky.
 
+**Predestination** (2014) - the-snake-that-eats-its-own-tail
+Ethan Hawke, Sarah Snook, Noah Taylor. A temporal agent's final assignment closes the tightest loop in science fiction: a recruit who turns out to be his own mother, father, daughter, and pursuer. Based on Heinlein's "'-All You Zombies-'". The film grants determinism everything it ever asked for - the future has already happened, the characters read their own files - and then shows a person choosing inside it. Directed by Michael and Peter Spierig.
+
 **Rashomon** (1950) - where-imagination-is-fantasy
 Four witnesses describe the same murder - each account vivid, coherent, and incompatible with the others. Directed by Akira Kurosawa.
 

@@ -138,6 +138,7 @@
 ## Philosophy in Plain English
 
 - **substack-articles/philosophy-in-plain-english/what-proof-means.md** - "What Proof Means" - Proof transmits certainty from premises to conclusions but generates none; the foundations are always unproven; "you can't prove it" is a standard nothing meets
+- **substack-articles/philosophy-in-plain-english/the-snake-that-eats-its-own-tail.md** - "The Snake That Eats Its Own Tail" - Rabbi Akiva bites every bullet the fatalists loaded: all is foreseen and freedom is granted (LM 21: the unanswerability IS the choice), the loop hangs from Nothing (yesh me'ayin as continuous, not ignition), and tragedies are the manufacturing process of the person; Predestination's closed loop as the lab case
 
 ## Geopolitics & Investigation
 
