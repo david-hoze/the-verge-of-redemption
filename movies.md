@@ -293,7 +293,7 @@ Five children enter a factory where everything is edible and nothing runs out. F
 **Man on the Moon** (1999) - the-comedian-who-cant-hear-laughter
 Jim Carrey as Andy Kaufman - the comedian who didn't tell jokes but was the collision between performer and person. He read The Great Gatsby at Carnegie Hall. The audience expected comedy. He gave them literature. Neither system was broken. Directed by Milos Forman.
 
-**Everything Everywhere All at Once** (2022) - the-prescription-nobody-filled; also the subject of the-laughter-that-shakes-the-forest
+**Everything Everywhere All at Once** (2022) - the-prescription-nobody-filled; also the subject of and-that-is-how-god-runs-the-world
 Michelle Yeoh, Ke Huy Quan, Stephanie Hsu, Jamie Lee Curtis. A woman failing at her laundromat, her marriage, and her relationship with her daughter discovers she can access every version of herself across the multiverse. She tries them all. Her daughter, who accessed everything first, concluded that nothing matters and built a black hole from it. The mother defeats the nihilism not with power but with presence - choosing to be kind in the version she already has. The googly eyes are not a joke. They are the thesis. Directed by Daniel Kwan and Daniel Scheinert.
 
 **Big Fish** (2003) - the-story-that-survived
