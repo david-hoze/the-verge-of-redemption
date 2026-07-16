@@ -139,6 +139,7 @@
 
 - **substack-articles/philosophy-in-plain-english/what-proof-means.md** - "What Proof Means" - Proof transmits certainty from premises to conclusions but generates none; the foundations are always unproven; "you can't prove it" is a standard nothing meets
 - **substack-articles/philosophy-in-plain-english/the-snake-that-eats-its-own-tail.md** - "The Snake That Eats Its Own Tail" - Rabbi Akiva bites every bullet the fatalists loaded: all is foreseen and freedom is granted (LM 21: the unanswerability IS the choice), the loop with no start, and tragedies as the production line of the person; ends on the makifin - paths we don't understand but feel are ours; Predestination's closed loop as the lab case
+- **substack-articles/philosophy-in-plain-english/the-laughter-that-shakes-the-forest.md** - "The Laughter That Shakes the Forest" - Rebbe Nachman's answer to Kafka: the Exchanged Children grants the whole Kafka file (arbitrary catastrophe, no charge) and disputes one word - meaningless; the roar is a melody if you incline your ear, nothing is broken, only misplaced; and milei d'shtuta (LM Tinyana 24) as the verse-jump mechanic - silliness as the divine, improbable act that breaks the groove of despair; EEAAO's bagel vs. googly eyes as the lab case
 
 ## Geopolitics & Investigation
 
