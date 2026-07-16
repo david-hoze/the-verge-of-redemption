@@ -6,11 +6,11 @@
 
 There is a moment in *Everything Everywhere All at Once* when the villain explains herself, and the explanation is airtight. Jobu Tupaki has seen every universe. She has been everything, everywhere, and from the top of that mountain of total experience she reports back: it's noise. No version matters, because every version exists. So she put everything on a bagel, and the bagel collapsed into a black hole, and she would like to fall into it, please.
 
-<image of the bagel>
+<image of the bagel: movie-images/everything-everywhere_raw/tmdb_23.jpg>
 
 Nobody in the film out-argues her. That is worth noticing. Her mother does not defeat her with a better philosophy. The counterattack, when it comes, is googly eyes 👀.
 
-<image of the googly eyes>
+<image of the googly eyes: movie-images/everything-everywhere_raw/tmdb_49.jpg>
 
 I want to show that this exact war - the person who has seen too much and concluded that nothing means anything, against the person armed with deliberate silliness - was fought two hundred years ago by Rebbe Nachman of Breslov, and that he left us both halves: a story that answers the nihilist, and a prescription that explains the googly eyes 👀.
 
