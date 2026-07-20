@@ -323,6 +323,9 @@ Tim Robbins, Morgan Freeman, Bob Gunton, Clancy Brown. A banker convicted of a m
 **Inception** (2010) - the-architect-who-goes-home-at-night
 Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page, Tom Hardy, Ken Watanabe, Cillian Murphy. A team enters other people's dreams to steal or plant ideas. An architect designs the dream; the dreamer's subconscious fills it with hostile projections. A spinning top is the only test: if it falls, you're awake. The deeper you go, the more the supervisor is absent and the imagination runs unsupervised. At the end, the man walks toward his children and doesn't check the top. Directed by Christopher Nolan.
 
+**Interstellar** (2014) - apophatic-tolerance
+Matthew McConaughey, Anne Hathaway, Jessica Chastain. A father falls into a black hole and lands inside a tesseract, where his daughter's whole life is laid out as a physical dimension he can see into and reach through but never stand in. The vantage from which the years finally cohere is real and even reaches back to touch us - it is one dimension above the one we are built to occupy. Directed by Christopher Nolan.
+
 **Julie & Julia** (2009) - the-compliment-that-missed
 Meryl Streep, Amy Adams, Stanley Tucci, Chris Messina. Two women, two kitchens, fifty years apart. Paul Child sees Julia - not what she makes. The blog audience sees 524 recipes. One gaze lands on the person. The other lands on the product. The difference is not sincerity. It is where the gaze lands. Directed by Nora Ephron.
 
