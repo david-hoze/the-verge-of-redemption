@@ -1,4 +1,4 @@
-# The Argument and Its Objections
+# The Non-Evolutionary Consciousness
 
 _Why evolution explains the elaboration of consciousness and not its existence - and why every objection to it fails_
 
