@@ -131,6 +131,9 @@ A carpenter who has worked his whole life tries to navigate a welfare system tha
 **Ikiru** (1952) - the-thinning-of-the-walls
 A bureaucrat realizes he has never lived; he fights to build a playground; dies on the swing in falling snow. Directed by Akira Kurosawa.
 
+**Invasion of the Body Snatchers** (1978) - the-non-evolutionary-consciousness
+Donald Sutherland, Brooke Adams, Jeff Goldblum, Leonard Nimoy. Alien pods grow perfect duplicates of sleeping people - every memory intact, every mannerism reproduced, moving through their lives without a seam. The ones who love them swear no one is home behind the eyes, and can devise no test to prove it, because behaviour is exactly what the copy gets right. The philosophical zombie on film. Directed by Philip Kaufman.
+
 **It's a Wonderful Life** (1946) - what-god-actually-wants
 A man shown that everything he needed was already in front of him. Directed by Frank Capra. Starring James Stewart and Donna Reed.
 
