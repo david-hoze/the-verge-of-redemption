@@ -347,6 +347,21 @@ Patrick Swayze, Demi Moore, Whoopi Goldberg. A murdered man finds only one perso
 **Touching the Void** (2003) - seven-falls-one-rising
 Brendan Mackey, Nicholas Aaron, with the real Joe Simpson and Simon Yates narrating. Two climbers descend a Peruvian peak joined by a rope; one falls, the rope must be cut, and he drops into a crevasse he cannot climb out of. He survives by lowering himself deeper - the only way out is at the bottom. The rope is the vav. Directed by Kevin Macdonald.
 
+**Inherit the Wind** (1960) - the-questions-that-dont-close
+Spencer Tracy, Fredric March, Gene Kelly. Two aging titans of the American courtroom, once friends, face each other over the science-and-scripture question with every fact laid out in open court, each the most formidable mind the other will ever meet, and neither able to move the other an inch. The trial ends; the argument does not. The last image is one of them weighing the Bible in one hand and Darwin in the other, finding they balance, and walking out with both under his arm. Directed by Stanley Kramer.
+
+**Take Shelter** (2011) - why-evidence-cant-referee
+Michael Shannon, Jessica Chastain. A man starts seeing storms no one else can see and cannot work out, from inside his own mind, whether he is a prophet reading a real catastrophe or falling into the illness that took his mother - because any test he could run on his perception would have to be run using that same perception. He builds the shelter anyway. The film never tells you whether the sky was warning him or lying to him. Directed by Jeff Nichols.
+
+**My Dinner with Andre** (1981) - respect-is-not-charity
+Wallace Shawn, Andre Gregory. Two old friends who have come to see life in incompatible ways sit down to dinner - one who finds meaning in grand quests and mystical risk, one who finds it in an electric blanket and a good cup of coffee - and spend two hours taking each other completely seriously. Neither converts the other. Neither really tries. By the end each has heard the other all the way down, the disagreement is exactly where it started, and that turns out to have been the point. Directed by Louis Malle.
+
+**The Village** (2004) - two-kinds-of-darkness
+Bryce Dallas Howard, Joaquin Phoenix, William Hurt, Sigourney Weaver. A community lives inside a boundary it will not cross, held there by creatures in the woods that the elders swear will take anyone who steps past the tree line. Everyone inside reasons soundly on what they have been given: if the monsters are real, you stay. The elders are not liars in the ordinary way - they built the fear out of grief, to keep the people they love from a world that had wounded them. When one of them finally walks into the woods, the danger dissolves on contact, because it was never a truth, only a wall around one. Directed by M. Night Shyamalan.
+
+**The Mission** (1986) - multipolar-tolerance
+Jeremy Irons, Robert De Niro, Ray McAnally. A Jesuit walks unarmed into the South American jungle and builds a mission among the Guaraní not by the sword but by music, learning their world before he offers his own. When colonial power and his own Church decide the mission must be destroyed, he does not pick up a rifle - he carries the sacrament into the gunfire and is cut down holding it, while the man beside him takes up arms and falls the same day. Conviction entire, coercion refused, and a Church that burns the best thing it ever built to save itself. Directed by Roland Joffé.
+
 ## Collaboration Articles
 
 Movies used in collaboration articles not published on David's Substack.
