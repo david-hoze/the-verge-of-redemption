@@ -197,6 +197,9 @@ Four witnesses describe the same murder - each account vivid, coherent, and inco
 **Ratatouille** (2007) - the-author-is-not-dead-he-just-changed
 A rat with the palate of a master chef and a kitchen boy with no talent discover partnership produces what neither could alone. Directed by Brad Bird (Pixar).
 
+**Shutter Island** (2010) - two-objects-of-suspicion
+Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley. A U.S. marshal investigating a vanished patient at a hospital for the criminally insane finds that every locked door and evasive answer deepens the conspiracy he is uncovering - until it turns out he assembled the plot himself, inside a frame where even a denial is one more thing the conspiracy would arrange. The one hypothesis that reads both the evidence and its absence as proof. Directed by Martin Scorsese.
+
 **Seven Samurai** (1954) - the-law-that-walked
 A farming village hires seven masterless samurai to defend against bandits. Four die. The village survives. The leader says: "We have lost. The farmers have won." Authority without an institution. Service without a throne. Directed by Akira Kurosawa.
 
