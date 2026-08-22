@@ -179,6 +179,9 @@ The most devastating sci-fi film - not because something terrible happens, but b
 **Of Gods and Men** (2010) - the-network-that-already-exists
 Lambert Wilson, Michael Lonsdale. French monks in Algeria build a quiet covenant with their Muslim neighbors: shared meals, shared medicine, shared life. When civil war forces them to choose between institutional safety and the people in front of them, they stay. Based on a true story. The network held. The institution didn't.
 
+**Past Lives** (2023) - the-next-life
+Greta Lee, Teo Yoo, John Magaro. Two children in Seoul who might have been each other's grow up on opposite sides of the world; when the boy finally crosses the ocean, she is married and he is twelve years too late. Nobody betrays anyone - the timing simply fails. What is left is a Korean word for the people you were bound to across lifetimes, and a question about the next one. Directed by Celine Song.
+
 **Paterson** (2016) - the-poem-the-bus-driver-wrote
 Adam Driver, Golshifteh Farahani. A bus driver in Paterson, New Jersey writes poetry in a notebook. He does not publish. He does not perform. He drives the bus, writes poems about matches and waterfalls and his wife's curves on the curtains, walks the dog, drinks one beer at the bar, comes home. The poems are small. The life is small. Nothing happens. The notebook is destroyed by the dog. A Japanese tourist gives him a blank notebook and says: "Sometimes an empty page presents the most possibilities." He starts again. The art is inseparable from the life that produced it. Directed by Jim Jarmusch.
 
