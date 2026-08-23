@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<style>
+@import url("fonts.css");
+
+:root{
+  --ink:#1f2a2e;
+  --accent:#2b6e73;
+  --accent-dark:#1d4f53;
+  --soft:#5f7073;
+  --rule:#d5e0df;
+  --panel:#f5f8f7;
+  --emerg-bg:#fbeee9;
+  --emerg-border:#b5402f;
+  --emerg-ink:#8f2f22;
+}
+
+*{box-sizing:border-box;}
+
+@page{ size:A4; margin:0; }
+
+html,body{ margin:0; padding:0; }
+
+body{
+  font-family:'Assistant', 'Segoe UI', Arial, sans-serif;
+  color:var(--ink);
+  font-size:10.4pt;
+  line-height:1.5;
+  -webkit-print-color-adjust:exact;
+  print-color-adjust:exact;
+}
+
+.page{
+  width:210mm;
+  min-height:297mm;
+  padding:13mm 15mm 12mm;
+  position:relative;
+  page-break-after:always;
+  overflow:hidden;
+}
+.page:last-child{ page-break-after:auto; }
+
+/* ---------- header ---------- */
+.masthead{ margin-bottom:5mm; }
+h1{
+  font-weight:800;
+  font-size:23pt;
+  line-height:1.18;
+  margin:0 0 3.5mm;
+  color:var(--accent-dark);
+  letter-spacing:-0.2px;
+}
+.subtitle{
+  font-weight:600;
+  font-size:11pt;
+  color:var(--soft);
+  margin:0;
+  line-height:1.45;
+}
+.rule{ height:2px; background:var(--accent); border:0; margin:5mm 0; opacity:.85; }
+.rule.thin{ height:1px; background:var(--rule); opacity:1; }
+
+.lead{ margin:0 0 3mm; }
+.lead strong{ color:var(--accent-dark); }
+
+/* ---------- sections ---------- */
+.section{ margin-top:5mm; break-inside:avoid; }
+.sec-head{ display:flex; align-items:center; gap:8px; margin-bottom:2.5mm; }
+.sec-tag{
+  flex:0 0 auto;
+  width:23px; height:23px;
+  background:var(--accent);
+  color:#fff;
+  border-radius:6px;
+  display:flex; align-items:center; justify-content:center;
+  font-weight:800; font-size:11pt;
+  line-height:1;
+}
+.sec-title{ font-weight:700; font-size:12pt; color:var(--accent-dark); margin:0; }
+
+ul{ list-style:none; margin:0; padding:0; }
+li{
+  position:relative;
+  padding-inline-start:15px;
+  margin-bottom:1.6mm;
+  line-height:1.42;
+}
+li::before{
+  content:"";
+  position:absolute;
+  inset-inline-start:0;
+  top:.62em;
+  width:6px; height:6px;
+  border-radius:50%;
+  background:var(--accent);
+}
+li strong{ color:var(--accent-dark); }
+
+.cols{ column-count:2; column-gap:9mm; }
+.cols .section{ break-inside:avoid; -webkit-column-break-inside:avoid; }
+.cols .section:first-child{ margin-top:0; }
+
+/* ---------- emergency box ---------- */
+.emerg{
+  background:var(--emerg-bg);
+  border:1.6px solid var(--emerg-border);
+  border-radius:9px;
+  padding:4.5mm 6mm;
+  margin:4.5mm 0;
+}
+.emerg h2{
+  color:var(--emerg-ink);
+  font-weight:800;
+  font-size:12pt;
+  margin:0 0 1mm;
+}
+.emerg .note{ font-size:9.6pt; color:var(--emerg-ink); margin:0 0 2.5mm; opacity:.9; }
+.emerg li::before{ background:var(--emerg-border); }
+.emerg li strong{ color:var(--emerg-ink); }
+.hotlines{
+  margin-top:3mm; padding-top:2.5mm;
+  border-top:1px solid #e6c6bd;
+  font-size:10pt; line-height:1.6;
+}
+.hotlines strong{ color:var(--emerg-ink); font-weight:800; }
+.emerg .closing{ margin:2.5mm 0 0; font-size:9.6pt; color:var(--emerg-ink); font-weight:600; }
+
+/* ---------- panels ---------- */
+.panel-title{ font-weight:700; font-size:12pt; color:var(--accent-dark); margin:5mm 0 2mm; }
+.panel-title:first-child{ margin-top:0; }
+.body-p{ margin:0 0 2.5mm; }
+.body-p strong{ color:var(--accent-dark); }
+
+/* ---------- footer / contact ---------- */
+.contact{
+  margin-top:4.5mm;
+  background:var(--accent-dark);
+  color:#eef5f4;
+  border-radius:9px;
+  padding:5mm 6mm;
+  text-align:center;
+}
+.contact .cta{ font-weight:600; font-size:10pt; color:#bcd6d4; margin:0 0 1.5mm; }
+.contact .name{ font-weight:800; font-size:13pt; color:#fff; margin:0 0 1mm; }
+.contact .role{ font-size:10pt; color:#d5e6e4; margin:0 0 2mm; }
+.contact .reach{ font-size:11pt; font-weight:700; color:#fff; direction:ltr; }
+.contact .reach span{ margin:0 7px; white-space:nowrap; }
+
+.disclaimer{
+  margin-top:4mm;
+  font-size:8.6pt;
+  color:var(--soft);
+  text-align:center;
+  font-style:italic;
+  line-height:1.4;
+}
+</style>
+</head>
+<body>
+
+<!-- ============ PAGE 1 (front) ============ -->
+<section class="page">
+  <div class="masthead">
+    <h1>האם זה אני, או שמשהו כאן באמת לא בסדר?</h1>
+    <p class="subtitle">שאלות מנחות לבדיקה עצמית - לזוגיות, למשפחה, ליחסים קרובים, כדי לבדוק אם את/ה נמצא/ת במערכת יחסים עם נרקיסיסט.</p>
+  </div>
+
+  <hr class="rule">
+
+  <p class="lead">זה אינו מבחן ואין כאן ניקוד. השאלות שלהלן אינן מאבחנות אף אחד - לא אותך ולא את האדם שמולך. אבחנה נקבעת רק על ידי איש מקצוע, מתוך היכרות ישירה ולאורך זמן.</p>
+
+  <p class="lead">מטרתן שונה: לא לקבוע מה יש לאדם שמולך, אלא לעזור לך לבדוק <strong>מה קורה לך</strong> - ולזהות אם מה שמתרחש כאן מצדיק פנייה לעזרה. לרוב, כשמשהו פוגעני נמשך שנים, מה שנשחק ראשון הוא היכולת לראות אותו. השאלות נועדו להחזיר לך אותה במעט.</p>
+
+  <p class="lead">עברו עליהן לאט. אין צורך לענות על הכול.</p>
+
+  <hr class="rule thin">
+
+  <div class="cols">
+    <div class="section">
+      <div class="sec-head"><span class="sec-tag">א</span><h3 class="sec-title">אחריות ואשמה</h3></div>
+      <ul>
+        <li>האם האדם נמנע באופן עקבי מלקחת אחריות על מעשיו, ואיכשהו מצליח לצייר תמונה שבה הוא הקורבן?</li>
+        <li>האם שיחה על משהו שפגע בך מסתיימת בדרך כלל בכך שאת/ה מתנצל/ת?</li>
+        <li>מתי הייתה הפעם האחרונה שקיבלת התנצלות אמיתית - כזו שאין אחריה "אבל"?</li>
+        <li>האם את/ה מוצא/ת את עצמך מסביר/ה לאחרים מדוע ההתנהגות שלו הגיונית?</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="sec-head"><span class="sec-tag">ב</span><h3 class="sec-title">מציאות, זיכרון ומילים</h3></div>
+      <ul>
+        <li>האם נאמר לך שדברים שאת/ה זוכר/ת בבירור מעולם לא קרו?</li>
+        <li>האם את/ה שומר/ת הודעות או רושם/ת לעצמך מה נאמר, כדי לוודא שאינך מדמיין/ת?</li>
+        <li>האם הערות פוגעניות מוסברות תמיד כבדיחה, כדאגה או כאמת שקשה לך לשמוע?</li>
+        <li>האם המילים "רגיש/ה מדי", "דרמטי/ת", "מוגזם/ת" הפכו לפסקול הקבוע שלך?</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="sec-head"><span class="sec-tag">ג</span><h3 class="sec-title">גבולות וצרכים</h3></div>
+      <ul>
+        <li>כשאת/ה אומר/ת "לא", האם זה נחשב לתשובה או לפתיחת משא ומתן?</li>
+        <li>האם צרכים שלך נתפסים כאנוכיות, כחוסר נאמנות או כהתקפה?</li>
+        <li>האם יש נושאים שאי אפשר להעלות - לא באיסור מפורש, אלא מפני שהמחיר ידוע מראש?</li>
+        <li>כשאת/ה חולה, עייף/ה או במשבר, האם זה הופך איכשהו למשבר שלו?</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="sec-head"><span class="sec-tag">ד</span><h3 class="sec-title">מחזוריות ותחושת הקרקע</h3></div>
+      <ul>
+        <li>האם את/ה בודק/ת את מצב הרוח שלו לפני שאת/ה נכנס/ת הביתה?</li>
+        <li>האם אחרי משבר קשה מגיעה תקופה טובה במיוחד, שמחזירה את התקווה ומאפסת את החשבון?</li>
+        <li>האם שקט בבית מרגיש כמו הפוגה זמנית ולא כמו שגרה?</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PAGE 2 (back) ============ -->
+<section class="page">
+  <div class="cols">
+    <div class="section">
+      <div class="sec-head"><span class="sec-tag">ה</span><h3 class="sec-title">הקשר לעולם</h3></div>
+      <ul>
+        <li>האם יש פער ניכר בין האדם שבבית לבין האדם שאחרים מכירים?</li>
+        <li>האם חברים ובני משפחה התרחקו בהדרגה - כל אחד מסיבה נפרדת ומוצדקת לכאורה?</li>
+        <li>האם יש שליטה במידע, בכסף, בזמן או בקשרים שלך, גם אם היא מוסברת כדאגה או כסדר?</li>
+        <li>האם את/ה חושש/ת שאם תספר/י מה קורה, לא יאמינו לך?</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <div class="sec-head"><span class="sec-tag">ו</span><h3 class="sec-title">מה קורה לך</h3></div>
+      <ul>
+        <li>האם את/ה מנסח/ת משפטים בראש לפני שאת/ה אומר/ת אותם?</li>
+        <li>האם הרוגע מגיע דווקא כשהאדם אינו נמצא - ומלווה בתחושת אשמה?</li>
+        <li>אם ישאלו אותך עכשיו מה את/ה רוצה, תהיה לך תשובה?</li>
+        <li>האם את/ה קטן/ה יותר, בטוח/ה פחות ובודד/ה יותר מכפי שהיית לפני חמש שנים?</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="emerg">
+    <h2>שאלות שמצריכות פנייה מיידית, ולא המתנה</h2>
+    <p class="note">אם התשובה לאחת מאלה חיובית, אין צורך לסיים את שאר העלון:</p>
+    <ul>
+      <li>האם יש איומים, הפחדה, או פחד מפגיעה פיזית - בך או בילדים?</li>
+      <li>האם נמנעת ממך היציאה מהבית, הגישה לכסף או הקשר עם אחרים?</li>
+      <li>האם משתמשים באיום לפגוע בעצמו כדי למנוע ממך לעזוב או לומר את דעתך?</li>
+      <li>האם ילדים חשופים למה שמתרחש?</li>
+    </ul>
+    <p class="hotlines">
+      <strong>משטרה - 100</strong> בכל מצב של סכנה מיידית.&nbsp;&nbsp;
+      <strong>קו החירום הארצי של משרד הרווחה - 118</strong>, 24 שעות ביממה.&nbsp;&nbsp;
+      <strong>פנייה שקטה ב-<bdi>SMS</bdi>, <bdi>055-7000128</bdi></strong>, כשלא בטוח לדבר.
+    </p>
+    <p class="closing">איום, השפלה, שליטה כלכלית ובידוד הם אלימות גם ללא מגע פיזי.</p>
+  </div>
+
+  <div class="cols">
+    <div>
+      <p class="panel-title">מה עושים עם התשובות</p>
+      <p class="body-p">אין כאן סף. אף שאלה בפני עצמה אינה מוכיחה דבר, וכולנו מתנהגים לפעמים באופן שמופיע כאן.</p>
+      <p class="body-p">מה שכן משמעותי הוא <strong>דפוס</strong>: כשקבוצה שלמה של שאלות מתארת את החיים שלך, לא אירוע אחד; כשזה נמשך שנים ולא חודשים; וכשזה הולך ומחמיר.</p>
+      <p class="body-p">ואם עצרת באמצע והרגשת שמישהו כתב את זה עלייך - זו לבדה סיבה מספקת לדבר עם מישהו. אינך זקוק/ה לאבחנה של האדם שמולך כדי להצדיק את הפנייה. די בכך שמה שקורה לך כאן מזיק לך.</p>
+    </div>
+    <div>
+      <p class="panel-title">מה כן עוזר</p>
+      <ul>
+        <li><strong>לתעד.</strong> לא כדי לנצח בוויכוח, אלא כדי להחזיר לעצמך נקודת אחיזה במציאות.</li>
+        <li><strong>להחזיר לפחות אדם אחד למעגל.</strong> בידוד הוא התנאי שמאפשר לכל השאר להימשך.</li>
+        <li><strong>להפסיק לחכות להכרה.</strong> ההודאה וההתנצלות שאת/ה מחכה להן הן לרוב הדבר היחיד שלא יגיע. ההחלמה שלך אינה מותנית בהן.</li>
+        <li><strong>להגדיר גבולות התנהגותיים ולא רגשיים.</strong> לא "שיפסיק לזלזל בי", אלא "שיחה שעולה בטון - אני מסיים/ת".</li>
+        <li><strong>ליווי מקצועי.</strong> גם כדי לעבד, וגם כדי שיהיה מישהו שרואה את התמונה מבחוץ ולאורך זמן.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="contact">
+    <p class="cta">לשיחה אישית</p>
+    <p class="name">דוד חוזה</p>
+    <p class="role">מטפל רגשי ומאמן להחלמה מהתעללות נרקיסיסטית</p>
+    <p class="reach"><span>053-4154308</span><span>david.hoze1@gmail.com</span></p>
+  </div>
+
+  <p class="disclaimer">עלון זה מספק מידע כללי בלבד ואינו מהווה אבחנה או תחליף לייעוץ מקצועי אישי.</p>
+</section>
+
+</body>
+</html>
